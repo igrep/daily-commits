@@ -14,7 +14,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 すごい細かいところでは[Chrome MySQL AdminのWebサイトのtypoを報告したり](https://github.com/yoichiro/chrome_mysql_admin/issues/24)。  
 このリポジトリには真面目に自分で手を加えたい。
 
-# 2015-05-07 - 2015-05-13
+# 2015-05-07 - 2015-05-12
 
 引き続き『「やらなければならないこと」としてのHaskellのMonad』を英語に翻訳中。  
 引っ越しのためあまり時間を割けないorz
