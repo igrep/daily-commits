@@ -3,8 +3,18 @@
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-05-14
 
-# 2015-05-07 - 2015-05-14
+引き続き『「やらなければならないこと」としてのHaskellのMonad』を英語に翻訳中。  
+あと、fujimuraさんの[日本語訳リポジトリにちょっとPR送ったり](https://github.com/fujimura/learnhaskell/pull/1)。
+
+# 2015-05-13
+
+引き続き『「やらなければならないこと」としてのHaskellのMonad』を英語に翻訳中。  
+すごい細かいところでは[Chrome MySQL AdminのWebサイトのtypoを報告したり](https://github.com/yoichiro/chrome_mysql_admin/issues/24)。  
+このリポジトリには真面目に自分で手を加えたい。
+
+# 2015-05-07 - 2015-05-13
 
 引き続き『「やらなければならないこと」としてのHaskellのMonad』を英語に翻訳中。  
 引っ越しのためあまり時間を割けないorz
