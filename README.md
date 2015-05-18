@@ -7,6 +7,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 [使用しているgem jbuilderの最新版がバグっていたので報告](https://github.com/rails/jbuilder/issues/269)。
 
+『「やらなければならないこと」としてのHaskellのMonad』を翻訳完了。
+
+あと、Haskellをビルドする用のCI環境をAWSかなんかに構築する計画を再び妄想し出したり。  
+ホントはLambdaConf前にちゃんとやっておくべきだったんだろうけど、ちょっと時間ないなー。
+
 # 2015-05-17
 
 『「やらなければならないこと」としてのHaskellのMonad』を翻訳ほぼ完了。  
