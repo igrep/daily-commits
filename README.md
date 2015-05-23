@@ -3,6 +3,18 @@
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-05-23
+
+LambdaConf 2015 today! I took part in these workshops:
+
+- [Write Some Idris](https://github.com/degoes-consulting/lambdaconf-2015/tree/master/speakers/puffnfresh)
+- [Developing Web Applications with Haskell](https://github.com/serras/lambdaconf-2015-web)
+
+I was planning to take part in, but I felt bad by jet lag during these:
+
+- [A Practical Introduction to Haskell GADTs](https://github.com/goldfirere/glambda)
+- [LiquidHaskell: Refinement Types for Haskell](http://ucsd-progsys.github.io/liquidhaskell-tutorial/)
+
 # 2015-05-22
 
 Haskell環境をAWSに構築するスクリプト作成中。
