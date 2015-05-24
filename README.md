@@ -3,6 +3,24 @@
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-05-23
+
+Haskell環境をAWSに構築するスクリプト作成中。
+itamaeのrecipe.rbを作成。
+
+LambdaConf 2015 Day 2 today! I watched these presentations:
+
+- Missed! ~~The Abstract Method, In General~~
+- Pattern Functors: Wandering Around Fix-points, Free Monads and Generics
+- Give me Freedom or Forgeddaboutit: What Does "Free" Really Mean?
+- Finally Tagless DSLs and MTL
+- Accelerating Haskell: GPGPU Programming with Haskell
+- In Rust We Trust
+- Introduction to Intuitionistic Type Theory
+- Missed! ~~Type Theory and its Meaning Explanations~~
+- Introducing Emily: Simplifying Functional Programming
+- The Next Great Functional Programming Language
+
 # 2015-05-22
 
 Haskell環境をAWSに構築するスクリプト作成中。
@@ -13,7 +31,7 @@ LambdaConf 2015 Day 1 today! I took part in these workshops:
 - [Write Some Idris](https://github.com/degoes-consulting/lambdaconf-2015/tree/master/speakers/puffnfresh)
 - [Developing Web Applications with Haskell](https://github.com/serras/lambdaconf-2015-web)
 
-I was planning to take part in, but I felt bad by jet lag during these:
+I was planning to take part in, but I missed most of these because I felt bad by jet lag during them:
 
 - [A Practical Introduction to Haskell GADTs](https://github.com/goldfirere/glambda)
 - [LiquidHaskell: Refinement Types for Haskell](http://ucsd-progsys.github.io/liquidhaskell-tutorial/)
