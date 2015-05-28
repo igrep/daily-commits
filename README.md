@@ -50,7 +50,7 @@ LambdaConf 2015 Day 1 today! I took part in these workshops:
 
 I was planning to take part in, but I missed most of these because I felt bad by jet lag during them:
 
-- [A Practical Introduction to Haskell GADTs](https://github.com/goldfirere/glambda)
+- [A Practical Introduction to Haskell GADTs](https://github.com/degoes-consulting/lambdaconf-2015/tree/master/speakers/goldfirere)
 - [LiquidHaskell: Refinement Types for Haskell](http://ucsd-progsys.github.io/liquidhaskell-tutorial/)
 
 # 2015-05-19 - 2015-05-21
