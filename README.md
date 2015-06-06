@@ -3,9 +3,22 @@
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-06-06
+
+- Lens&Prism勉強会私的まとめ
+
+# 2015-06-05
+
+- 表参道.rb #1 にて発表時に気づいた諸々の修正など。
+
+# 2015-06-04
+
+- 表参道.rb #1 にて発表。
+
 # 2015-06-03
 
-- Still writing entry about LambdaConf 2015.
+- Finished writing entry about LambdaConf 2015 (in English).
+- 表参道.rb #1 のLTの資料作り。
 
 # 2015-06-02
 
