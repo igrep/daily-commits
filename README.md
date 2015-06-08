@@ -5,7 +5,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 # 2015-06-09
 
-- Lens&Prism勉強会私的まとめ完成
+- [Lens&Prism勉強会私的まとめ完成](http://the.igreque.info/posts/2015-06-09-lens-prism.html)
 
 # 2015-06-08
 
@@ -22,11 +22,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 # 2015-06-04
 
-- 表参道.rb #1 にて発表。
+- [表参道.rb #1 にて発表](http://the.igreque.info/posts/2015-06-04-omotesandorb.html)。
 
 # 2015-06-03
 
-- Finished writing entry about LambdaConf 2015 (in English).
+- [Finished writing entry about LambdaConf 2015 (in English)](http://the.igreque.info/posts/2015-05-26-lambdaconf-en.html).
 - 表参道.rb #1 のLTの資料作り。
 
 # 2015-06-02
