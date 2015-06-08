@@ -8,7 +8,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - 引き続きLens&Prism勉強会私的まとめ
 - [全角アルファベットやひらがな・カタカナを入力しても（ちょっと）いい感じに解釈してくれるvimrc](http://qiita.com/igrep/items/2c0dae6242eed5baf172)を書き、[そこからふらっと思いついたvimプラグイン](https://github.com/igrep/sokuon.vim)を作ってみるも、動かんorz。
 
-# 2015-06-06-2015-06-07
+# 2015-06-06 - 2015-06-07
 
 - Lens&Prism勉強会私的まとめ
 
