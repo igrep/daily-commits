@@ -5,6 +5,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 # 2015-06-09
 
+- LambdaConf 2015私的まとめの日本語訳
+- 仕事で使うことになった[legato](https://github.com/tpitale/legato)にいくつかIssueやPRを送った。相変わらずしょうもないところだけど。。。
+    - [Correct weird use of lambda](https://github.com/tpitale/legato/pull/96)
+    - [Correct numbering by indenting code blocks](https://github.com/tpitale/legato/pull/95)
+    - [Why not Legato::User#segments and Legato::User#goals?](https://github.com/tpitale/legato/issues/97)
+
+# 2015-06-09
+
 - [Lens&Prism勉強会私的まとめ完成](http://the.igreque.info/posts/2015-06-09-lens-prism.html)
 
 # 2015-06-08
