@@ -3,13 +3,14 @@
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
-# 2015-06-10
+# 2015-06-10 - 2015-06-11
 
 - LambdaConf 2015私的まとめの日本語訳
 - 仕事で使うことになった[legato](https://github.com/tpitale/legato)にいくつかIssueやPRを送った。相変わらずしょうもないところだけど。。。
     - [Correct weird use of lambda](https://github.com/tpitale/legato/pull/96)
     - [Correct numbering by indenting code blocks](https://github.com/tpitale/legato/pull/95)
     - [Why not Legato::User#segments and Legato::User#goals?](https://github.com/tpitale/legato/issues/97)
+    - [add Legato::User#segments and Legato::User#goals](https://github.com/tpitale/legato/pull/98)
 
 # 2015-06-09
 
