@@ -3,6 +3,12 @@
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-06-15
+
+- beatupのテストを書いてる途中。
+- [googleauthというgemに小さなPull Request](https://github.com/google/google-auth-library-ruby/pull/30)
+- [Lens&Prism勉強会まとめ記事における、誤った表現の修正](https://github.com/igrep/igreque.info/commit/0ecae48777ec73ae948710bd0420568f9d723f3a)
+
 # 2015-06-14
 
 - beatupのテストを書いてる途中。
