@@ -8,7 +8,8 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - 社内LT大会の資料完成。
 - 仕事で使うかもしれなくなったので<a href="http://www.amazon.co.jp/gp/product/4873117097/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=4873117097&linkCode=as2&tag=poe02-22">Serverspecの本</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=poe02-22&l=as2&o=9&a=4873117097" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />を一昨日から購入して読んでる。割と読みやすくてこれなら1周間もかからないだろう。
 - 前から気になっていた[Chrome MySQL Admin](https://github.com/yoichiro/chrome_mysql_admin)をfork。これを私のフロントエンド道の第一歩にしたい。
-
+    - まだnpmもbowerもgruntも入れてなかったので両方共`sudo npm install -g`した。globalにインストールするからsudoが要るのね...。
+    - `grunt`してみるも`Fatal error: Arguments to path.join must be strings`なるエラーが出て辛い。どうやら依存しているツール群のバージョンが古いのが問題らしい。オプションでスタックトレース出したり出来ないのかな...。
 
 # 2015-06-20
 
