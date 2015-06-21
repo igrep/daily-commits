@@ -3,7 +3,14 @@
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
-# 2015-06-20 - 2015-06-21
+# 2015-06-21
+
+- 社内LT大会の資料完成。
+- 仕事で使うかもしれなくなったので<a href="http://www.amazon.co.jp/gp/product/4873117097/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=4873117097&linkCode=as2&tag=poe02-22">Serverspecの本</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=poe02-22&l=as2&o=9&a=4873117097" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />を一昨日から購入して読んでる。割と読みやすくてこれなら1周間もかからないだろう。
+- 前から気になっていた[Chrome MySQL Admin](https://github.com/yoichiro/chrome_mysql_admin)をfork。これを私のフロントエンド道の第一歩にしたい。
+
+
+# 2015-06-20
 
 社内LT大会の資料作り、と言いつつQiita記事書く。結局またRuby、しかもRSpecなんですけどね。
 
