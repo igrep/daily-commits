@@ -9,6 +9,10 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-06-22
+
+- 空き時間に会社のPCにもchrome-mysql-adminを開発する環境を整えようとするも、今度は`npm install -g`したはずのgruntの実行ファイルが見当たらない。findコマンドでも全然ヒットしなかった。自宅ではpacmanで入れたからだろうか？しかし昨日はそれでエラーになったぽいんだけど...。どこで入れるのがいいんだ...。
+
 # 2015-06-21
 
 - 社内LT大会の資料完成。
