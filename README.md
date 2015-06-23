@@ -12,6 +12,27 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 # 2015-06-23
 
 - chrome-mysql-adminの環境整備。package.jsonをいじって適当にバージョンあげたら例のエラーがなくなった。もう遅いのでPRはまた明日...。
+- 会社の環境にも`grunt`コマンドをインストール。`npm install -g grunt-cli`すればよかったのね。
+- ホッとしつつchrome-mysql-adminのディレクトリで`grunt`を実行するもまたエラー... どうもproxyをうまく扱えていないらしい。
+
+    ```
+    Running "bower:install" (bower) task
+    /home/yu/Dropbox/prg/foreign/chrome_mysql_admin/node_modules/grunt-contrib-compass/node_modules/tmp/lib/tmp.js:261
+      throw err;
+              ^
+    TypeError: Request path contains unescaped characters.
+        at new ClientRequest (_http_client.js:73:11)
+        at TunnelingAgent.exports.request (http.js:49:10)
+        at TunnelingAgent.createSocket (/home/yu/Dropbox/prg/foreign/chrome_mysql_admin/node_modules/grunt-bower-task/node_modules/bower/node_modules/request/node_modules/tunnel-agent/index.js:117:25)
+        at TunnelingAgent.createSecureSocket [as createSocket] (/home/yu/Dropbox/prg/foreign/chrome_mysql_admin/node_modules/grunt-bower-task/node_modules/bower/node_modules/request/node_modules/tunnel-agent/index.js:184:41)
+        at TunnelingAgent.addRequest (/home/yu/Dropbox/prg/foreign/chrome_mysql_admin/node_modules/grunt-bower-task/node_modules/bower/node_modules/request/node_modules/tunnel-agent/index.js:80:8)
+        at new ClientRequest (_http_client.js:154:16)
+        at Object.exports.request (http.js:49:10)
+        at Object.exports.request (https.js:136:15)
+        at Request.start (/home/yu/Dropbox/prg/foreign/chrome_mysql_admin/node_modules/grunt-bower-task/node_modules/bower/node_modules/request/request.js:584:30)
+        at Request.end (/home/yu/Dropbox/prg/foreign/chrome_mysql_admin/node_modules/grunt-bower-task/node_modules/bower/node_modules/request/request.js:1212:28)
+    ```
+
 
 # 2015-06-22
 
