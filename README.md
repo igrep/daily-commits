@@ -9,9 +9,20 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-06-25
+
+chrome-mysql-adminの修正に向けて、ひとまずChromeアプリの基本から。デバッグできるよう環境整備。  
+メインマシンのVMにはchromeをインストールしていなかったのだが、やっぱりやりづらそうなので入れることに。  
+GUIアプリの開発は今後も課題だなぁ。
+
+# 2015-06-24
+
+- chrome-mysql-adminに更にPR: [yoichiro/chrome_mysql_admin/pull/27](https://github.com/yoichiro/chrome_mysql_admin/pull/27)
+
 # 2015-06-23
 
 - chrome-mysql-adminの環境整備。package.jsonをいじって適当にバージョンあげたら例のエラーがなくなった。もう遅いのでPRはまた明日...。
+    - 1つ送った: [yoichiro/chrome_mysql_admin/pull/27](https://github.com/yoichiro/chrome_mysql_admin/pull/27)
 - 会社の環境にも`grunt`コマンドをインストール。`npm install -g grunt-cli`すればよかったのね。
 - ホッとしつつchrome-mysql-adminのディレクトリで`grunt`を実行するもまたエラー... どうもproxyをうまく扱えていないらしい。
 
