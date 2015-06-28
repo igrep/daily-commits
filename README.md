@@ -9,6 +9,11 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-06-27
+
+[第21回Haskellもくもく会](http://haskellmokumoku.connpass.com/event/15808/)にてLambdaConf 2015中にチャレンジして以降放置していたItamaeを利用したEC2での開発環境づくりに挑戦。  
+Dropboxの設定まで出来て概ね満足。Haskell関連はstackを入れるだけに留まったけど。。。
+
 # 2015-06-26
 
 chrome-mysql-adminのGruntfile.jsをいじり、livereloadなしでも自動的にreloadできるようにした。  
@@ -29,7 +34,7 @@ GUIアプリの開発は今後も課題だなぁ。
 - chrome-mysql-adminの環境整備。package.jsonをいじって適当にバージョンあげたら例のエラーがなくなった。もう遅いのでPRはまた明日...。
     - 1つ送った: [yoichiro/chrome_mysql_admin/pull/27](https://github.com/yoichiro/chrome_mysql_admin/pull/27)
 - 会社の環境にも`grunt`コマンドをインストール。`npm install -g grunt-cli`すればよかったのね。
-- ホッとしつつchrome-mysql-adminのディレクトリで`grunt`を実行するもまたエラー... どうもproxyをうまく扱えていないらしい。
+- ホッとしつつchrome-mysql-adminのディレクトリで`grunt`を実行するもまたエラー... どうもproxyをうまく扱えていないらしい。proxyを解除したら接続できた。
 
     ```
     Running "bower:install" (bower) task
