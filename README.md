@@ -9,6 +9,16 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-07-06
+
+chrome-mysql-adminにテーマ機能を付ける方法を検討中。  
+[よういちろうさんの「オレ流AngularJSを使った設計ポリシー」](https://www.eisbahn.jp/yoichiro/2014/10/my_angularjs_design_policy.html)に従い、
+テーマの変更を表すイベントを作り、それをLoginFormControllerなりConfigurationDialogControllerなりから`$rootScope`経由で伝えるのがよさそう。
+問題はどのControllerからテーマをviewに伝えるか。  
+恐らく新しいControllerを作ってそこからCSSのクラスをbodyなどに設定すれば良いと思うが、DOMのルートに近い要素に関わる変更なので、
+ルートっぽいところを操作する名前がよいのか、それともテーマのみを操作するような名前がよいのか。  
+前者の場合、他のControllerの親みたいな扱いにしないといけないのか。
+
 # 2015-07-05
 
 - chrome-mysql-adminの開発環境をChromebookにも。今度のTrifortでやるもくもく会に備えて。
