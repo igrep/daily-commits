@@ -11,7 +11,10 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 # 2015-07-07
 
-chrome-mysql-adminにテーマ機能実装中。
+- chrome-mysql-adminにテーマ機能実装中。
+- Chromebook上のDebianにchrome-mysql-adminの開発環境を整えようとするも、chroot環境の制約上、systemctlからmysqldが動かせないことが発覚。  
+  やむを得ず以前からやってるEC2上に開発環境を整えるのを再開し、そこでmysqldを立ち上げる方向で検討する。  
+  ただ、ググったところ[手動では起動できる](https://github.com/dnschneid/crouton/issues/73)ことがわかったので、とりあえずはそれでよさげ。
 
 # 2015-07-06
 
