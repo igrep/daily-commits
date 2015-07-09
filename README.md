@@ -9,6 +9,12 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-07-10
+
+- chrome-mysql-adminにテーマ機能実装中。新しくテーマの変更を伝達させるためのServiceを作ったので後はどこかからそれをlistenしてCSSに反映させればとりあえず欲しい機能はできるだろう。  
+  どのControllerで反映させるのがよいか、というのは依然問題だけど...。
+- [ng-annotate](https://github.com/olov/ng-annotate)なるAngularJSでの開発必携っぽいパッケージを見つけたので次かその次のPRで入れよう。テスト書くのとどっちさきかなー。
+
 # 2015-07-09
 
 - <a href="http://www.amazon.co.jp/gp/product/B00EESW7JQ/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=B00EESW7JQ&linkCode=as2&tag=poe02-22">Effective JavaScript</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=poe02-22&l=as2&o=9&a=B00EESW7JQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />をもう少しで読み終える。
