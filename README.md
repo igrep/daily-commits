@@ -9,6 +9,14 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-07-09
+
+- <a href="http://www.amazon.co.jp/gp/product/B00EESW7JQ/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=B00EESW7JQ&linkCode=as2&tag=poe02-22">Effective JavaScript</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=poe02-22&l=as2&o=9&a=B00EESW7JQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />をもう少しで読み終える。
+    - 中盤知ったところが続いてあまり面白くなかったが、最後の並列処理の話がなかなか面白い。
+      まぁ、Promiseとか代替手段が出来た今は活かす機会はあまりないかもしれないけど、Promiseを使わないでこの本に書いてあるようなテクニックで書かれたコードを目にする機会があるかもしれないし、覚えておこう。
+    - 最初の方のところでいろいろおもしろい罠をたくさん知ったけど、ぱっと思い出せないので読み返したい。
+- [よういちろうさんの指摘](https://github.com/yoichiro/chrome_mysql_admin/pull/31#issuecomment-119781173)を受けて修正。眠い中夢中になってやったらしょうもないミスをしてたw
+
 # 2015-07-08
 
 AngularJSの勉強をちょっと。業務が忙しくてほぼ何もできず。。。
