@@ -9,6 +9,14 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-07-12
+
+- [On Understanding Data Abstraction, Revisited](http://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf)読了。  
+  本当に対立しているのは関数型プログラミング対オブジェクト指向プログラミングじゃなくて代数的データ型対オブジェクトなんだなぁということがよくわかった。  
+  実際には多くの言語が折衷的な方法をサポートしているみたいだけど。
+- 単純に`Gruntfile`の書き方をちゃんと理解していないだけだった。。。とりあえず動くようにはしたけど出力結果が明らかにおかしい。  
+  やっぱりコピペで挑むのは辛いなぁ。
+
 # 2015-07-11
 
 - やっぱり[ng-annotate](https://github.com/olov/ng-annotate)を入れるのを優先してやることに。すぐ導入でき、効果も高そうなので。
