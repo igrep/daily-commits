@@ -9,6 +9,22 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-07-19
+
+Closure Libraryをどう入れるか悩んだ。ブラウザで使うライブラリなのだからbowerがいいだろう、
+と思って[コピーしているリポジトリ](https://github.com/components/closure-library)を見つけるも、どうも一度cloneして以降全く更新されてないらしい...。  
+悩んだ挙句、まぁ、趣味でclosure-libraryを使う機会は今後そうないだろう、と思い、
+まだちゃんと更新されているらしい[npmから持ってきたもの](https://www.npmjs.com/package/google-closure-library)を
+grunt-contrib-copyでブラウザ向けのJSのディレクトリにcopyする、というなんだかダーティなやり方をとることにした。  
+webpackとかを使うという手もあったかもしれないけど二重に同じようなものを入れるのもなんだかなぁ、
+どうせ`require`しないといけないのはclosure-libraryだけっぽいしなぁ、と思ったので。
+
+あと、viewをどうするかまた悩み、templateライブラリも探してみたものの、closure-templateはなんだか文法が好きになれそうもなく、
+どうせ小さなプロジェクトだし、これ以上学習コストばかり上げてなかなか一番やりたいService Workerに辿りつけないのも残念なので、
+[closure-libraryのチュートリアル](https://developers.google.com/closure/library/docs/tutorial)に従って直接domを組み立てる方針に。  
+間違いなくある程度大きくなったら死ねるのでその時はReactかelm-htmlかなんかで。  
+closure-libraryなんて使っておいて今更だけど、Androidでも動かす予定なのに大丈夫なんだろうか...。
+
 # 2015-07-18
 
 前々から作ろうと思っていた、[GitHubのContribution Mapを埋める何かをしたか確認するツール](https://github.com/igrep/keep-me-contributing)に着手。  
