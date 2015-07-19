@@ -31,6 +31,8 @@ P.S.
 「2 downloads in the last day」となっていた。  
 それ、間違いなく私です...。
 
+![](img/2015-07-20-npm-closure.png)
+
 # 2015-07-18
 
 前々から作ろうと思っていた、[GitHubのContribution Mapを埋める何かをしたか確認するツール](https://github.com/igrep/keep-me-contributing)に着手。  
