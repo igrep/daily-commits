@@ -9,6 +9,18 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-07-18
+
+前々から作ろうと思っていた、[GitHubのContribution Mapを埋める何かをしたか確認するツール](https://github.com/igrep/keep-me-contributing)に着手。  
+chrome-mysql-adminの時とは打って変わってスクラッチからJSプロジェクトを作り始めたため、
+ディレクトリ構成やビルドツール、Closure Toolsとどう合わせて使うかなどでめちゃめちゃ悩んでしまい、
+そのへんの整備だけで1日費やしてしまった。  
+特に迷ったのがビルドツールで、[Grunt/Gulpで憔悴したおっさんの話](http://t32k.me/mol/log/npm-run-script/)なんて聞いたり、
+[npm で依存もタスクも一元化する](http://qiita.com/Jxck_/items/efaff21b977ddc782971)なんて聞いたり、
+他にも諸々の整備で頭がごちゃごちゃになったりで、1つ1つ進めるのにかなり時間がかかってしまった。  
+結局、上記のJxck\_さんのやりかたを参考にしつつ、可能な限りgrunt-shellで諸々のタスクをやる構成にした。  
+Closure CompilerやClosure Libraryの組み込みなど、まだまだやることは多い。
+
 # 2015-07-17
 
 - [chrome-mysql-adminにgrunt-ng-annotateを追加したPull Request](https://github.com/yoichiro/chrome_mysql_admin/pull/34)を送った。
