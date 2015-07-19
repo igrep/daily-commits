@@ -25,6 +25,12 @@ webpackとかを使うという手もあったかもしれないけど二重に�
 間違いなくある程度大きくなったら死ねるのでその時はReactかelm-htmlかなんかで。  
 closure-libraryなんて使っておいて今更だけど、Androidでも動かす予定なのに大丈夫なんだろうか...。
 
+P.S.
+
+例の[npmから持ってきたclosure-library](https://www.npmjs.com/package/google-closure-library)を改めて見たら、
+「2 downloads in the last day」となっていた。  
+それ、間違いなく私です...。
+
 # 2015-07-18
 
 前々から作ろうと思っていた、[GitHubのContribution Mapを埋める何かをしたか確認するツール](https://github.com/igrep/keep-me-contributing)に着手。  
