@@ -9,6 +9,19 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-07-24
+
+2015-07-22に書いたテストケースをパス。  
+初めてClosure Libraryの機能を使ってみた。といってもわざわざClosure Libraryでなくてもよさそうな`goog.array.find`だけど。  
+Babelが提供するES6の`import`では`goog`をうまく`import`出来なかったのが残念。  
+まぁしょうがないか。。。
+
+# 2015-07-23
+
+Closure LibraryやClosure Compilerのドキュメント読んでた。  
+Closure Libraryはともかく、Closure Compilerは意外と公式のドキュメントがWeb上にないのが辛い。
+`--help`実行したらいっぱい出てきたので明日からそっちも読む。
+
 # 2015-07-22
 
 昨日書いたテストケースをクリアするコードを書き、更に失敗するテストを追加。  
