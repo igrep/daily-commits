@@ -9,6 +9,11 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-07-26
+
+keep-me-contributing, GitHubのEvents APIのresponseから最新のContribution日時を取得する処理まで実装。  
+次はAPIクライアントと組み合わせなきゃ。
+
 # 2015-07-25
 
 ついにここひと月近く書いていた[ポエムめいたもの](http://the.igreque.info/posts/2015/1-predictable-programming.html)
