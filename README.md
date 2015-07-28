@@ -9,6 +9,19 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-07-28
+
+GitHubのEvents APIが自分の思っていた、contribution mapの状態を取得できるものではないことに気づいてしまったorz。  
+https://github.com/igrep/keep-me-contributing/issues/1
+
+とりあえず、サポートにfeature requestはしたけど。。。  
+ひとまず、[プロフィールページ](https://github.com/igrep)から直接取得することを検討。
+
+# 2015-07-27
+
+次回表参道.rbで発表する資料のアウトラインを検討。  
+後もちろんclosure-libraryの勉強。
+
 # 2015-07-26
 
 keep-me-contributing, GitHubのEvents APIのresponseから最新のContribution日時を取得する処理まで実装。  
