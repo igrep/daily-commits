@@ -15,7 +15,8 @@ GitHubのEvents APIが自分の思っていた、contribution mapの状態を取
 https://github.com/igrep/keep-me-contributing/issues/1
 
 とりあえず、サポートにfeature requestはしたけど。。。  
-ひとまず、[プロフィールページ](https://github.com/igrep)から直接取得することを検討。
+ひとまず、[プロフィールページ](https://github.com/igrep)から直接取得することを検討。  
+調べたところ、どうやら例のcontribution mapを描いたSVGを直接取得するURlがあるらしい。
 
 # 2015-07-27
 
