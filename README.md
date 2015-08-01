@@ -9,9 +9,24 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-08-01
+
+mochaやらclosure-libraryのXhrIoやらgoog.domやらと何時間も格闘した結果、
+node.js上でのテストはどうもうまく行かないということがよくわかった。  
+GitHubから取得したSVGをパースする部分で、
+どうしてもブラウザのAPIを使わなければならないらしいことがわかった。  
+`jsdom`やら`xmlhttprequest`やら`xmldom`やらいろいろ使ってエミュレーションしてみたものの、
+うまく行かなかった。
+
+何か他によい方法がある気がするが、どうせもともとブラウザ向けに
+Closure Compilerを使うつもりだったので、babelも使わず、
+シンプルにClosure Compilerとbrowserifyでビルドしたものをブラウザで読むようにしようと思う。  
+ただ、browserifyが本当にあったほうがよさそうなのはpower-assertだけなので、
+closure-libraryと同様、`node_modules`から`lib`以下にcopyする、という作戦でも良いかも。
+
 # 2015-07-29
 
-機能見つけたSVGからcontribution mapの状態を取得するクラスの設計を検討。
+昨日見つけたSVGからcontribution mapの状態を取得するクラスの設計を検討。
 
 # 2015-07-28
 
