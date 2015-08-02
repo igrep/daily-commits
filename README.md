@@ -9,6 +9,15 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-08-02
+
+今度はClosure Compilerと格闘するも、`import`が思うようにcompileされず、
+closure-libraryがまるまる含まれて肝心のアプリのファイルが含まれないという残念なcompile結果が吐かれてしまう。  
+[どうやら、ES6のimportを使用しているファイルは、ちゃんとcompileしてくれないらしい。](https://github.com/google/closure-compiler/issues/880)
+やっぱり`goog.provide`と`goog.require`を使ってやるしかしかないらしい。  
+ここまで何自分はつまらないところでハマっているんだろう。馬鹿みたいだ。  
+普通に普通の作り方をしていればこんなことはなかったろうに...。
+
 # 2015-08-01
 
 mochaやらclosure-libraryのXhrIoやらgoog.domやらと何時間も格闘した結果、
