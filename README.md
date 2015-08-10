@@ -9,6 +9,12 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-08-10
+
+keep-me-contributingのview modelの設計・実装。  
+どうやるのがよいやり方なのかイマイチわからず、ついつい迷って時間を浪費してしまう。  
+よいやり方を学ぶための習作であるものの、残り時間を考えつつ進まねば。
+
 # 2015-08-09
 
 closure-libraryのview関連のライブラリ(`goog.ui.Component`や、`goog.ui.Control`など)のお勉強中。  
