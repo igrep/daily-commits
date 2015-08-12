@@ -9,6 +9,14 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-08-13
+
+keep-me-contributingのview modelの設計がだいたい検討できたので、新たに必要となったmodelのメソッドを追加。  
+テストを書くも、どうもclosure compilerとsinon.jsとの相性が悪いらしく、
+`goog.events.EventTarget`から継承したメソッドをうまくstubできていない。  
+closure compilerのオプションをいじったりするも、今度はES6との相性からか、syntax errorになったりしてしまう。  
+どうにかやりくりしなくては...。
+
 # 2015-08-12
 
 久々にHaskellポエムの続きを進めた。
