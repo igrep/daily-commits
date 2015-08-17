@@ -9,6 +9,15 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-08-16
+
+Service Workerや、Javaでのサーバーサイドの開発方法を調査。  
+これまでの実装ではJavaScriptのDOMParserを使ってGitHubから取得したSVGをパースしていたが、
+どうもService Worker上ではDOMParserが使えないらしい。  
+やむを得ず、もともとCORS制限を回避するための単なるプロキシにしようと計画していたJavaによるサーバーで、
+XMLのパースも行うというプランに変更。  
+自分の調査不足とはいえ、難しいなぁ。
+
 # 2015-08-15
 
 keep-me-contributingにおける、github.comからレスポンスを
