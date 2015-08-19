@@ -9,6 +9,12 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-08-20
+
+[HerokuのJava入門](https://devcenter.heroku.com/articles/getting-started-with-java#introduction)やって見てるところ。  
+とりあえずデプロイは出来たけど、Windows上だからなのか、なぜか`Procfile`で実行できず。
+調べたところclasspathの区切り文字が違うかららしい。Linux上でやろうかどうか悩むなぁ。
+
 # 2015-08-16
 
 Service Workerや、Javaでのサーバーサイドの開発方法を調査。  
