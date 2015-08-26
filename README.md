@@ -9,6 +9,13 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-08-26
+
+いよいよ試しにService Workerを作ってみた。  
+なぜか `chrome://inspect/#service-workers` に
+途中まで見えていたはずのservice workerが最後見えなくなったのが気になるが、
+とりあえずロードするだけのテストは出来たはず。
+
 # 2015-08-25
 
 keep-me-contributing, サーバーアプリケーション完成。  
