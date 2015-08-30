@@ -9,6 +9,35 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-08-30
+
+- Service WorkerからWeb Notificationを使う件、
+  独立して[サンプルページ](https://github.com/igrep/sample-notification-service-worker)を作ったらあっさりできた。  
+  ちゃんとページを閉じてもブラウザを閉じない限りは通知してくる。なかなかうざい。  
+  多分、前回試した時は`Notification.permission`が`granted`になる前に`showNotification`しようとしてたからなんじゃないかと思う。とにかくこれで一安心。  
+  明日はフォームから通知のタイミングをコントロールするところまで試してみようかな。
+- 昨日のHaskellもくもく会でやったことをQiitaにまとめたり、先週金曜に仕事中に思いついたことを同じくQiitaに上げた。
+    - [Stackでやる最速Haskell Hello world! (GHCのインストール付き！)](http://qiita.com/igrep/items/da1d8df6d40eb001a561)
+    - [branch名にuser storyのidを入れてコミットメッセージにuser storyのURLを自動で貼る](http://qiita.com/igrep/items/17df4627192d7d9d3188)
+
+# 2015-08-29
+
+[第23回Haskellもくもく会 @ 朝日ネット](http://haskellmokumoku.connpass.com/event/18236/)にて
+[`stack`](https://github.com/commercialhaskell/stack)を初めて使いつつ、
+[Haskellポエムで使用する（予定の）サンプル](https://github.com/igrep/guess-number)を書いた。
+
+StateやReaderと、そのMonad Transformerを説明するために一旦それらを一切使わないで書いてみたのだが、イマイチ。  
+特にStateやReaderを使わなくてもいいような単純さだし、IOとそれ以外の分離がほとんどできていない。
+
+今書いている章のつまり具合から考えても、もうちょっと悩みながら書くことになるなぁ。
+
+# 2015-08-27
+
+Service Workerとの格闘2日目。どうもうまくNotificationが呼び出せない。
+`Notification.permission`をService Workerから見るといつも`default`になっている。
+もっと小さなサンプルを別に作ってやり直そう。
+その方が他の人のためにもなるだろうし。
+
 # 2015-08-26
 
 いよいよ試しにService Workerを作ってみた。  
