@@ -9,6 +9,12 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-08-31
+
+会社から有給をいただき、Service WorkerからWeb Notificationを使うサンプルを改善。  
+自分が最もやりたい、フォームからnotificationのタイミングを調整する方法もつかめた。  
+これならkeep-me-contributingでやりたいことは一通りできそう。
+
 # 2015-08-30
 
 - Service WorkerからWeb Notificationを使う件、
