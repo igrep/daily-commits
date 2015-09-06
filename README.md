@@ -9,6 +9,14 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-09-06
+
+keep-me-contributiong, 今日はService Worker関連の機能に集中するつもりだったが、
+やめてherokuへのデプロイとweb pageの見た目の修正を中心に行った。   
+ふと考えてみればService Workerを使わなくとも、
+ただ単にweb pageを開いた時に、その日contributeしたかを教えてくれるだけでも欲しい機能なのだ。  
+それは当初から計画していた機能だし、充分に有用なので、優先順位を変えた。
+
 # 2015-09-05
 
 keep-me-contributiong, 期間が空いたことが原因なのか、思うように進まず。  
