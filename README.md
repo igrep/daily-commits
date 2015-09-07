@@ -9,9 +9,20 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-09-07
+
+keep-me-contributing, faviconを追加。  
+やっぱりいざ使ってみると寂しく見えるものだ。  
+Androidのホーム画面に追加した時に使用されるかな？と思ったけどアイコンだけだった。
+やっぱり[この辺に書いてあるように、Web Manifestを使わんと](http://googledevjp.blogspot.jp/2015/04/service-worker-google-developers-summit.html)ダメなのね。  
+Service Workerができたら同時に対応しよう。
+
+また、workerとブラウザクライアントで使用する予定のvalue objectを追加。敢えてそこだけボトムアップに作ってみた。  
+次はこれをSchedulerに転送するところから。
+
 # 2015-09-06
 
-keep-me-contributiong, 今日はService Worker関連の機能に集中するつもりだったが、
+keep-me-contributing, 今日はService Worker関連の機能に集中するつもりだったが、
 やめてherokuへのデプロイとweb pageの見た目の修正を中心に行った。   
 ふと考えてみればService Workerを使わなくとも、
 ただ単にweb pageを開いた時に、その日contributeしたかを教えてくれるだけでも欲しい機能なのだ。  
