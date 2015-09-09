@@ -9,6 +9,16 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-09-09
+
+Service Workerのテストを書くのに挑戦するも、うまく行かず。  
+worker側から呼び出したWindowのコード（`navigator.serviceWorker.register`したコード）に対して
+messageを送る方法がわからないため、ブラウザに結果を送れない。
+てっきりWeb Workerと同じような感覚で`postMessage`を呼べばいいのかと思いきや、どうも違うらしい。  
+Service Workerは呼び出したWindowが閉じていても動くものであるため、
+Service Workerの趣旨に合わないのはなんとなくわかる気がするのだが、
+さてどうテストしたものだろうか？
+
 # 2015-09-07
 
 keep-me-contributing, faviconを追加。  
