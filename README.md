@@ -9,6 +9,12 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-09-17
+
+Workerで使用するライブラリ作成中。  
+ちょっとClosure Libraryに足りないものが見つかったため、初めてPull Requestを送ってみた。  
+https://github.com/google/closure-library/pull/561
+
 # 2015-09-16
 
 Workerで使用するライブラリ作成中。
