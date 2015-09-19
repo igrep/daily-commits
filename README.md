@@ -9,6 +9,13 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-09-19
+
+Haskellもくもく会なんでHaskellでコマンドを作ろうと思ったが、`stack new`するところでハマり、stackのソースを読むことに。
+原因は単にstackのバージョンが古いだけだったが、まぁちょっと勉強になったし無事解決して記事も書けたしよかった。
+
+http://qiita.com/igrep/items/42130f58fb18da55e8c3
+
 # 2015-09-17 - 2015-09-18
 
 Workerで使用するライブラリ作成中。  
