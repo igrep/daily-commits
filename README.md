@@ -11,6 +11,22 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 # 2015-09-22
 
+- Workerで使用するライブラリ完成。  
+  昨日不安に感じた点をテストするスクリプトを書いたりした。
+  随分カバー領域が奇妙なテストがいくつも出来てしまったが、
+  まぁ僕自身の不安を取り除くことに役立っているのでよいでしょう。
+- 先週見なおしたWorkerのScheduleを管理するControllerの設計をさらに見直し、
+  よりMVCっぽく洗練させた。  
+  やっぱり実際に使用するシーンを考えて作ってみるといろいろ見えてくる。
+- [このへん](http://googledevjp.blogspot.jp/2015/04/service-worker-google-developers-summit.html)を
+  参考に、各所で使用するアイコンを作成した。
+- あとはWorkerのScheduleを設定する画面と、
+  それをlocalStorageあたりに保存する処理の実装だけ。
+  やっぱり[#4](https://github.com/igrep/keep-me-contributing/issues/4)
+  ぐらいは簡単に実装しようかなぁ。
+
+# 2015-09-21
+
 Workerで使用するライブラリ概ね完成。  
 最後の方テストを一切書いていないのが痛い。
 ただ直接動かして動作確認しないと確信が持てない場所でもあるが...。
