@@ -9,6 +9,14 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-09-23
+
+`goog.ui.Component`や`goog.ui.Control`と一日中挌闘して、
+Workerがコミットしたかどうかをnotifyするタイミングを管理するフォームの作成。  
+改めてclosure libraryの難しさを思い知った。  
+個々の抽象度の高いライブラリが何のためにあるのか、何に便利なのか理解するのにすごく手こずった。  
+closure libraryのdemosに入っているファイルを開くと結構イメージが湧いてありがたかった。
+
 # 2015-09-22
 
 - Workerで使用するライブラリ完成。  
