@@ -9,6 +9,17 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-09-24
+
+社内LT大会向け資料作り。表参道.rbでも使用する予定。  
+Service Workerをネタにすることにした。  
+作成中に今更気づいたのだが、どうやらkeep-me-contributingの目的には、
+Service Workerは（少なくとも今の仕様では）使えないらしい。。。  
+自分なりにスケジューラーを描いて工夫したが、
+結局、決まった時間に処理を実行するAPIが出来ない限りどうしようもないのだ。  
+調べて気づかなかったのが痛い...。仕方ないのでAndroid版は諦めて、
+当面はPC版でのDedicated Workerを使ったバージョンのみサポートすることとしよう。。。
+
 # 2015-09-23
 
 `goog.ui.Component`や`goog.ui.Control`と一日中挌闘して、
@@ -121,7 +132,7 @@ keep-me-contributing, 今日はService Worker関連の機能に集中するつ�
 
 # 2015-09-05
 
-keep-me-contributiong, 期間が空いたことが原因なのか、思うように進まず。  
+keep-me-contributing, 期間が空いたことが原因なのか、思うように進まず。  
 Service Workerの中でやることを考え、必要なクラスを検討したり、
 ライブラリのアップデートやCSSの設定など、放置していたタスクに取り組んだりした。
 まだまだやることは多いけど、ここでダレてしまったら全て終わりだ。
