@@ -9,6 +9,22 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-10-02
+
+明日の社内ハッカソンに備え、自宅の環境で自分の端末にアプリをデプロイするのを試してる。  
+keep-me-contributingは今の時点でもまぁまぁ便利だが、
+やっぱりそもそものモチベーションはスマホから簡単にcontributeしたかどうか確認できるようにすることにあるので、
+ちゃんとモバイルに対応させたい。
+
+# 2015-10-01
+
+表参道.rbで発表。
+
+[Service WorkerとFacebookに遊ばれてました (1)](http://the.igreque.info/slides/2015-10-01-service-worker.html#(1))
+
+仕事が忙しくてほとんど飛び入り参加みたいな形になってしまったためか、また緊張してうまく喋れず。  
+LTの時間以内に喋りきれなかったorz。
+
 # 2015-09-28 - 2015-09-29
 
 もろもろバグを直しつつ、Apache Cordovaへの移植を検討中。  
