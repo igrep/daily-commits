@@ -9,6 +9,15 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-10-03
+
+社内ハッカソンにて、keep-me-contributingをCordovaに移植するよう試みる。  
+結局Gruntfileのリファクタリングに大部分の時間を使ってしまい、
+実機にdeployするところまでしかできず。  
+動かしてみたものの、権限の設定の問題なのか、もともとCordova（というかWebView）がサポートしていないのか、
+Notificationを参照したところで即刻エラーで死んでいた。  
+Notificationとかalarm周りを移植するのにもうちょっとかかりそう。
+
 # 2015-10-02
 
 明日の社内ハッカソンに備え、自宅の環境で自分の端末にアプリをデプロイするのを試してる。  
