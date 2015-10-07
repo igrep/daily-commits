@@ -9,6 +9,14 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-10-06
+
+keep-me-contributingのeslintrcを整理したり、
+スケジュール入力フォームに閉じるボタンを追加したり。  
+Cordovaの件をあまり進めなかったのは、
+実機でしかデバッグしにくい状態にあるため、実機を充電している時に外したくなかった、
+というケチ臭い理由でもある。
+
 # 2015-10-05
 
 [java-ja.OSS](http://connpass.com/event/19690/)すごく面白かった（小並感）。  
