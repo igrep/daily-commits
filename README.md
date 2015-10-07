@@ -9,6 +9,12 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-10-07
+
+keep-me-contributingのバグ修正・スケジュール入力欄を削除する機能を追加。  
+修正前でも空文字列にして更新したら削除されるが、実際やってみたらComboBoxが邪魔してやりづらいし、
+そもそもわかりづらいし。
+
 # 2015-10-06
 
 keep-me-contributingのeslintrcを整理したり、
