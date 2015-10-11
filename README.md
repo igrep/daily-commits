@@ -9,6 +9,21 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-10-11
+
+keep-me-contributing, [cordova-plugin-local-notifications](https://github.com/katzer/cordova-plugin-local-notifications)を利用してAndroid版でもNotificationが出せるようにしてみた。  
+残念ながら僕の端末では持っている2台ともうまく動かず。  
+設定した時刻通りNotificationは表示してくれるのだが、表示内容を表示する時に変えることが出来ない。  
+なので、Notificationを表示した時点では、肝心の「Contributionしたかどうか」がわからないのだ。  
+それらしきサンプルがあったのでその通りに試したつもりだけど、やはり動いていないように見える。
+
+他のプラグインを試す時間もないし、見た感じ一番メンテされてるんだよなぁ。
+
+# 2015-10-10
+
+keep-me-contributingのバグ修正と、Cordovaへの対応。  
+ようやく手持ちのスマホとタブレット両方で、通知を出す機能以外は動かすことが出来た。
+
 # 2015-10-09
 
 風邪をひいて仕事を休んだのでPureScriptの本を読んだだけ。
