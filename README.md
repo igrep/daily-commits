@@ -9,6 +9,20 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-10-17
+
+- ElmとPureScriptについてお勉強。
+- keep-me-contributing, よくよく考えたら今一番必要な機能であろう、
+  ContributionStatusに応じたfaviconの変換機能を作ってる。  
+  同じ要領でAndroidのウィジェットも作りたくなったら作ろう。  
+  ほとんど全部Javaで作り直しになるんだろうけど、まぁしょうがないね。  
+  サーバー側をJavaで作っていたのが唯一の救いか。
+
+# 2015-10-15 - 2015-10-16
+
+keep-me-contributingにWaffle.ioを導入したりもろもろのbadgeを入れたり、ESLintの設定を見なおしたり。
+しかしCircleCIもそうだけどもうほとんど開発終わってるんで今更感はあるな。。。何やってるんだろ。。。
+
 # 2015-10-14
 
 keep-me-contributing, CircleCIの導入。想像以上に導入が簡単でびっくりした。  
