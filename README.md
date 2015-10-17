@@ -9,6 +9,23 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-10-14
+
+keep-me-contributing, CircleCIの導入。想像以上に導入が簡単でびっくりした。  
+まだブラウザ上で実行していた自動テストの実行はできていないけど、
+とりあえず、まっさらな環境からビルドできることが確認できたので満足。
+
+# 2015-10-13
+
+keep-me-contributing, ドキュメントが古くなっていたので更新したり、
+GruntfileでJavaScriptを一度に全てコンパイルできない問題を修正したり。
+
+# 2015-10-12
+
+keep-me-contributing, 今日はUIの大幅な修正。  
+ようやく自分で納得のできる完成度のものに出来たと思うので、ここで一段落つけたい。  
+デザインがやっぱりダサいし、CSSも汚いけど、まぁそれは次以降の課題で。
+
 # 2015-10-11
 
 keep-me-contributing, [cordova-plugin-local-notifications](https://github.com/katzer/cordova-plugin-local-notifications)を利用してAndroid版でもNotificationが出せるようにしてみた。  
