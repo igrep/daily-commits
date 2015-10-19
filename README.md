@@ -9,11 +9,23 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-10-19
+
+Elmの勉強の続きと、久々にHaskellポエムの続き。変更しっぱなしだった箇所を整理してまとめてコミットした。
+
+# 2015-10-18
+
+[次世代 Web カンファレンス](http://nextwebconf.connpass.com/event/19699/)に参加。  
+体調不良もあり、全くメモも取らずひたすら話だけ聞いてみんなすげーなーと思っていた。  
+共通して感じたのはやっぱり何かしら特化しないとこういう領域には辿りつけないと思うので、
+改めてElmやHaskellの方に向き直していきたいと思った。  
+それが本当に自分にとって最良かはともかく。
+
 # 2015-10-17
 
 - ElmとPureScriptについてお勉強。
 - keep-me-contributing, よくよく考えたら今一番必要な機能であろう、
-  ContributionStatusに応じたfaviconの変換機能を作ってる。  
+  ContributionStatusに応じたfaviconの変換機能を作った。  
   同じ要領でAndroidのウィジェットも作りたくなったら作ろう。  
   ほとんど全部Javaで作り直しになるんだろうけど、まぁしょうがないね。  
   サーバー側をJavaで作っていたのが唯一の救いか。
