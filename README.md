@@ -9,6 +9,12 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-10-21
+
+ElmやPureScriptの勉強。  
+どうしてもELmでやりたいので、ひとまずElmでCLIベースの実装は諦め、
+データは適当なWebサーバーなりDropboxのAPIなりで共有することに決定。
+
 # 2015-10-20
 
 Elmで https://github.com/igrep/igrep-cashbook のCLI版の実装が出来ないかと試してみるも、やっぱり厳しそう。
