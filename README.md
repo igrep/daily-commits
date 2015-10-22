@@ -9,6 +9,13 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-10-22
+
+ようやく初めてElmを書いてみた。  
+想像以上に周辺のツールチェインが未発達でびっくりした。
+elm-compilerもelm-replも、Haskell書くチャンスらだけだ。  
+とりあえず早く小遣い帳アプリを適当に形にしたらElm自体に貢献する方向で行きたい。
+
 # 2015-10-21
 
 ElmやPureScriptの勉強。  
