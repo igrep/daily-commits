@@ -13,7 +13,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 ようやく初めてElmを書いてみた。  
 想像以上に周辺のツールチェインが未発達でびっくりした。
-elm-compilerもelm-replも、Haskell書くチャンスらだけだ。  
+elm-compilerもelm-replも、テスティングフレームワークも、HaskellもElmも書くチャンスらだけだ。  
 とりあえず早く小遣い帳アプリを適当に形にしたらElm自体に貢献する方向で行きたい。
 
 # 2015-10-21
