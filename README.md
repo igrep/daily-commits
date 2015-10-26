@@ -9,6 +9,21 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-10-25
+
+Haskellもくもく会でvimのHaskell編集用環境整備続き。  
+記事にして公開した: http://qiita.com/igrep/items/278316669fbbd6dd124d
+
+Elmでの小遣い帳アプリ開発開始。  
+
+# 2015-10-24
+
+Haskellもくもく会でvimのHaskell編集用環境整備。
+
+# 2015-10-23
+
+Haskellポエム続き。もう少しで第2章が終わるけど、まとめて読んで欲しいので、第3章まで書いてからまとめて公開する予定。
+
 # 2015-10-22
 
 ようやく初めてElmを書いてみた。  
