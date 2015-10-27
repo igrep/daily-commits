@@ -9,6 +9,10 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-10-26
+
+[Sent a pull request to rails for the first time!](https://github.com/rails/rails/pull/22086)
+
 # 2015-10-25
 
 Haskellもくもく会でvimのHaskell編集用環境整備続き。  
@@ -22,7 +26,9 @@ Haskellもくもく会でvimのHaskell編集用環境整備。
 
 # 2015-10-23
 
-Haskellポエム続き。もう少しで第2章が終わるけど、まとめて読んで欲しいので、第3章まで書いてからまとめて公開する予定。
+- Haskellポエム続き。もう少しで第2章が終わるけど、まとめて読んで欲しいので、第3章まで書いてからまとめて公開する予定。
+- 仕事中に見つかった[`secureheaders` gemのバグ報告](https://github.com/twitter/secureheaders/issues/187)。
+  アドバイスもらって自分で直そうかな、と思ったけどすぐに直してもらえた。
 
 # 2015-10-22
 
