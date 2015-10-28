@@ -9,7 +9,12 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
-# 2015-10-26
+# 2015-10-28
+
+[昨日Railsに送ったPull Request](https://github.com/rails/rails/pull/22086)がcloseされて悔しかったので、
+せめてベンチマークやメモリプロファイリングの成績でもよくならないかな、と思って測ってみるも、ダメダメだった :sob:
+
+# 2015-10-27
 
 [Sent a pull request to rails for the first time!](https://github.com/rails/rails/pull/22086)
 
