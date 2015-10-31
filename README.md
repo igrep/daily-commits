@@ -9,6 +9,15 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-10-30 - 2015-10-31
+
+Elm版, igrep-cashbookの続き。  
+リファクタリングしたり、エラー処理を改善したり。
+
+[WEB+DB PRESS Vol.89](http://gihyo.jp/magazine/wdpress/archive/2015/vol89)の
+Chrome特集を読んでみたり。やっぱりDev Toolsを触りながらじゃないと覚えられなさそう。
+ちょっとハンズオンで勉強会やりたいなぁ。
+
 # 2015-10-29
 
 igrep-cashbookをElmで書き換える件、
