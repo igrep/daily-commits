@@ -9,6 +9,14 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-11-05
+
+[表参道.rb](http://omotesandorb.connpass.com/event/21811/)当日。  
+また緊張しすぎてうまく喋れないんじゃないかという懸念はあったものの、登壇者の協力もあり、
+なかなか盛り上がった会に出来たと思う。  
+大きな反省点は、記録するものを一切用意していなかったことだろう。  
+おかげでどこが参考になったとかならなかったとか、どこが冗長だったとか、全然振り返れない。
+
 # 2015-11-04
 
 [表参道.rb](http://omotesandorb.connpass.com/event/21811/)の準備。  
