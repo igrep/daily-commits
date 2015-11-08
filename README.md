@@ -9,6 +9,18 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-11-07
+
+Elm版, igrep-cashbookの続きを少しやりつつ、
+[東京Node学園祭2015](http://nodejs.connpass.com/event/20741/)にてworkshopperを使ってlearnyoureactをやったり。  
+そういえば仕事でなんとなしにレビューしてるけどちゃんと勉強してなかったもんね...。  
+workshopper、便利なんでElm版も作りたいなぁ。  
+個人的には今のElmではElmを始めてもその先で実践に向けるのが大変そうなので、後回しにするけど。
+
+# 2015-11-06
+
+Elm版, igrep-cashbookの続き。
+
 # 2015-11-05
 
 [表参道.rb](http://omotesandorb.connpass.com/event/21811/)当日。  
