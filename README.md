@@ -16,6 +16,8 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 を読みつつLensのお勉強。
 
 あと、[プリキュア Advent Calendar 2015](http://www.adventar.org/calendars/728)のネタ作り。  
+いろいろ試したけど結局スキャンした画像の傾きを直してInkscapeで手でトレースするのが一番確実かつ簡単だった。
+ベジエ曲線ってすごい。
 
 # 2015-11-12・2015-11-14
 
