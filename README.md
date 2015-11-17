@@ -9,6 +9,11 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-11-16 - 2015-11-17
+
+[プリキュア Advent Calendar 2015](http://www.adventar.org/calendars/728)のネタ作り。  
+核となるモデルの作成
+
 # 2015-11-15
 
 [Tokyo Haskell Meetup](http://www.meetup.com/Tokyo-Haskell-Meetup/events/225892018/)にて
