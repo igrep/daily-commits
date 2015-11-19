@@ -9,6 +9,13 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-11-19
+
+[Elm 0.16のpre-releaseを出した](https://groups.google.com/forum/#!topic/elm-dev/7daC5GV_wao)との情報を受け、
+[igrep-cashbookでも試してみた](https://github.com/igrep/igrep-cashbook/commit/33488c7a068fca2b41ae2a884bc13822fe33dea0)。  
+まだ0.16の新機能の恩恵は受けられなかったものの、とりあえず普通に動いてるっぽい。  
+[Windows版でのバグも報告できた](https://github.com/elm-lang/elm-reactor/issues/155)のでえがったえがった。
+
 # 2015-11-16 - 2015-11-18
 
 [プリキュア Advent Calendar 2015](http://www.adventar.org/calendars/728)のネタ作り。  
