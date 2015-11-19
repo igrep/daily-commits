@@ -11,10 +11,19 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 # 2015-11-19
 
+[プリキュア Advent Calendar 2015](http://www.adventar.org/calendars/728)のネタ作り。  
+核となるモデルの更新ロジックやviewを作る。
+素のSVGをelm-svgに書き換えるの面倒なんで、何回もやるようだったら書き換え用のスクリプトを書かないとなぁ。
+
+# 2015-11-19
+
 [Elm 0.16のpre-releaseを出した](https://groups.google.com/forum/#!topic/elm-dev/7daC5GV_wao)との情報を受け、
 [igrep-cashbookでも試してみた](https://github.com/igrep/igrep-cashbook/commit/33488c7a068fca2b41ae2a884bc13822fe33dea0)。  
 まだ0.16の新機能の恩恵は受けられなかったものの、とりあえず普通に動いてるっぽい。  
 [Windows版でのバグも報告できた](https://github.com/elm-lang/elm-reactor/issues/155)のでえがったえがった。
+
+[プリキュア Advent Calendar 2015](http://www.adventar.org/calendars/728)のネタも
+Elmで作っているが、こちらは一段落してから0.16に上げよう。
 
 # 2015-11-16 - 2015-11-18
 
