@@ -9,6 +9,23 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-11-28
+
+[プリキュア Advent Calendar 2015](http://www.adventar.org/calendars/728)のネタをWebサーバーで
+動かしてスマホから見るために[この辺](https://github.com/elm-lang/elm-reactor/issues/76#issuecomment-122573958)
+を参考にelm-reactorのデバッグモードを試したりelm makeしたりするも、どうもうまく行かず。  
+バグ報告を検討しつつelm-reactorのドキュメントを読んでいたところ、
+[elm-examples](https://github.com/evancz/elm-examples)にたどり着く。  
+じゃあこれを動かしてみようと思って動かそうとしたところ、まだElm 0.16に対応していなかったらしく、
+[サポートするためのPull Request](https://github.com/evancz/elm-examples/pull/1)を送るはめに。  
+肝心の問題はやはりelm-examplesでも発生する模様。  
+いろいろな現象に悩まされたりいつの間にか直ったりしたが、
+どうやら、依然として https://github.com/elm-lang/elm-reactor/issues/157 の問題にぶつかる模様。  
+多分ソースからコンパイルしないとダメなんだろうね。
+
+とりあえず、デバッグモードを使わないで動かす方法には辿りつけたっぽい。  
+http://elm-lang.org/guide/interop に書いてあった。。。
+
 # 2015-11-27
 
 [プリキュア Advent Calendar 2015](http://www.adventar.org/calendars/728)のネタ作り。  
