@@ -9,6 +9,13 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-11-30
+
+[プリキュア Advent Calendar 2015](http://www.adventar.org/calendars/728)のネタのため、
+https://github.com/Pisys/elm-mousetouch とか http://www.w3schools.com/jsref/event_onmousemove.asp を調べたり。  
+残念ながら非常に完成度が低いライブラリなので理解に苦しむ。  
+自前で書くのと大して変わらんかもしれないけど、まぁいいか。
+
 # 2015-11-29
 
 [プリキュア Advent Calendar 2015](http://www.adventar.org/calendars/728)のネタを初めて
