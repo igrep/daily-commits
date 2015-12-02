@@ -9,6 +9,15 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-12-01
+
+- [「Vim scriptの名前はVim scriptです。」](https://gist.github.com/ujihisa/128a90a5555b77a21958)と聞いて[GitHubのリポジトリーの言語を解析するアレにissueを送る](https://github.com/github/linguist/issues/2752)も、
+  敢えなくclose。名前の変更は現状技術的に難しいらしい。。。
+- [プリキュア Advent Calendar 2015](http://www.adventar.org/calendars/728)のネタのため、実験用のコードを書いているとこ。
+  やっぱりelm-mousetouchは要らなさそう...。
+- その他、調子に乗って[Elmコミュニティーに前から思っていたツッコミ](https://groups.google.com/forum/#!topic/elm-discuss/kVCn7vE1qZo)を入れたり
+  Evanが「誰かやってくれねぇかなあ」とぼやいていた[ChangeLogを書いたり](https://github.com/elm-lang/elm-compiler/pull/1215)、細々したことを。
+
 # 2015-11-30
 
 [プリキュア Advent Calendar 2015](http://www.adventar.org/calendars/728)のネタのため、
