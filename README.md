@@ -9,6 +9,12 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-12-03 - 2015-12-05
+
+[プリキュア Advent Calendar 2015](http://www.adventar.org/calendars/728)のネタのため、[実験用のコード](https://github.com/igrep/elm-touchmove-mousemove-sample)を書いているとこ。  
+概ねなぞる部分の実装方法はわかった。`touchend`は`mouseleave`のように、特定の要素から指が離れたことは教えてくれないらしい。[HTML5 ROCKS](http://www.html5rocks.com/ja/mobile/touch/)いわく`touchleave`イベントがそれっぽく見えるんだが、実装されていないらしい。
+https://developer.mozilla.org/en-US/docs/Web/API/Document/elementFromPoint を使って自前で検出するしかなさそう。
+
 # 2015-12-02
 
 [プリキュア Advent Calendar 2015](http://www.adventar.org/calendars/728)のネタのため、[実験用のコード](https://github.com/igrep/elm-touchmove-mousemove-sample)を書いているとこ。
