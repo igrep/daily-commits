@@ -9,6 +9,14 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-12-08 - 2015-12-09
+
+[プリキュア Advent Calendar 2015](http://www.adventar.org/calendars/728)のネタのための調査、
+ちょっとだけコーディング。
+SVGの要素内でマウスや指の座標を取得する方法については、  
+http://stackoverflow.com/questions/9627005/svg-getting-the-position-of-an-element-relative-to-the-page  
+が回答っぽい。試してないけど。。。
+
 # 2015-12-07
 
 [html-to-elmにバグ報告](https://github.com/mbylstra/html-to-elm/issues/1)した。
