@@ -9,6 +9,13 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-12-16
+
+- 前から気になっていたvimrcの問題を解決したので[Qiitaに投稿](http://qiita.com/igrep/items/e5d288f42d9abb23e4c1)した。  
+  もとのプラグインを修正するとしたらvim-quickrunかvim-watchdogsのどっちをいじればいいんだろう...。
+- [プリキュア Advent Calendar 2015](http://www.adventar.org/calendars/728)のネタ作り。  
+  ようやくカーソルの位置に従って色を塗りつぶすところまで確認。明らかなバグはあるものの大体直す方法は見当がついてる。
+
 # 2015-12-15
 
 [プリキュア Advent Calendar 2015](http://www.adventar.org/calendars/728)のネタ作り。  
