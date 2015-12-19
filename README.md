@@ -9,6 +9,11 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-12-19
+
+[プリキュア Advent Calendar 2015](http://www.adventar.org/calendars/728)のネタ作り。  
+カーソルの位置に従って塗りつぶす範囲を変えられるよう修正中。明後日までに間に合うか。
+
 # 2015-12-17 - 2015-12-18
 
 [プリキュア Advent Calendar 2015](http://www.adventar.org/calendars/728)のネタ作り。  
