@@ -9,6 +9,12 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-12-25
+
+[Haskell Advent Calendar 2015 - Qiita](http://qiita.com/advent-calendar/2015/haskell)のネタ、
+結局Lensのネタは一旦諦め、[ありがちなまとめネタ](http://qiita.com/igrep/items/5562a9d4703c29f8c0f5)でお茶を濁すことに。  
+Lensでのワンライナーネタは[ハマった箇所をfumievalさんに教えてもらった](http://stackoverflow.com/questions/34455428/extract-nth-child-with-xml-lens)おかげで解決するも、残念ながら遅すぎた。。。  
+明日のHaskellもくもく会でリベンジしよう。
 
 # 2015-12-23 - 2015-12-24
 
