@@ -9,6 +9,12 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+
+# 2015-12-23 - 2015-12-24
+
+[Haskell Advent Calendar 2015 - Qiita](http://qiita.com/advent-calendar/2015/haskell)のネタのため、
+かねてより暖めていたLensでワンライナーを書いてJSONやらXMLをいじってみようと思い立つが、あえなく撃沈。
+
 # 2015-12-21
 
 [プリキュア Advent Calendar 2015](http://www.adventar.org/calendars/728)のネタを公開。
