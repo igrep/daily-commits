@@ -9,6 +9,18 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-12-27
+
+ラブリーコミューンづくり、プリキュア Advent Calendarの続きとして、
+[Web Speech API](https://developers.google.com/web/updates/2013/01/Voice-Driven-Web-Apps-Introduction-to-the-Web-Speech-API)を使って
+「プリキュア！ラブリンク！」と叫ばないと編集できなくする機能をつける。  
+が、これも疲れからかあまり進まず、大体の方針を決めるところで終わる。
+
+# 2015-12-26
+
+Haskellもくもく会で例のLensの記事は、Lensの説明を書いたところで終わる。  
+どうも疲れ気味なのか、あんまり集中できず。
+
 # 2015-12-25
 
 [Haskell Advent Calendar 2015 - Qiita](http://qiita.com/advent-calendar/2015/haskell)のネタ、
