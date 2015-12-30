@@ -9,6 +9,16 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-12-29
+
+ラブリーコミューンづくり、プリキュア Advent Calendarの続きとして、
+[Web Speech API](https://developers.google.com/web/updates/2013/01/Voice-Driven-Web-Apps-Introduction-to-the-Web-Speech-API)を使って
+「プリキュア！ラブリンク！」と叫ばないと編集できなくする機能をつける。  
+とりあえずPC版のChromeで動くように作れた。Android版のChromeでなぜか動いていない...。
+デバッグは思い出した時でいいかな。
+あと、やっぱりWeb Speech APIをサポートしてないブラウザのことも考慮せんとなぁ。  
+いいかげん他のこともやりたいし、それまで塩漬けしちゃうか。
+
 # 2015-12-27 - 2015-12-28
 
 ラブリーコミューンづくり、プリキュア Advent Calendarの続きとして、
