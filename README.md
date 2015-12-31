@@ -9,6 +9,10 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2015-12-30
+
+Elmでの小遣い帳アプリ開発再開。やっぱり久々だとエンジンかけにくいなぁ。
+
 # 2015-12-29
 
 ラブリーコミューンづくり、プリキュア Advent Calendarの続きとして、
