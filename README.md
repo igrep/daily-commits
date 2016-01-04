@@ -12,6 +12,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 # 2016-01-03
 
 - [Add elm.snip to Shougo/neosnippet-snippets](https://github.com/Shougo/neosnippet-snippets/pull/93)
+- Elmでの小遣い帳アプリ開発。エラーメッセージを更に詳しくした。ファイルを選ぶ機能についてはできた、と思ったら結構バグってしまってできなかった...。
 
 # 2016-01-02
 
