@@ -1,7 +1,7 @@
 <!--
 Execute this vim command to push updates of this file:
 
-:w | !git add README.md && git commit -m"update" && git push
+:w | !bash -c 'git add README.md ; git commit -m"update" ; git push'
 -->
 
 # daily-commits
