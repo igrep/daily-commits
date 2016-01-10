@@ -9,6 +9,10 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016-01-09
+
+パーフェクトJavaを読んでJavaの学習を開始。
+
 # 2016-01-07 - 2016-01-08
 
 かねてからやろうと思っていたChrome Developer Tools勉強会のために、Developer Toolsの素振り。
