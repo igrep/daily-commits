@@ -9,7 +9,16 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
-# 2016-01-12 - 2016-01-14
+# 2016-01-17
+
+以前からこっそり作成して使っていた、vimで開いたファイルをbatファイルとして保存して、後で開きやすくする小さなvim pluginのバグを直して公開。
+https://gist.github.com/igrep/ad5acc8ca4b0e51bd122
+
+# 2016-01-16
+
+[vim-addon-local-vimrcに、読み込もうとしているvimrcファイルの中身を確認する機能を追加したPull Request](https://github.com/MarcWeber/vim-addon-local-vimrc/pull/12)。
+
+# 2016-01-12 - 2016-01-15
 
 Javaのお勉強や、keep-me-contributingのAndroidアプリ化に向けてのお勉強。
 
