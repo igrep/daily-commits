@@ -9,6 +9,7 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+
 # 2016-01-22
 
 [vim-addon-local-vimrcについて気になっていた最後の問題を解決するPR](https://github.com/MarcWeber/vim-addon-local-vimrc/pull/13)を送った。  
@@ -16,6 +17,9 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 無理に設定項目を追加しなくても、自前のvimrcで工夫すれば十分な問題という気もするが、
 問題になるケースはありふれていると思うので、提案してみた。  
 やっぱり人様のソフトを修正するのは難しいなぁ。
+
+GitHubのIssue報告を改善するためのフォーム作成開始。  
+とりあえずElmで使えるものを想定して作成中。
 
 # 2016-01-18 - 2016-01-21
 
