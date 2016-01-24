@@ -9,6 +9,10 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016-01-23
+
+Javaのお勉強。パーフェクトJavaのリフレクションの章まで読んでアノテーションの途中。
+
 # 2016-01-22
 
 [vim-addon-local-vimrcについて気になっていた最後の問題を解決するPR](https://github.com/MarcWeber/vim-addon-local-vimrc/pull/13)を送った。  
