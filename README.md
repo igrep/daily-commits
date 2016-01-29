@@ -9,10 +9,13 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
-# 2016-01-27
+# 2016-01-27 - 2016-01-28
 
-GitHubのIssue報告を改善するためのフォーム作成続き。  
-まだテストできていないがとりあえずフォームの重要な箇所はできた...はず。
+GitHubのIssue報告を改善するためのフォーム作成続き。
+フォームの要素をテストするためのサンプルを作るもバグってたorz.  
+[このへん](https://groups.google.com/forum/#!topic/elm-discuss/gqugcpzw91g)でも触れている通り、
+Auto complete付きのフォーム作りは結構むずそう。  
+帰り道で多分出来るであろうアプローチが思いついたので、次試す。
 
 # 2016-01-26
 
