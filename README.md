@@ -9,7 +9,17 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
-# 2016-01-28
+# 2016-01-30
+
+Haskellもくもく会にて、この間のTokyo Haskell MeetupでインストールしたNixOSの設定。  
+Dropboxに入れていたファイルをUnison経由でやりとりできるところまでできたので、
+それだけで大分今のArch Linuxに近い環境にできたはず。  
+当面はOK。
+
+あと、lotz氏に https://github.com/alpmestan/taggy-lens や https://github.com/bos/wreq を教わった。  
+xml-lensよりも高機能にLensでスクレイピングできそう。
+
+# 2016-01-29
 
 Sansan最後の社内勉強会として、Chrome DevToolsの勉強会を開いた。  
 その準備のため試しにいろいろ触ってた。
