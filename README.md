@@ -9,6 +9,20 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016-02-07
+
+[Shinjuku.hs](https://shinjukuhs.doorkeeper.jp/events/37998)にて
+Qiitaに前から書こうと思っていた[Rubyの記事の英語版](http://the.igreque.info/posts/2016/01-object-send-considered-harmful-en.html)を投稿。  
+
+退職エントリーなんぞに時間をかけているうちにHaskellのことはあんまりできなかったものの、
+Thunderbirdのフィルターを自動作成するスクリプトの作成開始。できるだけ簡単に済まそう。
+
+あと、Haskellもくもく会のことを共有したり、ちょっと他のメンバーをサポート。
+
+# 2016-02-06
+
+[Qiitaにこの前Unisonをビルドした話](http://qiita.com/igrep/items/28eb343879aba91cf260)を投稿。
+
 # 2016-02-04 - 2016-02-05
 
 Qiitaに前から書こうと思っていたRubyの記事の英語版作成中。
