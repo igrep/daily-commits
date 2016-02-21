@@ -9,6 +9,16 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016-02-21
+
+Tokyo Haskell Meetupにてstackのソースをバリバリ読んだ。  
+現在問題となっている、S3から何かをダウンロードする箇所は特定できなかったが、
+平行並列本で読んだことの復習になったりしてまぁまぁ参考になった。
+
+NixOSについては一緒に来ていたEricさんにも聞いたが、
+どうも今のstackの仕様上、nixにすでにあるHaskellのパッケージと協調して動くことはできないらしい。  
+辛い。 https://github.com/commercialhaskell/stack/issues/1683
+
 # 2016-02-20
 
 https://github.com/igrep/open-msys2-mintty のリファクタリング。  
