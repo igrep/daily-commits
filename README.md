@@ -9,6 +9,17 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016-02-20
+
+https://github.com/igrep/open-msys2-mintty のリファクタリング。  
+最初に試した方法が全然うまく行かなかったのでいろいろ試行錯誤していたら汚くなったので。
+
+Qiitaに今朝ハマったので書いた記事を投稿。
+http://qiita.com/igrep/items/c50b3d119dd7bba2ef7f
+
+Haskellもくもく会ではNixOSに悪戦苦闘。  
+stackのソースを読む予定だったがあまり取り組めず。
+
 # 2016-02-16 - 2016-02-19
 
 keep-me-contributingでもGitHubのIssue改善フォーム、でもなくMSYS2のbashをワンクリックで立ち上げるためのスクリプト書いてた。速く仕上げちゃおう。
