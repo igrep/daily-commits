@@ -9,6 +9,12 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016-02-22
+
+思いつきでころころ変わるが、keep-me-contributingの、Android版よりChromeプラグイン版を先に作る方針に変更。  
+GitHubのFaviconを変える、という実装が思いついた。  
+そのためにあれこれ脱線して設定などいじっていたらそれで時間を使い果たしてしまったorz。
+
 # 2016-02-21
 
 Tokyo Haskell Meetupにてstackのソースをバリバリ読んだ。  
