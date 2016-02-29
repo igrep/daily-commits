@@ -11,6 +11,10 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 # 2016-02-29
 
+JavaでMonadを説明する記事継続して執筆中。
+
+# 2016-02-29
+
 keep-me-contributingの、Chromeプラグイン版作りちょっと進めた。  
 
 # 2016-02-26 - 2016-02-28
