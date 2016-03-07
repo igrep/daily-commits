@@ -9,6 +9,13 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016-03-07
+
+昨日見つけたxlsxパッケージのバグ直し。  
+実際に使用するxlsxファイルで直ったのを確認出来次第Pull Requestを送る。
+
+https://github.com/igrep/xlsx/commit/e80fc2ed5cbbd78e683808727d4e978484928d2a
+
 # 2016-03-06
 
 昨日に引き続き、xlsxパッケージのデバッグ。ようやく原因が見つかった。  
