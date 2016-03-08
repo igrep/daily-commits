@@ -9,6 +9,11 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016-03-08
+
+バグを直せたのでxlsxにPull Requestを送った。  
+https://github.com/qrilka/xlsx/pull/43
+
 # 2016-03-07
 
 昨日見つけたxlsxパッケージのバグ直し。  
