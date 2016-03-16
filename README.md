@@ -9,6 +9,13 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016-03-16
+
+JavaでMonadを説明する記事継続して執筆中。  
+記事中に出したコードをようやく[試しにコンパイルできるか試す](https://github.com/igrep/monad-in-java-sample)も、
+大きな間違いをしていたことに気づく。  
+やっぱり単純にHaskellのMonadをJavaのインターフェースに翻訳するだけではダメなんだね...。
+
 # 2016-03-09 - 2016-03-15
 
 JavaでMonadを説明する記事継続して執筆中。
