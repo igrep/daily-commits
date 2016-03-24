@@ -9,6 +9,11 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016-03-24
+
+[S3にアクセス出来ないとstackが使えない問題](https://github.com/commercialhaskell/stack/issues/1794)について調査。  
+見た感じ要求されている機能は実装済みに見えるが...?
+
 # 2016-03-23
 
 JavaでMonadを説明する記事継続して執筆中。
