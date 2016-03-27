@@ -9,10 +9,14 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
-# 2016-03-25 - 2016-03-26
+# 2016-03-25 - 2016-03-27
 
 [S3にアクセス出来ないとstackが使えない問題](https://github.com/commercialhaskell/stack/issues/1794)について調査。  
 [やっぱりすでにある設定項目ではだめらしい。](https://github.com/commercialhaskell/stack/issues/1794#issuecomment-201094898)
+
+Fiddlerを使って分かったのだが、stackはGHCをダウンロードするURLを`stack-setup-2.yaml`というファイルに書いていて、実行時はそれをダウンロードしてから書かれているURLにアクセスしているらしい。  
+このファイルは`--stack-setup-yaml`というオプションで設定できるので、今の時点でGHCをダウンロードするURLを変えることは可能なようだ。  
+しかし残念ながら確かに[ビルドプランだけは定数を参照](https://github.com/commercialhaskell/stack/blob/f2d362e157d9a7d22182e339b636950c54679808/src/Stack/Constants.hs#L173-L187)していて、設定で変更できなくなっていた。
 
 # 2016-03-24
 
