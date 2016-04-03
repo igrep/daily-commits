@@ -9,6 +9,13 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016-04-02
+
+JavaでMonadを説明する[記事のサンプル](https://github.com/igrep/monad-in-java-sample)の
+改良を試みるが、やっぱり無理だった...。  
+あくまでも「擬似コードでコンパイル通りませんよ」と言うしかないっぽいorz。  
+後は実行サンプルをどこまで作りこむか...。
+
 # 2016-03-28 - 2016-04-01
 
 stackのビルドプランをダウンロードするURLを設定可能にする変更。
