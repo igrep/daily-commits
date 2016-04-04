@@ -9,6 +9,12 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016-04-04
+
+stackのビルドプランをダウンロードするURLを設定可能にする変更。
+
+JavaでMonadを説明する記事継続して執筆中。長くかかったけどState Monadの話がもうちょっとで終わる、かな？
+
 # 2016-04-03
 
 [GCの本](http://www.amazon.co.jp/%E3%82%AC%E3%83%99%E3%83%BC%E3%82%B8%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3-%E3%83%AA%E3%83%81%E3%83%A3%E3%83%BC%E3%83%89%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%B3%E3%82%BA-ebook/dp/B01CYDGUT0/ref=sr_1_1?ie=UTF8&qid=1459722881&sr=8-1&keywords=%E3%82%AC%E3%83%BC%E3%83%99%E3%83%BC%E3%82%B8%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3)を読んでた。  
