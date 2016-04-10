@@ -9,6 +9,13 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016-04-10
+
+ずっと放置していたHaskell勉強会の資料の手直しなど、ブログ周りでいろいろやろうとするも、
+Linux環境をDebianにしてからちゃんとセットアップができてなかったことに気づく。  
+ansibleを勉強してansibleで一発で開発環境を整えられるようにしよう、と思ってそのままにしていたのだった。  
+というわけでansibleのお勉強。
+
 # 2016-04-09
 
 JavaでMonadを説明する記事継続して執筆中。  
