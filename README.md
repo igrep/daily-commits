@@ -9,6 +9,13 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016-04-12
+
+stackのビルドプランをダウンロードするURLを設定可能にする変更。  
+ようやく[Pull Requestを送った](https://github.com/commercialhaskell/stack/pull/2024)が、間違えて一部の変更を消してしまったらしい... :sob:
+
+JavaでMonadを説明する記事継続して執筆中。
+
 # 2016-04-11
 
 stackのビルドプランをダウンロードするURLを設定可能にする変更。  
