@@ -12,7 +12,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 # 2016-04-18
 
 stackのビルドプランをダウンロードするURLを設定可能にする変更。  
-[URL関連の設定をなるたけまとめてくれ](https://github.com/commercialhaskell/stack/pull/2024#issuecomment-208660305)と言われたのでその際の変更箇所を調査。
+[URL関連の設定をなるたけまとめてくれ](https://github.com/commercialhaskell/stack/pull/2024#issuecomment-208660305)と言われたので変更中。とりあえず新しい設定項目を作成する途中まで。
 
 JavaでMonadを説明する記事継続して執筆中。
 
