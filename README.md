@@ -9,6 +9,13 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016-05-04
+
+haskell-relational-recordでOracleを動かす実験続き。  
+未だにisqlで接続結果を確認するところにすらたどり着けない...。
+
+[前から書きたかったネタ](http://qiita.com/igrep/items/d482aa451af48e7e070f)をサクッと書いた。
+
 # 2016-05-03
 
 haskell-relational-recordでOracleを動かす実験続き。  
