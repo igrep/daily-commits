@@ -9,6 +9,17 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016-05-05
+
+haskell-relational-recordでOracleを動かす実験続き。  
+ようやくisqlでコンテナ上のOracleに接続できた。  
+ODBCドライバーを積んだimageを作ることになったので、今後はその上で動くアプリを作ることになる。  
+意図せずstackのdocker integrationを初めて使うことになったので嬉しいような悲しいような。  
+またハマることにならないといいけど...。
+
+[sshごしのvimからクリップボードにコピーする - Qiita](http://qiita.com/yuya_presto/items/fdb2436c23bf9f514c15)に書いてあったことを実践しようとするも、
+[msys版のperlではうまく動かなかったので修正](https://github.com/yoshikaw/ClipboardTextListener/pull/1)。
+
 # 2016-05-04
 
 haskell-relational-recordでOracleを動かす実験続き。  
