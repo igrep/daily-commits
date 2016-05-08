@@ -9,6 +9,14 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016-05-07
+
+haskell-relational-recordでOracleを動かす実験続き。  
+docker-composeを使い、DB用のimage・ビルド兼クライアント用のimageを動かす設定を書いたのだが、
+ここでもなかなかつながらず、苦戦。ビルド兼クライアント用のimageからisqlでつなぐところまでで終わった。
+
+息抜きに前からやろうと思っていたhubotもやってみた。
+
 # 2016-05-06
 
 JavaでMonadを説明する記事引き続き。  
