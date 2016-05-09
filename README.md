@@ -9,6 +9,14 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016-05-09
+
+haskell-relational-recordでOracleを動かす実験続き。  
+今度はコンパイル時にDBに繋げない現象に出くわした。Dockerのlinksが設定されていないからだ...。
+
+JavaでMonadを説明する記事引き続き。  
+こちらのモチベーションを維持するのがしんどくなっているので頑張らないと。
+
 # 2016-05-08
 
 haskell-relational-recordでOracleを動かす実験続き。  
