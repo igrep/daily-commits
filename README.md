@@ -9,6 +9,16 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016-05-12
+
+眠れなかったので突然思い立って、会社のチームメンバーに向けてHaskellのMonadの解説を書いてた。  
+ある程度できたら公開する。
+
+# 2016-05-11
+
+haskell-relational-recordでOracleを動かす実験続き。  
+Insert文を発行するコードを書いてた。
+
 # 2016-05-10
 
 haskell-relational-recordでOracleを動かす実験続き。  
