@@ -9,6 +9,13 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016-05-22
+
+Haskellで[resoutce-pool](https://hackage.haskell.org/package/resource-pool)というパッケージを試実験。  
+とりあえず、コネクションを1個だけ作ってSQLを発行するコードを試した。
+
+後はログ関係のライブラリをいろいろ試したり。
+
 # 2016-05-21
 
 hubotでやってみた話の続き。  
