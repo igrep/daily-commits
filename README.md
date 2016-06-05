@@ -9,6 +9,14 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016-06-05
+
+Haskellのレコードをちょっと使いやすくするライブラリの続き。
+
+monad-loggerに日付でのlog rotation機能を追加するパッケージの作成続き。
+
+それぞれちょっとずつ。
+
 # 2016-06-04
 
 第32回Haskellもくもく会にて、[Haskellのレコードをちょっと使いやすくするライブラリ](https://gitlab.com/igrep/haskell-relabeller)作成開始。  
