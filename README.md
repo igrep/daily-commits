@@ -9,6 +9,13 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016-07-04
+
+自分用cashbookのElm版をようやくElm 0.17に移植開始。
+
+JavaでHaskellのMonadを解説する記事の続き。  
+タブレットだけで書ける部分はもうすぐで終わりそう。
+
 # 2016-07-02 - 2016-07-03
 
 Haskell版FactoryGirl的なの続きをちょっとだけ。
