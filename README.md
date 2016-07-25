@@ -9,6 +9,13 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016-07-25
+
+JavaでMonadの説明。レビューお願い前の最後の見直し。
+
+Elm版igrep cashbookの機能追加、どうもelm-coreのバグっぽいものにぶち当たってしまったらしい。  
+elm-discussで相談からかな…。
+
 # 2016-07-23 - 2016-07-24
 
 Oracle アーキテクチャー読んでただけだった…
