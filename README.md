@@ -9,6 +9,18 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016-08-07
+
+JavaでMonadの説明。ありがたいことに知人から早くもフィードバックが来た。  
+想像以上に厳しいものだったので、ちょっと戸惑いつつも早速対応。  
+冒頭からずばずばと来てうれしい悲鳴が上がった。
+
+Elm版igrep cashbookで見つけたElmのバグらしき挙動について、大体ドキュメントができた。  
+いざメールを送ろうかと考えたところで、warpの代替サーバーとして選んでいた[http-server](https://www.npmjs.com/package/http-server)を正しくサポートできていないことに気づく。  
+Elm版igrep cashbookはすべてクライアントサイドの機能だけで実装するという特殊な仕様のため、cashbookファイルの読み込みを外部のdirectory listingをサポートしたWebサーバーに依存しているのだ。  
+なのでこれまで[wai-app-static](https://hackage.haskell.org/package/wai-app-static)にくっついたwarpで動かしていたところを、今回もっと導入が簡単であろうhttp-serverで動かすよう手順を書いたのだが、実はサポートできてなかった...。
+うーん、本質的でないところで止まってしまったなぁ。どうしよう。
+
 # 2016-08-06
 
 JavaでMonadの説明。ここまでで修正したところを確認し、何人かの知人にレビューを依頼。
