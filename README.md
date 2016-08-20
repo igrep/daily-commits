@@ -13,6 +13,10 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 JavaでMonadの説明。フィードバックを受けての修正。
 
+# 2016-08-18
+
+JavaでMonadの説明。フィードバックを受けての修正。
+
 明後日のプリキュアハッカソンでやるネタの方向を転換すべく、relabellerの進捗を見直したりしてた。  
 やっぱりDocker integrationネタがよさそう。
 
