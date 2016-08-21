@@ -9,6 +9,14 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016-08-20
+
+JavaでMonadの説明。フィードバックを受けての修正。
+
+[プリキュアハッカソン 4](http://connpass.com/event/34307/)にてHaskell Dayの準備をしようと思うも、持ってきたPC(Chrome OS上でchrootしたDebian)でDockerが動かないという事実が発覚し、あえなくあきらめることに。  
+代わりに以前からやろうと思っていた、かつ、時間的に可能そうだった、[プリキュアの名前をLensでリストアップする件](https://gitlab.com/igrep/list-precures-with-lens)をやってみた（特に公開できるような状態ではないのでprivateにしている）。  
+発表もぐだぐだで残念な成果になってしまったけど、ちょっとだけLensへの理解が深まったのでいいか。
+
 # 2016-08-19
 
 JavaでMonadの説明。フィードバックを受けての修正。
