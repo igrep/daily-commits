@@ -9,7 +9,14 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
-# 2016-08-26
+# 2016-08-28
+
+第34回Haskellもくもく会にてHaskell Day 2016の発表資料作成。眠気のせいかあまり進まず。
+
+いよいよ[JavaでMonadを説明する話](http://the.igreque.info/posts/2016/04-monad-in-java.html)を公開。  
+残念ながら今のところあまり反応は芳しくない...。
+
+# 2016-08-26 - 2016-08-27
 
 Haskell Day 2016の発表資料作成中。
 
