@@ -14,7 +14,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - [Haskell Day 2016](http://connpass.com/event/37892/)で[発表](http://the.igreque.info/slides/2016-09-17-stack-docker-integration.html)
 - JavaでHaskellのIOを解説する記事開始。
 
-# 2016-09-13 - 2016-09-14
+# 2016-09-13 - 2016-09-16
 
 - Haskell Day 2016の発表資料、訂正したりリハーサルしたり。
 - GHCのドキュメント引き続き読んでる。
