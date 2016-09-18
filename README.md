@@ -9,6 +9,11 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016-09-15
+
+- [Haskell Day 2016](http://connpass.com/event/37892/)で[発表](http://the.igreque.info/slides/2016-09-17-stack-docker-integration.html)
+- JavaでHaskellのIOを解説する記事開始。
+
 # 2016-09-13 - 2016-09-14
 
 - Haskell Day 2016の発表資料、訂正したりリハーサルしたり。
