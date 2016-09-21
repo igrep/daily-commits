@@ -9,9 +9,9 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
-# 2016-09-19
+# 2016-09-19 - 2016-09-20
 
-ICFP 1日目に参加。
+ICFPに参加。
 
 引き続きタイプセーフプリキュアやJavaでHaskellのIOを解説する記事をちょっと進めたり。
 
