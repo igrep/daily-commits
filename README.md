@@ -9,9 +9,14 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016-09-24
+
+JavaでHaskellのIOを解説する記事をまたほんのちょっとだけ進めた。  
+全体の構成に悩んでいるとこ。
+
 # 2016-09-23
 
-JavaでHaskellのIOを解説する記事をほんのちょっとだけ進めた。
+JavaでHaskellのIOを解説する記事をほんのちょっとだけ進めた。  
 引用してるページのURLを埋めたぐらいか…。
 
 # 2016-09-22
