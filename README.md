@@ -9,6 +9,11 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016/10/09
+
+- タイプセーフプリキュアの続き。
+- GHCJSに挑戦。 https://github.com/luite/ghcjs-dom-hello を元に挑戦するも、アップロードされているGHCJSが依存関係の衝突でビルドできず。あれこれ手を招いて https://docs.haskellstack.org/en/stable/ghcjs/ に書いてあるlts-6.20を使った方に書き換えたらやっとビルドできた。超時間かかったのでそこで力尽きた。
+
 # 2016/10/07 - 2016/10/08
 
 タイプセーフプリキュアの続きとHaskellのIOを説明する話続き。
