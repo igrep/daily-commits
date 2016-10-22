@@ -9,9 +9,15 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016/10/22
+
+- HaskellのIOを説明する話続きをちょっとだけ。
+- タイプセーフプリキュアの続きをちょっとだけ。
+- 久々にyes-precure5-commandのリポジトリーを眺めていたら、[細かい間違いを見つけてしまったので修正してリリース](https://github.com/igrep/yes-precure5-command/commit/10f1d674bbb5da3e6a53676b47a905e30e27eb51)
+
 # 2016/10/21
 
-タイプセーフプリキュアの続き。
+タイプセーフプリキュアの続きをちょっとだけ。
 
 # 2016/10/17 - 2016/10/20
 
