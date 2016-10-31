@@ -9,12 +9,26 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016/10/30
+
+- 第35回Haskellもくもく会にて、前からほしかった画像とかのコレクションを作り始めた。
+    - haskell-relational-recordを使ったところ、幸運にも（？）バグが見つかったので[pull requestを送った](https://github.com/khibino/haskell-relational-record/pull/48)。
+- HaskellのIOを説明する話続きをちょっとだけ。
+
 # 2016/10/29
 
-- タイプセーフプリキュアの続き。
+タイプセーフプリキュアの続き。
+
+[【ファン迷惑】「響け！ユーフォニアム」という文字列だけで遊ぶシェル芸人達 - Togetterまとめ](http://togetter.com/li/1041621#c3187664)というまとめにHaskell版を載せるためにちょっと頑張った。以下がなんのひねりもない私のバージョン。
 
 ```haskell
 ghc -e 'let s = "響け！ユーフォニアム" in mapM_ putStrLn $ take (length s) $ iterate (\(c:t) -> t ++ [c]) s'
+```
+
+その後に、[notogawaさんがもっと短いのを送ってきた...](https://twitter.com/notogawa/status/792258940197273600)。ぜんぜん読めん...。
+
+```haskell
+ghc -e '(\s->mapM_ putStrLn$init$scanr((init.).(:))s s)"響け！ユーフォニアム"'
 ```
 
 # 2016/10/24 - 2016/10/28
