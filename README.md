@@ -9,6 +9,12 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016/11/05
+
+- IntelliJ IDEAとVimのHaskell開発環境を整えようとあれこれ。欲張ってNeovimやらdein.vimやらいろいろ手を出したら、ハマりまくり、長時間かかった...。明日もやろう。
+- 一つだけ記事が書けた。: [Windows版stackでもHDBC-sqlite3をビルドする - Qiita](http://qiita.com/igrep/items/d947ab871eb5b20b57e4)
+    - でも開発環境関係ないような...
+
 # 2016/11/04
 
 HaskellのIOを説明する話続き。サンプルコードの解説をガシガシ。
