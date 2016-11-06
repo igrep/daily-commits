@@ -9,6 +9,11 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016/11/06
+
+引き続きintero-neovimに挑戦するも、[現在のWindows版Neovimでは動かないことが発覚](http://qiita.com/igrep/items/a65a10677fe69226c78d)。  
+前からやろうやろうと思っていたUbuntuのセットアップから取り組むことに...。
+
 # 2016/11/05
 
 - IntelliJ IDEAとVimのHaskell開発環境を整えようとあれこれ。欲張ってNeovimやらdein.vimやらいろいろ手を出したら、ハマりまくり、長時間かかった...。明日もやろう。
