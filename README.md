@@ -9,6 +9,14 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016/11/17
+
+- タイプセーフプリキュア: :star:
+- HaskellのIOを説明する話: :star: :star:
+- [SSGEP](https://github.com/kosmikus/SSGEP): :star:
+- [行動経済学の本](https://www.amazon.co.jp/%E4%BA%88%E6%83%B3%E3%81%A9%E3%81%8A%E3%82%8A%E3%81%AB%E4%B8%8D%E5%90%88%E7%90%86-%E8%A1%8C%E5%8B%95%E7%B5%8C%E6%B8%88%E5%AD%A6%E3%81%8C%E6%98%8E%E3%81%8B%E3%81%99%E3%80%8C%E3%81%82%E3%81%AA%E3%81%9F%E3%81%8C%E3%81%9D%E3%82%8C%E3%82%92%E9%81%B8%E3%81%B6%E3%82%8F%E3%81%91%E3%80%8D-%E3%83%8F%E3%83%A4%E3%82%AB%E3%83%AF%E3%83%BB%E3%83%8E%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E6%96%87%E5%BA%AB-%E3%83%80%E3%83%B3-%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AA%E3%83%BC/dp/4150503915/ref=sr_1_10?ie=UTF8&qid=1479425473&sr=8-10&keywords=%E8%A1%8C%E5%8B%95%E3%81%AE%E7%B5%8C%E6%B8%88%E5%AD%A6) :star:
+- 筋トレ: :star:
+
 # 2016/11/15 - 2016/11/16
 
 - HaskellのIOを説明する話続き。
