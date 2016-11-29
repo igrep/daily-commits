@@ -16,6 +16,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - 股割の本: :muscle:
 - 筋トレ: :muscle:
 
+# 2016/11/28
+
+- タイプセーフプリキュア: :star:
+- Idrisのチュートリアル: :star:
+- ファイルの重複を見つけるツール: :star:
+- 股割の本: :muscle:
+- 筋トレ: :muscle:
+
 # 2016/11/27
 
 - タイプセーフプリキュア: :star: :star:
