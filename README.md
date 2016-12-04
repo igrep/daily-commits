@@ -16,6 +16,9 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - 筋トレ: :muscle: :muscle:
 
 その他、Advent Calendarをめっちゃ消化したり、仮想環境向けのAnsibleの設定をいろいろいじったり、Idrisのチュートリアルをsphinxでビルドしてみたり。やっぱLaTeXはハマるなー。
+[43437ba0](https://gitlab.com/igrep/init-my-dev-machine/commit/43437ba03bfc359aed312988f631757994d4647a)
+[712d87c4](https://gitlab.com/igrep/init-my-dev-machine/commit/712d87c419823479c8f6bb21551791f721b574c6)
+[e978a3b9](https://gitlab.com/igrep/init-my-dev-machine/commit/e978a3b9d88f1770d5a5a99376b2f0ff454b14af)
 
 # 2016/12/02
 
