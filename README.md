@@ -18,7 +18,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 作成中に間違えに気づいたので、[rubicureにPR送った](https://github.com/sue445/rubicure/pull/123)
 - Idrisのチュートリアル: :star:
 - 股割の本: :muscle:
-- 筋トレ: :muscle: :muscle:
+- 筋トレ: :muscle:
 
 # 2016/12/03
 
