@@ -9,6 +9,17 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016/12/04
+
+- タイプセーフプリキュア: :star: :star: :star:
+    - ハートキャッチプリキュア、スイートプリキュア、スマイルプリキュア、ドキドキプリキュアの実装完了。
+        - 後はハピネスチャージプリキュア、Go! プリンセスプリキュア、キュアエコー。
+    - プリキュアモナドもさくっと作ってみた。まだテストは書いてないので明日。
+    - 作成中に間違えに気づいたので、[rubicureにPR送った](https://github.com/sue445/rubicure/pull/123)
+- Idrisのチュートリアル: :star:
+- 股割の本: :muscle:
+- 筋トレ: :muscle: :muscle:
+
 # 2016/12/03
 
 - Idrisのチュートリアル: :star:
