@@ -11,7 +11,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 # 2016/12/05
 
-- タイプセーフプリキュア: :star: :star: :star:
+- タイプセーフプリキュア: :star: :star:
     - プリキュアモナド作成完了。
 - Idrisのチュートリアル: :star:
 - 筋トレ: :muscle:
