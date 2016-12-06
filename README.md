@@ -13,7 +13,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - タイプセーフプリキュア: :star:
 - Idrisのチュートリアル: :star:
-- 英語動画: Compilerの授業: :flag-uk:
+- 英語動画: Compilerの授業: :uk:
 
 # 2016/12/05
 
