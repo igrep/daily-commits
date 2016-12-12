@@ -13,7 +13,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - タイプセーフプリキュア: :star:
 - Idrisのチュートリアル: :star:
-- 筋トレ: :muscle: :muscle:
+- 筋トレ: :muscle:
 
 # 2016/12/11
 
