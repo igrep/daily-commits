@@ -14,7 +14,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - タイプセーフプリキュア: :star:
 - Idrisのチュートリアル: :star:
 - 筋トレ: :muscle:
-- 英語リスニング: https://changelog.com/spotlight/1 :flag-uk:
+- 英語リスニング: https://changelog.com/spotlight/1 :uk:
 
 # 2016/12/11
 
