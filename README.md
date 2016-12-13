@@ -12,6 +12,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 # 2016/12/12
 
 - タイプセーフプリキュア: :star:
+- ファイルの重複を見つけるツール: :star:
 - Idrisのチュートリアル: :star:
 - 筋トレ: :muscle:
 - 英語リスニング: https://changelog.com/spotlight/1 :uk:
