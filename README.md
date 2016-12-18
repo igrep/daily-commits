@@ -9,6 +9,13 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016/12/18
+
+- タイプセーフプリキュア: :star: :star:
+    - 一旦完了。[Advent Calendarの記事](http://qiita.com/igrep/items/5496fa405fae00b5a737)も書けた。
+- Idrisのチュートリアル: :star:
+- 筋トレ: :muscle:
+
 # 2016/12/17
 
 - タイプセーフプリキュア: :star:
