@@ -13,6 +13,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - HaskellのIOを説明する話: :star:
 - Idrisのチュートリアル: :star:
+- 英語動画: Compilerの授業: :uk:
+- 筋トレ: :muscle:
+
+# 2016/12/20
+
+- HaskellのIOを説明する話: :star:
+- Idrisのチュートリアル: :star:
 - ファイルの重複を見つけるツール: :star:
 - 筋トレ: :muscle:
 
