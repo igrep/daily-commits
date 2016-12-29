@@ -9,6 +9,17 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2016/12/29
+
+- Idrisのチュートリアル: :star:
+- igrep-cashbook: :star:
+- ファイルの重複を見つけるツール: :star: :star:
+    - 先日考えたアルゴリズムの有効さが少しずつ確信できてきた。
+- 筋トレ: :muscle:
+
+その他、見つけたことを記事にしたり。
+http://qiita.com/igrep/items/d36de71471b295a58b67
+
 # 2016/12/28
 
 - Idrisのチュートリアル: :star:
