@@ -9,6 +9,15 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+
+# 2017/01/06
+
+- Idrisのチュートリアル: :star:
+- igrep-cashbook: :star:
+- 筋トレ: :muscle:
+- ファイルの重複を見つけるツール: :star:
+- 英語動画: [Category Theories for Working Hackers](https://www.infoq.com/presentations/category-theory-propositions-principle?utm_source=infoqEmail&utm_medium=SpecialNL_EditorialContent&utm_campaign=01052017_SpecialNL): :uk:
+
 # 2017/01/05
 
 - Idrisのチュートリアル: :star:
