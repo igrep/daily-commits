@@ -13,6 +13,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - [Category Theory (Oxford Logic Guides)](https://people.mpi-sws.org/~dreyer/courses/catlogic/awodey.pdf): :star:
 - igrep-cashbook: :star:
+    - 一旦完了
+- ファイルの重複を見つけるツール: :star:
+
+# 2017/01/13
+
+- [Category Theory (Oxford Logic Guides)](https://people.mpi-sws.org/~dreyer/courses/catlogic/awodey.pdf): :star:
+- igrep-cashbook: :star:
 - 筋トレ: :muscle:
 - 股割: :muscle:
 - 英語動画: [Category Theories for Working Hackers](https://www.infoq.com/presentations/category-theory-propositions-principle?utm_source=infoqEmail&utm_medium=SpecialNL_EditorialContent&utm_campaign=01052017_SpecialNL): :uk:
