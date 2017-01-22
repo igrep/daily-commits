@@ -9,6 +9,15 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2017/01/21
+
+- [Category Theory (Oxford Logic Guides)](https://people.mpi-sws.org/~dreyer/courses/catlogic/awodey.pdf): :star:
+- ファイルの重複を見つけるツール: :star:
+    - プロファイルをとって、ボトルネックを確認した。
+        - 意外にもZipperとして使っているSeqを読む処理が、全体の18%も占めていることがわかってびっくり。fumievalさんいわくSeqは扱いが難しいらしく、リストの便利なバージョンとして使うには向かないらしい。
+        - あと、案の定Rose Treeの子ノードとして使っているリストの処理に時間がかかっていた。
+            - これもfumievalさんに聞いたことだが、「Cofree」がRose Treeの子ノードの部分を抽象化したものになっているので、使うといいかもしれない。
+
 # 2017/01/20
 
 - [Category Theory (Oxford Logic Guides)](https://people.mpi-sws.org/~dreyer/courses/catlogic/awodey.pdf): :star:
