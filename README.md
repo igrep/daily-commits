@@ -12,6 +12,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 # 2017/01/29
 
 - [Category Theory (Oxford Logic Guides)](https://people.mpi-sws.org/~dreyer/courses/catlogic/awodey.pdf): :star:
+- ソースパッケージからPDFを作るツール :star:
+- 筋トレ: :muscle:
+
+# 2017/01/29
+
+- [Category Theory (Oxford Logic Guides)](https://people.mpi-sws.org/~dreyer/courses/catlogic/awodey.pdf): :star:
 - ファイルの重複を見つけるツール: :star:
     - よくわからない挙動をより簡単に再現するためのテストケース追加。
 - タイプセーフプリキュア: :star:
