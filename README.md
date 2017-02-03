@@ -9,7 +9,22 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
-# 2017/01/31 - 2017/02/01
+# 2017/02/02
+
+- [Category Theory (Oxford Logic Guides)](https://people.mpi-sws.org/~dreyer/courses/catlogic/awodey.pdf): :star:
+- ファイルの重複を見つけるツール: :star:
+    - テストケースを修正して、重複がないファイル群でも、3行以上のファイルだとバグることに気づいた。少しずつバグの正体に気づけてきた。
+- ソースパッケージからPDFを作るツール :star:
+- タイプセーフプリキュア: :star:
+- 筋トレ: :muscle:
+
+# 2017/02/01
+
+- [Category Theory (Oxford Logic Guides)](https://people.mpi-sws.org/~dreyer/courses/catlogic/awodey.pdf): :star:
+- ソースパッケージからPDFを作るツール :star:
+- 筋トレ: :muscle:
+
+# 2017/01/31
 
 - [Category Theory (Oxford Logic Guides)](https://people.mpi-sws.org/~dreyer/courses/catlogic/awodey.pdf): :star:
 - ソースパッケージからPDFを作るツール :star:
