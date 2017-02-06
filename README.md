@@ -9,13 +9,20 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2017/02/06
+
+- ソースパッケージからPDFを作るツール: :star:
+- 筋トレ: :muscle:
+- 股割: :muscle:
+
 # 2017/02/05
 
 - [Category Theory (Oxford Logic Guides)](https://people.mpi-sws.org/~dreyer/courses/catlogic/awodey.pdf): :star:
 - [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
 - タイプセーフプリキュア: :star:
-- ソースパッケージからPDFを作るツール :star:
-- 筋トレ: :muscle: :muscle:
+- ソースパッケージからPDFを作るツール: :star:
+- 筋トレ: :muscle: :muscle: :muscle:
+    - 久々にジムに行った
 - 股割: :muscle:
 
 # 2017/02/04
@@ -40,25 +47,25 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - [Category Theory (Oxford Logic Guides)](https://people.mpi-sws.org/~dreyer/courses/catlogic/awodey.pdf): :star:
 - ファイルの重複を見つけるツール: :star:
     - テストケースを修正して、重複がないファイル群でも、3行以上のファイルだとバグることに気づいた。少しずつバグの正体に気づけてきた。
-- ソースパッケージからPDFを作るツール :star:
+- ソースパッケージからPDFを作るツール: :star:
 - タイプセーフプリキュア: :star:
 - 筋トレ: :muscle:
 
 # 2017/02/01
 
 - [Category Theory (Oxford Logic Guides)](https://people.mpi-sws.org/~dreyer/courses/catlogic/awodey.pdf): :star:
-- ソースパッケージからPDFを作るツール :star:
+- ソースパッケージからPDFを作るツール: :star:
 - 筋トレ: :muscle:
 
 # 2017/01/31
 
 - [Category Theory (Oxford Logic Guides)](https://people.mpi-sws.org/~dreyer/courses/catlogic/awodey.pdf): :star:
-- ソースパッケージからPDFを作るツール :star:
+- ソースパッケージからPDFを作るツール: :star:
 
 # 2017/01/30
 
 - [Category Theory (Oxford Logic Guides)](https://people.mpi-sws.org/~dreyer/courses/catlogic/awodey.pdf): :star:
-- ソースパッケージからPDFを作るツール :star:
+- ソースパッケージからPDFを作るツール: :star:
 - 筋トレ: :muscle:
 
 # 2017/01/29
@@ -68,7 +75,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - よくわからない挙動をより簡単に再現するためのテストケース追加。
 - タイプセーフプリキュア: :star:
     - 魔法つかいプリキュア！最終話にキラキラ☆プリキュア アラモードの主人公が出てきたので追加し始めた。
-- ソースパッケージからPDFを作るツール :star:
+- ソースパッケージからPDFを作るツール: :star:
 
 # 2017/01/28
 
@@ -80,7 +87,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 # 2017/01/27
 
 - [Category Theory (Oxford Logic Guides)](https://people.mpi-sws.org/~dreyer/courses/catlogic/awodey.pdf): :star:
-- ソースパッケージからPDFを作るツール :star:
+- ソースパッケージからPDFを作るツール: :star:
 - 筋トレ: :muscle:
 
 # 2017/01/26
@@ -88,7 +95,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - [Category Theory (Oxford Logic Guides)](https://people.mpi-sws.org/~dreyer/courses/catlogic/awodey.pdf): :star:
 - ファイルの重複を見つけるツール: :star:
     - デバッグコードを増やしてログを見たところ、どうも総じて意図しない挙動をしているように見える。
-- ソースパッケージからPDFを作るツール :star:
+- ソースパッケージからPDFを作るツール: :star:
 - 筋トレ: :muscle:
 
 # 2017/01/25
@@ -128,12 +135,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 # 2017/01/16 - 2017/01/19
 
 - [Category Theory (Oxford Logic Guides)](https://people.mpi-sws.org/~dreyer/courses/catlogic/awodey.pdf): :star:
-- ソースパッケージからPDFを作るツール :star:
+- ソースパッケージからPDFを作るツール: :star:
 
 # 2017/01/15
 
 - [Category Theory (Oxford Logic Guides)](https://people.mpi-sws.org/~dreyer/courses/catlogic/awodey.pdf): :star:
-- ソースパッケージからPDFを作るツール :star:
+- ソースパッケージからPDFを作るツール: :star:
 - ファイルの重複を見つけるツール: :star:
     - ようやく、ランタイムエラーを起こさずに中間データを作れるよう実装できた。しかし実行速度が非常に遅い。
 - 筋トレ: :muscle:
