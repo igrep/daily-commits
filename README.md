@@ -9,11 +9,22 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2017/02/13
+
+- ファイルの重複を見つけるツール: :star:
+    - どうやらまだassertion failureするケースは完璧に回避できていないらしい。そこで新しいテストを追加する前にテストコードのリファクタリングをした。
+- ソースパッケージからPDFを作るツール: :star:
+- [Category Theory (Oxford Logic Guides)](https://people.mpi-sws.org/~dreyer/courses/catlogic/awodey.pdf): :star:
+- [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
+- 筋トレ: :muscle:
+- 股割: :muscle:
+
 # 2017/02/11 - 2017/02/12
 
 - ファイルの重複を見つけるツール: :star:
     - 2017/02/11: 多分一つバグを直せた。後一つ、なのかな...。
     - 2017/02/12: また一つ直せた。ただ、それとともに別のバグも発覚し、別の問題も検討する必要性も感じられてきた。
+        - 中間データであるhunk treeにおいて、同じhunkから複数のブランチを作成可能な場合、どこに配置するのが適切か判定するロジックをもう少し細かく考えた方がいいような気がする。
 - [Category Theory (Oxford Logic Guides)](https://people.mpi-sws.org/~dreyer/courses/catlogic/awodey.pdf): :star:
 - [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
 - 筋トレ: :muscle:
