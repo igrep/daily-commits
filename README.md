@@ -9,10 +9,19 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2017/02/19
+
+- ファイルの重複を見つけるツール: :star:
+    - あまり進まず...。バグ探しに思ったよりも苦戦。
+- ソースパッケージからPDFを作るツール: :star:
+- [Category Theory (Oxford Logic Guides)](https://people.mpi-sws.org/~dreyer/courses/catlogic/awodey.pdf): :star:
+- [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
+
 # 2017/02/18
 
 - ファイルの重複を見つけるツール: :star:
-- [「JavaでMonadをはじめからていねいに」を修正](https://github.com/igrep/igreque.info/pull/8)
+- [「JavaでMonadをはじめからていねいに」を修正](https://github.com/igrep/igreque.info/pull/8): :star:
+    - 完了。
 - [Category Theory (Oxford Logic Guides)](https://people.mpi-sws.org/~dreyer/courses/catlogic/awodey.pdf): :star:
 - [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
 
