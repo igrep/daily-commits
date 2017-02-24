@@ -11,6 +11,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 # 2017/02/24
 
+- ソースパッケージからPDFを作るツール: :star:
+- [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
+
+# 2017/02/23
+
 - [Category Theory (Oxford Logic Guides)](https://people.mpi-sws.org/~dreyer/courses/catlogic/awodey.pdf): :star:
 - [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
 
