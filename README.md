@@ -15,6 +15,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
 - 筋トレ: :muscle:
 - 股割: :muscle:
+- その他、「ファイルの重複を見つけるツール」のデバッグのために方法を少し調査。
 
 # 2017/02/26
 
