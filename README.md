@@ -9,6 +9,17 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2017/03/05
+
+- ファイルの重複を見つけるツール: :star:
+    - [hood](https://hackage.haskell.org/package/hood)というデバッグ用のライブラリーを試すも、どうやら`Generic`の制限により、`HashMap`や`IntMap`など、コンストラクターを公開していない型には使用できないらしい。つらすぎる。
+- オプションパーサー兼設定ファイルリーダーみたいなやつ: :star:
+    - ある程度書いてみたけどやっぱまだ考えがまとまらないかなー。
+- [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
+- [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
+- 筋トレ: :muscle: :muscle:
+    - ジムに行った
+
 # 2017/03/04
 
 - [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
