@@ -11,6 +11,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 # 2017/03/05
 
+- 作りながら学ぶHaskell入門: :star:
+- [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
+- [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
+- 股割: :muscle:
+
+# 2017/03/05
+
 - ファイルの重複を見つけるツール: :star:
     - [hood](https://hackage.haskell.org/package/hood)というデバッグ用のライブラリーを試すも、どうやら`Generic`の制限により、`HashMap`や`IntMap`など、コンストラクターを公開していない型には使用できないらしい。つらすぎる。
 - オプションパーサー兼設定ファイルリーダーみたいなやつ: :star:
