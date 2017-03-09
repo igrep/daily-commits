@@ -14,6 +14,8 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - 作りながら学ぶHaskell入門: :star:
 - Haskell向けデバッガー: :star:
     - 参考、あるいは改善するために、[hood](https://github.com/ku-fpg/hood/blob/master/Debug/Hood/Observe.hs)のソースを読んでた。
+- ソースパッケージからPDFを作るツール: :star:
+    - 簡単にドキュメントを作ったりして公開に向けて準備
 - [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
 - 筋トレ: :muscle:
 - 股割: :muscle:
