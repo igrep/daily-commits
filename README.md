@@ -9,6 +9,13 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2017/03/10
+
+- 作りながら学ぶHaskell入門: :star:
+- Haskell向けデバッガー: :star:
+    - 参考、あるいは改善するために、[hood](https://github.com/ku-fpg/hood/blob/master/Debug/Hood/Observe.hs)のソースを読んでた。
+- [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
+
 # 2017/03/09
 
 - Haskell向けデバッガー: :star:
