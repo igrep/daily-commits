@@ -9,6 +9,16 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2017/03/12
+
+- Haskell向けデバッガー: :star:
+    - [HashMapなどよく使われる型の`Debug.Hood.Observe.Observable`のインスタンスを適当に定義](https://gitlab.com/igrep/hood-observable-instances)。適当に作ったらそれっぽく出力できた。めっちゃ簡単に定義できた。なんで今までだれもやってこなかったんだろうと思うぐらい。昨日ぶち当たったバグを再現できなかったのが悔しいけど。。。 
+- タイプセーフプリキュア: :star:
+    - [キラキラ☆プリキュアアラモードのプリキュアを一通り追加](https://github.com/igrep/typesafe-precure/commit/d75934b98468e2e761cf26ab1719f96557872eb8)。5人変身の台詞がわかったところでリリースしようかね。
+- [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
+- 筋トレ: :muscle: :muscle:
+- 股割: :muscle:
+
 # 2017/03/11
 
 - ファイルの重複を見つけるツール: :star:
