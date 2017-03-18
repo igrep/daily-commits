@@ -15,6 +15,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell向けデバッガー: :star:
 - [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
 - [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
+- 筋トレ: :muscle:
+- 股割: :muscle:
+
+# 2017/03/16
+
+- 作りながら学ぶHaskell入門: :star:
+- Haskell向けデバッガー: :star:
+- [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
+- [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
 
 # 2017/03/15
 
