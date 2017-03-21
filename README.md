@@ -9,22 +9,31 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2017/03/20
+
+- Haskell向けデバッガー: :star:
+    - 更に再現コードを小さくできた。引数の数が一定数の関数がエラーを起こすと落ちる、ように見えてきた。
+- haskell-jpコミュニティ活動: :beers:
+    - 更にメンバーを集めたり、日本語名を決めるための議論をしたり。
+- [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
+- [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
+
 # 2017/03/18
 
 - Haskell向けデバッガー: :star:
     - 第40回Haskellもくもく会にて。大分再現コードを小さくできた。やっぱり例外処理に問題があるらしい。
-- haskell-jaコミュニティ活動: :beers:
+- haskell-jpコミュニティ活動: :beers:
     - 決起集会をやった。これから忙しくて面白くなりそうだ。
 - [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
 - [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
 
-# 2017/03/17
+# 2017/03/18
 
 - 作りながら学ぶHaskell入門: :star:
 - [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
 - [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
 
-# 2017/03/16
+# 2017/03/17
 
 - 作りながら学ぶHaskell入門: :star:
 - Haskell向けデバッガー: :star:
