@@ -11,6 +11,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 # 2017/03/25
 
+- Haskell向けデバッガー: :star:
+    - ようやくhoodのバグの最小再現ケースができたので[バグ報告](https://github.com/ku-fpg/hood/issues/5)
+
+# 2017/03/25
+
 - 作りながら学ぶHaskell入門: :star:
 - [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
 - [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
