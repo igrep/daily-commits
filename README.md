@@ -10,9 +10,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
 
-# 2017/03/29
+# 2017/03/29 - 2017/03/30
 
 - 作りながら学ぶHaskell入門: :star:
+- [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
+- [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
 
 # 2017/03/28
 
