@@ -9,6 +9,11 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2017/03/31
+
+- 作りながら学ぶHaskell入門: :star:
+- Haskell向けデバッガー: :star:
+  - バグの直し方について。例外がおきた場合に、eventのリストの先頭のNode IDが最後に採番した番号と合っているか確認するのはどうだろう。
 
 # 2017/03/29 - 2017/03/30
 
