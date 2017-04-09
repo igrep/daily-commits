@@ -9,6 +9,13 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2017/04/09
+
+- Haskell向けデバッガー: :star:
+    - [ようやくPull Requestを送った](https://github.com/ku-fpg/hood/pull/6)
+- [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
+- [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
+
 # 2017/04/07 - 2017/04/08
 
 - Haskell向けデバッガー: :star:
@@ -16,6 +23,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - 作りながら学ぶHaskell入門: :star:
 - [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
 - [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
+- Haskell本のレビュー: :blue_book:
 
 # 2017/04/06
 
