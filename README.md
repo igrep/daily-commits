@@ -9,6 +9,16 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2017/04/13
+
+- Haskell本のレビュー: :blue_book:
+- [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
+- [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
+- Haskell-jpコミュニティ活動: :beers:
+    - ブログの最初の記事などを執筆開始
+- 筋トレ: :muscle:
+- 股割: :muscle:
+
 # 2017/04/12
 
 - Haskell向けデバッガー: :star:
@@ -97,7 +107,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - 作りながら学ぶHaskell入門: :star:
 - Haskell向けデバッガー: :star:
   - バグの直し方について。例外がおきた場合に、eventのリストの先頭のNode IDが最後に採番した番号と合っているか確認するのはどうだろう。
-- haskell-jpコミュニティ活動: :beers:
+- Haskell-jpコミュニティ活動: :beers:
     - 東京Node学園24時限目にて古川会長にいろいろ教わった。
 
 # 2017/03/29 - 2017/03/30
@@ -164,7 +174,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - Haskell向けデバッガー: :star:
     - 更に再現コードを小さくできた。引数の数が一定数の関数がエラーを起こすと落ちる、ように見えてきた。
-- haskell-jpコミュニティ活動: :beers: :beers:
+- Haskell-jpコミュニティ活動: :beers: :beers:
     - 更にメンバーを集めたり、日本語名を決めるための議論をしたり。
 - [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
 - [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
@@ -173,7 +183,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - Haskell向けデバッガー: :star:
     - 第40回Haskellもくもく会にて。大分再現コードを小さくできた。やっぱり例外処理に問題があるらしい。
-- haskell-jpコミュニティ活動: :beers: :beers: :beers:
+- Haskell-jpコミュニティ活動: :beers: :beers: :beers:
     - 決起集会をやった。これから忙しくて面白くなりそうだ。
 - [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
 - [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
