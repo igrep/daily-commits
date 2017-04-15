@@ -15,6 +15,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
 - [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
 - Haskell-jpコミュニティ活動: :beers:
+    - ブログの最初の記事などを中
+
+# 2017/04/13
+
+- Haskell本のレビュー: :blue_book:
+- [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
+- [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
+- Haskell-jpコミュニティ活動: :beers:
     - ブログの最初の記事などを執筆開始
 - 筋トレ: :muscle:
 - 股割: :muscle:
