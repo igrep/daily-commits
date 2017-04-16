@@ -9,6 +9,16 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2017/04/16
+
+- Haskell本のレビュー: :blue_book:
+- [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
+- [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
+- Haskell-jpコミュニティ活動: :beers:
+    - [about\_usを書いた](https://github.com/haskell-jp/blog/pull/8)
+- 筋トレ: :muscle:
+    - 久々にジムに行った
+
 # 2017/04/14 - 2017/04/15
 
 - Haskell本のレビュー: :blue_book:
