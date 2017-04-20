@@ -11,6 +11,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 # 2017/04/19
 
+- Haskell本のレビュー: :blue_book:
+- [テキストファイルベースのなんちゃってタスクボード](https://gitlab.com/igrep/text_kanban.vim)
+    - 仕事で欲しい機能はだいたい実装。あとはドキュメントを充実させたり、仕様をもう少し厳密に定めてみるか。
+- [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
+- [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
+
+# 2017/04/19
+
 - Haskell-jpコミュニティ活動: :beers:
     - ようやく[about\_usのPR](https://github.com/haskell-jp/blog/pull/8)をマージ
 - Haskell本のレビュー: :blue_book:
