@@ -9,7 +9,17 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
-# 2017/04/19
+# 2017/04/21
+
+- Haskell本のレビュー: :blue_book:
+- [テキストファイルベースのなんちゃってタスクボード](https://gitlab.com/igrep/text_kanban.vim)
+    - 仕事で欲しい機能はだいたい実装。あとはドキュメントを充実させたり、仕様をもう少し厳密に定めてみるか。
+- [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
+- [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
+- タイプセーフプリキュア: :star:
+    - キラキラ☆プリキュアアラモードの5人変身追加。あとは5人浄化技ができたらリリース
+
+# 2017/04/20
 
 - Haskell本のレビュー: :blue_book:
 - [テキストファイルベースのなんちゃってタスクボード](https://gitlab.com/igrep/text_kanban.vim)
