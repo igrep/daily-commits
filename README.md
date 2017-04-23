@@ -11,6 +11,17 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 # 2017/04/22
 
+- タイプセーフプリキュア: :star:
+- Haskell-jpコミュニティ活動: :beers:
+    - https://github.com/haskell-jp/blog/pull/9
+- Haskell本のレビュー: :blue_book:
+- [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
+- [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
+- 筋トレ: :muscle:
+- 股割: :muscle:
+
+# 2017/04/22
+
 - [viewprofをWindowsで試す](https://github.com/maoe/viewprof/issues/1)
 - Haskell本のレビュー: :blue_book:
 - [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
