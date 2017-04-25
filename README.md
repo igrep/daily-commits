@@ -9,6 +9,19 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2017/04/25
+
+- Haskell向けデバッガー: :star:
+    - https://medium.com/space-leak-zoo/thunk-accumulating-record-3bf694c5b01 をヒントに久々にhoodのデバッグ。
+    - [適当に定義されてる型に!入れてStrictにしたら、まだメモリ不足で死ぬが、大分割当量は減ったらしい。](https://twitter.com/igrep/status/856870879896240130)
+    - [map . filterしてる箇所をmapMaybeにしつつ、Just $!してMaybeを作るところでサンクを溜めないようにしたら、これまでずっとメモリ消費量トップだった関数がそうでなくなった。実行時間の占める割合は更に増したみたいだけど。。。](https://twitter.com/igrep/status/856878332314517507)
+    - [そしてまだメモリ不足で死ぬ。これはもうそういうものとあきらめるか、もっと頑張るか。。。](https://twitter.com/igrep/status/856878625819418625)
+    - メモリ不足になる条件で`+RTS -M2G -hr -p -RTS`としたらSEGVることがあることがわかった。必ずそうなるわけじゃないけど、そうならないケースにしても、サイレントに死ぬのはけしからん。これもバグ報告かな。。。再現ケースもっと小さくしたいところだけど。。。
+- Haskell-jpコミュニティ活動: :beers:
+- 作りながら学ぶHaskell入門: :star:
+- Haskell本のレビュー: :blue_book:
+- [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
+
 # 2017/04/24
 
 - Haskell-jpコミュニティ活動: :beers:
