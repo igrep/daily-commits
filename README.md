@@ -9,6 +9,15 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2017/04/26
+
+- [viewprofをWindowsで試す](https://github.com/maoe/viewprof/issues/1)
+    - [とりあえず問題は直せたっぽい](https://github.com/maoe/viewprof/pull/5)
+- Haskell-jpコミュニティ活動: :beers:
+- 作りながら学ぶHaskell入門: :star:
+- Haskell本のレビュー: :blue_book:
+- [アート・オブ・コミュニティ](https://www.oreilly.co.jp/books/9784873114958/): :star:
+
 # 2017/04/25
 
 - Haskell向けデバッガー: :star:
