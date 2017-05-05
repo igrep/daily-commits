@@ -9,9 +9,9 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
-# 2017/05/03
+# 2017/05/03 - 2017/05/04
 
-- Haskell-jpコミュニティ活動: :beers:
+- Haskell-jpコミュニティ活動: :star:
     - 相互リンク集の作成開始
 - Haskell本のレビュー: :blue_book:
 - [アート・オブ・コミュニティ](https://www.oreilly.co.jp/books/9784873114958/): :star:
@@ -19,7 +19,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 # 2017/05/01 - 2017/05/02
 
-- Haskell-jpコミュニティ活動: :beers:
+- Haskell-jpコミュニティ活動: :star:
     - ロゴを少し修正したり、第1回Haskell-jpもくもく会のイベントページを作ったり
 - 作りながら学ぶHaskell入門: :star:
 - Haskell本のレビュー: :blue_book:
@@ -32,7 +32,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 # 2017/04/29
 
-- Haskell-jpコミュニティ活動: :beers:
+- Haskell-jpコミュニティ活動: :star:
 - 作りながら学ぶHaskell入門: :star:
 - Haskell本のレビュー: :blue_book:
 - [アート・オブ・コミュニティ](https://www.oreilly.co.jp/books/9784873114958/): :star:
@@ -45,14 +45,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - [map . filterしてる箇所をmapMaybeにしつつ、Just $!してMaybeを作るところでサンクを溜めないようにしたら、これまでずっとメモリ消費量トップだった関数がそうでなくなった。実行時間の占める割合は更に増したみたいだけど。。。](https://twitter.com/igrep/status/856878332314517507)
     - [そしてまだメモリ不足で死ぬ。これはもうそういうものとあきらめるか、もっと頑張るか。。。](https://twitter.com/igrep/status/856878625819418625)
     - メモリ不足になる条件で`+RTS -M2G -hr -p -RTS`としたらSEGVることがあることがわかった。必ずそうなるわけじゃないけど、そうならないケースにしても、サイレントに死ぬのはけしからん。これもバグ報告かな。。。再現ケースもっと小さくしたいところだけど。。。
-- Haskell-jpコミュニティ活動: :beers:
+- Haskell-jpコミュニティ活動: :star:
 - 作りながら学ぶHaskell入門: :star:
 - Haskell本のレビュー: :blue_book:
 - [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
 
 # 2017/04/24
 
-- Haskell-jpコミュニティ活動: :beers:
+- Haskell-jpコミュニティ活動: :star:
     - ウェブサイト公開前に細かい(?)調整。
 - 作りながら学ぶHaskell入門: :star:
     - hintでIOをコンパイルしたけどなぜか動かないので、runghcで評価するよう作り直し。
@@ -63,7 +63,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 # 2017/04/23
 
 - タイプセーフプリキュア: :star:
-- Haskell-jpコミュニティ活動: :beers:
+- Haskell-jpコミュニティ活動: :star:
     - https://github.com/haskell-jp/blog/pull/9
 - Haskell本のレビュー: :blue_book:
 - [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
@@ -100,7 +100,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 # 2017/04/19
 
-- Haskell-jpコミュニティ活動: :beers:
+- Haskell-jpコミュニティ活動: :star:
     - ようやく[about\_usのPR](https://github.com/haskell-jp/blog/pull/8)をマージ
 - Haskell本のレビュー: :blue_book:
 - [テキストファイルベースのなんちゃってタスクボード](https://gitlab.com/igrep/text_kanban.vim)
@@ -110,7 +110,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 # 2017/04/18
 
-- Haskell-jpコミュニティ活動: :beers:
+- Haskell-jpコミュニティ活動: :star:
 - Haskell本のレビュー: :blue_book:
 - [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
 - [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
@@ -120,7 +120,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell本のレビュー: :blue_book:
 - 作りながら学ぶHaskell入門: :star:
     - hintが思ったよりうまく動かず、苦戦。ようやく動いたと思いきや、なぜか何も出力されない...。
-- Haskell-jpコミュニティ活動: :beers:
+- Haskell-jpコミュニティ活動: :star:
 - [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
 - [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
 
@@ -129,7 +129,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell本のレビュー: :blue_book:
 - [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
 - [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
-- Haskell-jpコミュニティ活動: :beers:
+- Haskell-jpコミュニティ活動: :star:
     - [about\_usを書いた](https://github.com/haskell-jp/blog/pull/8)
 - 筋トレ: :muscle:
     - 久々にジムに行った
@@ -139,7 +139,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell本のレビュー: :blue_book:
 - [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
 - [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
-- Haskell-jpコミュニティ活動: :beers:
+- Haskell-jpコミュニティ活動: :star:
     - ブログの最初の記事などを執筆中
     - 「HaskellJP wiki」から「Haskell-jp wiki」への文言変更完了。
 
@@ -148,7 +148,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell本のレビュー: :blue_book:
 - [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
 - [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
-- Haskell-jpコミュニティ活動: :beers:
+- Haskell-jpコミュニティ活動: :star:
     - ブログの最初の記事などを執筆開始
 - 筋トレ: :muscle:
 - 股割: :muscle:
@@ -241,7 +241,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - 作りながら学ぶHaskell入門: :star:
 - Haskell向けデバッガー: :star:
   - バグの直し方について。例外がおきた場合に、eventのリストの先頭のNode IDが最後に採番した番号と合っているか確認するのはどうだろう。
-- Haskell-jpコミュニティ活動: :beers:
+- Haskell-jpコミュニティ活動: :star:
     - 東京Node学園24時限目にて古川会長にいろいろ教わった。
 
 # 2017/03/29 - 2017/03/30
@@ -308,7 +308,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - Haskell向けデバッガー: :star:
     - 更に再現コードを小さくできた。引数の数が一定数の関数がエラーを起こすと落ちる、ように見えてきた。
-- Haskell-jpコミュニティ活動: :beers: :beers:
+- Haskell-jpコミュニティ活動: :star: :star:
     - 更にメンバーを集めたり、日本語名を決めるための議論をしたり。
 - [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
 - [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
@@ -317,7 +317,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - Haskell向けデバッガー: :star:
     - 第40回Haskellもくもく会にて。大分再現コードを小さくできた。やっぱり例外処理に問題があるらしい。
-- Haskell-jpコミュニティ活動: :beers: :beers: :beers:
+- Haskell-jpコミュニティ活動: :star: :star: :star:
     - 決起集会をやった。これから忙しくて面白くなりそうだ。
 - [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
 - [Haskell Relational Recordのソース](https://github.com/khibino/haskell-relational-record): :star:
