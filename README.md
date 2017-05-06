@@ -9,10 +9,17 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2017/05/05
+
+- Haskell-jpコミュニティ活動: :star:
+    - [相互リンク集のPull Request](https://github.com/haskell-jp/blog/pull/20)を出した。今のところ追加希望者が一人もいなくて悲しい :cry:
+- 筋トレ: :muscle:
+- 股割: :muscle:
+
 # 2017/05/03 - 2017/05/04
 
 - Haskell-jpコミュニティ活動: :star:
-    - 相互リンク集の作成開始
+    - 相互リンク集の作成
 - Haskell本のレビュー: :blue_book:
 - [アート・オブ・コミュニティ](https://www.oreilly.co.jp/books/9784873114958/): :star:
 - [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668): :star:
