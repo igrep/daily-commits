@@ -12,6 +12,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 # 2017/06/24
 
 - Haskellの記事: :star:
+    - ブラックジャックアプリケーション作りの事例を説明し続けるのに限界を感じてきたので、一旦戻って開発環境の構築から始めることに。案の定簡単にかける箇所なのでサクサクと進んだ。
+- [アート・オブ・コミュニティ](https://www.oreilly.co.jp/books/9784873114958/): :star:
+- [アジャイルレトロスペクティブズ 強いチームを育てる「ふりかえり」の手引き](https://estore.ohmsha.co.jp/titles/978427406698P): :star:
+
+# 2017/06/24
+
+- Haskellの記事: :star:
     - なかなか進まず...。
 - [アート・オブ・コミュニティ](https://www.oreilly.co.jp/books/9784873114958/): :star:
 - [アジャイルレトロスペクティブズ 強いチームを育てる「ふりかえり」の手引き](https://estore.ohmsha.co.jp/titles/978427406698P): :star:
