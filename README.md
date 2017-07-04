@@ -9,6 +9,14 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2017/07/04
+
+- Haskellの記事: :star:
+- [haddockのバグ修正](https://github.com/haskell/haddock/pull/566):
+    - ようやくマージしてもらえた。いろいろ助けてもらいながらだったのでありがたい。しかしunstableなソフトウェアをいじるのは大変ね...。はていくつのバグに悩まされたか...。
+- [アート・オブ・コミュニティ](https://www.oreilly.co.jp/books/9784873114958/): :star:
+- [アジャイルレトロスペクティブズ 強いチームを育てる「ふりかえり」の手引き](https://estore.ohmsha.co.jp/titles/978427406698P): :star:
+
 # 2017/07/01 - 2017/07/03
 
 - Haskellの記事: :star:
