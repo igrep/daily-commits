@@ -21,6 +21,10 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - ようやく苦戦していた節を書き切る。ソシャゲも適度にやりながら書けるようになってきた。もちろん、それだけやりこんで夢中になる要素がなくなってしまった、ということでもあるけど...。
 - [Notes on category theory in the context of (functional) programming](https://github.com/jwbuurlage/category-theory-programmers): :star:
 - [アート・オブ・コミュニティ](https://www.oreilly.co.jp/books/9784873114958/): :star:
+- Haskellコミュニティー活動 :star:
+    - takenobuさんの書いていただいた記事のレビュー
+        - <https://github.com/haskell-jp/blog/pull/26> 
+        - <https://github.com/haskell-jp/blog/pull/27>
 
 # 2017/08/05
 
