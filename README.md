@@ -9,6 +9,12 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実際にコミットした日と日記の日付が必ずしも一致しない点はご容赦を。
 
+# 2017/08/27
+
+- Haskellコミュニティー活動 :star:
+    - 明日[Haskell入門者LT会](https://shinjukuhs.connpass.com/event/58936/)に向けて準備
+- [Notes on category theory in the context of (functional) programming](https://github.com/jwbuurlage/category-theory-programmers): :star:
+
 # 2017/08/26
 
 - タイプセーフプリキュア: :star:
