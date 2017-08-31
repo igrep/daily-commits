@@ -9,10 +9,16 @@ Execute this vim command to push updates of this file:
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 実
 
-# 2017/08/30
+# 2017/08/31
 
 - Haskellの記事: :star:
     - 編集して修正していただいた内容のレビュー
+- [Notes on category theory in the context of (functional) programming](https://github.com/jwbuurlage/category-theory-programmers): :star:
+
+# 2017/08/30
+
+- タイプセーフプリキュア: :star:
+    - 久々に[intellij-haskell](https://github.com/rikvdkleij/intellij-haskell)を試してみてる。とりあえずビルドはできたけど、どうもhoogle databaseの作成に失敗するらしい。
 - [Notes on category theory in the context of (functional) programming](https://github.com/jwbuurlage/category-theory-programmers): :star:
 
 # 2017/08/29
