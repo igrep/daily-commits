@@ -13,3 +13,5 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - タイプセーフプリキュア: :star:
     - 久々に[intellij-haskell](https://github.com/rikvdkleij/intellij-haskell)を試してみてる。
     - intellij-haskell, やっぱり意図通りに動いてないっぽい...。やっぱりintero-neovimを試すかなぁ。
+- [Notes on category theory in the context of (functional) programming](https://github.com/jwbuurlage/category-theory-programmers): :star:
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
