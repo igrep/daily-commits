@@ -8,6 +8,13 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2017/09/02
+
+- タイプセーフプリキュア: :star:
+    - タイプセーフプリキュアで[利用できそうだったので直してみた](https://github.com/nakaji-dayo/api-field-json-th/pull/3)ものの、やっぱり若干違った。api-field-json-thはアンダースコアの部分まで含めることを想定しているらしい。そもそも非常に小さな関数なので、コピペして作り直して使うことに。
+- [Notes on category theory in the context of (functional) programming](https://github.com/jwbuurlage/category-theory-programmers): :star:
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+
 # 2017/09/01
 
 - タイプセーフプリキュア: :star:
