@@ -12,6 +12,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - タイプセーフプリキュア: cure-indexのJSONの設計を一通り終える
 
+# 2017/09/04
+
+- タイプセーフプリキュア: :star:
+- [Notes on category theory in the context of (functional) programming](https://github.com/jwbuurlage/category-theory-programmers): :star:
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+
 # 2017/09/02 - 2017/09/03
 
 - タイプセーフプリキュア: :star:
