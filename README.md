@@ -13,13 +13,18 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - タイプセーフプリキュア: cure-indexのJSONの設計を一通り終える
 - Haskellの記事: 第3回の追加内容の執筆完了
 
-# 2017/09/06
+# 2017/09/07
 
 - Haskellの記事: :star:
     - 最終確認や、公開するリポジトリーの用意
 - [Notes on category theory in the context of (functional) programming](https://github.com/jwbuurlage/category-theory-programmers): :star:
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963): :star:
-- [わかる！ドメイン駆動設計 ～もちこちゃんの大冒険～【C91新刊】](https://booth.pm/ja/items/392260): :star:
+
+# 2017/09/06
+
+- タイプセーフプリキュア: :star:
+- [Notes on category theory in the context of (functional) programming](https://github.com/jwbuurlage/category-theory-programmers): :star:
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963): :star:
 
 # 2017/09/05
 
