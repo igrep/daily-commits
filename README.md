@@ -19,7 +19,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Template HaskellのGHCのバージョン間の非互換性が発覚し、新たに互換用ライブラリーを作る必要性が出てきた...。
 - [Notes on category theory in the context of (functional) programming](https://github.com/jwbuurlage/category-theory-programmers)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
-- [わかる！ドメイン駆動設計 ～もちこちゃんの大冒険～【C91新刊】 - TechBooster - BOOTH](https://booth.pm/ja/items/392260)
+- [わかる！ドメイン駆動設計 ～もちこちゃんの大冒険～【C91新刊】](https://booth.pm/ja/items/392260)
 
 # 2017/09/07
 
