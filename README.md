@@ -8,10 +8,28 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2017/09/16 までの目標
+
+前回から引き続き。昨日時点のペースでそれぐらいかかりそう。
+
+- タイプセーフプリキュア: cure-indexのJSONの設計を一通り終える
+- Haskellの記事: 第3回の追加内容の執筆完了
+
+# 2017/09/09
+
+- Haskellの記事
+    - 第3回の加筆開始
+- [Notes on category theory in the context of (functional) programming](https://github.com/jwbuurlage/category-theory-programmers)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [わかる！ドメイン駆動設計 ～もちこちゃんの大冒険～【C91新刊】](https://booth.pm/ja/items/392260)
+
 # 2017/09/09 までの目標
 
 - タイプセーフプリキュア: cure-indexのJSONの設計を一通り終える
 - Haskellの記事: 第3回の追加内容の執筆完了
+
+達成できず。途中でHaskellの記事の加筆があったり、考えてたら想像以上に多くなりそうな内容であったりで。  
+あと、Template Haskellの互換性問題にはまったりで。
 
 # 2017/09/08
 
