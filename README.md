@@ -16,6 +16,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Haskellの記事で手一杯...。
 - Haskellの記事: 第3回の追加内容の執筆完了
 
+# 2017/09/15
+
+- Haskellの記事
+    - 第3回の加筆分執筆中。
+
 # 2017/09/12 - 2017/09/14
 
 - Haskellの記事
