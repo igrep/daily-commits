@@ -8,6 +8,14 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2017/09/23 までの目標
+
+前回から引き続き。今度こそ達成せねば。
+
+- タイプセーフプリキュア: cure-indexのJSONの設計を一通り終える
+    - Haskellの記事で手一杯...。
+- Haskellの記事: 第3回の追加内容の執筆完了
+
 # 2017/09/16 までの目標
 
 前回から引き続き。昨日時点のペースでそれぐらいかかりそう。
@@ -15,6 +23,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - ~~タイプセーフプリキュア: cure-indexのJSONの設計を一通り終える~~
     - Haskellの記事で手一杯...。
 - Haskellの記事: 第3回の追加内容の執筆完了
+    - 達成できず。仕事が忙しかったり、想像以上に作戦を決めるのに時間がかかったりで。あとは朝の時間遊びすぎなのかな...。
+
+# 2017/09/16
+
+- Haskellの記事
+    - 第3回の加筆分執筆中だが、今週の残業が多かったためか、疲れでほとんど進まず。
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [わかる！ドメイン駆動設計 ～もちこちゃんの大冒険～【C91新刊】](https://booth.pm/ja/items/392260)
+- [Functional Pearl: Implicit Configurations](http://okmij.org/ftp/Haskell/tr-15-04.pdf)
 
 # 2017/09/15
 
