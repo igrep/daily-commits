@@ -13,8 +13,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 前回から引き続き。今度こそ達成せねば。
 
 - タイプセーフプリキュア: cure-indexのJSONの設計を一通り終える
-    - Haskellの記事で手一杯...。
 - Haskellの記事: 第3回の追加内容の執筆完了
+
+# 2017/09/17
+
+- Haskellの記事
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [わかる！ドメイン駆動設計 ～もちこちゃんの大冒険～【C91新刊】](https://booth.pm/ja/items/392260)
+- [Functional Pearl: Implicit Configurations](http://okmij.org/ftp/Haskell/tr-15-04.pdf)
 
 # 2017/09/16 までの目標
 
