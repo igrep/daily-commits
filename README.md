@@ -15,6 +15,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - タイプセーフプリキュア: cure-indexのJSONの設計を一通り終える
 - Haskellの記事: 第3回の追加内容の執筆完了
 
+# 2017/09/22
+
+- Haskellの記事
+    - とりあえず脱稿
+
 # 2017/09/19 - 2017/09/21
 
 - Haskellの記事
