@@ -8,6 +8,19 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2017/09/30 までの目標
+
+前回から引き続き。仕事も忙しいので今のペースだとそんな感じかなぁ、と。
+
+- タイプセーフプリキュア: cure-indexのJSONの設計を一通り終える
+
+# 2017/09/23
+
+- タイプセーフプリキュア: THの互換用ライブラリーがとりあえず実装できた。GitLabで作ることにしたのでGitLab CIでビルドする方法を調べてた。
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [わかる！ドメイン駆動設計 ～もちこちゃんの大冒険～【C91新刊】](https://booth.pm/ja/items/392260)
+- [Functional Pearl: Implicit Configurations](http://okmij.org/ftp/Haskell/tr-15-04.pdf)
+
 # 2017/09/23 までの目標
 
 前回から引き続き。今度こそ達成せねば。
