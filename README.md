@@ -14,9 +14,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - タイプセーフプリキュア: cure-indexのJSONの設計を一通り終える
 
-# 2017/09/23
+# 2017/09/25
 
-- タイプセーフプリキュア: THの互換用ライブラリーがとりあえず実装できた。GitLabで作ることにしたのでGitLab CIでビルドする方法を調べてた。
+- タイプセーフプリキュア: 別件で質問投稿サイトに投稿する内容を考えたりしていたため、ほとんど進まず。
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [わかる！ドメイン駆動設計 ～もちこちゃんの大冒険～【C91新刊】](https://booth.pm/ja/items/392260)
+- [Functional Pearl: Implicit Configurations](http://okmij.org/ftp/Haskell/tr-15-04.pdf)
+
+# 2017/09/24
+
+- タイプセーフプリキュア: GitLab CIでビルドし、[公開](https://hackage.haskell.org/package/th-strict-compat)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
 - [わかる！ドメイン駆動設計 ～もちこちゃんの大冒険～【C91新刊】](https://booth.pm/ja/items/392260)
 - [Functional Pearl: Implicit Configurations](http://okmij.org/ftp/Haskell/tr-15-04.pdf)
