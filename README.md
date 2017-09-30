@@ -8,11 +8,28 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2017/10/07 までの目標
+
+- タイプセーフプリキュア:
+    - cure-indexのJSONの設計を一通り終える
+    - キラキラ☆プリキュアアラモードの不足しているキャラ・浄化技・返信を定義する。
+
 # 2017/09/30 までの目標
 
 前回から引き続き。仕事も忙しいので今のペースだとそんな感じかなぁ、と。
 
 - タイプセーフプリキュア: cure-indexのJSONの設計を一通り終える
+    - 途中で新たに技術的課題が見つかったりして、残念ながら完成とまでは行かなかったものの、`Transformation`型クラスの定義を集める方法まで見つけたので、ほぼほぼ設計はできたと言える。残りの`Purification`型クラスはほとんど同じ要領でできるはずなので。
+    - レビューのタスクも結構重かったしね。
+
+# 2017/09/30
+
+- タイプセーフプリキュア
+- Haskellの記事: 第3回のレビュー
+    - 最後の校正
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [Functional Pearl: Implicit Configurations](http://okmij.org/ftp/Haskell/tr-15-04.pdf)
+- [Haskell入門 関数型プログラミング言語の基礎と実践](http://gihyo.jp/book/2017/978-4-7741-9237-6)
 
 # 2017/09/29
 
