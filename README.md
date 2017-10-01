@@ -14,6 +14,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - cure-indexのJSONの設計を一通り終える
     - キラキラ☆プリキュアアラモードの不足しているキャラ・浄化技・返信を定義する。
 
+# 2017/10/01
+
+- タイプセーフプリキュア
+    - `Transformation` 型クラスの定義を集める処理の実装まで。
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [Functional Pearl: Implicit Configurations](http://okmij.org/ftp/Haskell/tr-15-04.pdf)
+- [Haskell入門 関数型プログラミング言語の基礎と実践](http://gihyo.jp/book/2017/978-4-7741-9237-6)
+
 # 2017/09/30 までの目標
 
 前回から引き続き。仕事も忙しいので今のペースだとそんな感じかなぁ、と。
