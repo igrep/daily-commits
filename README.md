@@ -12,12 +12,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - タイプセーフプリキュア:
     - cure-indexのJSONの設計を一通り終える
-    - キラキラ☆プリキュアアラモードの不足しているキャラ・浄化技・返信を定義する。
+    - キラキラ☆プリキュアアラモードの不足しているキャラ・浄化技・変身を定義する。
 
-# 2017/10/02
+# 2017/10/02 - 2017/10/03
 
 - タイプセーフプリキュア
-    - `Purification` 型クラスの途中まで。
+    - `Purification` をcure-indexに追加終了。
+    - <https://precure.ml/@igrep/429641>: typesafe-precureのcure-index （https://qiita.com/igrep/items/5496fa405fae00b5a737#%E8%BF%BD%E5%8A%A0%E3%81%97%E3%81%9F%E3%81%84%E6%A9%9F%E8%83%BD%E3%81%A8%E3%81%8B で言及している機能です）, 最初JSONを吐くだけのコマンドにしようかと思っていたんだけど、それだったらもういっそ別にコンパイル時にjsonファイルを吐いてリポジトリーにでもおいておけばいいじゃん、という結論に至ったのだけど、ファイル名をcure-index.json, pretty-cure-index.jsonにするとして、なんというディレクトリーに置くものか。
+indexではindex/cure-index.jsonとなるちょっと冗長だし。
+コンパイル時の生成物なので「gen(generatedの略)」というのが今一番の候補なんだけど、もっとキラキラな名前がないものか。
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
 - [Functional Pearl: Implicit Configurations](http://okmij.org/ftp/Haskell/tr-15-04.pdf)
 - [Haskell入門 関数型プログラミング言語の基礎と実践](http://gihyo.jp/book/2017/978-4-7741-9237-6)
