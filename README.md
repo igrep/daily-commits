@@ -8,11 +8,25 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2017/10/14 までの目標
+
+- EtaでAndroidアプリ作り:
+    - hello-world敵に最小限のアプリを1から作ってみようかな。
+
+# 2017/10/08
+
+- EtaでAndroidアプリ作り: どうもIntelliJのAndroidの設定がおかしかったらしく、直すのに手こずっていた。
+- Let's Noteの設定: 外からアクセスする設定や、sshdのセキュリティーの強化など、いろいろ積み残していた問題に手を着けることができた。Let's Note自体の設定はすんなりとできたのがうれしい。デスクトップPCを整備するときに作ったスクリプトがちゃんと動いている証拠だ。
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [Functional Pearl: Implicit Configurations](http://okmij.org/ftp/Haskell/tr-15-04.pdf)
+- [Haskell入門 関数型プログラミング言語の基礎と実践](http://gihyo.jp/book/2017/978-4-7741-9237-6)
+
 # 2017/10/07 までの目標
 
 - タイプセーフプリキュア:
     - cure-indexのJSONの設計を一通り終える
     - キラキラ☆プリキュアアラモードの不足しているキャラ・浄化技・変身を定義する。
+    - ちょうどいい感じに達成！
 
 # 2017/10/07
 
