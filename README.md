@@ -11,7 +11,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 # 2017/10/14 までの目標
 
 - EtaでAndroidアプリ作り:
-    - hello-world敵に最小限のアプリを1から作ってみようかな。
+    - hello-world的に最小限のアプリを1から作ってみようかな。
+
+# 2017/10/09
+
+- Haskellコミュニティー活動:
+    - HCAR 2017 Novemberの執筆に手を着けたり、Haskell-jpブログの自動デプロイ方法について検討したり。
 
 # 2017/10/08
 
