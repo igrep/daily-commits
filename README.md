@@ -13,6 +13,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - EtaでAndroidアプリ作り:
     - hello-world的に最小限のアプリを1から作ってみようかな。
 
+# 2017/10/11
+
+- Qiitaの記事: Oracle SQL Developer Tips:
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [Functional Pearl: Implicit Configurations](http://okmij.org/ftp/Haskell/tr-15-04.pdf)
+- [Haskell入門 関数型プログラミング言語の基礎と実践](http://gihyo.jp/book/2017/978-4-7741-9237-6)
+
 # 2017/10/09
 
 - Haskellコミュニティー活動:
