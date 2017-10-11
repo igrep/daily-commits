@@ -13,7 +13,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - EtaでAndroidアプリ作り:
     - hello-world的に最小限のアプリを1から作ってみようかな。
 
-# 2017/10/11
+# 2017/10/10 - 2017/10/11
 
 - Qiitaの記事: Oracle SQL Developer Tips:
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
