@@ -13,6 +13,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - EtaでAndroidアプリ作り:
     - hello-world的に最小限のアプリを1から作ってみようかな。
 
+# 2017/10/13
+
+- EtaでAndroidアプリ作り: [参考にしたページ](https://brianmckenna.org/blog/eta_android)のコードがビルドできるところまで確認。実機で動かすのは手こずりそう。問題のページではetaのコンパイラーを直接使っているが、私はetlasのコンパイル済み実行ファイルしか持っていないのだ。
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [Haskell入門 関数型プログラミング言語の基礎と実践](http://gihyo.jp/book/2017/978-4-7741-9237-6)
+
 # 2017/10/10 - 2017/10/12
 
 - Qiitaの記事: Oracle SQL Developer Tips:
