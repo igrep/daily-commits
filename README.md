@@ -14,6 +14,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - hello-world的に最小限のアプリを1から作ってみる。
     - できればウィジェットか何か
 
+# 2017/10/18
+
+- EtaでAndroidアプリ作り:
+    - gitterで、もう今日の時点で修正をしたという連絡が。その前にJava 7でソースからビルドしちゃった... :sweat_smile:
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [Haskell入門 関数型プログラミング言語の基礎と実践](http://gihyo.jp/book/2017/978-4-7741-9237-6)
+
 # 2017/10/17
 
 - EtaでAndroidアプリ作り:
