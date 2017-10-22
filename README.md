@@ -8,14 +8,22 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2017/10/28 までの目標
+
+- EtaでAndroidアプリ作り:
+    - 単純なウィジェットの作成
+    - GitHub APIをたたくコードを試す。
+
 # 2017/10/21 までの目標
 
 - EtaでAndroidアプリ作り:
     - hello-world的に最小限のアプリを1から作ってみる。
     - できればウィジェットか何か
+    - 結果: 半分達成。Eta側のインフラに二重三重のバグがあったらしく、サンプルを動かすだけで一苦労。ウィジェットは手を着けられず。
 
 # 2017/10/21
 
+- 長い休日出勤だったので、今日は読書以外できず。
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
 - [Haskell入門 関数型プログラミング言語の基礎と実践](http://gihyo.jp/book/2017/978-4-7741-9237-6)
 - Category Theory (Oxford Logic Guides)
