@@ -14,6 +14,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 単純なウィジェットの作成
     - GitHub APIをたたくコードを試す。
 
+# 2017/10/22 - 2017/10/23
+
+- EtaでAndroidアプリ作り:
+    - Widgetの実装方法を調べてサンプルをコピペ中。
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [Haskell入門 関数型プログラミング言語の基礎と実践](http://gihyo.jp/book/2017/978-4-7741-9237-6)
+- Category Theory (Oxford Logic Guides)
+
 # 2017/10/21 までの目標
 
 - EtaでAndroidアプリ作り:
