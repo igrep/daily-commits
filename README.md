@@ -14,7 +14,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 単純なウィジェットの作成
     - GitHub APIをたたくコードを試す。
 
-# 2017/10/25
+# 2017/10/25 - 2017-10-26
 
 - EtaでAndroidアプリ作り:
     - AppWidgetProviderの部分をEtaで書いてみてる。
