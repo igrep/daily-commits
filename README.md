@@ -14,6 +14,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 単純なウィジェットの作成
     - GitHub APIをたたくコードを試す。
 
+# 2017/10/27
+
+- EtaでAndroidアプリ作り:
+    - Widgetが書けたので試して見るも、Widgetを配置するときに実行時エラー。こちらは恐らくEtaは無関係なエラー。
+    - それからGitHub APIを試す最小コードも書けたものの、こちらは `etlas new-build` 時にエラー。これは間違いなくEtaの問題。最小コードを作ってバグ報告しなきゃ。
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [Haskell入門 関数型プログラミング言語の基礎と実践](http://gihyo.jp/book/2017/978-4-7741-9237-6)
+- Category Theory (Oxford Logic Guides)
+
 # 2017/10/25 - 2017-10-26
 
 - EtaでAndroidアプリ作り:
