@@ -8,11 +8,29 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2017/11/04 までの目標
+
+引き続き。
+- EtaでAndroidアプリ作り:
+    - 単純なウィジェットの作成
+    - GitHub APIをたたくコードを動かす。
+- Etaでforeign import java の自動化
+
+# 2017/10/29
+
+- EtaでAndroidアプリ作り:
+    - ようやくWidgetの配置がランタイムエラーなしにできた。原因は単純に私がEtaの`foreign import java`の書き方を間違えているだけだった...。
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [Haskell入門 関数型プログラミング言語の基礎と実践](http://gihyo.jp/book/2017/978-4-7741-9237-6)
+- Category Theory (Oxford Logic Guides)
+
 # 2017/10/28 までの目標
 
 - EtaでAndroidアプリ作り:
     - 単純なウィジェットの作成
-    - GitHub APIをたたくコードを試す。
+    - GitHub APIをたたくコードを動かす。
+    - 結果: 両方未達。 `android.widget` が見つからない、という実行時エラーに悩まされた...。
+        - どうやら、Haskellのファイルで参照しているのにもかかわらず、Gradleが依存するclassファイルとして認識できていないため、dexファイルに入らないらしい。
 
 # 2017/10/27 - 2017/10/28
 
