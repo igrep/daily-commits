@@ -16,6 +16,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - GitHub APIをたたくコードを動かす。
 - Etaでforeign import java の自動化
 
+# 2017/10/30
+
+- EtaでAndroidアプリ作り:
+    - 先般発生していた依存関係がビルドできない問題について、etlas new-buildのみの問題であることが判明。etlas new-buildはまだ問題ありなんで使うな、と。
+    - 困ったことに、いずれにせよまだ`network`ライブラリーを始め、それ関係のライブラリーのパッチを当てる必要があるらしく、`github`ライブラリーは全然動かないそうだ。諦めてJava向けのライブラリーをラップせよ、と。
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [Haskell入門 関数型プログラミング言語の基礎と実践](http://gihyo.jp/book/2017/978-4-7741-9237-6)
+- Category Theory (Oxford Logic Guides)
+
 # 2017/10/29
 
 - EtaでAndroidアプリ作り:
