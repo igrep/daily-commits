@@ -16,6 +16,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - GitHub APIをたたくコードを動かす。
 - Etaでforeign import java の自動化
 
+# 2017/11/03
+
+- EtaでAndroidアプリ作り:
+    - [GitHub API for Java -](http://github-api.kohsuke.org/)をEtaで動かすためにいろいろFFIを定義したり、コアのロジックを実装したりしていた。FFIの定義かったるい...。
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [Haskell入門 関数型プログラミング言語の基礎と実践](http://gihyo.jp/book/2017/978-4-7741-9237-6)
+- Category Theory (Oxford Logic Guides)
+
 # 2017/11/02
 
 - EtaでAndroidアプリ作り:
