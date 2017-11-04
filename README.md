@@ -8,13 +8,32 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2017/11/11 までの目標
+
+引き続き。そろそろスライド作りに取りかからなきゃだけど、完成度が微妙なので...。
+- EtaでAndroidアプリ作り:
+    - 単純なウィジェットの作成
+    - GitHub APIをたたくコードを動かす。
+- Etaでforeign import java の自動化
+
+
+# 2017/11/04
+
+- EtaでAndroidアプリ作り:
+    - 昨日書いたコードをいざビルドしてみると、[こんなissue](https://github.com/typelead/eta/issues/547)にハマってほとんど進まず...。
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [Haskell入門 関数型プログラミング言語の基礎と実践](http://gihyo.jp/book/2017/978-4-7741-9237-6)
+- Category Theory (Oxford Logic Guides)
+
 # 2017/11/04 までの目標
 
 引き続き。
 - EtaでAndroidアプリ作り:
     - 単純なウィジェットの作成
     - GitHub APIをたたくコードを動かす。
+    - 結果: 両方未達。またEtaのバグに結構ハマったなぁ。
 - Etaでforeign import java の自動化
+    - 結果: 未達。こちらは全く手を着けられず
 
 # 2017/11/03
 
