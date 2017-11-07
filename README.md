@@ -16,6 +16,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - コアのコードのテストを書く。
 - Etaでforeign import java の自動化
 
+# 2017/11/07
+
+- EtaでAndroidアプリ作り:
+    - Proguardの件でバグ報告して欲しいと言われたので[とりあえず報告](https://github.com/typelead/eta/issues/551)。
+    - そのほか、hspec（が、依存するtf-random）をインストールする際に文字コードによってはいろいろバグることが判明した。これは一段落してから報告かなぁ。
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [Haskell入門 関数型プログラミング言語の基礎と実践](http://gihyo.jp/book/2017/978-4-7741-9237-6)
+- Category Theory (Oxford Logic Guides)
+
 # 2017/11/05 - 2017-11-06
 
 - EtaでAndroidアプリ作り:
