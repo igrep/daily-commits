@@ -16,7 +16,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - コアのコードのテストを書く。
 - Etaでforeign import java の自動化
 
-# 2017/11/09
+# 2017/11/09 - 2017/11/10
 
 - EtaでAndroidアプリ作り:
     - Hspecは動かないが、HUnitは動くことが分かったので、HUnitで書こう。
