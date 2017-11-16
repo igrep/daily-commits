@@ -12,7 +12,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - [DevFest Shikoku 2017](https://gdgshikoku.connpass.com/event/68244/)のスライド作り。これは必達。
 
-# 2017/11/13 - 2017/11/14
+# 2017/11/13 - 2017/11/15
 
 - [DevFest Shikoku 2017](https://gdgshikoku.connpass.com/event/68244/)のスライド作り。
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
