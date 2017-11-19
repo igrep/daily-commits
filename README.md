@@ -8,6 +8,12 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2017/11/25 までの目標
+
+- [Haskell-jpの記事プレビューの改善](https://github.com/haskell-jp/blog/issues/50)
+    - Advent Calendarが始まる12月までに！
+- [Etaのバグの調査](https://github.com/typelead/eta/issues/553)
+
 # 2017/11/18 までの目標
 
 - [DevFest Shikoku 2017](https://gdgshikoku.connpass.com/event/68244/)のスライド作り。これは必達。
