@@ -11,6 +11,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 # 2017/11/18 までの目標
 
 - [DevFest Shikoku 2017](https://gdgshikoku.connpass.com/event/68244/)のスライド作り。これは必達。
+    - 結果: 達成。反応は微妙だったけどまぁ無事終われてよかった。
+
+# 2017/11/18
+
+- [DevFest Shikoku 2017](https://gdgshikoku.connpass.com/event/68244/)のスライド作り。
+    - 若干の手直しと発表。
+- Haskell Advent Calendar 2017の記事: 空いた時間で書き始めた。
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [Haskell入門 関数型プログラミング言語の基礎と実践](http://gihyo.jp/book/2017/978-4-7741-9237-6)
+- [Object as a Morphism: A Composable Structure Parameterized by Effects](https://fumieval.github.io/papers/en/2015-Haskell-objects.html)
 
 # 2017/11/13 - 2017/11/17
 
