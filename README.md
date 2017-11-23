@@ -8,6 +8,15 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2017/11/22
+
+- [Haskell-jpの記事プレビューの改善](https://github.com/haskell-jp/blog/issues/50)
+- [Etaのバグの調査](https://github.com/typelead/eta/issues/553):
+    - 言われたとおりEtaのビルドをしてみてるところ
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [Haskell入門 関数型プログラミング言語の基礎と実践](http://gihyo.jp/book/2017/978-4-7741-9237-6)
+- [Object as a Morphism: A Composable Structure Parameterized by Effects](https://fumieval.github.io/papers/en/2015-Haskell-objects.html)
+
 # 2017/11/21 - 2017-11-22
 
 - [Haskell-jpの記事プレビューの改善](https://github.com/haskell-jp/blog/issues/50)
