@@ -10,9 +10,29 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 # 2017/11/25 までの目標
 
+- [Etaのバグの調査](https://github.com/typelead/eta/issues/553)
+    - 特に目標は定めてなかったが、引き続きやる。
+- タイプセーフプリキュア: キラキラ☆プリキュアアラモードの新しいフォーム・浄化技の実装。
+- Haskell-jp Blog: [記事の追加: Haskell-jp ブログのデプロイの自動化・build artifactsによるpreview機能の紹介](https://github.com/haskell-jp/blog/pull/56)
+- Haskell-jp Blog: [README日本語版の標準化](https://github.com/haskell-jp/blog/issues/58)
+- Haskell-jp Blog: [最終更新日（公開日）が記事のトップ付近にも出てほしい](https://github.com/haskell-jp/blog/issues/49)
+
+# 2017/11/25
+
+- [Etaのバグの調査](https://github.com/typelead/eta/issues/553):
+    - ようやく頼まれていたデバッグコードが実行できたことを確認。
+- タイプセーフプリキュア: キラキラ☆プリキュアアラモードの新しい技とフォームを追加中。
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [Haskell入門 関数型プログラミング言語の基礎と実践](http://gihyo.jp/book/2017/978-4-7741-9237-6)
+- [Object as a Morphism: A Composable Structure Parameterized by Effects](https://fumieval.github.io/papers/en/2015-Haskell-objects.html)
+
+# 2017/11/25 までの目標
+
 - [Haskell-jpの記事プレビューの改善](https://github.com/haskell-jp/blog/issues/50)
     - Advent Calendarが始まる12月までに！
+    - 結果: 達成。最低限previewをビルド結果の画面から閲覧できるようにした。更新するたびにURLが変わるので、自動でコメントした方が楽なのは間違いない。[Issueとして登録](https://github.com/haskell-jp/blog/issues/57)。
 - [Etaのバグの調査](https://github.com/typelead/eta/issues/553)
+    - 特に目標は定めてなかったが、引き続きやる。
 
 # 2017/11/25
 
