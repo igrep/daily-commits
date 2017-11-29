@@ -17,12 +17,20 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell-jp Blog: [README日本語版の標準化](https://github.com/haskell-jp/blog/issues/58)
 - Haskell-jp Blog: [最終更新日（公開日）が記事のトップ付近にも出てほしい](https://github.com/haskell-jp/blog/issues/49)
 
+# 2017/11/29
+
+- タイプセーフプリキュア
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [Haskell入門 関数型プログラミング言語の基礎と実践](http://gihyo.jp/book/2017/978-4-7741-9237-6)
+- [Object as a Morphism: A Composable Structure Parameterized by Effects](https://fumieval.github.io/papers/en/2015-Haskell-objects.html)
+
 # 2017/11/28
 
 - タイプセーフプリキュア
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
 - [Haskell入門 関数型プログラミング言語の基礎と実践](http://gihyo.jp/book/2017/978-4-7741-9237-6)
 - [Object as a Morphism: A Composable Structure Parameterized by Effects](https://fumieval.github.io/papers/en/2015-Haskell-objects.html)
+- [crontabを冪等に編集するスクリプト - Qiita](https://qiita.com/igrep/items/26b1d6518ebeeba5665f)
 
 # 2017/11/27
 
