@@ -17,7 +17,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell-jp Blog: [README日本語版の標準化](https://github.com/haskell-jp/blog/issues/58)
 - Haskell-jp Blog: [最終更新日（公開日）が記事のトップ付近にも出てほしい](https://github.com/haskell-jp/blog/issues/49)
 
-# 2017/11/29 - 2017/11/30
+# 2017/11/29 - 2017/12/01
 
 - タイプセーフプリキュア
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
