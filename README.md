@@ -18,6 +18,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - いい感じに軌道に乗るところまで書きたい！
 - SpyVoid: 表参道.rb の発表スライドを作る。これは必達。
 
+# 2017/12/04
+
+- Haskell-jp Blog: [（意見募集）記事の権利の帰属について](https://github.com/haskell-jp/blog/issues/59#issuecomment-347062948)
+    - 記事の修正が想像以上にめんどくさくなることが分かった...。
+- [Haskell Advent Calendarの記事](https://qiita.com/advent-calendar/2017/haskell)
+- SpyVoid: 表参道.rb の発表スライド
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [Haskell入門 関数型プログラミング言語の基礎と実践](http://gihyo.jp/book/2017/978-4-7741-9237-6)
+- [Object as a Morphism: A Composable Structure Parameterized by Effects](https://fumieval.github.io/papers/en/2015-Haskell-objects.html)
+
 # 2017/12/03
 
 - Haskell-jp Blog: [（意見募集）記事の権利の帰属について](https://github.com/haskell-jp/blog/issues/59#issuecomment-347062948)
