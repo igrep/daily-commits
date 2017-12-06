@@ -18,7 +18,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - いい感じに軌道に乗るところまで書きたい！
 - SpyVoid: 表参道.rb の発表スライドを作る。これは必達。
 
-# 2017/12/05
+# 2017/12/05 - 2017/12/06
 
 - Haskell-jp Blog: [（意見募集）記事の権利の帰属について](https://github.com/haskell-jp/blog/issues/59#issuecomment-347062948)
 - SpyVoid: 表参道.rb の発表スライド
