@@ -18,6 +18,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - いい感じに軌道に乗るところまで書きたい！
 - SpyVoid: 表参道.rb の発表スライドを作る。これは必達。
 
+# 2017/12/08
+
+- Haskell-jp Blog: [（意見募集）記事の権利の帰属について](https://github.com/haskell-jp/blog/issues/59#issuecomment-347062948)
+    - 大体修正できた。後はフッターに `&copy;` を表示させるところ。やっぱりあった方がいいだろう。
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [Haskell入門 関数型プログラミング言語の基礎と実践](http://gihyo.jp/book/2017/978-4-7741-9237-6)
+- [Prettier Concurrency: Purely Functional Concurrent Revisions](https://www.microsoft.com/en-us/research/publication/prettier-concurrency-purely-functional-concurrent-revisions/)
+
 # 2017/12/07
 
 - Haskell-jp Blog: [（意見募集）記事の権利の帰属について](https://github.com/haskell-jp/blog/issues/59#issuecomment-347062948)
