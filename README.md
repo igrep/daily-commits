@@ -8,15 +8,37 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2017/12/09 までの目標
+# 2017/12/16 までの目標
 
 - [Etaのバグの調査](https://github.com/typelead/eta/issues/553)
     - 特に目標は定めてなかったが、引き続きやる。
 - Haskell-jp Blog: [（意見募集）記事の権利の帰属について](https://github.com/haskell-jp/blog/issues/59#issuecomment-347062948)
+    - PRマージ
+- [Haskell Advent Calendarの記事](https://qiita.com/advent-calendar/2017/haskell)
+    - Javaでの例の説明と、Haskellでの方法について半分ぐらいまで行きたい。
+
+# 2017/12/10
+
+- Haskell-jp Blog: [（意見募集）記事の権利の帰属について](https://github.com/haskell-jp/blog/issues/59#issuecomment-347062948)
+    - [Pull requestを送った](https://github.com/haskell-jp/blog/pull/62)。今日になってpullしないまま作業していたことに気づき、コンフリクトがたくさん発生して直すのが辛かった。加えて今のところレビューしてくれる人がいなくてつらみ。
+- [Haskell Advent Calendarの記事](https://qiita.com/advent-calendar/2017/haskell)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
+- [Prettier Concurrency: Purely Functional Concurrent Revisions](https://www.microsoft.com/en-us/research/publication/prettier-concurrency-purely-functional-concurrent-revisions/)
+
+# 2017/12/09 までの目標
+
+- [Etaのバグの調査](https://github.com/typelead/eta/issues/553)
+    - 特に目標は定めてなかったが、引き続きやる。
+    - 結果: 今週も音沙汰なし。
+- Haskell-jp Blog: [（意見募集）記事の権利の帰属について](https://github.com/haskell-jp/blog/issues/59#issuecomment-347062948)
     - 諸々ドキュメントを修正してPRを送る。
+    - 結果: 未達。大体できたけど
 - [Haskell Advent Calendarの記事](https://qiita.com/advent-calendar/2017/haskell)
     - いい感じに軌道に乗るところまで書きたい！
+    - 結果: 未達。想定以上に週末に遊び混んでしまった。あとほかのタスクに思ったより結構時間をとられたな...。
 - SpyVoid: 表参道.rb の発表スライドを作る。これは必達。
+    - 結果: 達成。反応は2017/12/07に書いたとおり。
 
 # 2017/12/09
 
