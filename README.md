@@ -18,6 +18,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - いい感じに軌道に乗るところまで書きたい！
 - SpyVoid: 表参道.rb の発表スライドを作る。これは必達。
 
+# 2017/12/09
+
+- Haskell-jp Blog: [（意見募集）記事の権利の帰属について](https://github.com/haskell-jp/blog/issues/59#issuecomment-347062948)
+- [Haskell Advent Calendarの記事](https://qiita.com/advent-calendar/2017/haskell)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
+- [Prettier Concurrency: Purely Functional Concurrent Revisions](https://www.microsoft.com/en-us/research/publication/prettier-concurrency-purely-functional-concurrent-revisions/)
+
 # 2017/12/08
 
 - Haskell-jp Blog: [（意見募集）記事の権利の帰属について](https://github.com/haskell-jp/blog/issues/59#issuecomment-347062948)
