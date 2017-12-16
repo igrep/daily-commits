@@ -17,7 +17,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - [Haskell Advent Calendarの記事](https://qiita.com/advent-calendar/2017/haskell)
     - Javaでの例の説明と、Haskellでの方法について半分ぐらいまで行きたい。
 
-# 2017/12/12 - 2017/12/15
+# 2017/12/12 - 2017/12/16
 
 - [Haskell Advent Calendarの記事](https://qiita.com/advent-calendar/2017/haskell)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
