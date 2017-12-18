@@ -8,14 +8,29 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2017/12/23 までの目標
+
+- [Haskell Advent Calendarの記事](https://qiita.com/advent-calendar/2017/haskell)
+    - 完成し、Pull requestを送るまで。必達。
+
+# 2017/12/17
+
+- [Haskell Advent Calendarの記事](https://qiita.com/advent-calendar/2017/haskell)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
+- [Prettier Concurrency: Purely Functional Concurrent Revisions](https://www.microsoft.com/en-us/research/publication/prettier-concurrency-purely-functional-concurrent-revisions/)
+
 # 2017/12/16 までの目標
 
 - [Etaのバグの調査](https://github.com/typelead/eta/issues/553)
     - 特に目標は定めてなかったが、引き続きやる。
+    - 結果: 今週も音沙汰なし。
 - Haskell-jp Blog: [（意見募集）記事の権利の帰属について](https://github.com/haskell-jp/blog/issues/59#issuecomment-347062948)
     - PRマージ
+    - 結果: 達成。
 - [Haskell Advent Calendarの記事](https://qiita.com/advent-calendar/2017/haskell)
     - Javaでの例の説明と、Haskellでの方法について半分ぐらいまで行きたい。
+    - 結果: 未達。Haskellでの方法を書き始める手前までしか進めず。土曜日にDMMの誘惑から逃れたと思ったら、今度は別の誘惑に負けてしまった。家にいると遊んでしまうのをどうにかせねば。
 
 # 2017/12/12 - 2017/12/16
 
