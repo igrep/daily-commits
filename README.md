@@ -13,7 +13,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - [Haskell Advent Calendarの記事](https://qiita.com/advent-calendar/2017/haskell)
     - 完成し、Pull requestを送るまで。必達。
 
-# 2017/12/17
+# 2017/12/17 - 2017/12/18
 
 - [Haskell Advent Calendarの記事](https://qiita.com/advent-calendar/2017/haskell)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
