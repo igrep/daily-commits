@@ -13,7 +13,21 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - [Haskell Advent Calendarの記事](https://qiita.com/advent-calendar/2017/haskell)
     - 完成し、Pull requestを送るまで。必達。
 
-# 2017/12/20 - 2017-12-22
+# 2017/12/23
+
+- [Haskell Advent Calendarの記事](https://qiita.com/advent-calendar/2017/haskell)
+    - [目標通りPull requestを送って完成できた](https://github.com/haskell-jp/blog/pull/63)
+- [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
+- [Prettier Concurrency: Purely Functional Concurrent Revisions](https://www.microsoft.com/en-us/research/publication/prettier-concurrency-purely-functional-concurrent-revisions/)
+
+# 2017/12/22
+
+- [Haskell Advent Calendarの記事](https://qiita.com/advent-calendar/2017/haskell)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
+- [Prettier Concurrency: Purely Functional Concurrent Revisions](https://www.microsoft.com/en-us/research/publication/prettier-concurrency-purely-functional-concurrent-revisions/)
+
+# 2017/12/20 - 2017-12-21
 
 - [Haskell Advent Calendarの記事](https://qiita.com/advent-calendar/2017/haskell)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
