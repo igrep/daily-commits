@@ -8,10 +8,23 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2017/12/24 までの目標
+
+- Haskell開発環境再整備
+    - Haskell IDE EngineをLinuxのvimかNeovimで動かす
+
+# 2017/12/24
+
+- [Haskell (その4) Advent Calendarの記事](https://qiita.com/advent-calendar/2017/haskell4)
+    - [気が向いたので前から記事にしたかったことを書いてPull requestを送った](https://github.com/haskell-jp/blog/pull/66)
+- [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
+- [Prettier Concurrency: Purely Functional Concurrent Revisions](https://www.microsoft.com/en-us/research/publication/prettier-concurrency-purely-functional-concurrent-revisions/)
+
 # 2017/12/23 までの目標
 
 - [Haskell Advent Calendarの記事](https://qiita.com/advent-calendar/2017/haskell)
     - 完成し、Pull requestを送るまで。必達。
+        - 結果: 達成
 
 # 2017/12/23
 
