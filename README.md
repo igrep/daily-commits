@@ -8,10 +8,17 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2017/12/24 までの目標
+# 2017/12/30 までの目標
 
 - Haskell開発環境再整備
     - Haskell IDE EngineをLinuxのvimかNeovimで動かす
+
+# 2017/12/25
+
+- Haskell開発環境再整備:
+    - とりあえずNeovimとHIEをインストールするところまで。
+- [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
+- [Prettier Concurrency: Purely Functional Concurrent Revisions](https://www.microsoft.com/en-us/research/publication/prettier-concurrency-purely-functional-concurrent-revisions/)
 
 # 2017/12/24
 
