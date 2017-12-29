@@ -13,6 +13,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell開発環境再整備
     - Haskell IDE EngineをLinuxのvimかNeovimで動かす
 
+# 2017/12/28
+
+- Haskell開発環境再整備
+- [Prettier Concurrency: Purely Functional Concurrent Revisions](https://www.microsoft.com/en-us/research/publication/prettier-concurrency-purely-functional-concurrent-revisions/)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+
 # 2017/12/25 - 2017-12-27
 
 - Haskell開発環境再整備:
@@ -21,6 +27,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2017/12/27: HLintが警告をウィンドウの左側に出すところまで確認。補完が効いていないのはdeopleteを使っていないからだろうか？
 - [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
 - [Prettier Concurrency: Purely Functional Concurrent Revisions](https://www.microsoft.com/en-us/research/publication/prettier-concurrency-purely-functional-concurrent-revisions/)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
 
 # 2017/12/24
 
@@ -28,6 +35,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - [気が向いたので前から記事にしたかったことを書いてPull requestを送った](https://github.com/haskell-jp/blog/pull/66)
 - [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
 - [Prettier Concurrency: Purely Functional Concurrent Revisions](https://www.microsoft.com/en-us/research/publication/prettier-concurrency-purely-functional-concurrent-revisions/)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
 
 # 2017/12/23 までの目標
 
@@ -41,6 +49,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - [目標通りPull requestを送って完成できた](https://github.com/haskell-jp/blog/pull/63)
 - [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
 - [Prettier Concurrency: Purely Functional Concurrent Revisions](https://www.microsoft.com/en-us/research/publication/prettier-concurrency-purely-functional-concurrent-revisions/)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
 
 # 2017/12/22
 
