@@ -13,9 +13,10 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell開発環境再整備
     - Haskell IDE EngineをLinuxのvimかNeovimで動かす
 
-# 2017/12/28
+# 2017/12/28 - 2017/12/29
 
-- Haskell開発環境再整備
+- Haskell開発環境再整備:
+    - deopleteをインストールした方がいいらしいことに気づいてインストールしてた。ちゃんとHIEと組み合わせて動いているようでなにより。もっとがんがん補完してくれるかと思ってたけど…。
 - [Prettier Concurrency: Purely Functional Concurrent Revisions](https://www.microsoft.com/en-us/research/publication/prettier-concurrency-purely-functional-concurrent-revisions/)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
 
