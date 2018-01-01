@@ -13,11 +13,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell開発環境再整備
     - Haskell IDE EngineをLinuxのvimかNeovimで動かす
 
-# 2017/12/28 - 2017/12/29
+# 2017/12/28 - 2017/12/31
 
 - Haskell開発環境再整備:
     - 2017/12/28 - 2017/12/29: deopleteをインストールした方がいいらしいことに気づいてインストールしてた。ちゃんとHIEと組み合わせて動いているようでなにより。もっとがんがん補完してくれるかと思ってたけど…。
     - 2017/12/30: Windowsでも動かしてみようと思ってNeovimからインストールして設定ファイルをいじってみたら、Windows版固有のバグ発見。
+    - 2017/12/31: Windows版のバグかと思いきや、nvim-qtの問題だった。init.vimを読んでいる最中にエラーが起こっても何が起きたか分からないという問題らしい。 <https://github.com/equalsraf/neovim-qt/issues/78>
 - [Prettier Concurrency: Purely Functional Concurrent Revisions](https://www.microsoft.com/en-us/research/publication/prettier-concurrency-purely-functional-concurrent-revisions/)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
 
