@@ -16,6 +16,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 1つめの課題に対する分析のテスト
     - 2つめの課題まで作成
 
+# 2018/01/03
+
+- Haskell開発環境再整備:
+    - 2018/01/03: 昨日まで苦戦していたエラーは回避できたが、今度はエラーメッセージが出ないがどうもghc-modeやhlintによるエラーが出ない問題に苦しむ。
+- Haskell入門コンテンツ
+- [Trees That Grow](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/trees-that-grow.pdf)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+
 # 2018/01/01 - 2018/01/02
 
 - Haskell開発環境再整備:
@@ -24,5 +32,5 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 2018/01/01: いきなりゴールデンテストなんて書くもんだから、標準出力と標準エラー出力をテストに使ってしまって、デバッグがしづらい。いずれにしてもデバッグ用のログをどこかに出すよう作った方がよさげ。
     - 2018/01/01: ユーザーが書いたプログラムに間違いがあった場合のエラーの出し方に悩む。標準出力か標準エラー出力か...。
-- [Prettier Concurrency: Purely Functional Concurrent Revisions](https://www.microsoft.com/en-us/research/publication/prettier-concurrency-purely-functional-concurrent-revisions/)
+- [Total Haskell is Reasonable Coq](https://arxiv.org/abs/1711.09286)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
