@@ -16,10 +16,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 1つめの課題に対する分析のテスト
     - 2つめの課題まで作成
 
-# 2018/01/03
+# 2018/01/03 - 2018/01/04
 
 - Haskell開発環境再整備:
     - 2018/01/03: 昨日まで苦戦していたエラーは回避できたが、今度はエラーメッセージが出ないがどうもghc-modeやhlintによるエラーが出ない問題に苦しむ。
+    - 2018/01/04: VS CodeでもHaskell IDE Engineを試してみることで、エラーメッセージが明らかになった。[この問題](https://github.com/haskell/haskell-ide-engine/issues/355)と似て、ghc-modのバグを踏んでしまっている模様。ついでに、デバッグログの出し方も明確になった。
 - Haskell入門コンテンツ
 - [Trees That Grow](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/trees-that-grow.pdf)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
