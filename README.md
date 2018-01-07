@@ -8,13 +8,27 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2018/01/06 までの目標
+# 2018/01/13 までの目標
 
 - Haskell開発環境再整備
     - Haskell IDE EngineをWindowsでも動かす
 - Haskell入門コンテンツ
     - 1つめの課題に対する分析のテスト
     - 2つめの課題まで作成
+
+# 2018/01/07
+
+- igrep-cashbook再び: CLI版をとりあえず動かすところまでと、四則演算機能を実装するところまでやった。四則演算機能は[Text.Megaparsec.Expr](https://hackage.haskell.org/package/megaparsec-6.4.0/docs/Text-Megaparsec-Expr.html)のおかげでめちゃくちゃ簡単にできたっぽいけどちゃんと動くかわからんのでテストも書く。
+
+# 2018/01/06 までの目標
+
+- Haskell開発環境再整備
+    - Haskell IDE EngineをWindowsでも動かす
+    - 結果: 未達。Linuxでもどうも動いたり動かなかったりしている模様。HIEのバグの詳細を調べて報告（多分既出）するのは来週と言うことで。
+- Haskell入門コンテンツ
+    - 1つめの課題に対する分析のテスト
+    - 2つめの課題まで作成
+    - 結果: 未達。Windowsの文字コード周りのエラーに苦戦。[この間書いた記事](https://haskell.jp/blog/posts/2017/windows-gotchas.html)に追記するネタが増えそう。
 
 # 2018/01/06
 
