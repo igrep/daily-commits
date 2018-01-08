@@ -10,15 +10,25 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 # 2018/01/13 までの目標
 
-- Haskell開発環境再整備
-    - Haskell IDE EngineをWindowsでも動かす
 - Haskell入門コンテンツ
     - 1つめの課題に対する分析のテスト
     - 2つめの課題まで作成
+    - 引き続き先週と同じく。
+- Haskell開発環境再整備: HIEのバグを調べる
+- igrep-cashbook再び: GHCJSを試して移植を試みる
+- Megaparsecの`Text.Megaparsec.Expr`を使ってみた感想
+
+# 2018/01/08
+
+- igrep-cashbook再び: 四則演算機能のテストを書いてみたらやっぱり通らず、想像以上に直すのに苦戦した。直せてよかった。最終的に[こんな1コミット](https://github.com/igrep/igrep-cashbook/commit/cedf8acbef14f7cef29fd7f304329420ab736dc6)にまとまった。気が向いたら
+- [Trees That Grow](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/trees-that-grow.pdf)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
 
 # 2018/01/07
 
 - igrep-cashbook再び: CLI版をとりあえず動かすところまでと、四則演算機能を実装するところまでやった。四則演算機能は[Text.Megaparsec.Expr](https://hackage.haskell.org/package/megaparsec-6.4.0/docs/Text-Megaparsec-Expr.html)のおかげでめちゃくちゃ簡単にできたっぽいけどちゃんと動くかわからんのでテストも書く。
+- [Trees That Grow](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/trees-that-grow.pdf)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
 
 # 2018/01/06 までの目標
 
