@@ -18,6 +18,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - igrep-cashbook再び: GHCJSを試して移植を試みる
 - Megaparsecの`Text.Megaparsec.Expr`を使ってみた感想
 
+# 2018/01/13
+
+- igrep-cashbook再び: GHCJSへの移植開始。とりあえずビルドを試みただけだけど。
+- [Trees That Grow](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/trees-that-grow.pdf)
+- [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+
 # 2018/01/09 - 2018/01/12
 
 - Haskell入門コンテンツ
@@ -25,6 +32,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2018/01/11: ここまでやったことをコミットしだだけ
     - 2018/01/12: テストが異様に遅い原因を探っていた。やはり`stack path`が遅いのが原因らしい。
 - [Trees That Grow](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/trees-that-grow.pdf)
+- [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
 
 # 2018/01/08
