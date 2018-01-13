@@ -18,11 +18,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - igrep-cashbook再び: GHCJSを試して移植を試みる
 - Megaparsecの`Text.Megaparsec.Expr`を使ってみた感想
 
-# 2018/01/09 - 2018/01/11
+# 2018/01/09 - 2018/01/12
 
 - Haskell入門コンテンツ
     - 2018/01/10: ようやくWindowsの文字コード周りのバグを回避できた。
     - 2018/01/11: ここまでやったことをコミットしだだけ
+    - 2018/01/12: テストが異様に遅い原因を探っていた。やはり`stack path`が遅いのが原因らしい。
 - [Trees That Grow](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/trees-that-grow.pdf)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
 
