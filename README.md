@@ -17,6 +17,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2つめの課題まで作成
 - Megaparsecの`Text.Megaparsec.Expr`を使ってみた感想
 
+# 2018/01/15
+
+- タイプセーフプリキュア: キュアペコリンの実装・リリース。
+- [Trees That Grow](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/trees-that-grow.pdf)
+- [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [1日1分・ざっくり学べる中国語文法](https://www.amazon.co.jp/dp/B00LZ1YLIA/)
+
 # 2018/01/14
 
 - 「プログラミングHaskell」の第8章「関数型パーサー」をRubyで書いて解説する話: [Rubyの`StringScanner`を使ったバージョン](https://gist.github.com/igrep/702cad632782c9dd88b3c115f7d9f40a)ができた。
