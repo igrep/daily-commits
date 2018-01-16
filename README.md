@@ -17,6 +17,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2つめの課題まで作成
 - Megaparsecの`Text.Megaparsec.Expr`を使ってみた感想
 
+# 2018/01/16
+
+- Haskell入門コンテンツ
+    - 2018/01/16: テストが遅い問題がなかなかしぶとい。実行しているマシンがより遅いせいもあるだろうけどいずれにしても耐えがたい速度だ。やっぱりゴールデンテストとほかのテストを分ける手立てが必要そう
+- [Trees That Grow](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/trees-that-grow.pdf)
+- [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [1日1分・ざっくり学べる中国語文法](https://www.amazon.co.jp/dp/B00LZ1YLIA/)
+
 # 2018/01/15
 
 - タイプセーフプリキュア: キュアペコリンの実装・リリース。
