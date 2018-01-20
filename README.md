@@ -17,12 +17,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2つめの課題まで作成
 - Megaparsecの`Text.Megaparsec.Expr`を使ってみた感想
 
-# 2018/01/16 - 2018/01/18
+# 2018/01/16 - 2018/01/19
 
 - Haskell入門コンテンツ
     - 2018/01/16: テストが遅い問題がなかなかしぶとい。実行しているマシンがより遅いせいもあるだろうけどいずれにしても耐えがたい速度だ。やっぱりゴールデンテストとほかのテストを分ける手立てが必要そう
     - 2018/01/17: テストが遅い原因を調べたら、やっぱり子プロセス、つまり`stack exec`とかの実行が時間の大半を占めていた。それにしても[stack, 前からこんなだったか忘れたけどプロファイリング楽になったなぁ。stack test --profile ってしただけでprofファイルが作られた。](https://twitter.com/igrep/status/953602925284048896)
     - 2018/01/18: リファクタリングで思わぬ時間を使ってしまった。
+    - 2018/01/19: テストの分割厨
 - [Trees That Grow](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/trees-that-grow.pdf)
 - [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
