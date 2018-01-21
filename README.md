@@ -8,13 +8,35 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2018/01/28 までの目標
+
+今度から週を月曜日で切り替えよう。
+
+- Haskell入門コンテンツ
+    - 1つめの課題に対する分析のテスト
+    - 2つめの課題まで作成
+- unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
+
 # 2018/01/20 までの目標
 
 - unordered-containersのhashdos脆弱性についての記事
+    - 結果: 達成: 記事の公開までは至らなかったけどPull request出せたしほぼ完成だしいいことにしよう。
+- Haskell入門コンテンツ
+    - 1つめの課題に対する分析のテスト
+        - 結果: 未達。まだ小さいのにリファクタリングとかいろいろ周辺的なものに時間がかかってしまった。
+    - 2つめの課題まで作成
+        - 結果: 未達。
+- Megaparsecの`Text.Megaparsec.Expr`を使ってみた感想
+    - 結果: 未達。これはやっぱり後回し。igrep-cashbookがもうちょっとできてからでいいや。
+
+# 2018/01/20 - 2018/01/21
+
+- unordered-containersのhashdos脆弱性についての記事
+    - [Pull request出すところまで達成](https://github.com/haskell-jp/blog/pull/72)
 - [Trees That Grow](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/trees-that-grow.pdf)
 - [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
-- [1日1分・ざっくり学べる中国語文法](https://www.amazon.co.jp/dp/B00LZ1YLIA/)
+- 中国語
 
 # 2018/01/16 - 2018/01/19
 
