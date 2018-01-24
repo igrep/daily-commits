@@ -17,7 +17,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2つめの課題まで作成
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
 
-# 2018/01/23
+# 2018/01/23 - 2018/01/24
 
 - Haskell入門コンテンツ
 - [Trees That Grow](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/trees-that-grow.pdf)
