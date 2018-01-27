@@ -17,10 +17,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2つめの課題まで作成
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
 
-# 2018/01/23 - 2018/01/25
+# 2018/01/23 - 2018/01/26
 
 - Haskell入門コンテンツ
     - 2018/01/25: もうちょっとでやっと一つ目の課題のテストが書き終わる
+    - 2018/01/26: 冷静に考えたら今の実装は近い将来捨てるも同然のものなのに、テストを真面目に書きすぎたな。。。
+何でこんなことしちゃったんだろう。。。。
 - [Trees That Grow](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/trees-that-grow.pdf)
 - [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
