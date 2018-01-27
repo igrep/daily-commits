@@ -17,6 +17,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2つめの課題まで作成
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
 
+# 2018/01/27
+
+- unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
+    - hashdos脆弱性を利用して攻撃するためのアルゴリズムについて調査
+        - <https://events.ccc.de/congress/2011/Fahrplan/attachments/2007_28C3_Effective_DoS_on_web_application_platforms.pdf>
+- [Trees That Grow](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/trees-that-grow.pdf)
+- [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- 中国語
+
 # 2018/01/23 - 2018/01/26
 
 - Haskell入門コンテンツ
