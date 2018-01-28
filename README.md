@@ -15,13 +15,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ
     - 1つめの課題に対する分析のテスト
     - 2つめの課題まで作成
+    - 未達: テストコードの改善に時間がかかってしまった。よく考えたらあとで削除する可能性が高いコードなんで、ちょっと時間をかけすぎなのかな...。新しい方針が思いついてきたので、それとの兼ね合いに悩む。
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
+    - 未達: やっぱり慣れないことなんで難しいね...。デスクトップPCが故障して手元にないのも痛い。
 
-# 2018/01/27
+# 2018/01/27 - 2018/01/28
 
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
-    - hashdos脆弱性を利用して攻撃するためのアルゴリズムについて調査
+    - 2018/01/27: hashdos脆弱性を利用して攻撃するためのアルゴリズムについて調査
         - <https://events.ccc.de/congress/2011/Fahrplan/attachments/2007_28C3_Effective_DoS_on_web_application_platforms.pdf>
+    - 2018/01/28: よく調べたらhashableが使っているのはFNV Hashだったので、衝突する文字列を調べる方法を考えるも、難しい。[この辺](https://medium.com/@robertgrosse/generating-64-bit-hash-collisions-to-dos-python-5b21404a5306)に方法を解説している記事があったものの、ぱっと読んで理解できるかわからない分量だったので断念。代わりにレインボーテーブルの作成を試みるも、メモリ不足で死ぬ。
 - [Trees That Grow](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/trees-that-grow.pdf)
 - [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
