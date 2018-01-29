@@ -8,6 +8,23 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2018/02/05 までの目標
+
+- Haskell入門コンテンツ
+    - 1つめの課題に対する分析のテスト
+    - 数当てゲームを作り、そこに至るまでの全体像を作成
+        - 今後は、ひとまずマイルストーンとして、数当てゲームを作るまでのチュートリアルを作る
+        - そこから、ユーザーの任意で間違いについての情報収集する仕組みを作ろう。話が大きくなってしまったが、「エラーメッセージを強くする」のが目標なので、方針からはずれていない。
+- unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
+
+# 2018/01/29
+
+- Haskell入門コンテンツ
+- [Trees That Grow](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/trees-that-grow.pdf)
+- [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- 中国語
+
 # 2018/01/28 までの目標
 
 今度から週を月曜日で切り替えよう。
