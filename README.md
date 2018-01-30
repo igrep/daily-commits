@@ -12,12 +12,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - Haskell入門コンテンツ
     - 1つめの課題に対する分析のテスト
-    - 数当てゲームを作り、そこに至るまでの全体像を作成
+    - 数当てゲームを作り、そこに至るまでの全体像を策定
         - 今後は、ひとまずマイルストーンとして、数当てゲームを作るまでのチュートリアルを作る
         - そこから、ユーザーの任意で間違いについての情報収集する仕組みを作ろう。話が大きくなってしまったが、「エラーメッセージを強くする」のが目標なので、方針からはずれていない。
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
 
-# 2018/01/29
+# 2018/01/29 - 2018/01/30
 
 - Haskell入門コンテンツ
 - [Trees That Grow](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/trees-that-grow.pdf)
