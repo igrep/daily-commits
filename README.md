@@ -17,7 +17,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - そこから、ユーザーの任意で間違いについての情報収集する仕組みを作ろう。話が大きくなってしまったが、「エラーメッセージを強くする」のが目標なので、方針からはずれていない。
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
 
-# 2018/01/29 - 2018/01/30
+# 2018/01/29 - 2018/01/31
 
 - Haskell入門コンテンツ
 - [Trees That Grow](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/trees-that-grow.pdf)
