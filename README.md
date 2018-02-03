@@ -17,6 +17,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - そこから、ユーザーの任意で間違いについての情報収集する仕組みを作ろう。話が大きくなってしまったが、「エラーメッセージを強くする」のが目標なので、方針からはずれていない。
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
 
+# 2018/02/04
+
+- unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
+    - レインボーテーブルの構築を試みるも、やっぱ時間かかるね...。
+- [Haskell Data Analysis Cookbook](http://haskelldata.com/)
+- [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- 中国語
+
 # 2018/01/29 - 2018/02/02
 
 - Haskell入門コンテンツ
