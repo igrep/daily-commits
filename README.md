@@ -17,7 +17,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - そこから、ユーザーの任意で間違いについての情報収集する仕組みを作ろう。話が大きくなってしまったが、「エラーメッセージを強くする」のが目標なので、方針からはずれていない。
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
 
-# 2018/01/29 - 2018/02/01
+# 2018/01/29 - 2018/02/02
 
 - Haskell入門コンテンツ
     - 2018/02/01: stackのバグかもしれない挙動に悩まされる。
@@ -28,6 +28,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 --  While building custom Setup.hs for package makeMistakesToLearnHaskell-0.1.0.0 using:
       C:\sr\setup-exe-cache\x86_64-windows\Cabal-simple_Z6RU0evB_2.0.1.0_ghc-8.2.2.exe --builddir=.stack-work\dist\5c8418a7 build lib:makeMistakesToLearnHaskell exe:mmlh test:makeMistakesToLearnHaskell-test --ghc-options " -ddump-hi -ddump-to-file -fdiagnostics-color=always"
   ```
+  - 2018/02/02: 改めて設定を確認して実行して、やっぱり再現するので、バグではないかという思いが強まる
 - [Haskell Data Analysis Cookbook](http://haskelldata.com/)
 - [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
