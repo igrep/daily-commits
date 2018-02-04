@@ -8,6 +8,11 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2018/02/12 までの目標
+
+- unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
+    - ようやく興が乗ってきたので一旦この一週間はこれに集中しよう。
+
 # 2018/02/05 までの目標
 
 - Haskell入門コンテンツ
@@ -15,12 +20,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 数当てゲームを作り、そこに至るまでの全体像を策定
         - 今後は、ひとまずマイルストーンとして、数当てゲームを作るまでのチュートリアルを作る
         - そこから、ユーザーの任意で間違いについての情報収集する仕組みを作ろう。話が大きくなってしまったが、「エラーメッセージを強くする」のが目標なので、方針からはずれていない。
+    - 結果: 上記の通り一応達成。
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
+    - 結果: 未達。
 
-# 2018/02/04
+# 2018/02/03 - 2018/02/04
 
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
-    - レインボーテーブルの構築を試みるも、やっぱ時間かかるね...。
+    - 2018/02/03: レインボーテーブルの構築を試みるも、やっぱ時間かかるね...。
+    - 2018/02/04: あれこれ文書を探っているうちにやっと解決の糸口っぽいものが見えてきた
 - [Haskell Data Analysis Cookbook](http://haskelldata.com/)
 - [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
