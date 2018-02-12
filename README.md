@@ -8,10 +8,27 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2018/02/18 までの目標
+
+- unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
+- Haskell入門コンテンツ
+    - 少しでも進める。
+- 「プログラミングHaskell」の第8章「関数型パーサー」をRubyで書いて解説する話: Rubyの`StringScanner`を使わないバージョンを作る。
+
+# 2018/02/12
+
+- unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
+    - 2018/02/12: あれこれ考えたけど、結局「少しでも効率のいいブルートフォース」でやることになった。まぁ少しはいい経験になると思う。
+- [Haskell Data Analysis Cookbook](http://haskelldata.com/)
+- [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- 中国語
+
 # 2018/02/11 までの目標
 
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
     - ようやく興が乗ってきたので一旦この一週間はこれに集中しよう。
+    - 未達。結局よく方法もわからないので、brute force attackするためのコードを書いてみて、適当なクラウドのサーバーで実行することにした。
 
 # 2018/02/05 までの目標
 
