@@ -15,10 +15,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 少しでも進める。
 - 「プログラミングHaskell」の第8章「関数型パーサー」をRubyで書いて解説する話: Rubyの`StringScanner`を使わないバージョンを作る。
 
-# 2018/02/12 - 2018/02/15
+# 2018/02/12 - 2018/02/16
 
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
     - 2018/02/12: あれこれ考えたけど、結局「少しでも効率のいいブルートフォース」でやることになった。まぁ少しはいい経験になると思う。
+    - 2018/02/16: あとは生成したハッシュを保存する処理を実装するところだけというところまでやっときた。
 - [Haskell Data Analysis Cookbook](http://haskelldata.com/)
 - [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
