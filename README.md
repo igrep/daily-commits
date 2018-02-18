@@ -15,12 +15,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 少しでも進める。
 - 「プログラミングHaskell」の第8章「関数型パーサー」をRubyで書いて解説する話: Rubyの`StringScanner`を使わないバージョンを作る。
 
-# 2018/02/12 - 2018/02/17
+# 2018/02/12 - 2018/02/18
 
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
     - 2018/02/12: あれこれ考えたけど、結局「少しでも効率のいいブルートフォース」でやることになった。まぁ少しはいい経験になると思う。
     - 2018/02/16: あとは生成したハッシュを保存する処理を実装するところだけというところまでやっときた。
     - 2018/02/17: 保存する処理までとりあえず実装。LevelDBを使うことにしたので、Windowsでビルドするのが面倒だなぁと思ってそのままにしてる。あとどうせ最終的にはLinuxで動かすしね。しかし、同時に偶然気づいたのは、32bitのハッシュを計算していたのは、MSYS2のGHCだからでは...という気がしてきた。そうだとすると、今の実装では多分ディスク容量が足りなくなる。
+    - 2018/02/18: [池袋プリキュアオフ会](http://mixi.jp/view_event.pl?comment_count=56&comm_id=5372&id=84776155)に参加しながらも、気が向いたときに改めて[衝突を探す方法の記事](https://medium.com/@robertgrosse/generating-64-bit-hash-collisions-to-dos-python-5b21404a5306)を読んでいた。読む度に、またコードを書いてから読む度に、少しずつぼんやりとだけど理解が深まっていて、面白い。結局この件長い時間を費やしてしまいそうだなぁ...。
 - 「プログラミングHaskell」の第8章「関数型パーサー」をRubyで書いて解説する話: Rubyの`StringScanner`を使わないバージョンをとりあえず作ったが、バグっている模様。あと`StringScanner`を使ったバージョンにも別のバグがあることが発覚。
 - [Haskell Data Analysis Cookbook](http://haskelldata.com/)
 - [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
