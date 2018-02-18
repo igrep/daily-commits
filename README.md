@@ -8,12 +8,23 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2018/02/18 までの目標
+# 2018/02/25 までの目標
 
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
+    - [衝突を探す方法の記事](https://medium.com/@robertgrosse/generating-64-bit-hash-collisions-to-dos-python-5b21404a5306)を読んでもうちょっと勉強してみるか、壊れていたPCが帰ってきたらLinuxでのhashableが何ビットのハッシュ値を出しているか調べる。
 - Haskell入門コンテンツ
     - 少しでも進める。
 - 「プログラミングHaskell」の第8章「関数型パーサー」をRubyで書いて解説する話: Rubyの`StringScanner`を使わないバージョンを作る。
+
+# 2018/02/18 までの目標
+
+- unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
+    - 結果: 未達。まだ難航するかも...。
+- Haskell入門コンテンツ
+    - 少しでも進める。
+    - 結果: 未達。ちょっとビルドしようとしてみただけ。一度環境をきれいにしたから依存関係のインストールに時間がかかる...。
+- 「プログラミングHaskell」の第8章「関数型パーサー」をRubyで書いて解説する話: Rubyの`StringScanner`を使わないバージョンを作る。
+    - 結果: 未達。実装はできたけどまだバグってる。
 
 # 2018/02/12 - 2018/02/18
 
