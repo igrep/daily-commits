@@ -13,8 +13,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
     - [衝突を探す方法の記事](https://medium.com/@robertgrosse/generating-64-bit-hash-collisions-to-dos-python-5b21404a5306)を読んでもうちょっと勉強してみるか、壊れていたPCが帰ってきたらLinuxでのhashableが何ビットのハッシュ値を出しているか調べる。
 - Haskell入門コンテンツ
-    - 少しでも進める。
-- 「プログラミングHaskell」の第8章「関数型パーサー」をRubyで書いて解説する話: Rubyの`StringScanner`を使わないバージョンを作る。
+    - Stackのおかしな挙動についてバグ報告。できれば直す。
+
+# 2018/02/19
+
+- Haskell入門コンテンツ
+    - 2018/02/19: Stackのバグについて、最小ケースを作っていた。おそらく私の環境固有の問題で、回避は難しいかも。
+- unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
+- [Haskell Data Analysis Cookbook](http://haskelldata.com/)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- 中国語
 
 # 2018/02/18 までの目標
 
