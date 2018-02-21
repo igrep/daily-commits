@@ -19,6 +19,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - Haskell入門コンテンツ
     - 2018/02/19: Stackのバグについて、最小ケースを作っていた。おそらく私の環境固有の問題で、回避は難しいかも。
+    - 2018/02/20: 再現するプロジェクトと再現しないプロジェクト両方作れたものの、違いがよくわからない。もしかしてstackの最新版で直ったらしい、Windowsのパス文字制限のバグだったりするのだろうか。
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
 - [Haskell Data Analysis Cookbook](http://haskelldata.com/)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
