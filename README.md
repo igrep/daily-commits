@@ -15,7 +15,17 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ
     - Stackのおかしな挙動についてバグ報告。できれば直す。
 
-# 2018/02/19
+# 2018/02/21
+
+- Haskell入門コンテンツ
+    - 2018/02/21: stackを最新版に上げても直ってなかった...。[このIssue](https://github.com/commercialhaskell/stack/issues/3285)で議論されている模様。
+- unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
+- [Haskell Data Analysis Cookbook](http://haskelldata.com/)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
+- 中国語
+
+# 2018/02/19 - 2018/02/20
 
 - Haskell入門コンテンツ
     - 2018/02/19: Stackのバグについて、最小ケースを作っていた。おそらく私の環境固有の問題で、回避は難しいかも。
