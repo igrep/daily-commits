@@ -15,10 +15,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ
     - Stackのおかしな挙動についてバグ報告。できれば直す。
 
+# 2018/02/24
+
+- [Haskell Data Analysis Cookbook](http://haskelldata.com/)
+
 # 2018/02/23
 
 - [Haskell Data Analysis Cookbook](http://haskelldata.com/)
-    - 風邪をひいてしまいほとんどなにもできず。
+- 中国語
 
 # 2018/02/21 - 2018/02/22
 
