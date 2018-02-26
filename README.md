@@ -8,12 +8,28 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2018/02/25 までの目標
+# 2018/03/04 までの目標
 
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
     - [衝突を探す方法の記事](https://medium.com/@robertgrosse/generating-64-bit-hash-collisions-to-dos-python-5b21404a5306)を読んでもうちょっと勉強してみるか、壊れていたPCが帰ってきたらLinuxでのhashableが何ビットのハッシュ値を出しているか調べる。
 - Haskell入門コンテンツ
+    - 
+- 探索的な状態だと目標をちゃんと決めるの難しいなぁ...。
+
+# 2018/02/25 までの目標
+
+- unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
+    - [衝突を探す方法の記事](https://medium.com/@robertgrosse/generating-64-bit-hash-collisions-to-dos-python-5b21404a5306)を読んでもうちょっと勉強してみるか、壊れていたPCが帰ってきたらLinuxでのhashableが何ビットのハッシュ値を出しているか調べる。
+    - 結果: 未達。PCも帰ってきたのに結局まだ起動しないし、風邪を引いてしまったのでLinuxのことを調べる気も起きず。
+- Haskell入門コンテンツ
     - Stackのおかしな挙動についてバグ報告。できれば直す。
+    - 結果: 未達。stackというよりGHCの問題として直した方が良さそうなのはわかった。[8.4で直すプラン](https://ghc.haskell.org/trac/ghc/wiki/Status/GHC-8.4.1)もあるみたいだし。[Redditで聞いてみたら](https://www.reddit.com/r/haskell_jp/comments/7zb7ao/ghc%E3%81%AE%E7%89%B9%E5%AE%9A%E3%81%AE%E6%A9%9F%E8%83%BD%E3%81%AE%E9%96%8B%E7%99%BA%E7%8A%B6%E6%B3%81%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/)まだ直ってないみたいだけど...。
+- 探索的な状態だと目標をちゃんと決めるの難しいなぁ...。
+
+# 2018/02/25
+
+- [Haskell Data Analysis Cookbook](http://haskelldata.com/)
+- 中国語
 
 # 2018/02/24
 
