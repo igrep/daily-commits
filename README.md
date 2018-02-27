@@ -13,8 +13,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
     - [衝突を探す方法の記事](https://medium.com/@robertgrosse/generating-64-bit-hash-collisions-to-dos-python-5b21404a5306)を読んでもうちょっと勉強してみるか、壊れていたPCが帰ってきたらLinuxでのhashableが何ビットのハッシュ値を出しているか調べる。
 - Haskell入門コンテンツ
-    - 
-- 探索的な状態だと目標をちゃんと決めるの難しいなぁ...。
+    - 余力があれば少しでも進める。
+
+# 2018/02/26
+
+- [Haskell Data Analysis Cookbook](http://haskelldata.com/)
 
 # 2018/02/25 までの目標
 
