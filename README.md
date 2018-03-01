@@ -15,7 +15,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ
     - 余力があれば少しでも進める。
 
-# 2018/02/26
+# 2018/02/26 - 2018/02/28
 
 - [Haskell Data Analysis Cookbook](http://haskelldata.com/)
 
