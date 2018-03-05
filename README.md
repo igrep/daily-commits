@@ -15,7 +15,18 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ
     - 余力があれば少しでも進める。
 
-# 2018/02/26 - 2018/03/04
+# 2018/03/05
+
+- [Haskell Data Analysis Cookbook](http://haskelldata.com/)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+
+# 2018/03/04
+
+- [Haskell Data Analysis Cookbook](http://haskelldata.com/)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- 中国語
+
+# 2018/02/26 - 2018/03/05
 
 - [Haskell Data Analysis Cookbook](http://haskelldata.com/)
 
