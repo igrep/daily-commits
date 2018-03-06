@@ -8,17 +8,28 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2018/03/04 までの目標
-
-- unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
-    - [衝突を探す方法の記事](https://medium.com/@robertgrosse/generating-64-bit-hash-collisions-to-dos-python-5b21404a5306)を読んでもうちょっと勉強してみるか、壊れていたPCが帰ってきたらLinuxでのhashableが何ビットのハッシュ値を出しているか調べる。
+# 2018/03/11
 - Haskell入門コンテンツ
-    - 余力があれば少しでも進める。
+    - とりあえず、Windowsの長いパス問題を回避できるようunisonで同期する設定を書いたり、unisonの設定ファイルの管理を改善したり
+
+# 2018/03/06
+
+- [Haskell Data Analysis Cookbook](http://haskelldata.com/)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
 
 # 2018/03/05
 
 - [Haskell Data Analysis Cookbook](http://haskelldata.com/)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+
+# 2018/03/04 までの目標
+
+- unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
+    - [衝突を探す方法の記事](https://medium.com/@robertgrosse/generating-64-bit-hash-collisions-to-dos-python-5b21404a5306)を読んでもうちょっと勉強してみるか、壊れていたPCが帰ってきたらLinuxでのhashableが何ビットのハッシュ値を出しているか調べる。
+    - 未達: 体調不良に加えてPCも結局復活せず。。。
+- Haskell入門コンテンツ
+    - 余力があれば少しでも進める。
+    - 未達: やっぱり体調不良のため何もせず。
 
 # 2018/03/04
 
