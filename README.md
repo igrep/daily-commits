@@ -8,14 +8,25 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2018/03/11
+# 2018/03/11 までの目標
+
 - Haskell入門コンテンツ
     - とりあえず、Windowsの長いパス問題を回避できるようunisonで同期する設定を書いたり、unisonの設定ファイルの管理を改善したり
+- タイプセーフプリキュア！:
+    - HUGっと！プリキュアのサポート
+
+# 2018/03/07
+
+- [Haskell Data Analysis Cookbook](http://haskelldata.com/)
+- [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- 中国語
 
 # 2018/03/06
 
 - [Haskell Data Analysis Cookbook](http://haskelldata.com/)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- 中国語
 
 # 2018/03/05
 
