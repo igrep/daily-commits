@@ -15,6 +15,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - タイプセーフプリキュア！:
     - HUGっと！プリキュアのサポート
 
+# 2018/03/08
+
+- Haskell入門コンテンツ
+    - Windowsの長いパス問題の回避方法として、グループポリシーを編集するといいみたいなことを聞いて試してみたが、うまくいかず。
+- [Haskell Data Analysis Cookbook](http://haskelldata.com/)
+- [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- 中国語
+
 # 2018/03/07
 
 - [Haskell Data Analysis Cookbook](http://haskelldata.com/)
