@@ -15,6 +15,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - タイプセーフプリキュア！:
     - HUGっと！プリキュアのサポート
 
+# 2018/03/09
+
+- Haskell入門コンテンツ
+    - 短いパスのディレクトリーとDropboxのディレクトリーを同期するためのunisonプロファイル作成
+- [Haskell Data Analysis Cookbook](http://haskelldata.com/)
+- 中国語
+
 # 2018/03/08
 
 - Haskell入門コンテンツ
