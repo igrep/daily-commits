@@ -8,16 +8,32 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2018/03/18 までの目標
+
+- Haskell入門コンテンツ
+    - 引き続き、Windowsの長いパス問題を回避できるようunisonで同期する設定を書いたり、unisonの設定ファイルの管理を改善したり
+- タイプセーフプリキュア！:
+    - 引き続き、HUGっと！プリキュアのサポート
+- Haskell-jp Blog:
+    - 先週やりかけたWindowsの長いパスについての記事の公開
+- 「プログラミングHaskell」の第8章「関数型パーサー」をRubyで書いて解説する話: いろいろバグっているのでひたすら直す
+
 # 2018/03/11 までの目標
 
 - Haskell入門コンテンツ
     - とりあえず、Windowsの長いパス問題を回避できるようunisonで同期する設定を書いたり、unisonの設定ファイルの管理を改善したり
+    - 結果: 未達。途中でグループポリシーの話とか試してもうまくいかなかったなぁ。
 - タイプセーフプリキュア！:
     - HUGっと！プリキュアのサポート
+    - 結果: 未達。こちらも惜しくも至らず。
 
-# 2018/03/10
+# 2018/03/10 - 2018/03/11
 
-- Haskell-jp Blog: ここまでハマったWindowsの長いパスについての記事。明日仕上げる。
+- Haskell-jp Blog:
+    - 2018/03/10: ここまでハマったWindowsの長いパスについての記事。明日仕上げる。
+    - 2018/03/11: ほぼ完成。公開までは至らず。
+- タイプセーフプリキュア！:
+    - 2018/03/11: 「HUGっと！プリキュア」のサポートほぼ完了。あとは映像で確認するだけ。
 - [Haskell Data Analysis Cookbook](http://haskelldata.com/)
 - [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
