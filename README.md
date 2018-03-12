@@ -27,13 +27,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - HUGっと！プリキュアのサポート
     - 結果: 未達。こちらも惜しくも至らず。
 
-# 2018/03/10 - 2018/03/11
+# 2018/03/10 - 2018/03/12
 
 - Haskell-jp Blog:
     - 2018/03/10: ここまでハマったWindowsの長いパスについての記事。明日仕上げる。
     - 2018/03/11: ほぼ完成。公開までは至らず。
+    - 2018/03/12: [Pull request](https://github.com/haskell-jp/blog/pull/96)を送って諸々修正。
 - タイプセーフプリキュア！:
     - 2018/03/11: 「HUGっと！プリキュア」のサポートほぼ完了。あとは映像で確認するだけ。
+    - 2018/03/12: 公開完了
 - [Haskell Data Analysis Cookbook](http://haskelldata.com/)
 - [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
