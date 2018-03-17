@@ -18,6 +18,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 先週やりかけたWindowsの長いパスについての記事の公開
 - 「プログラミングHaskell」の第8章「関数型パーサー」をRubyで書いて解説する話: いろいろバグっているのでひたすら直す
 
+# 2018/03/17
+
+- [Haskell Data Analysis Cookbook](http://haskelldata.com/)
+- [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- 中国語
+
 
 # 2018/03/16
 
