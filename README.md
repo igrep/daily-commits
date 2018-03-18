@@ -8,23 +8,41 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2018/03/25 までの目標
+
+- Haskell入門コンテンツ: 脱線になってしまうが、新しいテスト用のライブラリーを作る。半分ぐらいまでが目標。
+- 中国語: [自作スピードラーニング](https://twitter.com/igrep/status/973926127671521280)をするための最初の一歩のため、例文を作りGoogle翻訳へのリンクを張る（読み上げのため）
+
 # 2018/03/18 までの目標
 
 - Haskell入門コンテンツ
     - 引き続き、Windowsの長いパス問題を回避できるようunisonで同期する設定を書いたり、unisonの設定ファイルの管理を改善したり
+    - 結果: 達成。unisonファイルをmustacheで共通化するよう設定した。
 - タイプセーフプリキュア！:
     - 引き続き、HUGっと！プリキュアのサポート
+    - 結果: 達成。
 - Haskell-jp Blog:
     - 先週やりかけたWindowsの長いパスについての記事の公開
+    - 結果: 達成。
 - 「プログラミングHaskell」の第8章「関数型パーサー」をRubyで書いて解説する話: いろいろバグっているのでひたすら直す
+    - 結果: 未達。最速上映で疲れてたためかあまり集中してできず...。
 
-# 2018/03/17
+# 2018/03/18
 
+- 「プログラミングHaskell」の第8章「関数型パーサー」をRubyで書いて解説する話: デバッグコードをいろいろ仕込んだものの、仕込むだけでわからず。ちなみに、「`StringScanner`を使ったバージョンにも別のバグができていた」と思いきや、実際には入力が間違っていた。
 - [Haskell Data Analysis Cookbook](http://haskelldata.com/)
+- [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
 - [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
 - 中国語
 
+# 2018/03/17
+
+- [Haskell Data Analysis Cookbook](http://haskelldata.com/)
+- [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
+- [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- 中国語
 
 # 2018/03/16
 
