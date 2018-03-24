@@ -15,13 +15,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
     - そう言えば忘れていた。PCも戻ってきたので続きをやろう。
 
-# 2018/03/19 - 2018/03/23
+# 2018/03/19 - 2018/03/24
 
 - Haskell入門コンテンツ:
     - 2018/03/19: テスト用のライブラリー作りはじめ。
     - 2018/03/20: 久々にdoctestの使うよう挑戦してみる。
     - 2018/03/21: doctestを使った部分が書けた。
     - 2018/03/22: Hspecも書けた。
+    - 2018/03/23: stdinを差し替える処理を書けた。stdoutやstderrと勝手が違ったらどうしようかと思ったけど、そんなことはなかったのでほっとする。
 - [Haskell Data Analysis Cookbook](http://haskelldata.com/)
 - [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
 - [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
