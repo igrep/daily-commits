@@ -8,12 +8,29 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2018/04/01 までの目標
+
+- Haskell入門コンテンツ: 脱線になってしまうが、新しいテスト用のライブラリーを作る。リリースして、できればHaskell-jp Blogに記事を上げるまで。
+- 中国語: [自作スピードラーニング](https://twitter.com/igrep/status/973926127671521280)をするための最初の一歩のため、例文を作りGoogle翻訳へのリンクを張る（読み上げのため）
+- unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成。[Rustのコード](https://github.com/Storyyeller/fnv-collider)をデバッグすることで[元ネタの記事](https://medium.com/@robertgrosse/generating-64-bit-hash-collisions-to-dos-python-5b21404a5306)の理解を再度試みる。
+
 # 2018/03/25 までの目標
 
 - Haskell入門コンテンツ: 脱線になってしまうが、新しいテスト用のライブラリーを作る。半分ぐらいまでが目標。
+    - 結果: 達成。
 - 中国語: [自作スピードラーニング](https://twitter.com/igrep/status/973926127671521280)をするための最初の一歩のため、例文を作りGoogle翻訳へのリンクを張る（読み上げのため）
+    - 結果: 未達。やり方自体どうしようか迷っちゃうね...。
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
     - そう言えば忘れていた。PCも戻ってきたので続きをやろう。
+    - 結果: 未達。自分で考えるのを諦めて[以前読んだ記事に書いてあったプログラム](https://github.com/Storyyeller/fnv-collider)をそのまま使おうと思ったが、`PINV`という定数の設定方法がわからず。[作者に聞いてみたけど](https://medium.com/@whosekiteneverfly/thanks-for-the-source-code-cc0d0cac2184)多分反応は来ないだろう。
+
+# 2018/03/25
+
+- [Haskell Data Analysis Cookbook](http://haskelldata.com/)
+- [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
+- [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- 中国語
 
 # 2018/03/19 - 2018/03/24
 
