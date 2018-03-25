@@ -24,6 +24,8 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - そう言えば忘れていた。PCも戻ってきたので続きをやろう。
     - 結果: 未達。自分で考えるのを諦めて[以前読んだ記事に書いてあったプログラム](https://github.com/Storyyeller/fnv-collider)をそのまま使おうと思ったが、`PINV`という定数の設定方法がわからず。[作者に聞いてみたけど](https://medium.com/@whosekiteneverfly/thanks-for-the-source-code-cc0d0cac2184)多分反応は来ないだろう。
 
+内視鏡検査もあったりしたけど、どう考えても神姫PROJECTのやり過ぎなので、今後は土日は控えよう...。
+
 # 2018/03/25
 
 - [Haskell Data Analysis Cookbook](http://haskelldata.com/)
