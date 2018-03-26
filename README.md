@@ -14,6 +14,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - 中国語: [自作スピードラーニング](https://twitter.com/igrep/status/973926127671521280)をするための最初の一歩のため、例文を作りGoogle翻訳へのリンクを張る（読み上げのため）
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成。[Rustのコード](https://github.com/Storyyeller/fnv-collider)をデバッグすることで[元ネタの記事](https://medium.com/@robertgrosse/generating-64-bit-hash-collisions-to-dos-python-5b21404a5306)の理解を再度試みる。
 
+# 2018/03/26
+
+- Haskell入門コンテンツ:
+    - 2018/03/26: テスト用のライブラリー、なんだか書きにくいので[継続モナドによるリソース管理](https://qiita.com/tanakh/items/81fc1a0d9ae0af3865cb)で知った[managedパッケージ](http://hackage.haskell.org/package/managed-1.0.6)を使ってみてる。
+- [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
+- [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- 中国語
+
 # 2018/03/25 までの目標
 
 - Haskell入門コンテンツ: 脱線になってしまうが、新しいテスト用のライブラリーを作る。半分ぐらいまでが目標。
@@ -28,7 +37,6 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 # 2018/03/25
 
-- [Haskell Data Analysis Cookbook](http://haskelldata.com/)
 - [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
 - [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
@@ -42,7 +50,6 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2018/03/21: doctestを使った部分が書けた。
     - 2018/03/22: Hspecも書けた。
     - 2018/03/23: stdinを差し替える処理を書けた。stdoutやstderrと勝手が違ったらどうしようかと思ったけど、そんなことはなかったのでほっとする。
-- [Haskell Data Analysis Cookbook](http://haskelldata.com/)
 - [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
 - [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
