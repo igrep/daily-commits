@@ -14,12 +14,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - 中国語: [自作スピードラーニング](https://twitter.com/igrep/status/973926127671521280)をするための最初の一歩のため、例文を作りGoogle翻訳へのリンクを張る（読み上げのため）
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成。[Rustのコード](https://github.com/Storyyeller/fnv-collider)をデバッグすることで[元ネタの記事](https://medium.com/@robertgrosse/generating-64-bit-hash-collisions-to-dos-python-5b21404a5306)の理解を再度試みる。
 
-# 2018/03/26 - 2018/03/30
+# 2018/03/26 - 2018/03/31
 
 - Haskell入門コンテンツ:
     - 2018/03/26: テスト用のライブラリー、なんだか書きにくいので[継続モナドによるリソース管理](https://qiita.com/tanakh/items/81fc1a0d9ae0af3865cb)で知った[managedパッケージ](http://hackage.haskell.org/package/managed-1.0.6)を使ってみてる。
     - 2018/03/28: ようやくstdoutとstderrを書き換えるライブラリーも書いたけど、なんだか動かない。
     - 2018/03/30: どうもmanagedパッケージの使い方が悪いのが原因のような気がしてきた。直し方もわからないしそのままナイーヴな`bracket`に変えるかな...。
+    - 2018/03/31: `bracket`に変えてみてもやっぱり動かず。Windowsの問題かと思って元ネタのsilentlyのテストを実行してみたところ、あっさりうまくいった。次はStringに変えたり、組み合わせ問題と仮定してLinuxでもやってみるか...。
 - [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
 - 中国語
