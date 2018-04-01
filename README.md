@@ -8,11 +8,21 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2018/04/09 までの目標
+
+- Haskell入門コンテンツ: 脱線になってしまうが、新しいテスト用のライブラリーを作る。リリースしてHaskell-jp Blogに記事を上げるまで。
+- 中国語: [自作スピードラーニング](https://twitter.com/igrep/status/973926127671521280)をするための最初の一歩のため、例文をひたすら作ってHello Talkに上げる。
+- unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成。[Robertの返事](https://medium.com/@robertgrosse/pinv-is-simply-the-modular-inverse-of-p-the-multiplicative-constant-used-in-pythons-fnv-a4a4855ba5)に従い`PINV`定数を設定し、衝突する文字列を集める。
+
 # 2018/04/01 までの目標
 
 - Haskell入門コンテンツ: 脱線になってしまうが、新しいテスト用のライブラリーを作る。リリースして、できればHaskell-jp Blogに記事を上げるまで。
+    - 結果: 未達。想像以上にバグに苦しんだね...。
 - 中国語: [自作スピードラーニング](https://twitter.com/igrep/status/973926127671521280)をするための最初の一歩のため、例文を作りGoogle翻訳へのリンクを張る（読み上げのため）
+    - 結果: 未達。これも手を着けず...。
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成。[Rustのコード](https://github.com/Storyyeller/fnv-collider)をデバッグすることで[元ネタの記事](https://medium.com/@robertgrosse/generating-64-bit-hash-collisions-to-dos-python-5b21404a5306)の理解を再度試みる。
+    - 結果: 未達。例のRustのコードで書き換える定数について[返事が来た](https://medium.com/@robertgrosse/pinv-is-simply-the-modular-inverse-of-p-the-multiplicative-constant-used-in-pythons-fnv-a4a4855ba5)ものの、手を着けられず。
+- 土日は控えようと言いながら神姫PROJECTをやってしまったものの、まぁ先週に比べてバランスはとれていたと思う。
 
 # 2018/03/26 - 2018/03/31
 
@@ -21,6 +31,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2018/03/28: ようやくstdoutとstderrを書き換えるライブラリーも書いたけど、なんだか動かない。
     - 2018/03/30: どうもmanagedパッケージの使い方が悪いのが原因のような気がしてきた。直し方もわからないしそのままナイーヴな`bracket`に変えるかな...。
     - 2018/03/31: `bracket`に変えてみてもやっぱり動かず。Windowsの問題かと思って元ネタのsilentlyのテストを実行してみたところ、あっさりうまくいった。次はStringに変えたり、組み合わせ問題と仮定してLinuxでもやってみるか...。
+    - 2018/04/01: ようやく動いた...。どうやら`hFlush`する`Handle`を間違えていたらしい。これは直感に反するわ...。未だに文字コードの統一がうまくいってるのか行ってないのかバグるものの、とりあえずリリースしちゃおう。
 - [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
 - 中国語
