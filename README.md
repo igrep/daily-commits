@@ -14,11 +14,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - 中国語: [自作スピードラーニング](https://twitter.com/igrep/status/973926127671521280)をするための最初の一歩のため、例文をひたすら作ってHello Talkに上げる。
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成。[Robertの返事](https://medium.com/@robertgrosse/pinv-is-simply-the-modular-inverse-of-p-the-multiplicative-constant-used-in-pythons-fnv-a4a4855ba5)に従い`PINV`定数を設定し、衝突する文字列を集める。
 
-# 2018/04/02 - 2018/04/05
+# 2018/04/02 - 2018/04/06
 
 - Haskell入門コンテンツ
     - 2018/04/03: テスト用のライブラリーのドキュメント書き書き
     - 2018/04/05: [とりあえずリリースしてみた](https://hackage.haskell.org/package/main-tester)ものの、CIでテストがこける...。
+    - 2018/04/06: CIでテストがこける現象、doctestを実行しないようにしたら回避できたので一安心。<https://twitter.com/igrep/status/982026138913464321>
 - [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
 - 中国語
