@@ -10,18 +10,18 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 # 2018/04/15 までの目標
 
+- Haskell入門コンテンツ: main-testerを使ってテストコードの改善
+- Haskell入門コンテンツ: 数当てゲームをゴールとした問題の再分割
+- 中国語: [自作スピードラーニング](https://twitter.com/igrep/status/973926127671521280)をするための例文作りを定着させる。
+
+# 2018/04/08 までの目標
+
 - Haskell入門コンテンツ: 脱線になってしまうが、新しいテスト用のライブラリーを作る。リリースしてHaskell-jp Blogに記事を上げるまで。
     - 結果: ほぼ達成。記事の公開には至らなかったが、Pull requestを送ってレビューしてもらうまでできたのでよしとしよう。 <https://github.com/haskell-jp/blog/pull/107>
 - 中国語: [自作スピードラーニング](https://twitter.com/igrep/status/973926127671521280)をするための最初の一歩のため、例文をひたすら作ってHello Talkに上げる。
     - 結果: 未達。Hello Talkに上げるのは面倒なので諦める。
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成。[Robertの返事](https://medium.com/@robertgrosse/pinv-is-simply-the-modular-inverse-of-p-the-multiplicative-constant-used-in-pythons-fnv-a4a4855ba5)に従い`PINV`定数を設定し、衝突する文字列を集める。
     - 結果: 未達。main-testerのCIを通すのに思いのほか時間がかかったりして、今回は時間をとれず。
-
-# 2018/04/08 までの目標
-
-- Haskell入門コンテンツ: 脱線になってしまうが、新しいテスト用のライブラリーを作る。リリースしてHaskell-jp Blogに記事を上げるまで。
-- 中国語: [自作スピードラーニング](https://twitter.com/igrep/status/973926127671521280)をするための最初の一歩のため、例文をひたすら作ってHello Talkに上げる。
-- unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成。[Robertの返事](https://medium.com/@robertgrosse/pinv-is-simply-the-modular-inverse-of-p-the-multiplicative-constant-used-in-pythons-fnv-a4a4855ba5)に従い`PINV`定数を設定し、衝突する文字列を集める。
 
 # 2018/04/08
 
