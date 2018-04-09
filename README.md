@@ -14,6 +14,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ: 数当てゲームをゴールとした問題の再分割
 - 中国語: [自作スピードラーニング](https://twitter.com/igrep/status/973926127671521280)をするための例文作りを定着させる。
 
+# 2018/04/09
+
+- Haskell入門コンテンツ
+    - 次をどうするか考えるところで止まってしまうなぁ...。
+- [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- 中国語
+
 # 2018/04/08 までの目標
 
 - Haskell入門コンテンツ: 脱線になってしまうが、新しいテスト用のライブラリーを作る。リリースしてHaskell-jp Blogに記事を上げるまで。
@@ -26,7 +34,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 # 2018/04/08
 
 - Haskell入門コンテンツ
-    - main-testerについてのPull requestを送った。
+    - main-testerについて、Haskell-jp BlogにPull requestを送った。
 - [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
 - 中国語
