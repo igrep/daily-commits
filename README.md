@@ -14,10 +14,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ: 数当てゲームをゴールとした問題の再分割
 - 中国語: [自作スピードラーニング](https://twitter.com/igrep/status/973926127671521280)をするための例文作りを定着させる。
 
-# 2018/04/09
+# 2018/04/09 - 2018/04/10
 
 - Haskell入門コンテンツ
-    - 次をどうするか考えるところで止まってしまうなぁ...。
+    - 2018/04/09: 次をどうするか考えるところで止まってしまうなぁ...。
+    - 2018/04/10: とりあえず、書きかけの、BMIを求める問題を続けることに。
 - [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
 - 中国語
