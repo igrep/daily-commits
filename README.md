@@ -15,6 +15,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell-jp: 新ロゴができたので各所に適用
 - keep-me-contributing: [もくもく.lisp #2](https://connpass.com/event/84333/)にてClojureで書くための環境を構築して、少し書いてみる
 
+# 2018/04/21
+
+- keep-me-contributing: Leiningenのエラーがわかりづらくて苦戦するも、[もくもく.lisp #2](https://connpass.com/event/84333/)に参加していたみなさんに親切に教えていただいたおかげで、ようやくReact Nativeに「Android SDKが見つからないんだけど！」という分かりやすいエラーが出るところまでたどり着けた。ある程度まとまったらQiitaに書こうかな？
+- Haskell-jp: 新ロゴを書き出してリポジトリーにアップロードするだけにとどまる
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
+- 中国語
+
 # 2018/04/16 - 2018/04/20
 
 - Haskell入門コンテンツ
