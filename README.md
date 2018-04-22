@@ -8,12 +8,36 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2018/04/22 までの目標
+# 2018/04/29 までの目標
+
+ほとんど全部引き続きで！  
+多分全部は無理だろうな...。
 
 - Haskell入門コンテンツ: 2問目の問題と誤回答例を作成
 - Haskell入門コンテンツ: FizzBuzzをゴールとした問題の再分割？
 - Haskell-jp: 新ロゴができたので各所に適用
+- タイプセーフプリキュアの更新
+- cmd.exeの脆弱性についての記事
+- unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
+    - [せっかく元ネタの人からアドバイスもいただいた](https://medium.com/@robertgrosse/pinv-is-simply-the-modular-inverse-of-p-the-multiplicative-constant-used-in-pythons-fnv-a4a4855ba5)ので、落ち着いて時間をとれたらやってみる。
+
+# 2018/04/22 までの目標
+
+- Haskell入門コンテンツ: 2問目の問題と誤回答例を作成
+    - 結果: 未達。結構雑務が多かったしなぁ...。
+- Haskell入門コンテンツ: FizzBuzzをゴールとした問題の再分割？
+    - 結果: 未達。
+- Haskell-jp: 新ロゴができたので各所に適用
+    - 結果: 未達。
 - keep-me-contributing: [もくもく.lisp #2](https://connpass.com/event/84333/)にてClojureで書くための環境を構築して、少し書いてみる
+    - 結果: 未達。
+
+# 2018/04/22
+
+- Haskell-jp: 各所に適用。疲れたので残りは次のHaskell-jpもくもく会でやろうかな。
+- [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
+- [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
+- 中国語
 
 # 2018/04/21
 
