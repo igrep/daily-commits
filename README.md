@@ -21,12 +21,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
     - [せっかく元ネタの人からアドバイスもいただいた](https://medium.com/@robertgrosse/pinv-is-simply-the-modular-inverse-of-p-the-multiplicative-constant-used-in-pythons-fnv-a4a4855ba5)ので、落ち着いて時間をとれたらやってみる。
 
-# 2018/04/23 - 2018/04/25
+# 2018/04/23 - 2018/04/26
 
 - Haskell入門コンテンツ:
     - 2018/04/23: 2問目の問題完成。
     - 2018/04/24: 2問目の誤答例を作成。
-    - 2018/04/25: 誤答例からエラーメッセージを自動生成するスクリプトを作成。
+    - 2018/04/25 - 2018/04/26: 誤答例からエラーメッセージを自動生成するスクリプトを作成。
 - [エリック・エヴァンスのドメイン駆動設計 ソフトウェアの核心にある複雑さに立ち向かう](http://www.shoeisha.co.jp/book/detail/9784798121963)
 - [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
 - 中国語
