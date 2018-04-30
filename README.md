@@ -8,18 +8,43 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2018/05/06までの目標
+
+ほとんど全部引き続きで！  
+多分全部は無理だろうな...。
+
+- Haskell入門コンテンツ: FizzBuzzをゴールとした問題の再分割？
+    - 結果: 未達。これは2問目ができるまで後回しでよし。
+- タイプセーフプリキュアの更新
+    - 結果: 未達
+- unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
+    - [せっかく元ネタの人からアドバイスもいただいた](https://medium.com/@robertgrosse/pinv-is-simply-the-modular-inverse-of-p-the-multiplicative-constant-used-in-pythons-fnv-a4a4855ba5)ので、落ち着いて時間をとれたらやってみる。
+    - 結果: 未達
+
 # 2018/04/29 までの目標
 
 ほとんど全部引き続きで！  
 多分全部は無理だろうな...。
 
 - Haskell入門コンテンツ: 2問目の問題と誤回答例を作成
+    - 結果: 達成。
 - Haskell入門コンテンツ: FizzBuzzをゴールとした問題の再分割？
+    - 結果: 未達。これは2問目ができるまで後回しでよし。
 - Haskell-jp: 新ロゴができたので各所に適用
+    - 結果: 達成。
 - タイプセーフプリキュアの更新
+    - 結果: 未達
 - cmd.exeの脆弱性についての記事
+    - 結果: 未達
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
     - [せっかく元ネタの人からアドバイスもいただいた](https://medium.com/@robertgrosse/pinv-is-simply-the-modular-inverse-of-p-the-multiplicative-constant-used-in-pythons-fnv-a4a4855ba5)ので、落ち着いて時間をとれたらやってみる。
+    - 結果: 未達
+
+# 2018/04/29
+
+- Haskell-jpの活動: ロゴの更新続き。これで一旦一区切り。
+- [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
+- 中国語
 
 # 2018/04/28
 
