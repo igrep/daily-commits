@@ -22,6 +22,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - [せっかく元ネタの人からアドバイスもいただいた](https://medium.com/@robertgrosse/pinv-is-simply-the-modular-inverse-of-p-the-multiplicative-constant-used-in-pythons-fnv-a4a4855ba5)ので、落ち着いて時間をとれたらやってみる。
     - 結果: 未達
 
+# 2018/04/30
+
+- [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
+- 中国語
+- なんかIISでWebDAVの設定を行おうとして失敗していた...。
+
 # 2018/04/29 までの目標
 
 ほとんど全部引き続きで！  
