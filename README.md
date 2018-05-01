@@ -15,12 +15,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - Haskell入門コンテンツ: 2問目のテストケースを完成。
 - Haskell入門コンテンツ: FizzBuzzをゴールとした問題の再分割？
-    - 結果: 未達。これは2問目ができるまで後回しでよし。
 - タイプセーフプリキュアの更新
-    - 結果: 未達
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
     - [せっかく元ネタの人からアドバイスもいただいた](https://medium.com/@robertgrosse/pinv-is-simply-the-modular-inverse-of-p-the-multiplicative-constant-used-in-pythons-fnv-a4a4855ba5)ので、落ち着いて時間をとれたらやってみる。
-    - 結果: 未達
+
+# 2018/05/01
+
+- タイプセーフプリキュアの更新: [Pull requestを作るところまでできた](https://github.com/igrep/typesafe-precure/pull/22)
+- [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
+- 中国語
 
 # 2018/04/30
 
