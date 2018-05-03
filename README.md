@@ -19,6 +19,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
     - [せっかく元ネタの人からアドバイスもいただいた](https://medium.com/@robertgrosse/pinv-is-simply-the-modular-inverse-of-p-the-multiplicative-constant-used-in-pythons-fnv-a4a4855ba5)ので、落ち着いて時間をとれたらやってみる。
 
+# 2018/05/02
+
+- タイプセーフプリキュアの更新: 更新完了。
+- [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
+- 中国語
+
 # 2018/05/01
 
 - タイプセーフプリキュアの更新: [Pull requestを作るところまでできた](https://github.com/igrep/typesafe-precure/pull/22)
