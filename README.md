@@ -19,10 +19,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
     - [せっかく元ネタの人からアドバイスもいただいた](https://medium.com/@robertgrosse/pinv-is-simply-the-modular-inverse-of-p-the-multiplicative-constant-used-in-pythons-fnv-a4a4855ba5)ので、落ち着いて時間をとれたらやってみる。
 
-# 2018/05/04
+# 2018/05/04 - 2018/05/05
 
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
-    - いただいたアドバイスを元に、HaskellのhashableにおけるPINVを計算することができたのでfnv-colliderを実行してみたものの、メモリ不足で死んだ...。
+    - 2018/05/04: いただいたアドバイスを元に、HaskellのhashableにおけるPINVを計算することができたのでfnv-colliderを実行してみたものの、メモリ不足で死んだ...。
+    - 2018/05/05: パラメーターを変えたり使うCPUの数を減らすことで、なんとかメモリ不足は避けられた。が、なかなか計算が終わらず。
+- Haskell-jp:
+    - 2018/05/05: Haskell Day 2018の企画案をちょっと考えた。
 - [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
 - 中国語
 
