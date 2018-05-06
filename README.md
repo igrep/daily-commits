@@ -8,24 +8,38 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2018/05/13までの目標
+
+- Haskell入門コンテンツ: 2問目のテストケースを完成。
+- Haskell入門コンテンツ: FizzBuzzをゴールとした問題の再分割
+- unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
+    - RustのコードとHaskellのコードでどうhashを計算しているか読んで、なんで食い違ったか調べようかな... あるいは、元記事を参考にしつつ自分でもHaskellで作れないだろうか...。元記事曰くxorは下位ビットを除けば実質的に単調増加する関数なので、その性質を利用して2分探索したりとか...？
+
 # 2018/05/06までの目標
 
 ほとんど全部引き続きで！  
 多分全部は無理だろうな...。
 
 - Haskell入門コンテンツ: 2問目のテストケースを完成。
+    - 結果: 未達
 - Haskell入門コンテンツ: FizzBuzzをゴールとした問題の再分割？
+    - 結果: 未達
 - タイプセーフプリキュアの更新
+    - 結果: 達成
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
     - [せっかく元ネタの人からアドバイスもいただいた](https://medium.com/@robertgrosse/pinv-is-simply-the-modular-inverse-of-p-the-multiplicative-constant-used-in-pythons-fnv-a4a4855ba5)ので、落ち着いて時間をとれたらやってみる。
+    - 結果: 未達。まだまだ落とし穴が多い...
 
-# 2018/05/04 - 2018/05/05
+# 2018/05/04 - 2018/05/06
 
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
     - 2018/05/04: いただいたアドバイスを元に、HaskellのhashableにおけるPINVを計算することができたのでfnv-colliderを実行してみたものの、メモリ不足で死んだ...。
     - 2018/05/05: パラメーターを変えたり使うCPUの数を減らすことで、なんとかメモリ不足は避けられた。が、なかなか計算が終わらず。
+    - 2018/05/06: 計算終わったものの、全然ハッシュ値が一致しない...。ByteStringにしてもStringにしてもTextにしても衝突しない。こりゃHaskell用にもうちょっと工夫が要るんだろうな... でもTextはともかくByteStringでダメな理由がわからない...
 - Haskell-jp:
     - 2018/05/05: Haskell Day 2018の企画案をちょっと考えた。
+    - 2018/05/06: Haskell Day 2018の企画案をちょっと考えた。
+    - 2018/05/06: 計算を待ってる間に、と思ってHaskell-jp BlogのCircleCI 2.0への移行を試みた。まだまだ苦戦しそうだ。
 - [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
 - 中国語
 
