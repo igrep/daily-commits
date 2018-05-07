@@ -13,7 +13,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ: 2問目のテストケースを完成。
 - Haskell入門コンテンツ: FizzBuzzをゴールとした問題の再分割
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
-    - RustのコードとHaskellのコードでどうhashを計算しているか読んで、なんで食い違ったか調べようかな... あるいは、元記事を参考にしつつ自分でもHaskellで作れないだろうか...。元記事曰くxorは下位ビットを除けば実質的に単調増加する関数なので、その性質を利用して2分探索したりとか...？
+    - RustのコードとHaskellのコードとPython 3.3のコードでどうhashを計算しているか読んで比較して、なんで食い違ったか調べようかな... あるいは、元記事を参考にしつつ自分でもHaskellで作れないだろうか...。元記事曰くxorは下位ビットを除けば実質的に単調増加する関数なので、その性質を利用して2分探索したりとか...？
+
+# 2018/05/07
+
+- Haskell入門コンテンツ
+- Haskell-jp:
+    - 2018/05/07: 引き続きCircleCI 2.0への移行
+- [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
+- 中国語
 
 # 2018/05/06までの目標
 
@@ -21,7 +29,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 多分全部は無理だろうな...。
 
 - Haskell入門コンテンツ: 2問目のテストケースを完成。
-    - 結果: 未達
+    - 結果: 未達。ゴールデンウィークは結構だらけてしまって、ほとんど手を着けなかったな...。
 - Haskell入門コンテンツ: FizzBuzzをゴールとした問題の再分割？
     - 結果: 未達
 - タイプセーフプリキュアの更新
