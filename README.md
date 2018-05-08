@@ -15,12 +15,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
     - RustのコードとHaskellのコードとPython 3.3のコードでどうhashを計算しているか読んで比較して、なんで食い違ったか調べようかな... あるいは、元記事を参考にしつつ自分でもHaskellで作れないだろうか...。元記事曰くxorは下位ビットを除けば実質的に単調増加する関数なので、その性質を利用して2分探索したりとか...？
 
-# 2018/05/07
+# 2018/05/07 - 2018/05/08
 
 - Haskell入門コンテンツ
 - Haskell-jp:
-    - 2018/05/07: 引き続きCircleCI 2.0への移行
+    - 2018/05/07 - 2018/05/08: 引き続きCircleCI 2.0への移行
 - [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
 
 # 2018/05/06までの目標
