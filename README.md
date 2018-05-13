@@ -8,14 +8,25 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2018/05/20までの目標
+
+
+- Haskell入門コンテンツ: 2問目の実装。
+- Haskell入門コンテンツ: FizzBuzzをゴールとした問題の再分割
+- 「プログラミングHaskell」の第8章「関数型パーサー」をRubyで書いて解説する話: 久々に進める。バグを直そう。
+- Haskell-jp: CircleCI 2.0への移行とそれを試すための記事の完成・リリース。
+
 # 2018/05/13までの目標
 
-- Haskell入門コンテンツ: 2問目のテストケースを完成。
+- Haskell入門コンテンツ: 2問目の実装。
+    - 結果: 未達。いろいろ用事でバタバタしてたね...。
 - Haskell入門コンテンツ: FizzBuzzをゴールとした問題の再分割
+    - 結果: 未達。
 - unordered-containersの脆弱性について、aesonに対する攻撃のPOCの作成
     - RustのコードとHaskellのコードとPython 3.3のコードでどうhashを計算しているか読んで比較して、なんで食い違ったか調べようかな... あるいは、元記事を参考にしつつ自分でもHaskellで作れないだろうか...。元記事曰くxorは下位ビットを除けば実質的に単調増加する関数なので、その性質を利用して2分探索したりとか...？
+    - 結果: 未達。いったん脇に置いて、ソースコードやら元のアルゴリズムの解説文書やらを寝るときに読んでみようと思う。
 
-# 2018/05/12
+# 2018/05/12 - 2018/05/13
 
 - Haskell-jp: CircleCI 2.0への移行を本格的に試すために、新しい記事を書いていた。
 - [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
