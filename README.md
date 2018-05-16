@@ -15,7 +15,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - 「プログラミングHaskell」の第8章「関数型パーサー」をRubyで書いて解説する話: 久々に進める。バグを直そう。
 - Haskell-jp: CircleCI 2.0への移行とそれを試すための記事の完成・リリース。
 
-# 2018/05/15
+# 2018/05/15 - 2018/05/16
 
 - Haskell入門コンテンツ: 2問目の実装を少しずつ。
 - [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
