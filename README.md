@@ -15,6 +15,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - 「プログラミングHaskell」の第8章「関数型パーサー」をRubyで書いて解説する話: 久々に進める。バグを直そう。
 - Haskell-jp: CircleCI 2.0への移行とそれを試すための記事の完成・リリース。
 
+# 2018/05/19
+
+- 「プログラミングHaskell」の第8章「関数型パーサー」をRubyで書いて解説する話: 久々に進める。バグを直そう。
+    - [直せたのでアップロードした](https://gist.github.com/igrep/526ba501f89f83ba68b5058e830478b8)。バグを作った原因から考えても、普通のパーサーと同じように、保持している文字列を消費するような実装に変えよう。もともとは少しでも文字列を生成する回数を減らすために`String#index`メソッドを使って比較していたが、その使い方を間違えたためにバグっていた。そもそも別にパフォーマンスを気にするようなプログラムではないし。
+- [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
+
 # 2018/05/15 - 2018/05/18
 
 - Haskell入門コンテンツ: 2問目の実装を少しずつ。
