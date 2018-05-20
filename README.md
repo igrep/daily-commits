@@ -8,12 +8,29 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2018/05/20までの目標
+# 2018/05/27までの目標
 
 - Haskell入門コンテンツ: 2問目の実装。
 - Haskell入門コンテンツ: FizzBuzzをゴールとした問題の再分割
+- Haskell-jp: 翻訳記事の公開。
+
+# 2018/05/20までの目標
+
+- Haskell入門コンテンツ: 2問目の実装。
+    - 結果: 未達。どうも朝の時間に集中できなかったりであまり進められず。
+- Haskell入門コンテンツ: FizzBuzzをゴールとした問題の再分割
+    - 結果: 未達。どうも朝の時間に集中できなかったりであまり進められず。
 - 「プログラミングHaskell」の第8章「関数型パーサー」をRubyで書いて解説する話: 久々に進める。バグを直そう。
+    - 結果: 達成。
 - Haskell-jp: CircleCI 2.0への移行とそれを試すための記事の完成・リリース。
+    - 結果: 達成。記事は[mizunashi\_manaさんに書いていただいた](https://haskell.jp/blog/posts/2018/about-ghc-exts-1.html)。
+
+# 2018/05/20
+
+- Haskell-jp: もともとCircleCI 2.0への移行を試すために書いていた翻訳記事があらかたできた。
+- [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
 
 # 2018/05/19
 
