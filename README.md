@@ -25,9 +25,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell-jp: CircleCI 2.0への移行とそれを試すための記事の完成・リリース。
     - 結果: 達成。記事は[mizunashi\_manaさんに書いていただいた](https://haskell.jp/blog/posts/2018/about-ghc-exts-1.html)。
 
-# 2018/05/20
+# 2018/05/20 - 2018/05/21
 
-- Haskell-jp: もともとCircleCI 2.0への移行を試すために書いていた翻訳記事があらかたできた。
+- Haskell-jp:
+    - 2018/05/20: もともとCircleCI 2.0への移行を試すために書いていた翻訳記事があらかたできた。
+    - 2018/05/21: 記事の[翻訳のPull request](https://github.com/haskell-jp/blog/pull/118)を送った。
+- Haskell入門コンテンツ:
+    - 2018/05/21: 2問目をほんの少しずつ進めてる。
 - [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
