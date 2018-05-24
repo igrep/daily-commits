@@ -14,10 +14,10 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ: FizzBuzzをゴールとした問題の再分割
 - Haskell-jp: 翻訳記事の公開。
 
-# 2018/05/22 - 2018/05/23
+# 2018/05/22 - 2018/05/24
 
 - Haskell-jp:
-    - 2018/05/22 - 2018/05/23: 記事の修正中。
+    - 2018/05/22 - 2018/05/24: 記事の修正中。
 - [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
