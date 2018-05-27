@@ -14,6 +14,18 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ: FizzBuzzをゴールとした問題の再分割
 - Haskell-jp: 翻訳記事の公開。
 
+# 2018/05/26
+
+- Haskell-jp:
+    - Haskell-jp Blogをいろいろ修正。
+        - [Modify English](https://github.com/haskell-jp/blog/pull/124)
+        - [Fix カンマやシングルクォートなどの前後にはスペースを入れない #119](https://github.com/haskell-jp/blog/pull/122)
+        - [Fix #6 lang metadata](https://github.com/haskell-jp/blog/pull/123)
+- Haskell入門コンテンツ: 2問目の実装をちょっとだけ。
+- [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
+
 # 2018/05/22 - 2018/05/25
 
 - Haskell-jp:
