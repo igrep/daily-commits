@@ -16,7 +16,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ: FizzBuzzをゴールとした問題の再分割
 - Haskell Day: 概ねタスクは洗い出せているはずなので、優先順位を決めて取りかかる。適宜他の人に依頼する。
 
-# 2018/05/28 - 2018/05/30
+# 2018/05/28 - 2018/05/31
 
 - Haskell入門コンテンツ: 2問目の実装。
 - [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
