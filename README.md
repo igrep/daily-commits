@@ -8,15 +8,25 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2018/06/10までの目標
+
+- Haskell入門コンテンツ: FizzBuzzをゴールとした問題の再分割。
+- Haskell入門コンテンツ: 再分割した上で、今後のゴールを示す文を作る。
+- Haskell Day: 概ねタスクは洗い出せているはずなので、優先順位を決めて取りかかる。適宜他の人に依頼する。
+
 # 2018/06/03までの目標
 
 いい加減Haskell入門コンテンツに集中しよう
 
 - Haskell入門コンテンツ: 2問目の実装。
+    - 結果: 達成。
+    - ようやくペースを取り戻せてきた感じ。
 - Haskell入門コンテンツ: FizzBuzzをゴールとした問題の再分割
+    - 結果: 未達。
 - Haskell Day: 概ねタスクは洗い出せているはずなので、優先順位を決めて取りかかる。適宜他の人に依頼する。
+    - 結果: 未達。月曜日にやる。
 
-# 2018/05/28 - 2018/06/02
+# 2018/05/28 - 2018/06/03
 
 - Haskell入門コンテンツ: 2問目の実装。
 - [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
