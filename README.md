@@ -14,6 +14,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ: 再分割した上で、今後のゴールを示す文を作る。
 - Haskell Day: 概ねタスクは洗い出せているはずなので、優先順位を決めて取りかかる。適宜他の人に依頼する。
 
+# 2018/06/09
+
+- Haskell-jp:
+    - タスク整理のためにGoogleスプレッドシートを作り、そのために便利な関数を書いてた。
+        - <https://twitter.com/igrep/status/1005460198037680128>
+- 中国語
+
 # 2018/06/08
 
 - [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
