@@ -8,14 +8,35 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2018/06/25までの目標
+
+- Haskell入門コンテンツ: 再分割した上で、今後のゴールを示す文を作る。
+- Haskell Day:
+    - 日付を決める。
+- Haskell-jp:
+    - SlackArchive廃止に対応するために発言をバックアップするソフト作り。
+        - JSONをアップロードする処理まで実装する。
+        - GHCJSで共通して使うライブラリーを検討する。misoも使う？
+
 # 2018/06/17までの目標
 
 - Haskell入門コンテンツ: 数当てゲームの代わりに合計問題の回答例を作り、それをゴールとした問題の再分割。
+    - 結果: 達成。
 - Haskell入門コンテンツ: 再分割した上で、今後のゴールを示す文を作る。
+    - 結果: 未達。
 - Haskell Day:
     - 概ねタスクは洗い出せているはずなので、優先順位を決めて取りかかる。適宜他の人に依頼する。
+        - 結果: 達成。
 - 「プログラミングHaskell」の第8章「関数型パーサー」をRubyで書いて解説する話:
     - オブジェクト指向で書かれたバージョンをもっと分かりやすく書き換える。
+        - 結果: 達成。
+
+# 2018/06/17
+
+- Haskell入門コンテンツ: 数の合計を計算する問題の解答例作成完了。それを元にカリキュラムも見直した。
+- [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
 
 # 2018/06/16
 
@@ -114,7 +135,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 # 2018/05/27
 
 - Haskell-jp:
-    - SlackArchive廃止に対応するため、tweetをバックアップするソフトを作っていた。
+    - SlackArchive廃止に対応するため、発言をバックアップするソフトを作っていた。
 - Haskell入門コンテンツ: 2問目の実装をちょっとだけ。
 - [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
