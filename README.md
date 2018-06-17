@@ -17,6 +17,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - 「プログラミングHaskell」の第8章「関数型パーサー」をRubyで書いて解説する話:
     - オブジェクト指向で書かれたバージョンをもっと分かりやすく書き換える。
 
+# 2018/06/16
+
+- 「プログラミングHaskell」の第8章「関数型パーサー」をRubyで書いて解説する話:
+    - Rubyで書いたバージョンを今度は関数型プログラミングスタイルで書いてみてる。
+- [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
+
 # 2018/06/12 - 2018/06/15
 
 - Haskell入門コンテンツ: 数の合計を計算する問題の解答例を作成中。
