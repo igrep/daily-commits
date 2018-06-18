@@ -18,10 +18,18 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - JSONをアップロードする処理まで実装する。
         - GHCJSで共通して使うライブラリーを検討する。misoも使う？
 
+# 2018/06/18
+
+- Haskell入門コンテンツ:
+    - カリキュラムに不足分があったので整理していくつか追加。
+- [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
+
 # 2018/06/17までの目標
 
 - Haskell入門コンテンツ: 数当てゲームの代わりに合計問題の回答例を作り、それをゴールとした問題の再分割。
-    - 結果: 達成。
+    - 結果: 未達。ほぼできたけど月曜日に改めて見直したら穴が。
 - Haskell入門コンテンツ: 再分割した上で、今後のゴールを示す文を作る。
     - 結果: 未達。
 - Haskell Day:
