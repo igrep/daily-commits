@@ -31,13 +31,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - オブジェクト指向で書かれたバージョンをもっと分かりやすく書き換える。
         - 結果: 達成。
 
-# 2018/06/17 - 2018/06/20
+# 2018/06/17 - 2018/06/21
 
 - Haskell入門コンテンツ:
     - 2018/06/17: 数の合計を計算する問題の解答例作成完了。それを元にカリキュラムも見直した。
     - 2018/06/18: カリキュラムに不足分があったので整理していくつか追加。
     - 2018/06/19: 合計問題やカリキュラムの説明
-    - 2018/06/20: 第3問目の文章を作成中
+    - 2018/06/20 - 2018/06/21: 第3問目の文章を作成中
 - [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
