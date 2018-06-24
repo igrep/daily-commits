@@ -8,17 +8,34 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2018/06/25までの目標
+# 2018/07/01までの目標
+
+- Haskell入門コンテンツ: 3問目の問題文・解説文作成
+- Haskell-jp:
+    - SlackArchive廃止に対応するために発言をバックアップするソフト作り。
+        - 毎日バッチを走らせればJSONファイルをアップロードできる状態にする。
+
+# 2018/06/24までの目標
 
 - Haskell入門コンテンツ: 再分割した上で、今後のゴールを示す文を作る。
+    - 結果: 達成
 - Haskell Day:
     - 日付を決める。
+        - 結果: 達成
 - Haskell-jp:
     - SlackArchive廃止に対応するために発言をバックアップするソフト作り。
         - JSONをアップロードする処理まで実装する。
+            - 結果: 達成
         - GHCJSで共通して使うライブラリーを検討する。misoも使う？
+            - 結果: 未達。とりあえずHTMLを書き出すことに集中するため、後回しに。
 
-# 2018/06/25
+# 2018/06/24
+
+- [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
+
+# 2018/06/23
 
 - Haskell-jp:
     - SlackArchive廃止に対応するために発言をバックアップするソフト作り。
