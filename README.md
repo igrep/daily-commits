@@ -18,6 +18,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - JSONをアップロードする処理まで実装する。
         - GHCJSで共通して使うライブラリーを検討する。misoも使う？
 
+# 2018/06/25
+
+- Haskell-jp:
+    - SlackArchive廃止に対応するために発言をバックアップするソフト作り。
+        - Haskell-jpもくもく会でJSONをアップロードする処理まで実装した。まだいろいろ足りてないけど。
+ - [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
+
 # 2018/06/17までの目標
 
 - Haskell入門コンテンツ: 数当てゲームの代わりに合計問題の回答例を作り、それをゴールとした問題の再分割。
