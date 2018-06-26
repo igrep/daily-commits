@@ -29,6 +29,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - GHCJSで共通して使うライブラリーを検討する。misoも使う？
             - 結果: 未達。とりあえずHTMLを書き出すことに集中するため、後回しに。
 
+# 2018/06/25 - 2018/06/26
+
+- Haskell-jp:
+    - SlackArchive廃止に対応するために発言をバックアップするソフト作り。
+- [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
+
 # 2018/06/24
 
 - [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
