@@ -15,6 +15,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - SlackArchive廃止に対応するために発言をバックアップするソフト作り。
         - 毎日バッチを走らせればJSONファイルをアップロードできる状態にする。
 
+# 2018/06/30
+
+- [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
+
 # 2018/06/24までの目標
 
 - Haskell入門コンテンツ: 再分割した上で、今後のゴールを示す文を作る。
