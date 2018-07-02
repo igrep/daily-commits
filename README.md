@@ -21,6 +21,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 毎日バッチを走らせればJSONファイルをアップロードできる状態にする。
             - 結果: 達成。
 
+# 2018/07/02
+
+- Haskell入門コンテンツ: 3問目の問題文・解説文作成
+- [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
+
 # 2018/07/01
 
 - Haskell-jp:
