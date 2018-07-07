@@ -12,6 +12,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - Haskell入門コンテンツ: 3問目の問題文・解説文作成
 
+# 2018/07/05 - 2018/07/06
+
+- Haskell入門コンテンツ:
+    - 2018/07/05: 3問目の誤答例を作成。
+    - 2018/07/06: 3問目の誤答例からエラーメッセージを作成。
+- [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
+
 # 2018/07/01までの目標
 
 - Haskell入門コンテンツ: 3問目の問題文・解説文作成
