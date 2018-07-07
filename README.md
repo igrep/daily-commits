@@ -12,6 +12,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - Haskell入門コンテンツ: 3問目の問題文・解説文作成
 
+# 2018/07/07
+
+- keep-me-contributing: 気が向いたのでTitanium MobileとClojureで作れるかためしてみるも、開発環境の設定でハマる。Androidしんどい...。
+- [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
+
 # 2018/07/05 - 2018/07/06
 
 - Haskell入門コンテンツ:
