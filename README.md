@@ -8,9 +8,25 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2018/07/16までの目標
+
+※3連休なので、月曜日まで含めてしまう。
+
+- Haskell入門コンテンツ: 3問目のテスト・実装。
+- タイプセーフプリキュアの更新: えみるとルールーに関する修正のリリース。
+
 # 2018/07/08までの目標
 
 - Haskell入門コンテンツ: 3問目の問題文・解説文作成
+    - 結果: 達成。文章だけなら先週からできてたし、ちょっと目標を軽くしすぎたかも。
+
+# 2018/07/08
+
+- keep-me-contributing: 引き続き環境構築。どうも私はemulator運がないらしく、HAXMはRyzenだからインストールすらできないし、Visual Studio Emulator for Androidは起動するだけでOSごとフリーズしてしまうので、またも実機でやることに。最低限、`appc new`しただけのアプリが動いた。次に取り組めるのはいつ頃かなあ。
+- タイプセーフプリキュアの更新: ほんの少しずつルールーやえみる周りの修正を加えている。
+- [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
 
 # 2018/07/07
 
