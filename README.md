@@ -23,6 +23,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 # 2018/07/08
 
 - keep-me-contributing: 引き続き環境構築。どうも私はemulator運がないらしく、HAXMはRyzenだからインストールすらできないし、Visual Studio Emulator for Androidは起動するだけでOSごとフリーズしてしまうので、またも実機でやることに。最低限、`appc new`しただけのアプリが動いた。次に取り組めるのはいつ頃かなあ。
+    - 一方、 <https://dzone.com/articles/java-clojure-interop> なんかを参考に、AndroidアプリにClojureを埋め込むことはできないかと考えている。問題はAndroidがそうした動的な呼び出しをサポートしたり、埋め込んだClojureからAndroidのAPIが呼べるかどうかわからない、というところだけど。[Java N-IDE](https://github.com/tranleduy2000/javaide)なんてアプリができるぐらいなんで、できるのではないかと思っている。いずれにしても試す価値はありそう。
 - タイプセーフプリキュアの更新: ほんの少しずつルールーやえみる周りの修正を加えている。
 - [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
