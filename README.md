@@ -15,6 +15,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ: 3問目のテスト・実装。
 - タイプセーフプリキュアの更新: えみるとルールーに関する修正のリリース。
 
+# 2018/07/11
+
+- keep-me-contributing:
+    - Clojureのソースを呼ぶのを試してみたが、うまくいかず。どうも<https://dzone.com/articles/java-clojure-interop>に書いてあった方法は、内部のunstableなAPIを呼び出してしまっているらしく、恐らくAndroid関係なく今のClojureではうまくいかないものと思われる。ドキュメントを読む限り`clojure.java.api.Clojure`に書かれた方法ならうまくいきそうだ。
+- Haskell入門コンテンツ: 3問目の診断の実装開始。
+- [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
+
 # 2018/07/10
 
 - keep-me-contributing:
