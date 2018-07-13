@@ -15,9 +15,9 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ: 3問目のテスト・実装。
 - タイプセーフプリキュアの更新: えみるとルールーに関する修正のリリース。
 
-# 2018/07/12
+# 2018/07/12 - 2018/07/13
 
-- Haskell入門コンテンツ: 3問目の診断の実装。
+- Haskell入門コンテンツ: 3問目の診断の実装。意外とあっさりできた。
 - [Programming Clojure, Third Edition](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
