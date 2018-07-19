@@ -16,6 +16,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - 「プログラミングHaskell」の第8章「関数型パーサー」をRubyで書いて解説する話:
     - 関数型プログラミングバージョンをちょっとだけでも進める。
 
+# 2018/07/18 - 2018/07/19
+
+- Haskell入門コンテンツ:
+    - 2018/07/18: NoTraceパッケージがLTS 12.0でもビルドできるよう修正。リリースはまだらしいけど...。
+    - 2018/07/19: テストの半自動生成に向け、既存のテストのリファクタリングを試みるも、やっぱり難しそう。素直に既存のもののとおり生成するか...。
+- [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
+
 # 2018/07/17
 
 - Haskell入門コンテンツ: LTS 12.0 ではビルドが通らなくなっていたことを確認。もくもく温泉中は通ったと思ってたんだけどなぁ。
