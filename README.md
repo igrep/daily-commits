@@ -16,6 +16,19 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - 「プログラミングHaskell」の第8章「関数型パーサー」をRubyで書いて解説する話:
     - 関数型プログラミングバージョンをちょっとだけでも進める。
 
+# 2018/07/21
+
+- keep-me-contributing:
+    - [Example using Clojure from Java](https://gist.github.com/RichardHightower/3bf9a3fcccf9d0389aad5e97d082db11)に書いてあった方法を参考にしてみたが、AndroidアプリからClojureのAPIを呼ぶのは難しそうだ。 👇 のような、謎のエラーが出る。
+        ```
+        java.lang.UnsupportedOperationException: can't load this type of class file, compiling:(clojure/core/specs/alpha.clj:1:1)
+        ```
+    - Etaの時そうしていたように、Leiningenでjarを作ってそれを`libs`ディレクトリーに含める、というやり方ではダメだろうか。
+        - 改めて[ClojureをAndroid StudioでビルドしてAndroidで動かす - Qiita](https://qiita.com/anolivetree/items/2da36088a8083ff23a93)を読むに、やっぱダメなんだろうなぁ...。
+- [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
+
 # 2018/07/18 - 2018/07/20
 
 - Haskell入門コンテンツ:
