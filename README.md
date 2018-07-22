@@ -8,13 +8,22 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2018/07/29までの目標
+
+- Haskell入門コンテンツ: テストケースの抽象化用関数を書く。
+- タイプセーフプリキュアの更新: 魔法つかいプリキュア！以前のシリーズをcure-index.jsonに含めるべく、古い形式のファイルのパーサーを書く。
+- Haskell-jp:
+    - SlackArchive廃止に対応するために発言をバックアップするソフト作り: type-of-htmlを使ったHTMLの書き出しを半分くらい実装
+
 # 2018/07/22までの目標
 
 - Haskell入門コンテンツ: 4問目のテストケース
-    - 結果: 達成。また目標が軽すぎたね...。
+    - 結果: 未達。ここでちょっと腰を据えてコピペだらけのテストコードを抽象化することにした。
 - タイプセーフプリキュアの更新: キラキラ☆プリキュアアラモードとHUGっと！プリキュア以外のプリキュアの情報もJSONにまとめるべく、まずは魔法つかいプリキュア！にターゲットを絞って移行スクリプトを試しに書いてみる。
+    - 結果: 達成。移行スクリプトを少し書いた。簡単に書けるところだけ実装。それから移行の方法に大体当たりをつけた。魔法つかいプリキュア！の移行云々はできてないけどとりあえず達成と言うことに。
 - 「プログラミングHaskell」の第8章「関数型パーサー」をRubyで書いて解説する話:
     - 関数型プログラミングバージョンをちょっとだけでも進める。
+        - 結果: 達成。Ruby製パーサーの関数型プログラミングスタイルバージョンを書けた。 <https://gist.github.com/igrep/521ee36b1e005c20bbdeedcb9de06ec7>
 
 # 2018/07/22
 
@@ -36,6 +45,9 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         ```
     - Etaの時そうしていたように、Leiningenでjarを作ってそれを`libs`ディレクトリーに含める、というやり方ではダメだろうか。
         - 改めて[ClojureをAndroid StudioでビルドしてAndroidで動かす - Qiita](https://qiita.com/anolivetree/items/2da36088a8083ff23a93)を読むに、やっぱダメなんだろうなぁ...。
+- 「プログラミングHaskell」の第8章「関数型パーサー」をRubyで書いて解説する話:
+    - 関数型プログラミングバージョンが書けた。 <https://gist.github.com/igrep/521ee36b1e005c20bbdeedcb9de06ec7>
+    - 全然関数型プログラミングっぽくないところがあるので再帰を使って書き換えようかねぇ。
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
