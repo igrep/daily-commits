@@ -16,6 +16,17 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - 「プログラミングHaskell」の第8章「関数型パーサー」をRubyで書いて解説する話:
     - 関数型プログラミングバージョンをちょっとだけでも進める。
 
+# 2018/07/22
+
+- タイプセーフプリキュア！:
+    - キラキラ☆プリキュアアラモードより前のシリーズの情報をcure-index.jsonに収録すべく進め始めた。ざっと調べた限り想像以上に簡単そうなので、多分プリキュアハッカソンまでの土日だけでできると思う。
+- keep-me-contributing:
+    - いよいよClojureでの開発は諦めて、Kotlinで作るべくとりあえずプロジェクトを初期化した。
+    - Clojureはまた別の、ブラウザベースのアプリでClojureScriptを試そうかな...
+- [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
+
 # 2018/07/21
 
 - keep-me-contributing:
