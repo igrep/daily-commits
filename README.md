@@ -15,6 +15,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell-jp:
     - SlackArchive廃止に対応するために発言をバックアップするソフト作り: type-of-htmlを使ったHTMLの書き出しを半分くらい実装
 
+# 2018/07/23
+
+- [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
+
 # 2018/07/22までの目標
 
 - Haskell入門コンテンツ: 4問目のテストケース
@@ -27,8 +33,8 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 # 2018/07/22
 
-- タイプセーフプリキュア！:
-    - キラキラ☆プリキュアアラモードより前のシリーズの情報をcure-index.jsonに収録すべく進め始めた。ざっと調べた限り想像以上に簡単そうなので、多分プリキュアハッカソンまでの土日だけでできると思う。
+- Haskell入門コンテンツ:
+    - テストケースの抽象化用関数を作り始めた
 - keep-me-contributing:
     - いよいよClojureでの開発は諦めて、Kotlinで作るべくとりあえずプロジェクトを初期化した。
     - Clojureはまた別の、ブラウザベースのアプリでClojureScriptを試そうかな...
