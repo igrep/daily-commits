@@ -15,10 +15,10 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell-jp:
     - SlackArchive廃止に対応するために発言をバックアップするソフト作り: type-of-htmlを使ったHTMLの書き出しを半分くらい実装
 
-# 2018/07/23 - 2018/07/24
+# 2018/07/23 - 2018/07/25
 
 - Haskell入門コンテンツ:
-    - テストケースの抽象化用関数を作り始めた
+    - テストケースの抽象化用関数を作っている
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
