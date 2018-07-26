@@ -15,7 +15,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell-jp:
     - SlackArchive廃止に対応するために発言をバックアップするソフト作り: type-of-htmlを使ったHTMLの書き出しを半分くらい実装
 
-# 2018/07/23 - 2018/07/25
+# 2018/07/23 - 2018/07/26
 
 - Haskell入門コンテンツ:
     - テストケースの抽象化用関数を作っている
