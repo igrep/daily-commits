@@ -25,7 +25,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - SlackArchive廃止に対応するために発言をバックアップするソフト作り: type-of-htmlを使ったHTMLの書き出しを半分くらい実装
     - 結果: 未達。Haskell-jpもくもく会で行うことを検討していたが、slack-logの、私以外のメンバーに依頼したIssueの解決がまだだったり、Haskell-jpもくもく会を今回は中止にしたため、今回はタイプセーフプリキュア！に集中することにした。
 
-# 2018/07/28 - 2018/07/29
+# 2018/07/28 - 2018/07/30
 
 - タイプセーフプリキュアの更新:
     - 2018/07/28: 既存の`Types.hs`のパーサーを少しずつ書いている。
@@ -33,6 +33,8 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 引き続きパーサーを進めていたところ、ミルキィローズやシャイニールミナス、フレッシュプリキュアのキュアエンジェルなどの情報が欠けていたり、transformedGroupについての仕様が間違っていることなどに気づいたため、いろいろ修正して時間がかかった。
         - あとデバッグに便利かと思って色つきで出力してくれるパッケージを探したのも時間かかった。なかったし。
         - 来週中にパーサー全部書けるかな...。
+    - 2018/07/30:
+        - transformedGroupのパーサーが書けた（はず）
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
