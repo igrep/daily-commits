@@ -990,7 +990,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
       ```
       [1 of 5] Compiling Paths_makeMistakesToLearnHaskell ( .stack-work\dist\5c8418a7\build\makeMistakesToLearnHaskell-test\autogen\Paths_makeMistakesToLearnHaskell.hs, .stack-work\dist\5c8418a7\build\makeMistakesToLearnHaskell-test\makeMistakesToLearnHaskell-test-tmp\Paths_makeMistakesToLearnHaskell.o )
-    .sck-work\dist\5c8418a7\build\makeMistakesToLearnHaskell-test\makeMistakesToLearnHaskell-test-tmp\.stack-work\dist\5c8418a7\build\makeMistakesToLearnHaskell-test\autogen\Paths_makeMistakesToLearnHaskell.dump-hi: openFile: does not exist (No such file or directory)
+      .stack-work\dist\5c8418a7\build\makeMistakesToLearnHaskell-test\makeMistakesToLearnHaskell-test-tmp\.stack-work\dist\5c8418a7\build\makeMistakesToLearnHaskell-test\autogen\Paths_makeMistakesToLearnHaskell.dump-hi: openFile: does not exist (No such file or directory)
       --  While building custom Setup.hs for package makeMistakesToLearnHaskell-0.1.0.0 using:
         C:\sr\setup-exe-cache\x86_64-windows\Cabal-simple_Z6RU0evB_2.0.1.0_ghc-8.2.2.exe --builddir=.stack-work\dist\5c8418a7 build lib:makeMistakesToLearnHaskell exe:mmlh test:makeMistakesToLearnHaskell-test --ghc-options " -ddump-hi -ddump-to-file -fdiagnostics-color=always"
       ```
