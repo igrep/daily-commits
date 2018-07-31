@@ -993,7 +993,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 --  While building custom Setup.hs for package makeMistakesToLearnHaskell-0.1.0.0 using:
       C:\sr\setup-exe-cache\x86_64-windows\Cabal-simple_Z6RU0evB_2.0.1.0_ghc-8.2.2.exe --builddir=.stack-work\dist\5c8418a7 build lib:makeMistakesToLearnHaskell exe:mmlh test:makeMistakesToLearnHaskell-test --ghc-options " -ddump-hi -ddump-to-file -fdiagnostics-color=always"
-  ```
+    ```
   - 2018/02/02: 改めて設定を確認して実行して、やっぱり再現するので、バグではないかという思いが強まる
 - [Haskell Data Analysis Cookbook](http://haskelldata.com/)
 - [Haskell 教養としての関数型プログラミング](http://www.shuwasystem.co.jp/products/7980html/4806.html)
