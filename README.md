@@ -38,7 +38,9 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2018/07/31:
         - transformedGroupのパーサーが書けていたことだけ確認
     - 2018/08/01 - 2018/08/02:
-        - transformationのパーサー書いている途中
+        - transformationのパーサーが書いている途中
+    - 2018/08/03:
+        - transformationのパーサーが書けたかと思いきや、動いてない。
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
