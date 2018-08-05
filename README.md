@@ -8,12 +8,21 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2018/08/12までの目標
+
+サマータイムの件が気になるし、先週も結局タイプセーフプリキュアのことしかできなかったため、絞る。
+
+- タイプセーフプリキュアの更新: 魔法つかいプリキュア！以前のシリーズをcure-index.jsonに含める修正の完了
+
 # 2018/08/05までの目標
 
 - Haskell入門コンテンツ: テストケースの抽象化用関数を既存の箇所に適用し終え、4問目のテストケースを一部終える。
+    - 結果: 未達。
 - タイプセーフプリキュアの更新: 魔法つかいプリキュア！以前のシリーズをcure-index.jsonに含めるべく、古い形式のファイルのパーサーを書く。
+    - 結果: 達成。
 - Haskell-jp:
     - SlackArchive廃止に対応するために発言をバックアップするソフト作り: 既存のJSONファイルも含め、N件ごとに1ファイル出力するよう修正する <https://github.com/haskell-jp/slack-log/issues/5>。
+        - 結果: 未達。
 
 # 2018/07/29までの目標
 
@@ -25,7 +34,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - SlackArchive廃止に対応するために発言をバックアップするソフト作り: type-of-htmlを使ったHTMLの書き出しを半分くらい実装
     - 結果: 未達。Haskell-jpもくもく会で行うことを検討していたが、slack-logの、私以外のメンバーに依頼したIssueの解決がまだだったり、Haskell-jpもくもく会を今回は中止にしたため、今回はタイプセーフプリキュア！に集中することにした。
 
-# 2018/07/28 - 2018/08/04
+# 2018/07/28 - 2018/08/05
 
 - タイプセーフプリキュアの更新:
     - 2018/07/28: 既存の`Types.hs`のパーサーを少しずつ書いている。
@@ -43,6 +52,8 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - transformationのパーサーが書けたかと思いきや、動いてない。
     - 2018/08/04:
         - transformationのパーサーの修正、purificationのパーサーの実装、nonItemPurificationのパーサーの実装の開始など
+    - 2018/08/05:
+        - すべてのパーサーを書けた。
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
