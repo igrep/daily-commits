@@ -34,7 +34,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - SlackArchive廃止に対応するために発言をバックアップするソフト作り: type-of-htmlを使ったHTMLの書き出しを半分くらい実装
     - 結果: 未達。Haskell-jpもくもく会で行うことを検討していたが、slack-logの、私以外のメンバーに依頼したIssueの解決がまだだったり、Haskell-jpもくもく会を今回は中止にしたため、今回はタイプセーフプリキュア！に集中することにした。
 
-# 2018/07/28 - 2018/08/07
+# 2018/07/28 - 2018/08/08
 
 - タイプセーフプリキュアの更新:
     - 2018/07/28: 既存の`Types.hs`のパーサーを少しずつ書いている。
@@ -56,7 +56,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - すべてのパーサーを書けた。
     - 2018/08/06:
         - .hs ファイルとして出力する処理の実装開始。
-    - 2018/08/07:
+    - 2018/08/07 - 2018/08/08:
         - .hs ファイルとして出力する処理の実装。途中で、より最終的なコードがシンプルになる方法を思いついたのでいろいろ検討してた。
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
