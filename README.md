@@ -14,6 +14,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - タイプセーフプリキュアの更新: 魔法つかいプリキュア！以前のシリーズをcure-index.jsonに含める修正の完了
 
+# 2018/08/11
+
+サマータイムの件をやっていたら時間をとれず。
+
+- [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
+
 # 2018/08/05までの目標
 
 - Haskell入門コンテンツ: テストケースの抽象化用関数を既存の箇所に適用し終え、4問目のテストケースを一部終える。
