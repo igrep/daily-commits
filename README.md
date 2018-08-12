@@ -8,11 +8,25 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2018/08/19までの目標
+
+- [プリキュアハッカソン NewStage](https://cure-hack.connpass.com/event/91157/)で、新しいタイプセーフプリキュアについての発表
+- タイプセーフプリキュアの更新: 魔法つかいプリキュア！以前のシリーズをcure-index.jsonに含める修正の完了
+
 # 2018/08/12までの目標
 
 サマータイムの件が気になるし、先週も結局タイプセーフプリキュアのことしかできなかったため、絞る。
 
 - タイプセーフプリキュアの更新: 魔法つかいプリキュア！以前のシリーズをcure-index.jsonに含める修正の完了
+    - 結果: 未達。あと手で修正するところだけなんだけどねー。もうちょっと。サマータイムの件がなければなぁ。
+
+# 2018/08/12
+
+- タイプセーフプリキュアの更新:
+    - ようやく変換スクリプトを書き上げ、実際に変換した。スクリプトにバグがあったりしてまだ手で修正するところはあるが、今後は全部手で直そう。
+- [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
 
 # 2018/08/11
 
