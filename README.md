@@ -16,6 +16,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - SlackArchive廃止に対応するために発言をバックアップするソフト作り: 既存のJSONファイルも含め、N件ごとに1ファイル出力するよう修正する <https://github.com/haskell-jp/slack-log/issues/5>。
 - Haskell入門コンテンツ: 少しだけでも続きに着手したい
 
+# 2018/08/25
+
+- Haskell-jp:
+    - Haskell Dayの日程を検討
+- [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
+
 # 2018/08/19までの目標
 
 - [プリキュアハッカソン NewStage](https://cure-hack.connpass.com/event/91157/)で、新しいタイプセーフプリキュアについての発表
