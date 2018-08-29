@@ -28,7 +28,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ: 少しだけでも続きに着手したい
     - 結果: 未達
 
-# 2018/08/26 - 2018/08/28
+# 2018/08/26 - 2018/08/29
 
 - [プリキュアハッカソン NewStage](https://cure-hack.connpass.com/event/91157/)での発表を詳しくしたブログ記事の作成
     - 途中まで書いた。
