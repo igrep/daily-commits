@@ -16,6 +16,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - SlackArchive廃止に対応するために発言をバックアップするソフト作り: 既存のJSONファイルも含め、N件ごとに1ファイル出力するよう修正する <https://github.com/haskell-jp/slack-log/issues/5>。
 - Haskell入門コンテンツ: 少しだけでも続きに着手したい
 
+# 2018/09/01
+
+- [プリキュアハッカソン NewStage](https://cure-hack.connpass.com/event/91157/)での発表を詳しくしたブログ記事の作成
+    - もう少しでPull requestを送るところまで。
+
 # 2018/08/26までの目標
 
 - [プリキュアハッカソン NewStage](https://cure-hack.connpass.com/event/91157/)での発表を詳しくしたブログ記事の作成
