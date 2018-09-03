@@ -28,10 +28,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ: 少しだけでも続きに着手したい
     - 結果: 未達。
 
-# 2018/09/02
+# 2018/09/02 - 2018/09/03
 
 - [プリキュアハッカソン NewStage](https://cure-hack.connpass.com/event/91157/)での発表を詳しくしたブログ記事の作成
-    - ようやくできたので、[Pull request](https://github.com/haskell-jp/blog/pull/135)を贈った
+    - 2018/09/02: ようやくできたので、[Pull request](https://github.com/haskell-jp/blog/pull/135)を贈った
+    - 2018/09/03: Pull requestを送ってから気づいた問題の修正。
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
