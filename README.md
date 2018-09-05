@@ -16,6 +16,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - SlackArchive廃止に対応するために発言をバックアップするソフト作り: 既存のJSONファイルも含め、N件ごとに1ファイル出力するよう修正する <https://github.com/haskell-jp/slack-log/issues/5>。
 - Haskell入門コンテンツ: 少しだけでも続きに着手したい
 
+# 2018/09/05
+
+- Haskell-jp:
+    - SlackArchive廃止に対応するために発言をバックアップするソフト作り:
+        - コアの部分の関数を考え、そのテストケースを作成開始
+- [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
+
 # 2018/09/02までの目標
 
 - [プリキュアハッカソン NewStage](https://cure-hack.connpass.com/event/91157/)での発表を詳しくしたブログ記事の作成
@@ -28,11 +37,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ: 少しだけでも続きに着手したい
     - 結果: 未達。
 
-# 2018/09/02 - 2018/09/03
+# 2018/09/02 - 2018/09/04
 
 - [プリキュアハッカソン NewStage](https://cure-hack.connpass.com/event/91157/)での発表を詳しくしたブログ記事の作成
     - 2018/09/02: ようやくできたので、[Pull request](https://github.com/haskell-jp/blog/pull/135)を贈った
     - 2018/09/03: Pull requestを送ってから気づいた問題の修正。
+    - 2018/09/04: ようやく公開 <https://haskell.jp/blog/posts/2018/substring-parser.html>
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
