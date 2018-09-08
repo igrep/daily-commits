@@ -8,7 +8,7 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2018/09/07までの目標
+# 2018/09/09までの目標
 
 - [プリキュアハッカソン NewStage](https://cure-hack.connpass.com/event/91157/)での発表を詳しくしたブログ記事の公開
 - Haskell-jp: Haskell Day 2018のイベントページ公開
@@ -16,12 +16,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - SlackArchive廃止に対応するために発言をバックアップするソフト作り: 既存のJSONファイルも含め、N件ごとに1ファイル出力するよう修正する <https://github.com/haskell-jp/slack-log/issues/5>。
 - Haskell入門コンテンツ: 少しだけでも続きに着手したい
 
-# 2018/09/05 - 2018/09/06
+# 2018/09/05 - 2018/09/07
 
 - Haskell-jp:
     - SlackArchive廃止に対応するために発言をバックアップするソフト作り:
         - 2018/09/05: コアの部分の関数を考え、そのテストケースを作成開始
         - 2018/09/06: テストケース書けた
+        - 2018/09/07: 実装開始
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
