@@ -16,13 +16,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - SlackArchive廃止に対応するために発言をバックアップするソフト作り: 既存のJSONファイルも含め、N件ごとに1ファイル出力するよう修正する <https://github.com/haskell-jp/slack-log/issues/5>。
 - Haskell入門コンテンツ: 少しだけでも続きに着手したい
 
-# 2018/09/05 - 2018/09/07
+# 2018/09/05 - 2018/09/08
 
 - Haskell-jp:
     - SlackArchive廃止に対応するために発言をバックアップするソフト作り:
         - 2018/09/05: コアの部分の関数を考え、そのテストケースを作成開始
         - 2018/09/06: テストケース書けた
         - 2018/09/07: 実装開始
+        - 2018/09/08: コアの部分の実装ができたのでそのまま移行スクリプトまで書いてみたが、どうも動作がおかしい
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
