@@ -28,7 +28,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ: 少しだけでも続きに着手したい
     - 結果: 未達
 
-# 2018/09/05 - 2018/09/09
+# 2018/09/05 - 2018/09/10
 
 - Haskell-jp:
     - SlackArchive廃止に対応するために発言をバックアップするソフト作り:
@@ -38,6 +38,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 2018/09/08: コアの部分の実装ができたのでそのまま移行スクリプトまで書いてみたが、どうも動作がおかしい
         - 2018/09/09: 移行スクリプトや移行後の保存処理も実装し、Pull requestを送った。
             - <https://github.com/haskell-jp/slack-log/pull/11>
+        - 2018/09/10: 早速バグが見つかったので[修正](https://github.com/haskell-jp/slack-log/commit/ef89405d96c365538d6e5c1cf0ccd5f971f14013)...
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
