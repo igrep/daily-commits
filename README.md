@@ -16,11 +16,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - SlackArchive廃止に対応するために発言をバックアップするソフト作り: 既存のJSONファイルも含め、N件ごとに1ファイル出力するよう修正する <https://github.com/haskell-jp/slack-log/issues/5>。
 - Haskell入門コンテンツ: 少しだけでも続きに着手したい
 
-# 2018/09/11 - 2018/09/12
+# 2018/09/11 - 2018/09/13
 
 - Haskell入門コンテンツ:
     - 2018/09/11: 今までやってきたことやこれからすることの確認
     - 2018/09/12: 第4問目のテストケースを抽象化したが、よく考えたら並べたテストケースだけでは不十分で、実際にはもっとたくさんのケースを上げていた。そこで、テスト用のファイルからテストケースを自動生成するスクリプトを書いた。恐らく、これをするつもりだったんだろう。
+    - 2018/09/13: 昨日書いたスクリプトを使って4問目のテストケースを生成
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
