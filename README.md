@@ -8,13 +8,32 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2018/09/23までの目標
+
+- Haskell入門コンテンツ:
+    - 課題4のテストを通すところまで完成。
+    - 仕事の分担方法の検討。
+
 # 2018/09/16までの目標
 
 - [プリキュアハッカソン NewStage](https://cure-hack.connpass.com/event/91157/)での発表を詳しくしたブログ記事の公開
+    - 結果: 達成: <https://haskell.jp/blog/posts/2018/substring-parser.html>
 - Haskell-jp: Haskell Day 2018のイベントページ公開
+    - 結果: 達成: <https://haskell-jp.connpass.com/event/92617/>
 - Haskell-jp:
     - SlackArchive廃止に対応するために発言をバックアップするソフト作り: 既存のJSONファイルも含め、N件ごとに1ファイル出力するよう修正する <https://github.com/haskell-jp/slack-log/issues/5>。
+        - 結果: 達成 <https://github.com/haskell-jp/slack-log/pull/11>
 - Haskell入門コンテンツ: 少しだけでも続きに着手したい
+    - 結果: 達成
+
+# 2018/09/16
+
+- Haskell入門コンテンツ:
+    - 2018/09/16: 課題4の判定ロジック実装に向けて、runhaskellコマンドに標準入力の値を渡せるようにした。
+- タイプセーフプリキュア！: HUGっと！プリキュアの新しい技の仕様を追加開始。まだ台詞がぶれているようなので次回に先送り。
+- [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
 
 # 2018/09/11 - 2018/09/15
 
