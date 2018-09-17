@@ -13,6 +13,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題4のテストを通すところまで完成。
     - 仕事の分担方法の検討。
+- HIW 2018のLT資料
+
+# 2018/09/17
+
+- Haskell入門コンテンツ:
+    - 課題4の判定ロジック実装に向けて、QuickCheckを利用して、ユーザーが書いたプログラムにテスト用の入力を渡す処理を実装。かなりダーティーなことをしたけどこれで動くだろうか...。
+- [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
 
 # 2018/09/16までの目標
 
