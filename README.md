@@ -18,7 +18,8 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 # 2018/09/17
 
 - Haskell入門コンテンツ:
-    - 課題4の判定ロジック実装に向けて、QuickCheckを利用して、ユーザーが書いたプログラムにテスト用の入力を渡す処理を実装。かなりダーティーなことをしたけどこれで動くだろうか...。
+    - 2018/09/17: 課題4の判定ロジック実装に向けて、QuickCheckを利用して、ユーザーが書いたプログラムにテスト用の入力を渡す処理を実装。かなりダーティーなことをしたけどこれで動くだろうか...。
+    - 2018/09/18: 昨日書いたダーティー実装方法でうまくいきそうなことをintegration testで確認。まだコンパイルが通るケースしか試してないので通らなかったり、出力が間違っている場合のケースもテストしようかな。`runhaskell`を何回も立ち上げるので遅いのが悩ましいけど。。。
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
