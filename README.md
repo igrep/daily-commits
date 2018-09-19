@@ -15,11 +15,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 仕事の分担方法の検討。
 - HIW 2018のLT資料
 
-# 2018/09/17
+# 2018/09/17 - 2018/09/19
 
 - Haskell入門コンテンツ:
     - 2018/09/17: 課題4の判定ロジック実装に向けて、QuickCheckを利用して、ユーザーが書いたプログラムにテスト用の入力を渡す処理を実装。かなりダーティーなことをしたけどこれで動くだろうか...。
     - 2018/09/18: 昨日書いたダーティー実装方法でうまくいきそうなことをintegration testで確認。まだコンパイルが通るケースしか試してないので通らなかったり、出力が間違っている場合のケースもテストしようかな。`runhaskell`を何回も立ち上げるので遅いのが悩ましいけど。。。
+    - 2018/09/19: コンパイルエラーが起こるケースについてもintegration testを書いてみたが、どうも失敗する。
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
