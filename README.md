@@ -23,13 +23,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - HIW 2018のLT資料
     - 結果: 未達
 
-# 2018/09/22 - 2018/09/26
+# 2018/09/22 - 2018/09/27
 
 - Haskell入門コンテンツ:
     - 2018/09/22: main-testerの修正したけど、旅行中のためネットにつながらず、コンパイルもテストもできてないorz
     - 2018/09/23: 空港のFree WiFiでネットにつながったのでビルドしてテスト。直した。
     - 2018/09/25: main-testerの新しいバージョンをリリース。
-    - 2018/09/26: 新しいmain-testerでmakeMistakesToLearnHaskellのテストを書き換えてる
+    - 2018/09/26 - 2018/09/27: 新しいmain-testerでmakeMistakesToLearnHaskellのテストを書き換えてる
 
 # 2018/09/17 - 2018/09/21
 
