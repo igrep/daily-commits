@@ -23,7 +23,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - HIW 2018のLT資料
     - 結果: 未達
 
-# 2018/09/22 - 2018/09/28
+# 2018/09/22 - 2018/09/29
 
 - Haskell入門コンテンツ:
     - 2018/09/22: main-testerの修正したけど、旅行中のためネットにつながらず、コンパイルもテストもできてないorz
@@ -31,6 +31,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2018/09/25: main-testerの新しいバージョンをリリース。
     - 2018/09/26 - 2018/09/27: 新しいmain-testerでmakeMistakesToLearnHaskellのテストを書き換えてる
     - 2018/09/28: [NoTraceのbase4.11対応版を出してもらった](https://github.com/CindyLinz/Haskell-NoTrace/pull/1#issuecomment-424753828)ので使用するよう修正。
+    - 2018/09/29: 4問目の実装中。
 
 # 2018/09/17 - 2018/09/21
 
