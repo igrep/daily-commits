@@ -8,10 +8,18 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2018/10/07までの目標
+
+- Haskell入門コンテンツ:
+    - 課題4のテストを通すところまで完成。
+        - 結果: 未達。
+    - 仕事の分担方法の検討。
+
 # 2018/09/30までの目標
 
 - Haskell入門コンテンツ:
     - 課題4のテストを通すところまで完成。
+        - 結果: 未達。
     - 仕事の分担方法の検討。
 
 # 2018/09/23までの目標
@@ -23,7 +31,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - HIW 2018のLT資料
     - 結果: 未達
 
-# 2018/09/22 - 2018/09/29
+# 2018/09/22 - 2018/09/30
 
 - Haskell入門コンテンツ:
     - 2018/09/22: main-testerの修正したけど、旅行中のためネットにつながらず、コンパイルもテストもできてないorz
@@ -31,7 +39,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2018/09/25: main-testerの新しいバージョンをリリース。
     - 2018/09/26 - 2018/09/27: 新しいmain-testerでmakeMistakesToLearnHaskellのテストを書き換えてる
     - 2018/09/28: [NoTraceのbase4.11対応版を出してもらった](https://github.com/CindyLinz/Haskell-NoTrace/pull/1#issuecomment-424753828)ので使用するよう修正。
-    - 2018/09/29: 4問目の実装中。
+    - 2018/09/29 - 2018/09/30: 4問目の実装中。
 
 # 2018/09/17 - 2018/09/21
 
