@@ -15,6 +15,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 結果: 未達。
     - 仕事の分担方法の検討。
 
+# 2018/10/02
+
+- Haskell入門コンテンツ:
+    - そろそろ`text`パッケージのAPIだけではユーザーが入力したソースの解析がつらくなってきたので、方法を検討。regex-applicative, 以前使ったときあまりAPIが好きになれなかったけど、今回の用途にはぴったりっぽいので使おう。
+- [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
+
 # 2018/10/01
 
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
