@@ -15,6 +15,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 結果: 未達。
     - 仕事の分担方法の検討。
 
+# 2018/10/01
+
+- [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
+
 # 2018/09/30までの目標
 
 - Haskell入門コンテンツ:
