@@ -15,12 +15,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 結果: 未達。
     - 仕事の分担方法の検討。
 
-# 2018/10/02 - 2018/10/05
+# 2018/10/02 - 2018/10/06
 
 - Haskell入門コンテンツ:
     - 2018/10/02 - 2018/10/03: そろそろtextパッケージのAPIだけではユーザーが入力したソースの解析がつらくなってきたので、方法を検討。regex-applicative, 以前使ったときあまりAPIが好きになれなかったけど、今回の用途にはぴったりっぽいので使おう。
     - 2018/10/04: regex-applicativeをラップしたモジュールの作成。
     - 2018/10/05: 問題の解決方法にちょっと悩む。
+    - 2018/10/06: Haskell Dayで使用予定の紹介用スライド作成
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
