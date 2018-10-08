@@ -8,20 +8,27 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2018/10/14までの目標
+
+- Haskell入門コンテンツ:
+    - 課題4のテストを通すところまで完成。
+    - [runhaskellを実行する前にmmlh verifyを実行する導線を作る · Issue #4 · haskell-jp/makeMistakesToLearnHaskell](https://github.com/haskell-jp/makeMistakesToLearnHaskell/issues/4) の解決
+    - 課題5の課題文を作成。
+
 # 2018/10/07までの目標
 
 - Haskell入門コンテンツ:
     - 課題4のテストを通すところまで完成。
         - 結果: 未達。
     - 仕事の分担方法の検討。
+        - 結果: 達成。[ここ](https://github.com/haskell-jp/makeMistakesToLearnHaskell/blob/master/README.md)にドキュメントを書いた。
 
-# 2018/10/02 - 2018/10/06
+# 2018/10/02 - 2018/10/05
 
 - Haskell入門コンテンツ:
     - 2018/10/02 - 2018/10/03: そろそろtextパッケージのAPIだけではユーザーが入力したソースの解析がつらくなってきたので、方法を検討。regex-applicative, 以前使ったときあまりAPIが好きになれなかったけど、今回の用途にはぴったりっぽいので使おう。
     - 2018/10/04: regex-applicativeをラップしたモジュールの作成。
     - 2018/10/05: 問題の解決方法にちょっと悩む。
-    - 2018/10/06: Haskell Dayで使用予定の紹介用スライド作成
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
