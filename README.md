@@ -14,6 +14,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題4のテストを通すところまで完成。
     - [runhaskellを実行する前にmmlh verifyを実行する導線を作る · Issue #4 · haskell-jp/makeMistakesToLearnHaskell](https://github.com/haskell-jp/makeMistakesToLearnHaskell/issues/4) の解決
     - 課題5の課題文を作成。
+- タイプセーフプリキュア！: 新しい
 
 # 2018/10/07までの目標
 
@@ -23,12 +24,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 仕事の分担方法の検討。
         - 結果: 達成。[ここ](https://github.com/haskell-jp/makeMistakesToLearnHaskell/blob/master/README.md)にドキュメントを書いた。
 
-# 2018/10/02 - 2018/10/05
+# 2018/10/02 - 2018/10/07
 
 - Haskell入門コンテンツ:
     - 2018/10/02 - 2018/10/03: そろそろtextパッケージのAPIだけではユーザーが入力したソースの解析がつらくなってきたので、方法を検討。regex-applicative, 以前使ったときあまりAPIが好きになれなかったけど、今回の用途にはぴったりっぽいので使おう。
     - 2018/10/04: regex-applicativeをラップしたモジュールの作成。
     - 2018/10/05: 問題の解決方法にちょっと悩む。
+    - 2018/10/06: 紹介用のドキュメントを書きはじめ
+    - 2018/10/06: 開発用のドキュメントを書いた。
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
