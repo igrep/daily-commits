@@ -16,9 +16,10 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題5の課題文を作成。
 - タイプセーフプリキュア！: HUGっと！プリキュアの新しい浄化技に対応
 
-# 2018/10/09
+# 2018/10/09 - 2018/10/10
 
-- Haskell入門コンテンツ: 第4問目のカッコに関わる処理の実装中。
+- Haskell入門コンテンツ:
+    - 2018/10/09 - 2018/10/10: 第4問目のカッコに関わる処理の実装中。
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
