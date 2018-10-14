@@ -8,15 +8,34 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2018/10/14までの目標
+# 2018/10/21までの目標
 
 - Haskell入門コンテンツ:
     - 課題4のテストを通すところまで完成。
     - [runhaskellを実行する前にmmlh verifyを実行する導線を作る · Issue #4 · haskell-jp/makeMistakesToLearnHaskell](https://github.com/haskell-jp/makeMistakesToLearnHaskell/issues/4) の解決
     - 課題5の課題文を作成。
+
+# 2018/10/14までの目標
+
+- Haskell入門コンテンツ:
+    - 課題4のテストを通すところまで完成。
+        - 結果: 未達
+    - [runhaskellを実行する前にmmlh verifyを実行する導線を作る · Issue #4 · haskell-jp/makeMistakesToLearnHaskell](https://github.com/haskell-jp/makeMistakesToLearnHaskell/issues/4) の解決
+        - 結果: 未達
+    - 課題5の課題文を作成。
+        - 結果: 未達
 - タイプセーフプリキュア！: HUGっと！プリキュアの新しい浄化技に対応
+    - 結果: 達成
 
 # 2018/10/14
+
+- Haskell入門コンテンツ:
+    - pretty-simpleでのデバッグコードがなんだかうまく動かないのでおかしいと思ったら`seq`の使い方が間違っているせいで遅延評価の罠にはまっていた...
+- [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
+
+# 2018/10/13
 
 - Haskell入門コンテンツ:
     - regex-applicativeでパースした結果を見るためにpretty-simpleでデバッグコードを追加
@@ -27,7 +46,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
 
-# 2018/10/09 - 2018/10/13
+# 2018/10/09 - 2018/10/12
 
 - Haskell入門コンテンツ:
     - 2018/10/09 - 2018/10/10: 第4問目のカッコに関わる処理の実装中。
