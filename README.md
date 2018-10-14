@@ -16,7 +16,18 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題5の課題文を作成。
 - タイプセーフプリキュア！: HUGっと！プリキュアの新しい浄化技に対応
 
-# 2018/10/09 - 2018/10/12
+# 2018/10/14
+
+- Haskell入門コンテンツ:
+    - regex-applicativeでパースした結果を見るためにpretty-simpleでデバッグコードを追加
+- Haskell-jp:
+    - Haskell Dayのセッションのスライドをレビュー
+    - [第45回【フリースタイル】PORTもくもく会【学生歓迎！】](https://freestyle-mokumoku.connpass.com/event/100994/)にての紹介を目標に、資料を作った。もちろん発表もした。
+- [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
+
+# 2018/10/09 - 2018/10/13
 
 - Haskell入門コンテンツ:
     - 2018/10/09 - 2018/10/10: 第4問目のカッコに関わる処理の実装中。
