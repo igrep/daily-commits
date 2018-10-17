@@ -27,12 +27,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - タイプセーフプリキュア！: HUGっと！プリキュアの新しい浄化技に対応
     - 結果: 達成
 
-# 2018/10/14 - 2018/10/16
+# 2018/10/14 - 2018/10/17
 
 - Haskell入門コンテンツ:
     - 2018/10/14: pretty-simpleでのデバッグコードがなんだかうまく動かないのでおかしいと思ったら`seq`の使い方が間違っているせいで遅延評価の罠にはまっていた...
     - 2018/10/15: 改めてregex-applicativeによるパース結果を見ると、間違えが見つかった。興味深い間違え方だ。
     - 2018/10/16: 昨日見つけた間違いを修正中。やっぱりmegaparsecなりパーサーコンビネーターで書いた方が楽だったんじゃないかって気がしてきたな。。。
+    - 2018/10/17: 修正してみたがまだ間違えていたのでさらに修正。想像以上に苦戦してしまった。
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
