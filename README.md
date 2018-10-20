@@ -35,6 +35,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2018/10/16: 昨日見つけた間違いを修正中。やっぱりmegaparsecなりパーサーコンビネーターで書いた方が楽だったんじゃないかって気がしてきたな。。。
     - 2018/10/17: 修正してみたがまだ間違えていたのでさらに修正。想像以上に苦戦してしまった。
     - 2018/10/18: ようやくカッコの対応をとる処理を実装できた。あとはカッコの対応状況に応じてヒントのメッセージを組み立てるだけのはず...。
+    - 2018/10/19: メッセージを組み立てる処理書き始め
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
