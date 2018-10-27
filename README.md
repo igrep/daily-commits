@@ -37,7 +37,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - タイプセーフプリキュア！: HUGっと！プリキュアの新しい浄化技に対応
     - 結果: 達成
 
-# 2018/10/14 - 2018/10/25
+# 2018/10/14 - 2018/10/27
 
 - Haskell入門コンテンツ:
     - 2018/10/14: pretty-simpleでのデバッグコードがなんだかうまく動かないのでおかしいと思ったら`seq`の使い方が間違っているせいで遅延評価の罠にはまっていた...
@@ -51,6 +51,8 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2018/10/22: 課題5の模範解答がビルド・実行できたので問題文も書いた。あとは必要な知識を解説するだけ。
     - 2018/10/23 - 2018/10/24: 課題5の必要な知識の解説中。
     - 2018/10/25: 課題5の解説完了。Pull request送って確認中。 <https://github.com/haskell-jp/makeMistakesToLearnHaskell/pull/24/>
+    - 2018/10/26: 課題5の細かい修正をしてPull requestをマージ。続けて課題6も書こうかと思ったが、その前に課題5で思い切って型についての説明を加えることにした。
+    - 2018/10/27: 課題5に加えた型の修正だいたい終わり。
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
