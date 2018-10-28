@@ -8,12 +8,23 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2018/11/04までの目標
+
+- Haskell入門コンテンツ:
+    - Haskell Day当日のインストール手順案内
+    - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/issues/33>
+        - ビルドの高速化？
+- HCAR 2018 Nov. の提出
+
 # 2018/10/28までの目標
 
 - Haskell入門コンテンツ:
     - 課題5の課題文を作成。
+        - 結果: 達成
     - 課題6の課題文を作成。
+        - 結果: 未達
     - 課題7の課題文を作成。
+        - 結果: 未達
 
 # 2018/10/21までの目標
 
@@ -37,7 +48,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - タイプセーフプリキュア！: HUGっと！プリキュアの新しい浄化技に対応
     - 結果: 達成
 
-# 2018/10/14 - 2018/10/27
+# 2018/10/14 - 2018/10/28
 
 - Haskell入門コンテンツ:
     - 2018/10/14: pretty-simpleでのデバッグコードがなんだかうまく動かないのでおかしいと思ったら`seq`の使い方が間違っているせいで遅延評価の罠にはまっていた...
@@ -53,6 +64,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2018/10/25: 課題5の解説完了。Pull request送って確認中。 <https://github.com/haskell-jp/makeMistakesToLearnHaskell/pull/24/>
     - 2018/10/26: 課題5の細かい修正をしてPull requestをマージ。続けて課題6も書こうかと思ったが、その前に課題5で思い切って型についての説明を加えることにした。
     - 2018/10/27: 課題5に加えた型の修正だいたい終わり。
+    - 2018/10/28: 束縛と代入の区別について指摘されたので対応。おかげでちょっといい勉強になった。
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
