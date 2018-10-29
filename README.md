@@ -14,6 +14,8 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Haskell Day当日のインストール手順案内
     - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/issues/33>
         - ビルドの高速化？
+    - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/issues/37>
+    - 課題6の課題文を作成。
 - HCAR 2018 Nov. の提出
 
 # 2018/10/28までの目標
@@ -48,7 +50,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - タイプセーフプリキュア！: HUGっと！プリキュアの新しい浄化技に対応
     - 結果: 達成
 
-# 2018/10/14 - 2018/10/28
+# 2018/10/14 - 2018/10/29
 
 - Haskell入門コンテンツ:
     - 2018/10/14: pretty-simpleでのデバッグコードがなんだかうまく動かないのでおかしいと思ったら`seq`の使い方が間違っているせいで遅延評価の罠にはまっていた...
@@ -65,6 +67,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2018/10/26: 課題5の細かい修正をしてPull requestをマージ。続けて課題6も書こうかと思ったが、その前に課題5で思い切って型についての説明を加えることにした。
     - 2018/10/27: 課題5に加えた型の修正だいたい終わり。
     - 2018/10/28: 束縛と代入の区別について指摘されたので対応。おかげでちょっといい勉強になった。
+    - 2018/10/29: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/issues/9> への対応開始。でも代わりにwaddlawくんがやってくれそうだ。
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
