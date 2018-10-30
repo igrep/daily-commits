@@ -68,6 +68,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2018/10/27: 課題5に加えた型の修正だいたい終わり。
     - 2018/10/28: 束縛と代入の区別について指摘されたので対応。おかげでちょっといい勉強になった。
     - 2018/10/29: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/issues/9> への対応開始。でも代わりにwaddlawくんがやってくれそうだ。
+    - 2018/10/30: Issue 22の修正: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/pull/41>
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
