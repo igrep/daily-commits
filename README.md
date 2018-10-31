@@ -50,7 +50,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - タイプセーフプリキュア！: HUGっと！プリキュアの新しい浄化技に対応
     - 結果: 達成
 
-# 2018/10/14 - 2018/10/29
+# 2018/10/14 - 2018/10/31
 
 - Haskell入門コンテンツ:
     - 2018/10/14: pretty-simpleでのデバッグコードがなんだかうまく動かないのでおかしいと思ったら`seq`の使い方が間違っているせいで遅延評価の罠にはまっていた...
@@ -69,6 +69,10 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2018/10/28: 束縛と代入の区別について指摘されたので対応。おかげでちょっといい勉強になった。
     - 2018/10/29: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/issues/9> への対応開始。でも代わりにwaddlawくんがやってくれそうだ。
     - 2018/10/30: Issue 22の修正: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/pull/41>
+    - 2018/10/31:
+        - wadoくんのPRをレビュー: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/pull/42>
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/pull/43>
+        - 課題6以降の、型の説明方法を検討。
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
