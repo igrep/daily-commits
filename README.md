@@ -75,6 +75,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 課題6以降の、型の説明方法を検討。
     - 2018/11/01: 課題6の必要な知識を整理。
     - 2018/11/02: wadoくんのPRのレビュー
+    - 2018/11/03: 細かい改善をいろいろしたり、ハンズオンに向けてインストール方法などのドキュメントを書いたり。
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
