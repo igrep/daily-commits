@@ -8,15 +8,35 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2018/11/11までの目標
+
+- Haskell入門コンテンツ:
+    - 課題にCSSを適用
+    - 課題6の課題文を作成。
+- Haskell Dayの準備: 「Haskellの歩き方」
+
 # 2018/11/04までの目標
 
 - Haskell入門コンテンツ:
     - Haskell Day当日のインストール手順案内
+        - 達成
     - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/issues/33>
         - ビルドの高速化？
+        - 未達
     - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/issues/37>
+        - 達成（やったのは私じゃないけど）
     - 課題6の課題文を作成。
+        - 未達
 - HCAR 2018 Nov. の提出
+    - 達成
+
+# 2018/11/04
+
+- Haskell Dayの準備: 「Haskellの歩き方」
+- HCAR 2018 Nov. の提出
+- [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
 
 # 2018/10/28までの目標
 
@@ -50,7 +70,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - タイプセーフプリキュア！: HUGっと！プリキュアの新しい浄化技に対応
     - 結果: 達成
 
-# 2018/10/14 - 2018/11/02
+# 2018/10/14 - 2018/11/03
 
 - Haskell入門コンテンツ:
     - 2018/10/14: pretty-simpleでのデバッグコードがなんだかうまく動かないのでおかしいと思ったら`seq`の使い方が間違っているせいで遅延評価の罠にはまっていた...
