@@ -15,6 +15,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題6の課題文を作成。
 - Haskell Dayの準備: 「Haskellの歩き方」
 
+# 2018/11/05
+
+- Haskell Dayの準備: 「Haskellの歩き方」
+    - Monadについて解説したり、大体書く内容を決めたり。
+- [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
+
 # 2018/11/04までの目標
 
 - Haskell入門コンテンツ:
