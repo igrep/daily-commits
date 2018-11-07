@@ -20,6 +20,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell Dayの準備: 「Haskellの歩き方」
     - 2018/11/05: Monadについて解説したり、大体書く内容を決めたり。
     - 2018/11/06: 情報収集の方法や、ドキュメントの調べ方など。
+    - 2018/11/07: パッケージとの使い方途中まで
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
