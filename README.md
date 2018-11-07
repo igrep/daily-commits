@@ -15,7 +15,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題6の課題文を作成。
 - Haskell Dayの準備: 「Haskellの歩き方」
 
-# 2018/11/05 - 2018/11/06
+# 2018/11/05 - 2018/11/07
 
 - Haskell Dayの準備: 「Haskellの歩き方」
     - 2018/11/05: Monadについて解説したり、大体書く内容を決めたり。
