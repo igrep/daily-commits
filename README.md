@@ -25,13 +25,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell Dayの準備: 「Haskellの歩き方」
     - 結果: 達成
 
-# 2018/11/11 - 2018/11/14
+# 2018/11/11 - 2018/11/15
 
 - 「タイプセーフプリキュア！」:
     - 2018/11/11: Super PreCure Monadの実装に向け、軽く調査。typerepmapとextensibleを検討した。keyとvalue両方の情報が型宣言に現れる、extensibleの方が都合が良さそうだ。今回はケースが違うとして、typerepmapはどういうケースに使うのがいいんだろう。
     - 2018/11/12: とりあえずファイルだけ作った
     - 2018/11/13: importとかだけでも
     - 2018/11/14: 普通のPreCure Monadから実装すべきものをコピペ
+    - 2018/11/15: 手の付くところから実装を少しずつ
 - [Getting Clojure](https://pragprog.com/book/roclojure/getting-clojure)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
