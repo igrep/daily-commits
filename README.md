@@ -15,6 +15,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - 「タイプセーフプリキュア！」:
     - Super PreCure Monadの実装
 
+# 2018/11/17
+
+- 「タイプセーフプリキュア！」:
+    - だいたいの内部仕様が思い浮かんだ。recordのkeyとして変身前の女の子の型を、valueとして変身しているか否かを含み、登場(`enter`)している女の子(`Character`)に対して`transform`や`purify`関数を実行できるようにする。変身している女の子が`enter`した場合は、変身前の女の子に型族`BeforeTransformed`に変換した上で`Character a`として返す。
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
+
 # 2018/11/11までの目標
 
 - Haskell入門コンテンツ:
