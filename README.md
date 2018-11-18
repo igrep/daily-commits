@@ -8,12 +8,25 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2018/11/25までの目標
+
+- 「タイプセーフプリキュア！」:
+    - Super PreCure Monadの実装
+
 # 2018/11/18までの目標
 
 - Haskell入門コンテンツ:
     - 課題6の課題文を作成。
+        - 結果: 未達
 - 「タイプセーフプリキュア！」:
     - Super PreCure Monadの実装
+        - 結果: 未達
+
+# 2018/11/18
+
+- [Programming Android, 2nd Edition](http://shop.oreilly.com/product/0636920023005.do)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+- 中国語
 
 # 2018/11/17
 
