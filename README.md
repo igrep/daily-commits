@@ -22,10 +22,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Super PreCure Monadの実装
         - 結果: 未達
 
-# 2018/11/20
+# 2018/11/20 - 2018/11/21
 
 - 「タイプセーフプリキュア！」:
-    - 土曜日思いついたアイディアの実装中。
+    - 2018/11/20: 土曜日思いついたアイディアの実装中。
+    - 2018/11/21: 型定義を少し修正。
 - [Programming Android, 2nd Edition](http://shop.oreilly.com/product/0636920023005.do)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
