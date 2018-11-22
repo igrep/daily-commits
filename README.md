@@ -22,11 +22,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Super PreCure Monadの実装
         - 結果: 未達
 
-# 2018/11/20 - 2018/11/21
+# 2018/11/20 - 2018/11/22
 
 - 「タイプセーフプリキュア！」:
     - 2018/11/20: 土曜日思いついたアイディアの実装中。
     - 2018/11/21: 型定義を少し修正。
+    - 2018/11/22: 次にやることを考えていた。`Data.Type.Equality`とextensibleの`Member`高階型族を使って、「`AsGirl g'`が`enter`していて変身前（または後）だったら」みたいな制約を着ければよいはず。
 - [Programming Android, 2nd Edition](http://shop.oreilly.com/product/0636920023005.do)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 - 中国語
