@@ -22,6 +22,17 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Super PreCure Monadの実装
         - 結果: 未達
 
+# 2018/11/23
+
+- 「タイプセーフプリキュア！」:
+    - 2018/11/23:
+        - [Member型クラス](https://hackage.haskell.org/package/extensible-0.4.10.1/docs/Data-Extensible-Class.html#t:Member)だけで十分っぽい
+        - その前に、indexed-extraが更新されない問題をどうにかしないとね...。
+            - GitHubでメンションしても反応がなかったので、作者にメールした。仕方なく一時的にGitHubのリポジトリーに直接依存することに。
+        - あとはIndexed Monadが持っている状態を書き換えるための型族と対応するアクションができれば概ね完成なはず。
+- [Programming Android, 2nd Edition](http://shop.oreilly.com/product/0636920023005.do)
+- [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+
 # 2018/11/20 - 2018/11/22
 
 - 「タイプセーフプリキュア！」:
