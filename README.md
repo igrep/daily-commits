@@ -8,10 +8,17 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2018/12/02までの目標
+
+- 「タイプセーフプリキュア！」:
+    - Super PreCure Monadの実装
+    - HUGっと！プリキュアの新しい技を追加
+
 # 2018/11/25までの目標
 
 - 「タイプセーフプリキュア！」:
     - Super PreCure Monadの実装
+        - 結果: 未達。
 
 # 2018/11/18までの目標
 
