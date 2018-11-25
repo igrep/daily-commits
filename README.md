@@ -22,7 +22,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Super PreCure Monadの実装
         - 結果: 未達
 
-# 2018/11/23
+# 2018/11/23 - 2018/11/25
 
 - 「タイプセーフプリキュア！」:
     - 2018/11/23:
@@ -30,6 +30,10 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - その前に、indexed-extraが更新されない問題をどうにかしないとね...。
             - GitHubでメンションしても反応がなかったので、作者にメールした。仕方なく一時的にGitHubのリポジトリーに直接依存することに。
         - あとはIndexed Monadが持っている状態を書き換えるための型族と対応するアクションができれば概ね完成なはず。
+    - 2018/11/24:
+        - 状態を書き換える関数をわかる範囲内で適当に書いた。
+    - 2018/11/25:
+        - 昨日書いた関数を完全なものにする方法を考えていた。
 - [Programming Android, 2nd Edition](http://shop.oreilly.com/product/0636920023005.do)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
 
