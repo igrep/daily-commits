@@ -29,7 +29,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Super PreCure Monadの実装
         - 結果: 未達
 
-# 2018/11/23 - 2018/11/26
+# 2018/11/23 - 2018/11/27
 
 - 「タイプセーフプリキュア！」:
     - 2018/11/23:
@@ -41,10 +41,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 状態を書き換える関数をわかる範囲内で適当に書いた。
     - 2018/11/25:
         - 昨日書いた関数を完全なものにする方法を考えていた。
-    - 2018/11/26:
+    - 2018/11/26 - 2018/11/27:
         - 少し試しに書いてみたが、うまくいかない。そもそもextensibleのrecordはpolymorphic updateをサポートしていないので、やはり苦戦しそうだ。
 - [Programming Android, 2nd Edition](http://shop.oreilly.com/product/0636920023005.do)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
+    - 2018/11/27: ようやく読了。
 
 # 2018/11/20 - 2018/11/22
 
