@@ -29,6 +29,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Super PreCure Monadの実装
         - 結果: 未達
 
+# 2018/11/28
+
+- 「タイプセーフプリキュア！」:
+    - 2018/11/28:
+        - 型エラーの解決にまだ苦戦
+- [Programming Android, 2nd Edition](http://shop.oreilly.com/product/0636920023005.do)
+
 # 2018/11/23 - 2018/11/27
 
 - 「タイプセーフプリキュア！」:
@@ -43,6 +50,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 昨日書いた関数を完全なものにする方法を考えていた。
     - 2018/11/26 - 2018/11/27:
         - 少し試しに書いてみたが、うまくいかない。そもそもextensibleのrecordはpolymorphic updateをサポートしていないので、やはり苦戦しそうだ。
+- 中国語
 - [Programming Android, 2nd Edition](http://shop.oreilly.com/product/0636920023005.do)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
     - 2018/11/27: ようやく読了。
