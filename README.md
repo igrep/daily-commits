@@ -29,11 +29,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Super PreCure Monadの実装
         - 結果: 未達
 
-# 2018/11/28
+# 2018/11/28 - 2018/11/29
 
 - 「タイプセーフプリキュア！」:
     - 2018/11/28:
         - 型エラーの解決にまだ苦戦
+    - 2018/11/29:
+        - 少し作り方がわかってきた、かな？まだかかりそう。
 - [Programming Android, 2nd Edition](http://shop.oreilly.com/product/0636920023005.do)
 
 # 2018/11/23 - 2018/11/27
