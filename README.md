@@ -14,29 +14,22 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Super PreCure Monadの実装
     - HUGっと！プリキュアの新しい技を追加
 
-# 2018/11/25までの目標
-
-- 「タイプセーフプリキュア！」:
-    - Super PreCure Monadの実装
-        - 結果: 未達。
-
-# 2018/11/18までの目標
-
-- Haskell入門コンテンツ:
-    - 課題6の課題文を作成。
-        - 結果: 未達
-- 「タイプセーフプリキュア！」:
-    - Super PreCure Monadの実装
-        - 結果: 未達
-
-# 2018/11/28 - 2018/11/29
+# 2018/11/28 - 2018/11/30
 
 - 「タイプセーフプリキュア！」:
     - 2018/11/28:
         - 型エラーの解決にまだ苦戦
     - 2018/11/29:
         - 少し作り方がわかってきた、かな？まだかかりそう。
+    - 2018/11/30:
+        - ようやく、解こうとしている問題の一部が解けた。
 - [Programming Android, 2nd Edition](http://shop.oreilly.com/product/0636920023005.do)
+
+# 2018/11/25までの目標
+
+- 「タイプセーフプリキュア！」:
+    - Super PreCure Monadの実装
+        - 結果: 未達。
 
 # 2018/11/23 - 2018/11/27
 
@@ -56,6 +49,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - [Programming Android, 2nd Edition](http://shop.oreilly.com/product/0636920023005.do)
 - [How to Bake Pi](https://en.wikipedia.org/wiki/How_to_Bake_Pi)
     - 2018/11/27: ようやく読了。
+
+# 2018/11/18までの目標
+
+- Haskell入門コンテンツ:
+    - 課題6の課題文を作成。
+        - 結果: 未達
+- 「タイプセーフプリキュア！」:
+    - Super PreCure Monadの実装
+        - 結果: 未達
 
 # 2018/11/20 - 2018/11/22
 
