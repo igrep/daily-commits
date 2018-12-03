@@ -8,13 +8,31 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2018/12/02までの目標
+# 2018/12/09までの目標
 
 - 「タイプセーフプリキュア！」:
     - Super PreCure Monadの実装
     - HUGっと！プリキュアの新しい技を追加
+    - キュアアンフィニを追加
+    - Advent Calendarのネタを投稿
 
-# 2018/11/28 - 2018/12/01
+# 2018/12/02までの目標
+
+- 「タイプセーフプリキュア！」:
+    - Super PreCure Monadの実装
+        - 結果: 未達
+    - HUGっと！プリキュアの新しい技を追加
+        - 結果: 未達
+
+# 2018/12/03
+
+- 「タイプセーフプリキュア！」:
+    - 2018/12/03:
+        - 昨日までに作った関数を、`HList`ではなく`Record`で動くよう修正。ホントはキーが含まれていない場合に型エラーにするようにしたかったが、それに相当する型レベル関数がなく、ひとまず断念。
+- [Programming Android, 2nd Edition](http://shop.oreilly.com/product/0636920023005.do)
+- 中国語
+
+# 2018/11/28 - 2018/12/02
 
 - 「タイプセーフプリキュア！」:
     - 2018/11/28:
@@ -25,6 +43,8 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - ようやく、解こうとしている問題の一部が解けた。
     - 2018/12/01:
         - 昨日作った関数を参考に、本来作りたい関数を作ってみたが、あと一歩のところでうまくいかず...。
+    - 2018/12/02:
+        - 昨日うまくいかなかった問題は、`ScopedTypeVariables`を有効にするだけで直った。ようやくこれでpolymorphic updateが実装できた...。
 - [Programming Android, 2nd Edition](http://shop.oreilly.com/product/0636920023005.do)
 
 # 2018/11/25までの目標
