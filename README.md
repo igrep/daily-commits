@@ -36,7 +36,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - HUGっと！プリキュアの新しい技を追加
         - 結果: 未達
 
-# 2018/12/03 - 2018/12/11
+# 2018/12/03 - 2018/12/12
 
 - 「タイプセーフプリキュア！」:
     - 2018/12/03:
@@ -47,7 +47,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 各プリキュアに、Super PreCure Monadで必要なインスタンスを自動で定義する関数の実装中。
     - 2018/12/08:
         - Super PreCure Monadの一通りの実装ができた。
-    - 2018/12/09 - 2018/12/11:
+    - 2018/12/09 - 2018/12/12:
         - Super PreCure Monadのテストのために、収録されている一通りのtransformationとpurificationを出力するスクリプトを書く
 - [Programming Android, 2nd Edition](http://shop.oreilly.com/product/0636920023005.do)
 - 中国語
