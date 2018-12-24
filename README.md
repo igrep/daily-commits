@@ -48,7 +48,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - HUGっと！プリキュアの新しい技を追加
         - 結果: 未達
 
-# 2018/12/03 - 2018/12/23
+# 2018/12/03 - 2018/12/24
 
 - 「タイプセーフプリキュア！」:
     - 2018/12/03:
@@ -65,8 +65,10 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 前日までに作成したスクリプトで出力したソースを使って、Super PreCure Monadの動作確認をした。
     - 2018/12/18 - 2018/12/21:
         - キュアアンフィニなどの追加
-    - 2018/12/22 - 2018/12/23:
+    - 2018/12/22:
         - typesafe-precureの新しいバージョンをリリース。Advent Calendarの記事執筆開始。
+    - 2018/12/23 - 2018/12/24:
+        - Advent Calendarの記事執筆中。
 - [Programming Android, 2nd Edition](http://shop.oreilly.com/product/0636920023005.do)
 - 中国語
 
