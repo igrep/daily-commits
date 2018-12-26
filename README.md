@@ -48,7 +48,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - HUGっと！プリキュアの新しい技を追加
         - 結果: 未達
 
-# 2018/12/03 - 2018/12/25
+# 2018/12/03 - 2018/12/26
 
 - 「タイプセーフプリキュア！」:
     - 2018/12/03:
@@ -67,7 +67,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - キュアアンフィニなどの追加
     - 2018/12/22:
         - typesafe-precureの新しいバージョンをリリース。Advent Calendarの記事執筆開始。
-    - 2018/12/23 - 2018/12/25:
+    - 2018/12/23 - 2018/12/26:
         - Advent Calendarの記事執筆中。
 - [Programming Android, 2nd Edition](http://shop.oreilly.com/product/0636920023005.do)
 - 中国語
