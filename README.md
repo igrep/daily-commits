@@ -22,6 +22,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - 失敗しながら学ぶHaskell入門:
     - Issueを1つ以上解決する
 
+# 2018/12/28
+
+- 失敗しながら学ぶHaskell入門:
+    - READMEの修正
+- [Programming Android, 2nd Edition](http://shop.oreilly.com/product/0636920023005.do)
+- 中国語
+
 # 2018/12/23までの目標
 
 - 「タイプセーフプリキュア！」:
