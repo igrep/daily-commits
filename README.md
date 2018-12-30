@@ -22,6 +22,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - 失敗しながら学ぶHaskell入門:
     - Issueを1つ以上解決する
 
+# 2018/12/29
+
+- 失敗しながら学ぶHaskell入門:
+    - READMEの修正・[課題5か6でletを説明する](https://github.com/haskell-jp/makeMistakesToLearnHaskell/issues/93)の解決策を考えたり。
+- 中国語
+
 # 2018/12/28
 
 - 失敗しながら学ぶHaskell入門:
