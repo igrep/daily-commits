@@ -12,11 +12,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - 失敗しながら学ぶHaskell入門:
     - Issueを1つ以上解決する
+        - 結果: 達成
 - keep-me-contributing:
     - Kotlinで少しでも進める
 
-# 2019/01/01
+# 2019/01/01 - 2019/01/02
 
 - 失敗しながら学ぶHaskell入門:
-    - 課題5に`let`の説明を追加できたっぽい。
+    - 2019/01/01: 課題5に`let`の説明を追加できたっぽい。
+    - 2019/01/02: 年末からまとめて作っていた[Pull request](https://github.com/haskell-jp/makeMistakesToLearnHaskell/pull/95)をようやく送ってマージできた。いろいろIssueを一気にcloseできてすっきり。
 - 中国語
