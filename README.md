@@ -16,6 +16,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - keep-me-contributing:
     - Kotlinで少しでも進める
 
+# 2019/01/03
+
+- 失敗しながら学ぶHaskell入門:
+    - 課題6の続き。
+- [Programming Android, 2nd Edition](http://shop.oreilly.com/product/0636920023005.do)
+- 中国語
+
 # 2019/01/01 - 2019/01/02
 
 - 失敗しながら学ぶHaskell入門:
