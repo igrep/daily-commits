@@ -16,6 +16,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - keep-me-contributing:
     - Kotlinで少しでも進める
 
+# 2019/01/04
+
+- keep-me-contributing:
+    - 久々なのでとりあえずAndroid Studioの動作確認をするためにいろいろセットアップ。AMDのCPUでエミュレーターを立ち上げるにはHyper-Vじゃないとダメだそうで、やむなくVirtualBoxをアンインストール。新しいPCではHyper-Vとお別れしたかったのに、つらい。
+- [Programming Android, 2nd Edition](http://shop.oreilly.com/product/0636920023005.do)
+- 中国語
+
 # 2019/01/03
 
 - 失敗しながら学ぶHaskell入門:
