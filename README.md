@@ -16,6 +16,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - keep-me-contributing:
     - Kotlinで少しでも進める
 
+# 2019/01/05
+
+- [Programming Android, 2nd Edition](http://shop.oreilly.com/product/0636920023005.do)
+- 中国語
+- その他: [Evernoteのexportを日付ごとに行うスクリプト](https://gist.github.com/igrep/843098ca14cf6fb918a7c9d4ce95a594)を書いた。気が向いたらQiitaにでも載せようかな。
+
 # 2019/01/04
 
 - keep-me-contributing:
