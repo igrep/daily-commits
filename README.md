@@ -8,6 +8,11 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2019/01/13までの目標
+
+- keep-me-contributing:
+    - 設定画面からボタンを押してNotificationのテストをするところまで実装。
+
 # 2019/01/06までの目標
 
 - 失敗しながら学ぶHaskell入門:
