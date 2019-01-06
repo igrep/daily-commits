@@ -8,13 +8,21 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2019/01/07までの目標
+# 2019/01/06までの目標
 
 - 失敗しながら学ぶHaskell入門:
     - Issueを1つ以上解決する
         - 結果: 達成
 - keep-me-contributing:
     - Kotlinで少しでも進める
+        - 結果: 達成
+
+# 2019/01/06
+
+- keep-me-contributing:
+    - ActivityからNotificationを出すもNotificationChannelが設定されてないので警告が出るところまで実装。
+- [Programming Android, 2nd Edition](http://shop.oreilly.com/product/0636920023005.do)
+- 中国語
 
 # 2019/01/05
 
