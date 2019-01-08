@@ -22,11 +22,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Kotlinで少しでも進める
         - 結果: 達成
 
-# 2019/01/06 - 2019/01/07
+# 2019/01/06 - 2019/01/08
 
 - keep-me-contributing:
     - 2019/01/06: ActivityからNotificationを出すもNotificationChannelが設定されてないので警告が出るところまで実装。
     - 2019/01/07: NotificationChannelを設定してNotificationが出るところまで実装。アイコンがうまく表示されない...。
+    - 2019/01/08: アイコンのことは一旦忘れて、文字列を入力する箇所を追加中。
 - [Programming Android, 2nd Edition](http://shop.oreilly.com/product/0636920023005.do)
 - 中国語
 
