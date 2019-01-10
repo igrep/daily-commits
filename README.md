@@ -13,10 +13,10 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - keep-me-contributing:
     - 設定画面からボタンを押してNotificationのテストをするところまで実装。
 
-# 2019/01/09
+# 2019/01/09 - 2019/01/10
 
 - Haskell-jp Blog:
-    予定を変えて、[teratailにあった質問](https://teratail.com/questions/167461)に回答するための記事を書き始めた。残念ながら質問者本人が自己回答してしまったが、知見は得られたのでよしとしよう。
+    - 2019/01/09 - 2019/01/10: 予定を変えて、[teratailにあった質問](https://teratail.com/questions/167461)に回答するための記事を書き始めた。残念ながら質問者本人が自己回答してしまったが、知見は得られたのでよしとしよう。
 - [Programming Android, 2nd Edition](http://shop.oreilly.com/product/0636920023005.do)
 - 中国語
 
