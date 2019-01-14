@@ -8,15 +8,23 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2019/01/20までの目標
+
+- keep-me-contributing:
+    - 設定画面からボタンを押してNotificationのテストをするところまで実装。
+- [サポーターズ新年会](https://supporterzcolab.com/event/671/)の資料作り
+- Haskell-jp Blog: TidalCyclesをインストールする記事を書く
+
 # 2019/01/13までの目標
 
 - keep-me-contributing:
     - 設定画面からボタンを押してNotificationのテストをするところまで実装。
+        - 結果: 未達
 
-# 2019/01/09 - 2019/01/12
+# 2019/01/09 - 2019/01/13
 
 - Haskell-jp Blog:
-    - 2019/01/09 - 2019/01/12: 予定を変えて、[teratailにあった質問](https://teratail.com/questions/167461)に回答するための記事を書き始めた。残念ながら質問者本人が自己回答してしまったが、知見は得られたのでよしとしよう。
+    - 2019/01/09 - 2019/01/13: 予定を変えて、[teratailにあった質問](https://teratail.com/questions/167461)に回答するための記事を書き始めた。残念ながら質問者本人が自己回答してしまったが、知見は得られたのでよしとしよう。
 - [Programming Android, 2nd Edition](http://shop.oreilly.com/product/0636920023005.do)
 - 中国語
 
