@@ -21,10 +21,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 設定画面からボタンを押してNotificationのテストをするところまで実装。
         - 結果: 未達
 
-# 2019/01/09 - 2019/01/14
+# 2019/01/09 - 2019/01/15
 
 - Haskell-jp Blog:
     - 2019/01/09 - 2019/01/14: 予定を変えて、[teratailにあった質問](https://teratail.com/questions/167461)に回答するための記事を書き始めた。残念ながら質問者本人が自己回答してしまったが、知見は得られたのでよしとしよう。
+    - 2019/01/15: [TidalCyclesの記事が書けたのでPull requestを送った](https://github.com/haskell-jp/blog/pull/150)。残念ながらもう時間もないのでいろいろはしょることにしたが、まぁいいだろう。
 - [Programming Android, 2nd Edition](http://shop.oreilly.com/product/0636920023005.do)
 - 中国語
 
