@@ -15,6 +15,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - [サポーターズ新年会](https://supporterzcolab.com/event/671/)の資料作り
 - Haskell-jp Blog: TidalCyclesをインストールする記事を書く
 
+# 2019/01/18
+
+- [Programming Android, 2nd Edition](http://shop.oreilly.com/product/0636920023005.do)
+- 中国語
+
 # 2019/01/13までの目標
 
 - keep-me-contributing:
