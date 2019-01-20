@@ -8,12 +8,25 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2019/01/27までの目標
+
+- keep-me-contributing:
+    - ボタンを押したらServiceを立ち上げてNotificationを送るところまで
+
 # 2019/01/20までの目標
 
 - keep-me-contributing:
     - 設定画面からボタンを押してNotificationのテストをするところまで実装。
+        - 達成。もっと難しい課題にして良かったかも。
 - [サポーターズ新年会](https://supporterzcolab.com/event/671/)の資料作り
+    - 未達。体調不良のためキャンセル。
 - Haskell-jp Blog: TidalCyclesをインストールする記事を書く
+    - 達成。公開できた。
+
+# 2019/01/20
+
+- keep-me-contributing: 引き続き内部のモデルを考えていた。
+- 中国語
 
 # 2019/01/19
 
