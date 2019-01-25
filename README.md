@@ -13,11 +13,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - keep-me-contributing:
     - ボタンを押したらServiceを立ち上げてNotificationを送るところまで
 
-# 2019/01/21 - 2019/01/24
+# 2019/01/21 - 2019/01/25
 
 - keep-me-contributing:
     - 2019/01/21 - 2019/01/22: 引き続き内部のモデルの実装。
-    - 2019/01/23 - 2019/01/24: Notificationを介してモデルの状態を表示するViewの実装
+    - 2019/01/23 - 2019/01/25: Notificationを介してモデルの状態を表示するViewの実装
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 中国語
 
