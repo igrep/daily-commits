@@ -13,6 +13,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - keep-me-contributing:
     - ボタンを押したらServiceを立ち上げてNotificationを送るところまで
 
+# 2019/01/26
+
+- keep-me-contributing:
+    - 2019/01/26: Notificationを介してモデルの状態を表示するViewの実装ができたのでNotificationを送ってみるも、なんかNotificationの内容を修正しようとしたところでアプリがクラッシュしてしまう。恐らく、[StackOverflowで見かけた、Notificationの内容を上書きする方法](https://stackoverflow.com/questions/14885368/update-text-of-notification-not-entire-notification)をなにか勘違いして使用してしまったと思われる。
+- Haskell-jp:
+    - SlackArchive廃止に対応するために発言をバックアップするソフト作り: HTMLファイルとして書き出す処理を実装し始めた。
+- [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
+- 中国語
+
 # 2019/01/21 - 2019/01/25
 
 - keep-me-contributing:
