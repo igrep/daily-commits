@@ -8,10 +8,24 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2019/02/03までの目標
+
+- keep-me-contributing:
+    - ボタンを押したら設定を更新して、Notificationを更新するところまで
+    - Android起動時にServiceを立ち上げるところまで
+
 # 2019/01/27までの目標
 
 - keep-me-contributing:
     - ボタンを押したらServiceを立ち上げてNotificationを送るところまで
+        - 結果: 未達。設定ファイルを更新するところまで、書いた方が適切だったかも。
+
+# 2019/01/27
+
+- keep-me-contributing:
+    - 2019/01/27: アプリがクラッシュしてしまうのを直し、Notificationを更新できるところまで実装。
+- [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
+- 中国語
 
 # 2019/01/26
 
