@@ -12,6 +12,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - keep-me-contributing:
     - ボタンを押したら設定を更新して、Notificationを更新するところまで
+        - 結果: 達成。
     - Android起動時にServiceを立ち上げるところまで
 
 # 2019/01/27までの目標
@@ -20,10 +21,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - ボタンを押したらServiceを立ち上げてNotificationを送るところまで
         - 結果: 未達。設定ファイルを更新するところまで、書いた方が適切だったかも。
 
-# 2019/01/27
+# 2019/01/27 - 2019/01/28
 
 - keep-me-contributing:
     - 2019/01/27: アプリがクラッシュしてしまうのを直し、Notificationを更新できるところまで実装。
+    - 2019/01/28: 1日休んだのでServiceを作るところまで実装できた。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 中国語
 
