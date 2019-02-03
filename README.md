@@ -8,12 +8,20 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2019/02/10までの目標
+
+- keep-me-contributing:
+    - Android起動時にServiceを立ち上げるところまで
+    - GitHubにリクエストを送るサンプル用のリクエストを作成
+    - 内部のModelのテストを作成
+
 # 2019/02/03までの目標
 
 - keep-me-contributing:
     - ボタンを押したら設定を更新して、Notificationを更新するところまで
         - 結果: 達成。
     - Android起動時にServiceを立ち上げるところまで
+        - 結果: 未達。最初に取り組んだ方法が当アプリのアプローチに好ましくないことに気づいたためできず。`JobScheduler`を使った実装もできたものの、確認ができず。
 
 # 2019/01/27までの目標
 
@@ -21,7 +29,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - ボタンを押したらServiceを立ち上げてNotificationを送るところまで
         - 結果: 未達。設定ファイルを更新するところまで、書いた方が適切だったかも。
 
-# 2019/01/27 - 2019/02/02
+# 2019/01/27 - 2019/02/03
 
 - keep-me-contributing:
     - 2019/01/27: アプリがクラッシュしてしまうのを直し、Notificationを更新できるところまで実装。
@@ -31,6 +39,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2019/01/31: うまく動かないのは、単に設定ファイルのキーの名前を変更したからだった。しかし、まだOS起動時にServiceが起動しない問題は解決していない。
     - 2019/02/01: ServiceがOS起動時に動かない問題解決。権限が1個足りてなかった。しかしあとあと調べてみたら、`JobScheduler`を使うと、今後実装しようとしている定期実行と同時に、OS再起動時の自動起動もまかなえるらしい...。完全に無駄になってしまった。
     - 2019/02/02: `JobScheduler`を使ったやり方に切り替え中。
+    - 2019/02/03: `JobScheduler`を使ったやり方に切り替えをしたものの、未テスト。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 中国語
 
