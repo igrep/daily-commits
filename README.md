@@ -29,7 +29,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - ボタンを押したらServiceを立ち上げてNotificationを送るところまで
         - 結果: 未達。設定ファイルを更新するところまで、書いた方が適切だったかも。
 
-# 2019/01/27 - 2019/02/03
+# 2019/01/27 - 2019/02/04
 
 - keep-me-contributing:
     - 2019/01/27: アプリがクラッシュしてしまうのを直し、Notificationを更新できるところまで実装。
@@ -40,6 +40,9 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2019/02/01: ServiceがOS起動時に動かない問題解決。権限が1個足りてなかった。しかしあとあと調べてみたら、`JobScheduler`を使うと、今後実装しようとしている定期実行と同時に、OS再起動時の自動起動もまかなえるらしい...。完全に無駄になってしまった。
     - 2019/02/02: `JobScheduler`を使ったやり方に切り替え中。
     - 2019/02/03: `JobScheduler`を使ったやり方に切り替えをしたものの、未テスト。
+    - 2019/02/04:
+        - `JobScheduler`を使ったやり方に切り替えの確認が終了。
+        - GitHub APIでコミット履歴を取得するクエリーの作成。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 中国語
 
