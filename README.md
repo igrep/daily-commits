@@ -29,7 +29,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - ボタンを押したらServiceを立ち上げてNotificationを送るところまで
         - 結果: 未達。設定ファイルを更新するところまで、書いた方が適切だったかも。
 
-# 2019/01/27 - 2019/02/04
+# 2019/01/27 - 2019/02/05
 
 - keep-me-contributing:
     - 2019/01/27: アプリがクラッシュしてしまうのを直し、Notificationを更新できるところまで実装。
@@ -43,6 +43,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2019/02/04:
         - `JobScheduler`を使ったやり方に切り替えの確認が終了。
         - GitHub APIでコミット履歴を取得するクエリーの作成。
+    - 2019/02/05: GitHub APIでコミット履歴を取得するクエリーのサンプルができた。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 中国語
 
