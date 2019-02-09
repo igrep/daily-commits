@@ -29,7 +29,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - ボタンを押したらServiceを立ち上げてNotificationを送るところまで
         - 結果: 未達。設定ファイルを更新するところまで、書いた方が適切だったかも。
 
-# 2019/01/27 - 2019/02/07
+# 2019/01/27 - 2019/02/08
 
 - keep-me-contributing:
     - 2019/01/27: アプリがクラッシュしてしまうのを直し、Notificationを更新できるところまで実装。
@@ -46,6 +46,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2019/02/05: GitHub APIでコミット履歴を取得するクエリーのサンプルができた。
     - 2019/02/06: Apolloをインストールして設定。
     - 2019/02/07: ApolloのGradleプラグインでコード生成するところまで。
+    - 2019/02/08: GitHubに渡すPersonal Access Tokenを入力・保存する処理の実装。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 中国語
 
