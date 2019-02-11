@@ -25,6 +25,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 内部のModelのテストを作成
         - 結果: 未達。順番を間違えた。代わりに、アプリからGitHubのAPIにリクエストを送る処理を実装してた。
 
+# 2019/02/09 - 2019/02/11
+
+- keep-me-contributing:
+    - 2019/02/09: Apolloで生成したコードを使おうとしているところ。
+    - 2019/02/10: GitHubにリクエストを送る処理まで実装できた。
+    - 2019/02/11: 内部のModelのテストを書いてる。
+- 「【交流会】12卒 & 13卒エンジニア限定 "ぼくたち三十路リーチ組"」の資料作り
+- [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
+- 中国語
+
 # 2019/02/03までの目標
 
 - keep-me-contributing:
@@ -57,8 +67,6 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2019/02/06: Apolloをインストールして設定。
     - 2019/02/07: ApolloのGradleプラグインでコード生成するところまで。
     - 2019/02/08: GitHubに渡すPersonal Access Tokenを入力・保存する処理の実装。
-    - 2019/02/09: Apolloで生成したコードを使おうとしているところ。
-    - 2019/02/10: GitHubにリクエストを送る処理まで実装できた。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 中国語
 
