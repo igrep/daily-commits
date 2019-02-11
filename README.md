@@ -8,12 +8,22 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2019/02/17までの目標
+
+- keep-me-contributing:
+    - 内部のModelのテストを作成
+    - 内部のModelの実装を作成
+- 「【交流会】12卒 & 13卒エンジニア限定 "ぼくたち三十路リーチ組"」の資料作り
+
 # 2019/02/10までの目標
 
 - keep-me-contributing:
     - Android起動時にServiceを立ち上げるところまで
+        - 結果: 達成。
     - GitHubにリクエストを送るサンプル用のリクエストを作成
+        - 結果: 達成。
     - 内部のModelのテストを作成
+        - 結果: 未達。順番を間違えた。代わりに、アプリからGitHubのAPIにリクエストを送る処理を実装してた。
 
 # 2019/02/03までの目標
 
@@ -29,7 +39,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - ボタンを押したらServiceを立ち上げてNotificationを送るところまで
         - 結果: 未達。設定ファイルを更新するところまで、書いた方が適切だったかも。
 
-# 2019/01/27 - 2019/02/09
+# 2019/01/27 - 2019/02/10
 
 - keep-me-contributing:
     - 2019/01/27: アプリがクラッシュしてしまうのを直し、Notificationを更新できるところまで実装。
@@ -48,6 +58,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2019/02/07: ApolloのGradleプラグインでコード生成するところまで。
     - 2019/02/08: GitHubに渡すPersonal Access Tokenを入力・保存する処理の実装。
     - 2019/02/09: Apolloで生成したコードを使おうとしているところ。
+    - 2019/02/10: GitHubにリクエストを送る処理まで実装できた。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 中国語
 
