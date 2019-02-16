@@ -15,6 +15,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 内部のModelの実装を作成
 - 「【交流会】12卒 & 13卒エンジニア限定 "ぼくたち三十路リーチ組"」の資料作り
 
+# 2019/02/16
+
+- keep-me-contributing:
+    - 2019/02/16: 内部のModelのテストケースの実装中。
+- [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
+- 中国語
+
 # 2019/02/13 - 2019/02/15
 
 - 「【交流会】12卒 & 13卒エンジニア限定 "ぼくたち三十路リーチ組"」の資料作り
