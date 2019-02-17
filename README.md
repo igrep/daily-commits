@@ -8,12 +8,28 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2019/02/17までの目標
+# 2019/02/23までの目標
 
 - keep-me-contributing:
     - 内部のModelのテストを作成
     - 内部のModelの実装を作成
+
+# 2019/02/17までの目標
+
+- keep-me-contributing:
+    - 内部のModelのテストを作成
+        - 結果: 未達。
+    - 内部のModelの実装を作成
+        - 結果: 未達。
 - 「【交流会】12卒 & 13卒エンジニア限定 "ぼくたち三十路リーチ組"」の資料作り
+    - 結果: 達成。
+
+# 2019/02/17
+
+- Haskell-jp:
+    - SlackArchive廃止に対応するために発言をバックアップするソフト作り: HTMLファイルとして書き出す処理のテストを書いてる。
+- [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
+- 中国語
 
 # 2019/02/16
 
