@@ -14,6 +14,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 内部のModelのテストを作成
     - 内部のModelの実装を作成
 
+# 2019/02/18
+
+- keep-me-contributing:
+    - 2019/02/18: 内部のModelのテストケースの実装中。
+- [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
+- 中国語
+
 # 2019/02/17までの目標
 
 - keep-me-contributing:
