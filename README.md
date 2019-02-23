@@ -21,6 +21,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2019/02/19: 内部のModelのテストケースを一つ実装できたので一つパスした。二つ目のテストケースも書いた。
     - 2019/02/20: 内部のModelの3つめのテストケースを書いて実装。もっと書いても良かったが、面倒なのでここまでにすることにした。
     - 2019/02/21: これまでの実装を見直して、整理しつつ、足りないところを実装中。
+    - 2019/02/22: JavaScriptとAndroidで同じ実装を使い回せるよう、自前でDIコンテナーを整備。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 中国語
 
