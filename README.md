@@ -8,14 +8,32 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2019/02/25までの目標
+# 2019/03/03までの目標
 
 - keep-me-contributing:
     - KotlinJSとAndroid版両方で使えるようにライブラリーの分割
     - KotlinJS版GitHub Clientの実装
     - 実機でなぜかAndroid OS起動時にチェックが動作しない問題を修正
 
-# 2019/02/23までの目標
+# 2019/02/25
+
+- keep-me-contributing:
+    - 2019/02/25:
+        - 実機でなぜかAndroid OS起動時にチェックが動作しない問題について調査。これといったログもないし、よくわからん。自分で`BootReceiver`を追加して適当にワークアラウンドしよう。
+- [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
+- 中国語
+
+# 2019/02/24
+
+- keep-me-contributing:
+    - タイムゾーン絡みのバグを修正。
+    - kotlin-dce-js を使ってKotlinJSのランタイムなどを小さくする設定を追加。
+- Haskell-jp:
+    - SlackArchive廃止に対応するために発言をバックアップするソフト作り: HTMLファイルとして書き出す処理のテストと、書き出す処理が大体完成。あとタイムゾーン関連の設定を追加した。
+- [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
+- 中国語
+
+# 2019/02/24までの目標
 
 - keep-me-contributing:
     - 内部のModelのテストを作成
