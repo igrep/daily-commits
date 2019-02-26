@@ -15,11 +15,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - KotlinJS版GitHub Clientの実装
     - 実機でなぜかAndroid OS起動時にチェックが動作しない問題を修正
 
-# 2019/02/25
+# 2019/02/25 - 2019/02/26
 
 - keep-me-contributing:
-    - 2019/02/25:
-        - 実機でなぜかAndroid OS起動時にチェックが動作しない問題について調査。これといったログもないし、よくわからん。自分で`BootReceiver`を追加して適当にワークアラウンドしよう。
+    - 2019/02/25: Android OS起動時にチェックが動作しない問題について調査。これといったログもないし、よくわからん。自分で`BootReceiver`を追加して適当にワークアラウンドしよう。
+    - 2019/02/26: Android OS起動時にチェックが動作しない問題を修正。普通に`BootReceiver`を追加して対応した。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 中国語
 
