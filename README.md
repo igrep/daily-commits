@@ -14,13 +14,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - KotlinJSとAndroid版両方で使えるようにライブラリーの分割
     - KotlinJS版GitHub Clientの実装
     - 実機でなぜかAndroid OS起動時にチェックが動作しない問題を修正
+        - 結果: 達成
 
-# 2019/02/25 - 2019/02/27
+# 2019/02/25 - 2019/02/28
 
 - keep-me-contributing:
     - 2019/02/25: Android OS起動時にチェックが動作しない問題について調査。これといったログもないし、よくわからん。自分で`BootReceiver`を追加して適当にワークアラウンドしよう。
     - 2019/02/26: Android OS起動時にチェックが動作しない問題を修正。普通に`BootReceiver`を追加して対応した。
     - 2019/02/27: Android版とブラウザー版で共有するライブラリーを切り出し、Android版で動作できる状態にした。
+    - 2019/02/28: ブラウザー版GitHubクライアント作成開始。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 中国語
 
