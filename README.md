@@ -14,7 +14,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - KotlinJSとAndroid版両方で使えるようにライブラリーの分割
     - KotlinJS版GitHub Clientの実装
     - 実機でなぜかAndroid OS起動時にチェックが動作しない問題を修正
-        - 結果: 達成
+        - 結果: 達成
+
+# 2019/03/02
+
+- Haskell-jp:
+    - 2019/03/02: SlackArchive廃止に対応するために発言をバックアップするソフト作り:
+        - HTMLファイルとして書き出す処理のコアが完成。
+        - 既存のJSONファイルをHTMLとして書き出すバッチを途中まで実装。設定ファイルを共有する必要があることに気づいたのをきっかけに、またQuickCheckでオーバーエンジニアリングしてしまって時間を浪費。
+- [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
+- 中国語
 
 # 2019/02/25 - 2019/03/01
 
@@ -52,7 +61,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - タイムゾーン絡みのバグを修正。
         - kotlin-dce-js を使ってKotlinJSのランタイムなどを小さくする設定を追加。
 - Haskell-jp:
-    - SlackArchive廃止に対応するために発言をバックアップするソフト作り: HTMLファイルとして書き出す処理のテストと、書き出す処理が大体完成。あとタイムゾーン関連の設定を追加した。
+    - SlackArchive廃止に対応するために発言をバックアップするソフト作り: HTMLファイルとして書き出す処理のコアのテストと、書き出す処理のコアが大体完成。あとタイムゾーン関連の設定を追加した。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 中国語
 
