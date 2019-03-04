@@ -8,15 +8,18 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2019/03/03までの目標
+# 2019/03/10までの目標
 
 - keep-me-contributing:
-    - KotlinJSとAndroid版両方で使えるようにライブラリーの分割
-        - 結果: 達成
     - KotlinJS版GitHub Clientの実装
-        - 結果: 未達
-    - 実機でなぜかAndroid OS起動時にチェックが動作しない問題を修正
-        - 結果: 達成
+    - KotlinJS版のその他の処理を実装
+
+# 2019/03/04
+
+- keep-me-contributing:
+    - 2019/03/04: GitHub Clientを途中まで実装してみたが、共通ライブラリーに依存した途端、KotlinJSでのビルド時に`Exception`などのクラスがないというエラーに。
+- [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
+- 中国語
 
 # 2019/03/03までの目標
 
