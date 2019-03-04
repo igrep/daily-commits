@@ -12,16 +12,31 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - keep-me-contributing:
     - KotlinJSとAndroid版両方で使えるようにライブラリーの分割
+        - 結果: 達成
     - KotlinJS版GitHub Clientの実装
+        - 結果: 未達
     - 実機でなぜかAndroid OS起動時にチェックが動作しない問題を修正
         - 結果: 達成
 
-# 2019/03/02
+# 2019/03/03までの目標
+
+- keep-me-contributing:
+    - KotlinJSとAndroid版両方で使えるようにライブラリーの分割
+        - 結果: 達成
+    - KotlinJS版GitHub Clientの実装
+        - 結果: 未達
+    - 実機でなぜかAndroid OS起動時にチェックが動作しない問題を修正
+        - 結果: 達成
+
+# 2019/03/02 - 2019/03/03
 
 - Haskell-jp:
     - 2019/03/02: SlackArchive廃止に対応するために発言をバックアップするソフト作り:
         - HTMLファイルとして書き出す処理のコアが完成。
         - 既存のJSONファイルをHTMLとして書き出すバッチを途中まで実装。設定ファイルを共有する必要があることに気づいたのをきっかけに、またQuickCheckでオーバーエンジニアリングしてしまって時間を浪費。
+    - 2019/03/03: SlackArchive廃止に対応するために発言をバックアップするソフト作り:
+        - 既存のJSONファイルをHTMLとして書き出すバッチを実装。
+        - その後、よく考えたらチャンネルの一覧を書き出す（index.htmlを作成する）処理ができていなかったので実装開始。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 中国語
 
