@@ -14,10 +14,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - KotlinJS版GitHub Clientの実装
     - KotlinJS版のその他の処理を実装
 
-# 2019/03/04
+# 2019/03/04 - 2019/03/05
 
 - keep-me-contributing:
     - 2019/03/04: GitHub Clientを途中まで実装してみたが、共通ライブラリーに依存した途端、KotlinJSでのビルド時に`Exception`などのクラスがないというエラーに。
+    - 2019/03/05:
+        - 昨日のエラーは、共通ライブラリーのJSターゲットに対してbuild.gradleにKotlinの標準ライブラリーを書いてないからだった。あさり解決。
+        - その後、KotlinJS版GitHub Clientを途中まで実装。あとはレスポンスをパースするところ。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 中国語
 
