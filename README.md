@@ -14,6 +14,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - KotlinJS版GitHub Clientの実装
     - KotlinJS版のその他の処理を実装
 
+# 2019/03/06
+
+- Haskell-jp:
+    - 2019/03/06: SlackArchive廃止に対応するために発言をバックアップするソフト作り:
+        - index.htmlを生成する処理をちょっと進めた。
+- [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
+- 詳説 正規表現 第3版
+- 中国語
+
 # 2019/03/04 - 2019/03/05
 
 - keep-me-contributing:
@@ -22,6 +31,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 昨日のエラーは、共通ライブラリーのJSターゲットに対してbuild.gradleにKotlinの標準ライブラリーを書いてないからだった。あさり解決。
         - その後、KotlinJS版GitHub Clientを途中まで実装。あとはレスポンスをパースするところ。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
+- 詳説 正規表現 第3版
 - 中国語
 
 # 2019/03/03までの目標
@@ -44,6 +54,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 既存のJSONファイルをHTMLとして書き出すバッチを実装。
         - その後、よく考えたらチャンネルの一覧を書き出す（index.htmlを作成する）処理ができていなかったので実装開始。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
+- 詳説 正規表現 第3版
 - 中国語
 
 # 2019/02/25 - 2019/03/01
