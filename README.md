@@ -14,14 +14,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - KotlinJS版GitHub Clientの実装
     - KotlinJS版のその他の処理を実装
 
-# 2019/03/06
+# 2019/03/06 - 2019/03/07
 
 - Haskell-jp:
-    - 2019/03/06: SlackArchive廃止に対応するために発言をバックアップするソフト作り:
-        - index.htmlを生成する処理をちょっと進めた。
+    - 2019/03/06 - 2019/03/07: SlackArchive廃止に対応するために発言をバックアップするソフト作り:
+        - 2019/03/06 - 2019/03/07: index.htmlを生成する処理をちょっと進めた。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 詳説 正規表現 第3版
-- 中国語
 
 # 2019/03/04 - 2019/03/05
 
