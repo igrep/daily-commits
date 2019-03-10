@@ -8,12 +8,26 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2019/03/17までの目標
+
+- keep-me-contributing:
+    - KotlinJS版のその他の処理を実装
+        - 結果: 未達
+
 # 2019/03/10までの目標
 
 - keep-me-contributing:
     - KotlinJS版GitHub Clientの実装
         - 結果: 達成
     - KotlinJS版のその他の処理を実装
+        - 結果: 未達
+
+# 2019/03/10
+
+- タイプセーフプリキュア！: スター☆トゥインクルプリキュアのキャラ追加。後は浄化技の台詞を確認するだけ。
+- [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
+- 詳説 正規表現 第3版
+- ドイツ語
 
 # 2019/03/09
 
