@@ -12,7 +12,17 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - keep-me-contributing:
     - KotlinJS版GitHub Clientの実装
+        - 結果: 達成
     - KotlinJS版のその他の処理を実装
+
+# 2019/03/09
+
+- keep-me-contributing:
+    - 2019/03/09:
+        - GitHub Client JS版とりあえず完成。
+- [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
+- 詳説 正規表現 第3版
+- ドイツ語
 
 # 2019/03/06 - 2019/03/08
 
