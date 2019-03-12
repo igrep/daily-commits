@@ -22,11 +22,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - KotlinJS版のその他の処理を実装
         - 結果: 未達
 
-# 2019/03/10 - 2019/03/11
+# 2019/03/10 - 2019/03/12
 
 - タイプセーフプリキュア！:
     - 2019/03/10: スター☆トゥインクルプリキュアのキャラ追加。後は浄化技の台詞を確認するだけ。
     - 2019/03/11: 浄化技の台詞を追加して、全体を確認・修正。
+    - 2019/03/12: `nonItemPurifications`をcure-index.jsonに載せるのを忘れていたので修正して、リリース。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 詳説 正規表現 第3版
 - ドイツ語
