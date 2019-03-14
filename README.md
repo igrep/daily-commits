@@ -14,13 +14,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - KotlinJS版のその他の処理を実装
         - 結果: 未達
 
-# 2019/03/13
+# 2019/03/13 - 2019/03/14
 
 - keep-me-contributing:
     - 2019/03/13:
         - JS版の主要な部分が完成。残りは以下の3つの機能を実装すれば完成のはず。
             - チェック結果に応じて見た目が変わるfavicon
             - チェック結果に応じて見た目が変わるヘッダー
+    - 2019/03/14:
+        - チェック結果に応じて見た目が変わるfaviconまで実装するも、一部うまく動かない。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 詳説 正規表現 第3版
 - ドイツ語
