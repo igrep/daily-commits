@@ -12,9 +12,9 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - keep-me-contributing:
     - KotlinJS版のその他の処理を実装
-        - 結果: 未達
+        - 結果: 達成
 
-# 2019/03/13 - 2019/03/14
+# 2019/03/13 - 2019/03/15
 
 - keep-me-contributing:
     - 2019/03/13:
@@ -23,6 +23,8 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
             - チェック結果に応じて見た目が変わるヘッダー
     - 2019/03/14:
         - チェック結果に応じて見た目が変わるfaviconまで実装するも、一部うまく動かない。
+    - 2019/03/15:
+        - いろいろバグを見つけたので直したり、残りの機能を一通り実装したりした。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 詳説 正規表現 第3版
 - ドイツ語
