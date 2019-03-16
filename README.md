@@ -14,6 +14,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - KotlinJS版のその他の処理を実装
         - 結果: 達成
 
+# 2019/03/16
+
+- igreque.infoの移行
+    - GitLab Pagesの仕様を調査
+
+
 # 2019/03/13 - 2019/03/15
 
 - keep-me-contributing:
