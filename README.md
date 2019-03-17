@@ -8,11 +8,27 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2019/03/24までの目標
+
+- igreque.infoの移行:
+    - lovely-communeの移行を完了
+    - igreque.infoの移行を完了
+    - DNS設定の書き換え・lovely-communeのURLの移行を通知
+    - VPSの廃止
+
 # 2019/03/17までの目標
 
 - keep-me-contributing:
     - KotlinJS版のその他の処理を実装
         - 結果: 達成
+
+# 2019/03/17
+
+- igreque.infoの移行
+    - 2019/03/17: 試しにlovely-communeをGitLab Pagesに置いてみた。反映までに時間がかかるのが気になるが、あっさりできたっぽい。反映時間が気になるようだったらその時Netlifyを併用する方向で。
+- [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
+- 詳説 正規表現 第3版
+- ドイツ語
 
 # 2019/03/16
 
