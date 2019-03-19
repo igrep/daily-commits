@@ -21,13 +21,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - KotlinJS版のその他の処理を実装
         - 結果: 達成
 
-# 2019/03/17 - 2019/03/18
+# 2019/03/17 - 2019/03/20
 
 - igreque.infoの移行
     - 2019/03/17: 試しにlovely-communeをGitLab Pagesに置いてみた。反映までに時間がかかるのが気になるが、あっさりできたっぽい。反映時間が気になるようだったらその時Netlifyを併用する方向で。
     - 2019/03/19:
         - lovely-communeが参照しているJavaScriptなどのパスがおかしいため表示されなかったのを修正
         - [hakyll向けのテンプレート](https://gitlab.com/pages/hakyll/blob/99a1d7fbb50c28d6eee87544db9779d185bd66b1/.gitlab-ci.yml)を参考に、igreque.infoに.gitlab-ci.ymlを追加してみた。
+    - 2019/03/20:
+        - igreque.infoをGitLab CI上でビルドできるよう修正中。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 詳説 正規表現 第3版
 - ドイツ語
