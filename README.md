@@ -12,8 +12,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - igreque.infoの移行:
     - lovely-communeの移行を完了
+        - 結果: 完了
     - igreque.infoの移行を完了
+        - 結果: 完了
     - DNS設定の書き換え・lovely-communeのURLの移行を通知
+- keep-me-contributing:
+    - Netlifyで公開
+        - 結果: 完了
+    - エラー処理を少し改善。せめてエラーの際の通知が出るようにはする。
+    - DNS設定
+    - Qiitaで成果を共有
 
 # 2019/03/17までの目標
 
@@ -21,7 +29,18 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - KotlinJS版のその他の処理を実装
         - 結果: 達成
 
-# 2019/03/17 - 2019/03/20
+# 2019/03/20
+
+- igreque.infoの移行
+    - 2019/03/20:
+        - igreque.infoをGitLab Pagesにデプロイできた。
+- keep-me-contributing:
+    - Netlifyで公開できた。
+- [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
+- 詳説 正規表現 第3版
+- ドイツ語
+
+# 2019/03/17 - 2019/03/19
 
 - igreque.infoの移行
     - 2019/03/17: 試しにlovely-communeをGitLab Pagesに置いてみた。反映までに時間がかかるのが気になるが、あっさりできたっぽい。反映時間が気になるようだったらその時Netlifyを併用する方向で。
