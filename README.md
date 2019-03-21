@@ -20,25 +20,32 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Netlifyで公開
         - 結果: 完了
     - エラー処理を少し改善。せめてエラーの際の通知が出るようにはする。
+        - 結果: 完了
     - DNS設定
+        - 結果: 完了
     - Qiitaで成果を共有
+
+# 2019/03/20 - 2019/03/21
+
+- igreque.infoの移行
+    - 2019/03/20:
+        - igreque.infoをGitLab Pagesにデプロイできた。
+    - 2019/03/21:
+        - DNSの書き換えをし、もろもろ発覚した問題も修正。 <https://the.igreque.info/>
+- keep-me-contributing:
+    - 2019/03/20:
+        - Netlifyで公開できた。
+    - 2019/03/21:
+        - DNSの書き換え完了。公開。<https://keep-me-contributing.igreque.info/>
+- [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
+- 詳説 正規表現 第3版
+- ドイツ語
 
 # 2019/03/17までの目標
 
 - keep-me-contributing:
     - KotlinJS版のその他の処理を実装
         - 結果: 達成
-
-# 2019/03/20
-
-- igreque.infoの移行
-    - 2019/03/20:
-        - igreque.infoをGitLab Pagesにデプロイできた。
-- keep-me-contributing:
-    - Netlifyで公開できた。
-- [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
-- 詳説 正規表現 第3版
-- ドイツ語
 
 # 2019/03/17 - 2019/03/19
 
