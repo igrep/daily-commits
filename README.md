@@ -25,6 +25,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 結果: 完了
     - Qiitaで成果を共有
 
+# 2019/03/22
+
+- keep-me-contributing:
+    - 2019/03/22:
+        - Qiitaの記事の執筆開始。
+- [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
+- 詳説 正規表現 第3版
+- ドイツ語
+
 # 2019/03/20 - 2019/03/21
 
 - igreque.infoの移行
