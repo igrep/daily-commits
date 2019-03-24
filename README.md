@@ -8,6 +8,12 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2019/03/31までの目標
+
+- asterius試す:
+    - tweag.ioが作ったサンプルを、スマホとWindowsのブラウザで試す。
+
+
 # 2019/03/24までの目標
 
 - igreque.infoの移行:
@@ -24,12 +30,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - DNS設定
         - 結果: 完了
     - Qiitaで成果を共有
+        - 結果: 完了
 
-# 2019/03/22 - 2019/03/23
+# 2019/03/22 - 2019/03/24
 
 - keep-me-contributing:
-    - 2019/03/22 - 2019/03/23:
-        - Qiitaの記事の執筆。
+    - 2019/03/22 - 2019/03/24:
+        - Qiitaの記事の執筆。書けた: <https://qiita.com/igrep/items/253f8b4f91ef8a252030>。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 詳説 正規表現 第3版
 - ドイツ語
