@@ -13,6 +13,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - asterius試す:
     - tweag.ioが作ったサンプルを、スマホとWindowsのブラウザで試す。
 
+# 2019/03/25
+
+- asterius試す:
+    - 仮想マシンのセットアップ。同期の設定までできた。
+- [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
+- 詳説 正規表現 第3版
+- ドイツ語
+
 
 # 2019/03/24までの目標
 
@@ -32,11 +40,22 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Qiitaで成果を共有
         - 結果: 完了
 
-# 2019/03/22 - 2019/03/24
+# 2019/03/24
 
 - keep-me-contributing:
-    - 2019/03/22 - 2019/03/24:
-        - Qiitaの記事の執筆。書けた: <https://qiita.com/igrep/items/253f8b4f91ef8a252030>。
+    - 2019/03/24:
+        - Qiitaの記事書けた: <https://qiita.com/igrep/items/253f8b4f91ef8a252030>。
+- asterius試す:
+    - 仮想マシンのセットアップ
+- [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
+- 詳説 正規表現 第3版
+- ドイツ語
+
+# 2019/03/22 - 2019/03/23
+
+- keep-me-contributing:
+    - 2019/03/22 - 2019/03/23:
+        - Qiitaの記事の執筆。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 詳説 正規表現 第3版
 - ドイツ語
