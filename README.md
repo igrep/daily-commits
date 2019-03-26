@@ -13,10 +13,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - asterius試す:
     - tweag.ioが作ったサンプルを、スマホとWindowsのブラウザで試す。
 
-# 2019/03/25
+# 2019/03/25 - 2019/03/26
 
 - asterius試す:
-    - 仮想マシンのセットアップ。同期の設定までできた。
+    - 2019/03/25: 仮想マシンのセットアップ。同期の設定までできた。
+    - 2019/03/26: TodoMVCとjsffiのサンプルを動かしてみた。TodoMVCの方は残念ながら非常に不安定だったがjsffiの方はスマホでも動いた。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 詳説 正規表現 第3版
 - ドイツ語
