@@ -15,7 +15,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 結果: 達成
     - igrep-cashbookからtemplate-haskellの依存をなくす
 
-# 2019/03/25 - 2019/03/29
+# 2019/03/25 - 2019/03/30
 
 - asterius試す:
     - 2019/03/25: 仮想マシンのセットアップ。同期の設定までできた。
@@ -23,6 +23,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2019/03/27: igrep-cashbookをGHC 8.6.4でも動くよう修正したり、ahc-cabalのみでビルドできるようhpackから新しいcabalに移植したり。
     - 2019/03/28: igrep-cashbookがmonoidal-containersに依存してる関係で、asteriusでビルドできない => 自前で必要な箇所だけ実装しよう => その前に依存してる箇所のテストを書こう => ついでにテストに必要なライブラリーを書くか、という、恐ろしいyak shavingに陥る。
     - 2019/03/29: 昨日書いたテスト用ライブラリーをリリース。その後すぐにもっとシンプルな実装にできることに気づいた...。 <http://hackage.haskell.org/package/fakefs>
+    - 2019/03/30: テスト用ライブラリーでテストを書いて、template-haskellの依存を取り除けたが、依存パッケージのビルドでasteriusのバグを踏んでしまった模様。ビルドできない。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 詳説 正規表現 第3版
 - ドイツ語
