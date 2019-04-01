@@ -8,14 +8,21 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2019/04/07までの目標
+
+- asteriusでigrep-cashbookを動かす:
+    - primitiveパッケージのビルド
+    - <https://github.com/tweag/asterius/issues/98>の回避方法を探す。
+
 # 2019/03/31までの目標
 
 - asteriusでigrep-cashbookを動かす:
     - tweag.ioが作ったサンプルを、スマホとWindowsのブラウザで試す。
         - 結果: 達成
     - igrep-cashbookからtemplate-haskellの依存をなくす
+        - 結果: 達成
 
-# 2019/03/25 - 2019/03/30
+# 2019/03/25 - 2019/03/31
 
 - asterius試す:
     - 2019/03/25: 仮想マシンのセットアップ。同期の設定までできた。
@@ -24,6 +31,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2019/03/28: igrep-cashbookがmonoidal-containersに依存してる関係で、asteriusでビルドできない => 自前で必要な箇所だけ実装しよう => その前に依存してる箇所のテストを書こう => ついでにテストに必要なライブラリーを書くか、という、恐ろしいyak shavingに陥る。
     - 2019/03/29: 昨日書いたテスト用ライブラリーをリリース。その後すぐにもっとシンプルな実装にできることに気づいた...。 <http://hackage.haskell.org/package/fakefs>
     - 2019/03/30: テスト用ライブラリーでテストを書いて、template-haskellの依存を取り除けたが、依存パッケージのビルドでasteriusのバグを踏んでしまった模様。ビルドできない。
+    - 2019/03/31: asteriusにバグレポート。 <https://github.com/tweag/asterius/issues/98> どうやらasterius自体のバグと言うより、cabalがなぜか意図しないコマンドラインオプションで実行されていることに問題らしい。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 詳説 正規表現 第3版
 - ドイツ語
