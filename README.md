@@ -22,9 +22,9 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - igrep-cashbookからtemplate-haskellの依存をなくす
         - 結果: 達成
 
-# 2019/03/25 - 2019/03/31
+# 2019/03/25 - 2019/04/01
 
-- asterius試す:
+- asteriusでigrep-cashbookを動かす:
     - 2019/03/25: 仮想マシンのセットアップ。同期の設定までできた。
     - 2019/03/26: TodoMVCとjsffiのサンプルを動かしてみた。TodoMVCの方は残念ながら非常に不安定だったがjsffiの方はスマホでも動いた。
     - 2019/03/27: igrep-cashbookをGHC 8.6.4でも動くよう修正したり、ahc-cabalのみでビルドできるようhpackから新しいcabalに移植したり。
@@ -32,6 +32,8 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2019/03/29: 昨日書いたテスト用ライブラリーをリリース。その後すぐにもっとシンプルな実装にできることに気づいた...。 <http://hackage.haskell.org/package/fakefs>
     - 2019/03/30: テスト用ライブラリーでテストを書いて、template-haskellの依存を取り除けたが、依存パッケージのビルドでasteriusのバグを踏んでしまった模様。ビルドできない。
     - 2019/03/31: asteriusにバグレポート。 <https://github.com/tweag/asterius/issues/98> どうやらasterius自体のバグと言うより、cabalがなぜか意図しないコマンドラインオプションで実行されていることに問題らしい。
+    - 2019/04/01:
+        - [関係がありそうなcabalのissueを見つけた](https://github.com/haskell/cabal/issues/4651)ので、軽く調査。`Cabal/Distribution/Simple/Configure.hs`というファイルをいじることになると思われる。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 詳説 正規表現 第3版
 - ドイツ語
