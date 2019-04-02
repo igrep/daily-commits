@@ -22,7 +22,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - igrep-cashbookからtemplate-haskellの依存をなくす
         - 結果: 達成
 
-# 2019/03/25 - 2019/04/01
+# 2019/03/25 - 2019/04/03
 
 - asteriusでigrep-cashbookを動かす:
     - 2019/03/25: 仮想マシンのセットアップ。同期の設定までできた。
@@ -34,6 +34,10 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2019/03/31: asteriusにバグレポート。 <https://github.com/tweag/asterius/issues/98> どうやらasterius自体のバグと言うより、cabalがなぜか意図しないコマンドラインオプションで実行されていることに問題らしい。
     - 2019/04/01:
         - [関係がありそうなcabalのissueを見つけた](https://github.com/haskell/cabal/issues/4651)ので、軽く調査。`Cabal/Distribution/Simple/Configure.hs`というファイルをいじることになると思われる。
+    - 2019/04/02:
+        - terrorjackさんに確認したところ、昨日見つけたissueがやっぱり根本的な原因となっているみたいなので、cabalを直す方法を調べることに。
+    - 2019/04/03:
+        - cabalを直さずとも、cabalがGHCに`--info`オプションを渡すことでチェックしている情報から、dynamic libraryを使わないように設定できるらしいことに気づいた。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 詳説 正規表現 第3版
 - ドイツ語
