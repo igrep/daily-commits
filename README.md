@@ -8,10 +8,17 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2019/04/08までの目標
+
+- asteriusでigrep-cashbookを動かす:
+    - igrep-cashbookのビルド
+    - デモ用のクライアントの作成
+
 # 2019/04/07までの目標
 
 - asteriusでigrep-cashbookを動かす:
     - igrep-cashbookのビルド
+        - 結果: 未達。惜しくも最後はasteriusのバグに阻まれた...
     - <https://github.com/tweag/asterius/issues/98>の回避方法を探す。
         - 結果: 達成
 
@@ -33,20 +40,20 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2019/03/29: 昨日書いたテスト用ライブラリーをリリース。その後すぐにもっとシンプルな実装にできることに気づいた...。 <http://hackage.haskell.org/package/fakefs>
     - 2019/03/30: テスト用ライブラリーでテストを書いて、template-haskellの依存を取り除けたが、依存パッケージのビルドでasteriusのバグを踏んでしまった模様。ビルドできない。
     - 2019/03/31: asteriusにバグレポート。 <https://github.com/tweag/asterius/issues/98> どうやらasterius自体のバグと言うより、cabalがなぜか意図しないコマンドラインオプションで実行されていることに問題らしい。
-    - 2019/04/01:
+    - 2019/03/31:
         - [関係がありそうなcabalのissueを見つけた](https://github.com/haskell/cabal/issues/4651)ので、軽く調査。`Cabal/Distribution/Simple/Configure.hs`というファイルをいじることになると思われる。
-    - 2019/04/02:
+    - 2019/04/01:
         - terrorjackさんに確認したところ、昨日見つけたissueがやっぱり根本的な原因となっているみたいなので、cabalを直す方法を調べることに。
-    - 2019/04/03:
+    - 2019/04/02:
         - cabalを直さずとも、cabalがGHCに`--info`オプションを渡すことでチェックしている情報から、dynamic libraryを使わないように設定できるらしいことに気づいた。
-    - 2019/04/04:
+    - 2019/04/03:
         - 昨日気づいたとおり`--info`オプションが出す情報を書き換えてもらうことで、問題を解決。
-    - 2019/04/05:
+    - 2019/04/04:
         - textパッケージからIO関係のmoduleを消すことで、ビルドできない問題を回避
-    - 2019/04/06:
+    - 2019/04/05:
         - ようやくahc-cabalでigrep-cashbookのライブラリーの部分がビルドできた。
-    - 2019/04/07:
-        - asteriusのドキュメントを読みつつ、igrep-cashbookの関数をJavaScriptから呼べるように修正中
+    - 2019/04/06- 2019/04/07:
+        - asteriusのドキュメントを読みつつ、igrep-cashbookの関数をJavaScriptから呼べるように修正。[新たなasteriusのバグ](https://github.com/tweag/asterius/issues/102)を踏んでしまい、あと一歩のところでビルドできず（もちろんまだバグはあるかもだけど...）
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 詳説 正規表現 第3版
 - ドイツ語
