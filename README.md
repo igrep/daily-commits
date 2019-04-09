@@ -30,7 +30,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - igrep-cashbookからtemplate-haskellの依存をなくす
         - 結果: 達成
 
-# 2019/03/25 - 2019/04/08
+# 2019/03/25 - 2019/04/09
 
 - asteriusでigrep-cashbookを動かす:
     - 2019/03/25: 仮想マシンのセットアップ。同期の設定までできた。
@@ -56,6 +56,8 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - asteriusのドキュメントを読みつつ、igrep-cashbookの関数をJavaScriptから呼べるように修正。[新たなasteriusのバグ](https://github.com/tweag/asterius/issues/102)を踏んでしまい、あと一歩のところでビルドできず（もちろんまだバグはあるかもだけど...）
     - 2019/04/08:
         - asteriusの修正に取りかかるも、ビルドが結構面倒くさそうだ。Dockerfileの修正からやることにした。
+    - 2019/04/09:
+        - asteriusの修正完了。Pull requestも送った: <https://github.com/tweag/asterius/pull/104>。Dockerfileの修正も送ろうかはひとまず保留で。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 詳説 正規表現 第3版
 - ドイツ語
