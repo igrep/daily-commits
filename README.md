@@ -8,10 +8,11 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2019/04/08までの目標
+# 2019/04/14までの目標
 
 - asteriusでigrep-cashbookを動かす:
     - igrep-cashbookのビルド
+        - 結果: 達成。
     - デモ用のクライアントの作成
 
 # 2019/04/07までの目標
@@ -30,7 +31,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - igrep-cashbookからtemplate-haskellの依存をなくす
         - 結果: 達成
 
-# 2019/03/25 - 2019/04/09
+# 2019/03/25 - 2019/04/10
 
 - asteriusでigrep-cashbookを動かす:
     - 2019/03/25: 仮想マシンのセットアップ。同期の設定までできた。
@@ -57,7 +58,9 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2019/04/08:
         - asteriusの修正に取りかかるも、ビルドが結構面倒くさそうだ。Dockerfileの修正からやることにした。
     - 2019/04/09:
-        - asteriusの修正完了。Pull requestも送った: <https://github.com/tweag/asterius/pull/104>。Dockerfileの修正も送ろうかはひとまず保留で。
+        - asteriusの修正完了。Pull requestも送った: <https://github.com/tweag/asterius/pull/104>。Dockerfileの修正も送るかはひとまず保留で。
+    - 2019/04/10:
+        - 生成できたWebAssembly moduleを実行してみたところ、ランタイムエラーが。うち一つは恐らくasteriusのバグで、もう一つは私がWebAssemblyの使い方を勘違いしていたことに寄るものから。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 詳説 正規表現 第3版
 - ドイツ語
