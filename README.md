@@ -31,7 +31,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - igrep-cashbookからtemplate-haskellの依存をなくす
         - 結果: 達成
 
-# 2019/03/25 - 2019/04/11
+# 2019/03/25 - 2019/04/12
 
 - asteriusでigrep-cashbookを動かす:
     - 2019/03/25: 仮想マシンのセットアップ。同期の設定までできた。
@@ -63,6 +63,8 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 生成できたWebAssembly moduleを実行してみたところ、ランタイムエラーが。うち一つは恐らくasteriusのバグで、もう一つは私がWebAssemblyの使い方を勘違いしていたことに寄るものから。
     - 2019/04/11:
         - [質問してみた](https://github.com/tweag/asterius/issues/105)ところ、やっぱり使い方が間違ってるっぽい。
+    - 2019/04/12:
+        - 言われたとおりに直してみたら確かに動いた。しかし、文字列に対する関数をidから別のものに書き換えてみても、結果が変わらないというバグに気づいてしまった。
 - [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
 - 詳説 正規表現 第3版
 - ドイツ語
