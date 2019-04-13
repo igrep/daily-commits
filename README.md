@@ -15,6 +15,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 結果: 達成。
     - デモ用のクライアントの作成
 
+# 2019/04/13
+
+- [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
+- 詳説 正規表現 第3版: 読了。
+- ドイツ語
+
 # 2019/04/07までの目標
 
 - asteriusでigrep-cashbookを動かす:
