@@ -8,17 +8,32 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2019/04/21までの目標
+
+- asteriusでigrep-cashbookを動かす:
+    - 発表資料の作成・発表。
+    - Haskell-jp Blogにレポート記事を書く。
+
 # 2019/04/14までの目標
 
 - asteriusでigrep-cashbookを動かす:
     - igrep-cashbookのビルド
         - 結果: 達成。
     - デモ用のクライアントの作成
+        - 結果: 未達。やっぱりasteriusのバグに阻まれたね...。
+
+# 2019/04/14
+
+- asteriusでigrep-cashbookを動かす:
+    - 発表資料に備え、asteriusのソースを読んでる。
+- [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
+- 詳説 正規表現 第3版: 読了。
+- ドイツ語
 
 # 2019/04/13
 
-- [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/)
-- 詳説 正規表現 第3版: 読了。
+- [Pharo by Example 50](https://books.pharo.org/updated-pharo-by-example/): 読了。
+- 詳説 正規表現 第3版
 - ドイツ語
 
 # 2019/04/07までの目標
