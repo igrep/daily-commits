@@ -22,11 +22,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - デモ用のクライアントの作成
         - 結果: 未達。やっぱりasteriusのバグに阻まれたね...。
 
-# 2019/04/14 - 2019/04/15
+# 2019/04/14 - 2019/04/16
 
 - asteriusでigrep-cashbookを動かす:
     - 2019/04/14: 発表資料に備え、asteriusのソースを読んでる。
     - 2019/04/15: 発表資料作り始め。
+    - 2019/04/16: asteriusがHaskellのソースをどうやってWASMに変換しているかの流れを調べた。
 - [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
 - 詳説 正規表現 第3版: 読了。
 - ドイツ語
