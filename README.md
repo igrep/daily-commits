@@ -14,6 +14,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 発表資料の作成・発表。
     - Haskell-jp Blogにレポート記事を書く。
 
+# 2019/04/20
+
+- [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
+- 詳説 正規表現 第3版: 読了。
+- ドイツ語
+
 # 2019/04/14までの目標
 
 - asteriusでigrep-cashbookを動かす:
