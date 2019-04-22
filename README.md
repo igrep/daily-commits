@@ -16,6 +16,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Haskell Day 2019:
         - テーマ案をまとめて、アンケートを作るところまで。
 
+# 2019/04/22
+
+- asteriusでigrep-cashbookを動かす:
+    - ブログ記事執筆開始
+- [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
+- 詳説 正規表現 第3版
+- ドイツ語
+
 # 2019/04/21までの目標
 
 - asteriusでigrep-cashbookを動かす:
@@ -29,13 +37,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell-jp:
     - SlackArchive廃止に対応するために発言をバックアップするソフト作り: index.htmlを作成する処理続き。
 - [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
-- 詳説 正規表現 第3版: 読了。
+- 詳説 正規表現 第3版
 - ドイツ語
 
 # 2019/04/20
 
 - [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
-- 詳説 正規表現 第3版: 読了。
+- 詳説 正規表現 第3版
 - ドイツ語
 
 # 2019/04/14までの目標
@@ -56,7 +64,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2019/04/18: スライド完成。Shao Chengにfeedbackを求めたところ、めちゃくちゃ早く、しかも結構たくさん帰ってきた。早く直そう。
     - 2019/04/19: Shao Chengの指摘に従い修正し、発表。結構緊張してしまって早口になってしまったものの、どうにかしゃべれた。いつも来るような質問も懇親会の際になかったので、そのへんはちょっと寂しい。
 - [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
-- 詳説 正規表現 第3版: 読了。
+- 詳説 正規表現 第3版
 - ドイツ語
 
 # 2019/04/13
