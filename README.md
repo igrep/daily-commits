@@ -16,10 +16,10 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Haskell Day 2019:
         - テーマ案をまとめて、アンケートを作るところまで。
 
-# 2019/04/22
+# 2019/04/22 - 2019/04/23
 
 - asteriusでigrep-cashbookを動かす:
-    - ブログ記事執筆開始
+    - ブログ記事執筆
 - [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
 - 詳説 正規表現 第3版
 - ドイツ語
