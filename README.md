@@ -16,7 +16,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Haskell Day 2019:
         - テーマ案をまとめて、アンケートを作るところまで。
 
-# 2019/04/22 - 2019/04/23
+# 2019/04/22 - 2019/04/24
 
 - asteriusでigrep-cashbookを動かす:
     - ブログ記事執筆
