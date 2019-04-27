@@ -14,7 +14,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Haskell-jp Blogにレポート記事を書く。
 - Haskell-jp:
     - Haskell Day 2019:
-        - テーマ案をまとめて、アンケートを作るところまで。
+        - テーマ案をまとめて、アンケートを公開するところまで。
+
+# 2019/04/27
+
+- Haskell-jp:
+    - Haskell Day 2019:
+        - テーマ案をまとめて、アンケートを作成。
+- [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
+- 詳説 正規表現 第3版
+- ドイツ語
 
 # 2019/04/22 - 2019/04/26
 
