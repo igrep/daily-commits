@@ -8,6 +8,17 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2019/05/05までの目標
+
+- GHC 8.8を試す:
+    - Haskell-jp Blogにレポート記事を書く。
+- asteriusでigrep-cashbookを動かす:
+    - Haskell-jp Blogにレポート記事を書く。
+- Haskell入門コンテンツ:
+    - レポート機能追加
+- タイプセーフプリキュア！:
+    - スター☆トゥインクルプリキュアの新しい技を収録・公開
+
 # 2019/04/28までの目標
 
 - asteriusでigrep-cashbookを動かす:
@@ -16,11 +27,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Haskell Day 2019:
         - テーマ案をまとめて、アンケートを公開するところまで。
 
-# 2019/04/27
+# 2019/04/27 - 2019/04/28
 
 - Haskell-jp:
     - Haskell Day 2019:
-        - テーマ案をまとめて、アンケートを作成。
+        - 2019/04/27: テーマ案をまとめて、アンケートを作成。
+        - 2019/04/28: アンケート公開
 - [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
 - 詳説 正規表現 第3版
 - ドイツ語
