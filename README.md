@@ -19,6 +19,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - タイプセーフプリキュア！:
     - スター☆トゥインクルプリキュアの新しい技を収録・公開
 
+# 2019/04/29
+
+- GHC 8.8を試す:
+    - drect-hsのビルドには至らずも、いくつかの依存パッケージをGHC 8.8向けに直してPull requestを送ることができた。
+- [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
+- 詳説 正規表現 第3版
+- ドイツ語
+
 # 2019/04/28までの目標
 
 - asteriusでigrep-cashbookを動かす:
