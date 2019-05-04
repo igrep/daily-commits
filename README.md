@@ -19,6 +19,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - タイプセーフプリキュア！:
     - スター☆トゥインクルプリキュアの新しい技を収録・公開
 
+# 2019/05/04
+
+- asteriusでigrep-cashbookを動かす:
+    - 2019/05/04: 記事公開: <https://mobile.twitter.com/igrep/status/680330022666649600>
+- [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
+- 詳説 正規表現 第3版
+- ドイツ語
+
 # 2019/05/02 - 2019/05/03
 
 - asteriusでigrep-cashbookを動かす:
