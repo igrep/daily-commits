@@ -19,10 +19,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - タイプセーフプリキュア！:
     - スター☆トゥインクルプリキュアの新しい技を収録・公開
 
-# 2019/05/02
+# 2019/05/02 - 2019/05/03
 
 - asteriusでigrep-cashbookを動かす:
-    - Haskell-jp Blogにレポート記事執筆続き。
+    - 2019/05/02: Haskell-jp Blogにレポート記事執筆続き。
+    - 2019/05/03: Haskell-jp Blogにレポート記事執筆完了。Pull request送信: <https://github.com/haskell-jp/blog/pull/161>
 - [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
 - 詳説 正規表現 第3版
 - ドイツ語
