@@ -14,6 +14,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - レポート機能追加
     - 課題15の整備
 
+# 2019/05/06
+
+- Haskell入門コンテンツ:
+    - レポート機能追加: テストケース続き。
+    - 課題15: 課題内容策定。あとはサンプルコードを貼り付ければとりあえず明日の勉強会では使える。
+    - 課題16: 課題内容の概要だけ書いた。
+- [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
+- 詳説 正規表現 第3版
+- ドイツ語
+
 # 2019/05/05までの目標
 
 - GHC 8.8を試す:
@@ -28,6 +38,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - タイプセーフプリキュア！:
     - スター☆トゥインクルプリキュアの新しい技を収録・公開
         - 結果: 達成
+
+# 2019/05/05
+
+- タイプセーフプリキュア！:
+    - スター☆トゥインクルプリキュアの新しい技を収録・公開
+- Haskell入門コンテンツ:
+    - レポート機能追加: テストケースを書き始めた。
+- [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
+- 詳説 正規表現 第3版
+- ドイツ語
 
 # 2019/05/04
 
