@@ -14,7 +14,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - レポート機能追加
     - 課題15の整備
 
-# 2019/05/06 - 2019/05/09
+# 2019/05/06 - 2019/05/10
 
 - Haskell入門コンテンツ:
     - 2019/05/06:
@@ -22,7 +22,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 課題15: 課題内容策定。あとはサンプルコードを貼り付ければとりあえず明日の勉強会では使える。
         - 課題16: 課題内容の概要だけ書いた。
     - 2019/05/07: レポート機能追加: テストケースができたはず。
-    - 2019/05/08 - 2019/05/09: 型チェックを行うためだけの、GhcEvaluatorの実装。
+    - 2019/05/08 - 2019/05/10: 型チェックを行うためだけの、GhcEvaluatorの実装。
 - [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
 - 詳説 正規表現 第3版
 - ドイツ語
