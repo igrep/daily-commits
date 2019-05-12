@@ -8,11 +8,30 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2019/05/12までの目標
+# 2019/05/19までの目標
 
 - Haskell入門コンテンツ:
     - レポート機能追加
     - 課題15の整備
+    - 課題16の整備
+- Haskell-jp:
+    - イベントページ作成・公開
+
+# 2019/05/12までの目標
+
+- Haskell入門コンテンツ:
+    - レポート機能追加
+        - 結果: 未達
+    - 課題15の整備
+        - 結果: 未達
+
+# 2019/05/12
+
+- Haskell入門コンテンツ:
+    - 2019/05/12: GhcEvaluatorを他の機能と一緒にリファクタリング。ついでに見つかったいろいろ古い箇所をリファクタリング
+- [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
+- 詳説 正規表現 第3版
+- ドイツ語
 
 # 2019/05/11
 
