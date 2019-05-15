@@ -25,12 +25,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題15の整備
         - 結果: 未達
 
-# 2019/05/12 - 2019/05/14
+# 2019/05/12 - 2019/05/15
 
 - Haskell入門コンテンツ:
     - 2019/05/12: GhcEvaluatorを他の機能と一緒にリファクタリング。ついでに見つかったいろいろ古い箇所をリファクタリング
     - 2019/05/13: GhcEvaluatorの実装。
     - 2019/05/14: GitHubのURLを生成する際に必要になりそうな情報のピックアップ。
+    - 2019/05/15: GitHubのURLに挿入するメッセージのテンプレートを作成。
 - [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
 - 詳説 正規表現 第3版
 - ドイツ語
