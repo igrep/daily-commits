@@ -17,6 +17,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell-jp:
     - イベントページ作成・公開
 
+# 2019/05/18
+
+- Haskell-jp:
+    - イベントページ作成。
+
 # 2019/05/17
 
 - Haskell入門コンテンツ:
