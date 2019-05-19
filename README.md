@@ -8,14 +8,36 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2019/05/19までの目標
+# 2019/05/26までの目標
 
 - Haskell入門コンテンツ:
     - レポート機能追加
     - 課題15の整備
     - 課題16の整備
+    - 「次のゴール」に向けたカリキュラム策定
 - Haskell-jp:
     - イベントページ作成・公開
+
+# 2019/05/19までの目標
+
+- Haskell入門コンテンツ:
+    - レポート機能追加
+        - 結果: 未達。こちらはあとちょっと。
+    - 課題15の整備
+        - 結果: 未達
+    - 課題16の整備
+        - 結果: 未達
+- Haskell-jp:
+    - イベントページ作成・公開
+        - 結果: 未達。こちらはあとちょっと。
+
+# 2019/05/19
+
+- Haskell入門コンテンツ:
+    - リファクタリングしてPull requestを送った: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/pull/99>
+    - 動作確認はまだ。
+- [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
+- 詳説 正規表現 第3版
 
 # 2019/05/18
 
