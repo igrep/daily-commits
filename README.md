@@ -31,11 +31,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - イベントページ作成・公開
         - 結果: 未達。こちらはあとちょっと。
 
-# 2019/05/19
+# 2019/05/19 - 2019/05/20
 
 - Haskell入門コンテンツ:
-    - リファクタリングしてPull requestを送った: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/pull/99>
-    - 動作確認はまだ。
+    - 2019/05/19: リファクタリングしてPull requestを送った: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/pull/99>。動作確認はまだ。
+    - 2019/05/20: 動作確認しつつあれこれ改善。
 - [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
 - 詳説 正規表現 第3版
 
