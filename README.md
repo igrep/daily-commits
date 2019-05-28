@@ -32,7 +32,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - イベントページ作成・公開
         - 結果: 達成
 
-# 2019/05/21 - 2019/05/27
+# 2019/05/21 - 2019/05/28
 
 - Haskell入門コンテンツ:
     - 2019/05/21: 課題15をちょっとだけ進めた。
@@ -41,6 +41,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2019/05/24: 課題16の模範解答再作成。
     - 2019/05/25 - 2019/05/26: 課題16の文章作成。サンプルコードは一通りできたのでとりあえず次の勉強会では使えそう。
     - 2019/05/27: 課題16をpushしただけ。
+    - 2019/05/28: 課題17以降のカリキュラム検討。
 - [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
 - 詳説 正規表現 第3版
 - ドイツ語
