@@ -8,14 +8,27 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2019/06/16までの目標
+
+- Haskell入門コンテンツ:
+    - [ヘルプ投稿に対して、間違いを指摘しやすくする #101](https://github.com/haskell-jp/makeMistakesToLearnHaskell/issues/101)
+    - 課題18の整備
+    - 課題19の整備
+- Haskell-jp:
+    - 必要な予算の見通しを立て、スポンサーに連絡
+
 # 2019/06/09までの目標
 
 - Haskell入門コンテンツ:
     - 課題17の整備
+        - 結果: 達成
     - 課題18の整備
+        - 結果: 未達
     - 課題19の整備
+        - 結果: 未達
 - Haskell-jp:
     - 時間割のたたき台を作成
+        - 結果: 達成
 
 # 2019/06/02までの目標
 
@@ -45,7 +58,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - イベントページ作成・公開
         - 結果: 達成
 
-# 2019/05/21 - 2019/06/08
+# 2019/05/21 - 2019/06/09
 
 - Haskell入門コンテンツ:
     - 2019/05/21: 課題15をちょっとだけ進めた。
@@ -63,6 +76,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2019/06/05: 課題18作り始め
     - 2019/06/06 - 2019/06/07: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/issues/101> の実装方法を検討
     - 2019/06/08: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/issues/101>の、サーバー実装を半分以上終えた。
+    - 2019/06/09: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/issues/101>の、サーバー実装とテスト用クライアントを実装し、手元で動作確認ができた。
 - [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
 - 詳説 正規表現 第3版
 - ドイツ語
