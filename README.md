@@ -18,6 +18,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 必要な予算の見通しを立て、スポンサーに連絡
 - VM接続設定の自動化
     - ホストのIPを調べる: `Get-NetIPAddress | where { $_.InterfaceAlias -eq 'vEthernet (Default Switch)' -and $_.AddressFamily -eq 'IPv4' } | foreach { $_.IPAddress }`
+        - やっぱりやめよう。WSL2が出たらそもそも使わなくなりそうだし。
 
 # 2019/06/09までの目標
 
@@ -60,7 +61,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - イベントページ作成・公開
         - 結果: 達成
 
-# 2019/05/21 - 2019/06/10
+# 2019/05/21 - 2019/06/11
 
 - Haskell入門コンテンツ:
     - 2019/05/21: 課題15をちょっとだけ進めた。
@@ -80,6 +81,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2019/06/08: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/issues/101>の、サーバー実装を半分以上終えた。
     - 2019/06/09: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/issues/101>の、サーバー実装とテスト用クライアントを実装し、手元で動作確認ができた。
     - 2019/06/10: デプロイするために必要な諸々のセットアップ。
+    - 2019/06/11: Dockerイメージの作成。
 - [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
 - 詳説 正規表現 第3版
 - ドイツ語
