@@ -61,7 +61,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - イベントページ作成・公開
         - 結果: 達成
 
-# 2019/05/21 - 2019/06/12
+# 2019/05/21 - 2019/06/13
 
 - Haskell入門コンテンツ:
     - 2019/05/21: 課題15をちょっとだけ進めた。
@@ -83,6 +83,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2019/06/10: デプロイするために必要な諸々のセットアップ。
     - 2019/06/11: Dockerイメージの作成。
     - 2019/06/12: Herokuへのデプロイ。ローカルで`docker run`すれば動くけど、Herokuではなぜかうまく動かない。
+    - 2019/06/13: Herokuにデプロイできた。
 - [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
 - 詳説 正規表現 第3版
 - ドイツ語
