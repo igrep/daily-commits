@@ -8,6 +8,13 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2019/06/23までの目標
+
+- Haskell入門コンテンツ:
+    - [ヘルプ投稿に対して、間違いを指摘しやすくする #101](https://github.com/haskell-jp/makeMistakesToLearnHaskell/issues/101)
+    - 課題18の整備
+    - 課題19の整備
+
 # 2019/06/16までの目標
 
 - Haskell入門コンテンツ:
@@ -92,6 +99,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2019/06/14: ブランチをリクエストごとに作るよう修正。動作確認はまだ。
     - 2019/06/15: Dockerでの動作確認が不足だったため、全然動かなかった。いろいろ修正してようやくHeroku上で動くようにできた。
     - 2019/06/16: mmlh本体からサーバーにアクセスできるようにするために、クライアントをリファクタリング。
+    - 2019/06/17: mmlh本体にmmlh-reporterのクライアントを組み込んでいるところ。
 - [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
 - 詳説 正規表現 第3版
 - ドイツ語
