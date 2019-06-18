@@ -73,7 +73,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - イベントページ作成・公開
         - 結果: 達成
 
-# 2019/05/21 - 2019/06/16
+# 2019/05/21 - 2019/06/18
 
 - Haskell入門コンテンツ:
     - 2019/05/21: 課題15をちょっとだけ進めた。
@@ -100,6 +100,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2019/06/15: Dockerでの動作確認が不足だったため、全然動かなかった。いろいろ修正してようやくHeroku上で動くようにできた。
     - 2019/06/16: mmlh本体からサーバーにアクセスできるようにするために、クライアントをリファクタリング。
     - 2019/06/17: mmlh本体にmmlh-reporterのクライアントを組み込んでいるところ。
+    - 2019/06/18: mmlh本体にmmlh-reporterのクライアントを組み込めた。テストの修正もできたはずだけど、なぜか落ちる。
 - [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
 - 詳説 正規表現 第3版
 - ドイツ語
