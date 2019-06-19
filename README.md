@@ -15,6 +15,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題18の整備
     - 課題19の整備
 
+# 2019/06/19
+
+- Haskell入門コンテンツ:
+    - 2019/06/19: テストの修正がうまくいかない。なぜかstub用のサーバーとの通信ができない。Firewallだろうか？
+- [俺々言語にだって型推論が欲しい！](https://kakkun61.booth.pm/items/1317485)
+- 詳説 正規表現 第3版
+- ドイツ語
+
 # 2019/06/16までの目標
 
 - Haskell入門コンテンツ:
@@ -102,6 +110,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2019/06/17: mmlh本体にmmlh-reporterのクライアントを組み込んでいるところ。
     - 2019/06/18: mmlh本体にmmlh-reporterのクライアントを組み込めた。テストの修正もできたはずだけど、なぜか落ちる。
 - [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
+    - 2019/06/18: 読了
 - 詳説 正規表現 第3版
 - ドイツ語
 
