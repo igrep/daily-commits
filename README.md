@@ -15,12 +15,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題18の整備
     - 課題19の整備
 
-# 2019/06/19 - 2019/06/21
+# 2019/06/19 - 2019/06/22
 
 - Haskell入門コンテンツ:
     - 2019/06/19: テストの修正がうまくいかない。なぜかstub用のサーバーとの通信ができない。Firewallだろうか？
     - 2019/06/20: まだテストの修正がうまくいかない。Firewallも効果なし... 打つ手なしか... と思ったところで仕事に行く準備をしていたら気づいた。 <https://twitter.com/igrep/status/1141532951546486784>
     - 2019/06/21: 昨日気づいたとおりに直してPull requestを送った: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/pull/103>
+    - 2019/06/22: CIが通らない... AppVeyorがなぜかzlibパッケージのインストールでこける...。
 - [俺々言語にだって型推論が欲しい！](https://kakkun61.booth.pm/items/1317485)
 - 詳説 正規表現 第3版
 - ドイツ語
