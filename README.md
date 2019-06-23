@@ -8,20 +8,31 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2019/06/30までの目標
+
+- Haskell入門コンテンツ:
+    - 課題18の整備
+    - 課題19の整備
+    - 課題20の整備
+
 # 2019/06/23までの目標
 
 - Haskell入門コンテンツ:
     - [ヘルプ投稿に対して、間違いを指摘しやすくする #101](https://github.com/haskell-jp/makeMistakesToLearnHaskell/issues/101)
+        - 結果: 達成
     - 課題18の整備
+        - 結果: 未達
     - 課題19の整備
+        - 結果: 未達
 
-# 2019/06/19 - 2019/06/22
+# 2019/06/19 - 2019/06/23
 
 - Haskell入門コンテンツ:
     - 2019/06/19: テストの修正がうまくいかない。なぜかstub用のサーバーとの通信ができない。Firewallだろうか？
     - 2019/06/20: まだテストの修正がうまくいかない。Firewallも効果なし... 打つ手なしか... と思ったところで仕事に行く準備をしていたら気づいた。 <https://twitter.com/igrep/status/1141532951546486784>
     - 2019/06/21: 昨日気づいたとおりに直してPull requestを送った: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/pull/103>
     - 2019/06/22: CIが通らない... AppVeyorがなぜかzlibパッケージのインストールでこける...。
+    - 2019/06/23: AppVeyorでの問題を回避してやっとマージ。それから課題18も少し進めた。
 - [俺々言語にだって型推論が欲しい！](https://kakkun61.booth.pm/items/1317485)
 - 詳説 正規表現 第3版
 - ドイツ語
