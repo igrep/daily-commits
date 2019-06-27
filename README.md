@@ -15,11 +15,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題19の整備
     - 課題20の整備
 
-# 2019/06/25 - 2019/06/26
+# 2019/06/25 - 2019/06/27
 
 - Haskell入門コンテンツ:
     - 2019/06/25 - 2019/06/26: 課題18続き。
     - 2019/06/26: レポートサーバーのバグが見つかったので修正。
+    - 2019/06/27: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/issues/100> の問題を解決すべく、ANSI escapeコードを取り除くライブラリーを作成中。
 - [俺々言語にだって型推論が欲しい！](https://kakkun61.booth.pm/items/1317485)
 - [型システム入門 プログラミング言語と型の理論](https://www.ohmsha.co.jp/book/9784274069116/)
 - ドイツ語
