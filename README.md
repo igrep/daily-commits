@@ -8,14 +8,25 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2019/07/01までの目標
+
+- Haskell入門コンテンツ:
+    - ANSIエスケープコードを取り除くライブラリーの公開
+    - ANSIエスケープコードを取り除くライブラリーの記事
+    - 課題18の整備
+    - 課題19の整備
+
 # 2019/06/30までの目標
 
 - Haskell入門コンテンツ:
     - 課題18の整備
+        - 結果: 未達
     - 課題19の整備
+        - 結果: 未達
     - 課題20の整備
+        - 結果: 未達
 
-# 2019/06/25 - 2019/06/29
+# 2019/06/25 - 2019/06/30
 
 - Haskell入門コンテンツ:
     - 2019/06/25 - 2019/06/26: 課題18続き。
@@ -23,6 +34,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2019/06/27: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/issues/100> の問題を解決すべく、ANSI escapeコードを取り除くライブラリーを作成中。
     - 2019/06/28: ANSI escapeコードのライブラリーの実装方法検討だけで終わり。
     - 2019/06/29: ANSI escapeコードのライブラリーのテストを書いた。
+    - 2019/06/30: ANSI escapeコードの最初のテストケースを通した。
 - [俺々言語にだって型推論が欲しい！](https://kakkun61.booth.pm/items/1317485)
 - [型システム入門 プログラミング言語と型の理論](https://www.ohmsha.co.jp/book/9784274069116/)
 - ドイツ語
