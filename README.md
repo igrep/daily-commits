@@ -26,7 +26,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題20の整備
         - 結果: 未達
 
-# 2019/06/25 - 2019/07/03
+# 2019/06/25 - 2019/07/04
 
 - Haskell入門コンテンツ:
     - 2019/06/25 - 2019/06/26: 課題18続き。
@@ -41,7 +41,9 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 今日の社内勉強会に間に合わせるつもりで大慌てでLazyなText版も作り、hackageに上げ、mmlhのブランチにpushした。
         - <http://hackage.haskell.org/package/strip-ansi-escape>
         - しかし、会社の環境からデプロイする準備をしていなかったので結局間に合わず。
+    - 2019/07/04: 諸々テストして、先週送ったPull requestをマージ。
 - [俺々言語にだって型推論が欲しい！](https://kakkun61.booth.pm/items/1317485)
+    - 2019/07/04: 読了
 - [型システム入門 プログラミング言語と型の理論](https://www.ohmsha.co.jp/book/9784274069116/)
 - ドイツ語
 
