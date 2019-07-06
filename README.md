@@ -12,14 +12,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - Haskell入門コンテンツ:
     - ANSIエスケープコードを取り除くライブラリーの公開
+        - 結果: 達成
     - ANSIエスケープコードを取り除くライブラリーの記事
     - 課題18の整備
     - 課題19の整備
 
-# 2019/07/05
+# 2019/07/05 - 2019/07/06
 
 - Haskell入門コンテンツ:
     - 2019/07/05: 諸々テストして、先週送ったPull requestをマージ。
+    - 2019/07/06: ANSIエスケープコードを取り除くライブラリーの記事を途中まで
 - [俺々言語にだって型推論が欲しい！](https://kakkun61.booth.pm/items/1317485)
 - [n月刊ラムダノート Vol.1, No.1(2019)（電子書籍のみ）](https://www.lambdanote.com/products/nmonthly-vol-1-no-1-2019-ebook)
 - ドイツ語
