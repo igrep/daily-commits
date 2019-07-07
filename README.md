@@ -8,20 +8,31 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2019/07/10までの目標
+
+- Haskell入門コンテンツ:
+    - 課題18の整備
+    - 課題19の整備
+    - 課題20の整備
+
 # 2019/07/07までの目標
 
 - Haskell入門コンテンツ:
     - ANSIエスケープコードを取り除くライブラリーの公開
         - 結果: 達成
     - ANSIエスケープコードを取り除くライブラリーの記事
+        - 結果: 未達。ほぼ達成したけど
     - 課題18の整備
+        - 結果: 未達。
     - 課題19の整備
+        - 結果: 未達。
 
-# 2019/07/05 - 2019/07/06
+# 2019/07/05 - 2019/07/07
 
 - Haskell入門コンテンツ:
     - 2019/07/05: 諸々テストして、先週送ったPull requestをマージ。
     - 2019/07/06: ANSIエスケープコードを取り除くライブラリーの記事を途中まで
+    - 2019/07/07: ANSIエスケープコードを取り除くライブラリーの記事を書いてPull requestを送った。 <https://github.com/haskell-jp/blog/pull/163>
 - [俺々言語にだって型推論が欲しい！](https://kakkun61.booth.pm/items/1317485)
 - [n月刊ラムダノート Vol.1, No.1(2019)（電子書籍のみ）](https://www.lambdanote.com/products/nmonthly-vol-1-no-1-2019-ebook)
 - ドイツ語
