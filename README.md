@@ -27,13 +27,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題19の整備
         - 結果: 未達。
 
-# 2019/07/05 - 2019/07/09
+# 2019/07/05 - 2019/07/10
 
 - Haskell入門コンテンツ:
     - 2019/07/05: 諸々テストして、先週送ったPull requestをマージ。
     - 2019/07/06: ANSIエスケープコードを取り除くライブラリーの記事を途中まで
     - 2019/07/07: ANSIエスケープコードを取り除くライブラリーの記事を書いてPull requestを送った。 <https://github.com/haskell-jp/blog/pull/163>
-    - 2019/07/08 - 2019/07/09: 課題18を少し。
+    - 2019/07/08 - 2019/07/10: 課題18を少し。
 - [俺々言語にだって型推論が欲しい！](https://kakkun61.booth.pm/items/1317485)
 - [n月刊ラムダノート Vol.1, No.1(2019)（電子書籍のみ）](https://www.lambdanote.com/products/nmonthly-vol-1-no-1-2019-ebook)
 - ドイツ語
