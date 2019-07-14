@@ -8,12 +8,25 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2019/07/10までの目標
+# 2019/07/13までの目標
 
 - Haskell入門コンテンツ:
     - 課題18の整備
+        - 結果: 達成
     - 課題19の整備
     - 課題20の整備
+- Haskell-jp:
+    - SlackArchive廃止に対応するために発言をバックアップするソフト作り:
+        - 既存のJSONファイルをHTMLに変換してアップロードする
+        - 毎日の発言保存時に作ったJSONをHTMLに変換してアップロードする
+
+# 2019/07/13
+
+- Haskell-jp:
+    - SlackArchive廃止に対応するために発言をバックアップするソフト作り: index.htmlを作成する処理できた。
+- Haskell入門コンテンツ:
+    - 2019/07/13: 課題19書いてる
+- ドイツ語
 
 # 2019/07/07までの目標
 
