@@ -20,10 +20,10 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - タイプセーフプリキュア！:
     - キュアコスモなどのサポート
 
-# 2019/07/16
+# 2019/07/16 - 2019/07/17
 
 - Haskell入門コンテンツ:
-    - 課題19の整備引き続き
+    - 2019/07/16 - 2019/07/17: 課題19の整備引き続き
 - [俺々言語にだって型推論が欲しい！](https://kakkun61.booth.pm/items/1317485)
 - [n月刊ラムダノート Vol.1, No.1(2019)（電子書籍のみ）](https://www.lambdanote.com/products/nmonthly-vol-1-no-1-2019-ebook)
 - ドイツ語
