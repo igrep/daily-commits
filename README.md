@@ -19,6 +19,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - タイプセーフプリキュア！:
     - キュアコスモなどのサポート
 
+# 2019/07/23
+
+- Haskell-jp:
+    - SlackArchive廃止に対応するために発言をバックアップするソフト作り: 軽く動作確認できた。
+- [俺々言語にだって型推論が欲しい！](https://kakkun61.booth.pm/items/1317485)
+- [n月刊ラムダノート Vol.1, No.1(2019)（電子書籍のみ）](https://www.lambdanote.com/products/nmonthly-vol-1-no-1-2019-ebook)
+- ドイツ語
+
 # 2019/07/22
 
 - Haskell-jp:
