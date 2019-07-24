@@ -18,11 +18,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 毎日の発言保存時に作ったJSONをHTMLに変換してアップロードする
 - タイプセーフプリキュア！:
     - キュアコスモなどのサポート
+        - 結果: 達成
 
-# 2019/07/23
+# 2019/07/23 - 2019/07/24
 
 - Haskell-jp:
-    - SlackArchive廃止に対応するために発言をバックアップするソフト作り: 軽く動作確認できた。
+    - 2019/07/23: SlackArchive廃止に対応するために発言をバックアップするソフト作り: 軽く動作確認できた。
+    - 2019/07/24: Pull request送った: <https://github.com/haskell-jp/slack-log/pull/18>
 - [俺々言語にだって型推論が欲しい！](https://kakkun61.booth.pm/items/1317485)
 - [n月刊ラムダノート Vol.1, No.1(2019)（電子書籍のみ）](https://www.lambdanote.com/products/nmonthly-vol-1-no-1-2019-ebook)
 - ドイツ語
