@@ -8,30 +8,51 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2019/07/28までの目標
+# 2019/08/04までの目標
 
 - Haskell入門コンテンツ:
     - 課題19の整備
+    - 課題20の整備
+- Haskell-jp:
+    - Haskell-jpタスク割り当て
+
+# 2019/07/28までの目標
+
+眠れない日があったりして調子が出ない日も多かったからか。  
+雑務用スクリプトを書くこともカウントしてなかったのが決定的かも。
+
+- Haskell入門コンテンツ:
+    - 課題19の整備
+        - 結果: 未達。
 - Haskell-jp:
     - SlackArchive廃止に対応するために発言をバックアップするソフト作り:
         - 既存のJSONファイルをHTMLに変換してアップロードする
             - 結果: 達成
         - 毎日の発言保存時に作ったJSONをHTMLに変換してアップロードする
+            - 結果: 達成
 - タイプセーフプリキュア！:
     - キュアコスモなどのサポート
         - 結果: 達成
 
-# 2019/07/26
+# 2019/07/28
+
+- その他:
+    - 雑務用スクリプトをHaskellで書いた。
+- [型システム入門 プログラミング言語と型の理論](https://www.ohmsha.co.jp/book/9784274069116/)
+- [n月刊ラムダノート Vol.1, No.1(2019)（電子書籍のみ）](https://www.lambdanote.com/products/nmonthly-vol-1-no-1-2019-ebook)
+- ドイツ語
+
+# 2019/07/27
 
 - Haskell-jp:
     - 2019/07/26: ようやくHTMLを公開。 <https://haskell.jp/slack-log/>
-- [俺々言語にだって型推論が欲しい！](https://kakkun61.booth.pm/items/1317485)
+- [型システム入門 プログラミング言語と型の理論](https://www.ohmsha.co.jp/book/9784274069116/)
 - [n月刊ラムダノート Vol.1, No.1(2019)（電子書籍のみ）](https://www.lambdanote.com/products/nmonthly-vol-1-no-1-2019-ebook)
 - ドイツ語
 
 # 2019/07/26
 
-- [俺々言語にだって型推論が欲しい！](https://kakkun61.booth.pm/items/1317485)
+- [型システム入門 プログラミング言語と型の理論](https://www.ohmsha.co.jp/book/9784274069116/)
 - [n月刊ラムダノート Vol.1, No.1(2019)（電子書籍のみ）](https://www.lambdanote.com/products/nmonthly-vol-1-no-1-2019-ebook)
 - ドイツ語
 
@@ -41,7 +62,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2019/07/23: SlackArchive廃止に対応するために発言をバックアップするソフト作り: 軽く動作確認できた。
     - 2019/07/24: Pull request送った: <https://github.com/haskell-jp/slack-log/pull/18>
     - 2019/07/25: rebaseしてマージ
-- [俺々言語にだって型推論が欲しい！](https://kakkun61.booth.pm/items/1317485)
+- [型システム入門 プログラミング言語と型の理論](https://www.ohmsha.co.jp/book/9784274069116/)
 - [n月刊ラムダノート Vol.1, No.1(2019)（電子書籍のみ）](https://www.lambdanote.com/products/nmonthly-vol-1-no-1-2019-ebook)
 - ドイツ語
 
@@ -52,7 +73,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - タイプセーフプリキュア！:
     - キュアコスモなどのサポート
         - Pull requestマージしてリリースした。
-- [俺々言語にだって型推論が欲しい！](https://kakkun61.booth.pm/items/1317485)
+- [型システム入門 プログラミング言語と型の理論](https://www.ohmsha.co.jp/book/9784274069116/)
 - [n月刊ラムダノート Vol.1, No.1(2019)（電子書籍のみ）](https://www.lambdanote.com/products/nmonthly-vol-1-no-1-2019-ebook)
 - ドイツ語
 
@@ -80,13 +101,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - タイプセーフプリキュア！:
     - キュアコスモなどのサポート
         - Pull request送った: <https://github.com/igrep/typesafe-precure/pull/36>
-- [俺々言語にだって型推論が欲しい！](https://kakkun61.booth.pm/items/1317485)
+- [型システム入門 プログラミング言語と型の理論](https://www.ohmsha.co.jp/book/9784274069116/)
 - [n月刊ラムダノート Vol.1, No.1(2019)（電子書籍のみ）](https://www.lambdanote.com/products/nmonthly-vol-1-no-1-2019-ebook)
 - ドイツ語
 
 # 2019/07/20
 
-- [俺々言語にだって型推論が欲しい！](https://kakkun61.booth.pm/items/1317485)
+- [型システム入門 プログラミング言語と型の理論](https://www.ohmsha.co.jp/book/9784274069116/)
 - [n月刊ラムダノート Vol.1, No.1(2019)（電子書籍のみ）](https://www.lambdanote.com/products/nmonthly-vol-1-no-1-2019-ebook)
 - ドイツ語
 
@@ -95,7 +116,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell-jp:
     - SlackArchive廃止に対応するために発言をバックアップするソフト作り:
         - 2019/07/18 - 2019/07/19: バグ修正中
-- [俺々言語にだって型推論が欲しい！](https://kakkun61.booth.pm/items/1317485)
+- [型システム入門 プログラミング言語と型の理論](https://www.ohmsha.co.jp/book/9784274069116/)
 - [n月刊ラムダノート Vol.1, No.1(2019)（電子書籍のみ）](https://www.lambdanote.com/products/nmonthly-vol-1-no-1-2019-ebook)
 - ドイツ語
 
@@ -103,7 +124,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - Haskell入門コンテンツ:
     - 2019/07/16 - 2019/07/17: 課題19の整備引き続き
-- [俺々言語にだって型推論が欲しい！](https://kakkun61.booth.pm/items/1317485)
+- [型システム入門 プログラミング言語と型の理論](https://www.ohmsha.co.jp/book/9784274069116/)
 - [n月刊ラムダノート Vol.1, No.1(2019)（電子書籍のみ）](https://www.lambdanote.com/products/nmonthly-vol-1-no-1-2019-ebook)
 - ドイツ語
 
@@ -111,7 +132,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - Haskell-jp:
     - SlackArchive廃止に対応するために発言をバックアップするソフト作り: JSONを取得した後にHTMLに変換する処理の追加。テストするまでもなく見つかったバグを修正。テストしてみてさらにバグを発見。
-- [俺々言語にだって型推論が欲しい！](https://kakkun61.booth.pm/items/1317485)
+- [型システム入門 プログラミング言語と型の理論](https://www.ohmsha.co.jp/book/9784274069116/)
 - [n月刊ラムダノート Vol.1, No.1(2019)（電子書籍のみ）](https://www.lambdanote.com/products/nmonthly-vol-1-no-1-2019-ebook)
 - ドイツ語
 
@@ -166,7 +187,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2019/07/08 - 2019/07/10: 課題18を少し。
     - 2019/07/11: 課題18が一通り終わったので課題19について検討。課題19の内容を課題18に併合することに。
     - 2019/07/12: 課題19書き始め
-- [俺々言語にだって型推論が欲しい！](https://kakkun61.booth.pm/items/1317485)
+- [型システム入門 プログラミング言語と型の理論](https://www.ohmsha.co.jp/book/9784274069116/)
 - [n月刊ラムダノート Vol.1, No.1(2019)（電子書籍のみ）](https://www.lambdanote.com/products/nmonthly-vol-1-no-1-2019-ebook)
 - ドイツ語
 
