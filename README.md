@@ -18,6 +18,8 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 # 2019/07/30
 
+- Haskell-jp:
+    - SlackArchive廃止に対応するために発言をバックアップするソフト作り: issueを1個解決。 <https://github.com/haskell-jp/slack-log/pull/29>
 - [型システム入門 プログラミング言語と型の理論](https://www.ohmsha.co.jp/book/9784274069116/)
 - [n月刊ラムダノート Vol.1, No.1(2019)（電子書籍のみ）](https://www.lambdanote.com/products/nmonthly-vol-1-no-1-2019-ebook)
 - ドイツ語
