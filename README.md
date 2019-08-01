@@ -17,12 +17,18 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell-jp:
     - Haskell-jpタスク割り当て
 
+# 2019/09/01
+
+- Haskell-jp:
+    - 課題20の整備: 模範解答の作成
+- [型システム入門 プログラミング言語と型の理論](https://www.ohmsha.co.jp/book/9784274069116/)
+- ドイツ語
+
 # 2019/07/31
 
 - Haskell-jp:
     - 課題19の整備: 社内勉強会でもあっという間に終わったので、とりあえず終わったことにしよう。
 - [型システム入門 プログラミング言語と型の理論](https://www.ohmsha.co.jp/book/9784274069116/)
-- [n月刊ラムダノート Vol.1, No.1(2019)（電子書籍のみ）](https://www.lambdanote.com/products/nmonthly-vol-1-no-1-2019-ebook)
 - ドイツ語
 
 # 2019/07/30
