@@ -15,6 +15,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell-jp:
     - Haskell-jpタスク割り当て
 
+# 2019/08/10
+
+- HIWのLTのスライド:
+    - exampleの実装とか図とかを除いて半分ぐらいできたかな。
+- [正規表現技術入門 ――最新エンジン実装と理論的背景](https://gihyo.jp/book/2015/978-4-7741-7270-5)
+- ドイツ語
+
 # 2019/08/09
 
 - Haskell-jp:
