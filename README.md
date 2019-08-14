@@ -8,6 +8,11 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2019/08/14
+
+- [正規表現技術入門 ――最新エンジン実装と理論的背景](https://gihyo.jp/book/2015/978-4-7741-7270-5)
+- ドイツ語
+
 # 2019/08/11までの目標
 
 - Haskell入門コンテンツ:
