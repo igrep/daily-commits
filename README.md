@@ -8,6 +8,12 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2019/08/25までの目標
+
+- Haskell入門コンテンツ:
+    - 課題20の整備
+- HIWのLTのスライド: 完成
+
 # 2019/08/18までの目標
 
 ※旅行や、PCの故障などイレギュラーが重なったので先週の目標を削除し変更
