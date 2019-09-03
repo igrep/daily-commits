@@ -17,7 +17,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell Day:
     - いい加減少しでも進めよう
 
-# 2019/09/02
+# 2019/09/02 - 2019/09/03
 
 - Haskell入門コンテンツ:
     - 課題21の整備
