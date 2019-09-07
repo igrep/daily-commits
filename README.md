@@ -16,6 +16,17 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - https://github.com/haskell-jp/blog/issues/167 のサンプルを仕上げる
 - Haskell Day:
    - いい加減少しでも進めよう
+        - 結果: 達成
+
+# 2019/09/07
+
+- Haskell入門コンテンツ:
+    - 課題21の整備
+- Haskell-jp Blog:
+    - https://github.com/haskell-jp/blog/issues/167 のサンプル
+- [正規表現技術入門 ――最新エンジン実装と理論的背景](https://gihyo.jp/book/2015/978-4-7741-7270-5)
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- 中国語
  
 # 2019/09/06
 
@@ -23,7 +34,25 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - 中国語
 
-# 2019/09/02 - 2019/09/05
+# 2019/09/05
+
+- Haskell入門コンテンツ:
+    - 課題21の整備
+- [正規表現技術入門 ――最新エンジン実装と理論的背景](https://gihyo.jp/book/2015/978-4-7741-7270-5)
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- 中国語
+
+# 2019/09/03 - 2019/09/04
+
+- Haskell入門コンテンツ:
+    - 課題21の整備
+- Haskell-jp Blog:
+    - https://github.com/haskell-jp/blog/issues/167 のサンプル
+- [正規表現技術入門 ――最新エンジン実装と理論的背景](https://gihyo.jp/book/2015/978-4-7741-7270-5)
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- 中国語
+
+# 2019/09/02
 
 - Haskell入門コンテンツ:
     - 課題21の整備
@@ -44,6 +73,8 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題20の整備
         - ひとまず完了
     - 課題21の整備
+- Haskell-jp Blog:
+    - https://github.com/haskell-jp/blog/issues/167 のサンプル
 - [正規表現技術入門 ――最新エンジン実装と理論的背景](https://gihyo.jp/book/2015/978-4-7741-7270-5)
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - 中国語
