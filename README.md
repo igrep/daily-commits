@@ -8,12 +8,22 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2019/09/08までの目標
+# 2019/09/15までの目標
 
 - Haskell入門コンテンツ:
     - 課題21の整備
 - Haskell-jp Blog:
     - https://github.com/haskell-jp/blog/issues/167 のサンプルを仕上げる
+    - 本文を半分ぐらい仕上げる
+
+# 2019/09/08までの目標
+
+- Haskell入門コンテンツ:
+    - 課題21の整備
+        - 結果: 未達。どうも課題20以降手が止まり気味だなぁ。やっぱり難しい話だから説明の仕方に悩む。
+- Haskell-jp Blog:
+    - https://github.com/haskell-jp/blog/issues/167 のサンプルを仕上げる
+        - 結果: 未達。GHCのバグと勘違いした挙動で困ったり、あと、mizunashiくんの勘違いもあったり。あとBangPatternsのハマりどころが見つかってない
 - Haskell Day:
    - いい加減少しでも進めよう
         - 結果: 達成
