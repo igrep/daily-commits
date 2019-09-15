@@ -16,6 +16,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - https://github.com/haskell-jp/blog/issues/167 のサンプルを仕上げる
     - 本文を半分ぐらい仕上げる
 
+# 2019/09/14
+
+- Haskell入門コンテンツ:
+    - 2019/09/14: 
+- [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- 中国語
+
 # 2019/09/11 - 2019/09/13
 
 - Haskell入門コンテンツ:
