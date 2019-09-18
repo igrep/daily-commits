@@ -16,7 +16,6 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題21の整備
 - Haskell-jp Blog:
     - https://github.com/haskell-jp/blog/issues/167 のサンプルを仕上げる
-    - 本文を半分ぐらい仕上げる
 
 # 2019/09/15までの目標
 
@@ -29,11 +28,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 本文を半分ぐらい仕上げる
         - 結果: 未達
 
-# 2019/09/14 - 2019/09/17
+# 2019/09/14 - 2019/09/18
 
 - Haskell入門コンテンツ:
     - 課題21の整備
         - 2019/09/16: 次の勉強会向けには十分そうなぐらい進められた。
+        - 2019/09/18: と、思ったら今日進められた分までで超ギリギリだった...。
 - [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - 中国語
