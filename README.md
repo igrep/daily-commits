@@ -31,13 +31,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 本文を半分ぐらい仕上げる
         - 結果: 未達
 
-# 2019/09/14 - 2019/09/20
+# 2019/09/14 - 2019/09/21
 
 - Haskell入門コンテンツ:
     - 課題21の整備
         - 2019/09/16: 次の勉強会向けには十分そうなぐらい進められた。
         - 2019/09/18: と、思ったら今日進められた分までで超ギリギリだった...。
         - 2019/09/19 - 2019/09/20: 18日の勉強会で気づいた問題点を修正
+        - 2019/09/21: `Maybe`の`return`についてちょっと記述
 - [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - 中国語
