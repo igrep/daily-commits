@@ -8,17 +8,28 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2019/09/29までの目標
+
+- Haskell入門コンテンツ:
+    - 課題22の整備
+- Haskell-jp Blog:
+    - https://github.com/haskell-jp/blog/issues/167 のサンプルを仕上げる
+
 # 2019/09/22までの目標
 
 今度こそ。
 
 - Haskell入門コンテンツ:
     - 課題21の整備
+        - 結果: 達成
     - 課題22の整備:
         - 問題文・模範解答の作成
+            - 結果: 未達
         - `Either`の紹介
+            - 結果: 未達
 - Haskell-jp Blog:
     - https://github.com/haskell-jp/blog/issues/167 のサンプルを仕上げる
+        - 結果: 未達
 
 # 2019/09/15までの目標
 
@@ -31,7 +42,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 本文を半分ぐらい仕上げる
         - 結果: 未達
 
-# 2019/09/14 - 2019/09/21
+# 2019/09/14 - 2019/09/22
 
 - Haskell入門コンテンツ:
     - 課題21の整備
@@ -39,6 +50,9 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 2019/09/18: と、思ったら今日進められた分までで超ギリギリだった...。
         - 2019/09/19 - 2019/09/20: 18日の勉強会で気づいた問題点を修正
         - 2019/09/21: `Maybe`の`return`についてちょっと記述
+        - 2019/09/22: ようやく全部埋めた。ついつい書き足したくなるのを繰り返してしまったせいで長くなった。
+    - 課題22の整備
+        - 2019/09/22: 着手。課題文はできた
 - [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - 中国語
