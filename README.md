@@ -16,14 +16,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - https://github.com/haskell-jp/blog/issues/167 のサンプルを仕上げる
         - 結果: 達成
 
-# 2019/09/23
+# 2019/09/23 - 2019/09/24
 
 - Haskell入門コンテンツ:
     - 課題22の整備
         - 2019/09/23: 模範解答の動作確認、課題で用意したDBの問題を修正
+        - 2019/09/24: Eitherの説明
 - Haskell-jp Blog:
     - https://github.com/haskell-jp/blog/issues/167 のサンプルを仕上げる
-        - サンプルを仕上げた
+        - 2019/09/23: サンプルを仕上げた
+        - 2019/09/24: 本文執筆開始
 - [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - 中国語
