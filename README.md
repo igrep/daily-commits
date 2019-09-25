@@ -16,6 +16,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - https://github.com/haskell-jp/blog/issues/167 のサンプルを仕上げる
         - 結果: 達成
 
+# 2019/09/25
+
+- Haskell入門コンテンツ:
+    - 課題22の整備
+        - 2019/09/25: Eitherの説明、作り方、EitherのFunctor・Applicative・Monadインスタンス
+- [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- 中国語
+
 # 2019/09/23 - 2019/09/24
 
 - Haskell入門コンテンツ:
