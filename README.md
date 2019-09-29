@@ -8,10 +8,18 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2019/10/06までの目標
+
+- Haskell入門コンテンツ:
+    - 課題22の整備
+- Regex Festaの準備:
+    - 資料をあらかた仕上げる
+
 # 2019/09/29までの目標
 
 - Haskell入門コンテンツ:
     - 課題22の整備
+        - 結果: 未達
 - Haskell-jp Blog:
     - https://github.com/haskell-jp/blog/issues/167 のサンプルを仕上げる
         - 結果: 達成
