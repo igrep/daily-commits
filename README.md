@@ -24,6 +24,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - https://github.com/haskell-jp/blog/issues/167 のサンプルを仕上げる
         - 結果: 達成
 
+# 2019/09/29
+
+- Haskell入門コンテンツ:
+    - 2019/09/29 - 2019/09/30: 課題22の整備
+        - EitherのFunctor・Applicative・Monadインスタンス
+- [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- 中国語
+
 # 2019/09/28
 
 - Haskell入門コンテンツ:
