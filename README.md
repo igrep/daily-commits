@@ -15,6 +15,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Regex Festaの準備:
     - 資料をあらかた仕上げる
 
+# 2019/10/01
+
+- Keep Me Contributing: Android版がAndroid 9で動かない問題を修正
+- [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- 中国語
+
 # 2019/09/29までの目標
 
 - Haskell入門コンテンツ:
@@ -27,8 +34,10 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 # 2019/09/29
 
 - Haskell入門コンテンツ:
-    - 2019/09/29 - 2019/09/30: 課題22の整備
+    - 2019/09/29: 課題22の整備
         - EitherのFunctor・Applicative・Monadインスタンス
+    - 2019/09/30: 課題22の整備
+        - EitherのFunctor・Applicative・Monadインスタンス、errorsパッケージの紹介
 - [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - 中国語
