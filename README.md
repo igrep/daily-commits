@@ -11,9 +11,17 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 # 2019/10/06までの目標
 
 - Haskell入門コンテンツ:
-    - 課題22の整備
+    - 課題22の整備: 達成。社内勉強会でやる範囲内は乗り越えられたし。できたことにしよう。
 - Regex Festaの準備:
     - 資料をあらかた仕上げる
+
+# 2019/10/02
+
+- Haskell入門コンテンツ:
+    - 課題22の整備
+- [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- 中国語
 
 # 2019/10/01
 
