@@ -15,6 +15,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Regex Festaの準備:
     - 資料をあらかた仕上げる
 
+# 2019/10/05
+
+- igrep-cashbook:
+    - Rustオンラインもくもく会で、Rust版の開発開始: <https://github.com/igrep/igrep-cashbook/commit/0b3e16ea85d84eadbf3892f4f0e67af7c5cd0218>
+- [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- 中国語
+
 # 2019/10/04
 
 - [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
