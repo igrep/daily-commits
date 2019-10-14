@@ -8,12 +8,20 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2019/10/20までの目標
+
+- Regex Festaの準備:
+    - 資料を仕上げる・発表する
+- Haskell入門コンテンツ:
+    - 課題6を少しでも進める
+- IoTハンズオン: 準備して参加する
+
 # 2019/10/13までの目標
 
 - Regex Festaの準備:
-    - 資料を仕上げる
+    - 資料を仕上げる: 結果: 未達
 
-# 2019/10/07 - 2019/10/12
+# 2019/10/07 - 2019/10/13
 
 - Regex Festaの準備
 - [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
