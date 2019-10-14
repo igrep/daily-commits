@@ -21,7 +21,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Regex Festaの準備:
     - 資料を仕上げる: 結果: 未達
 
-# 2019/10/07 - 2019/10/13
+# 2019/10/07 - 2019/10/14
 
 - Regex Festaの準備
 - [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
