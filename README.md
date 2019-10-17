@@ -21,11 +21,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Regex Festaの準備:
     - 資料を仕上げる: 結果: 未達
 
-# 2019/10/07 - 2019/10/16
+# 2019/10/07 - 2019/10/17
 
 - Regex Festaの準備
     - 2019/10/15: スライドできたかな？
-    - 2019/10/16: スライド見直し
+    - 2019/10/16 - 2019/10/17: スライド見直し
 - [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - 中国語
