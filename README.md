@@ -12,9 +12,18 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - Regex Festaの準備:
     - 資料を仕上げる・発表する
+        - 結果: 達成
 - Haskell入門コンテンツ:
     - 課題6を少しでも進める
 - IoTハンズオン: 準備して参加する
+
+# 2019/10/19
+
+- Regex Festaの事後処理
+    - 2019/10/19: スライドの間違いを修正
+- [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- 中国語
 
 # 2019/10/13までの目標
 
