@@ -17,6 +17,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題8を少しでも進める
 
+# 2019/10/23
+
+- Haskell-jp活動:
+    - <https://github.com/haskell-jp/haskell-jp-wiki/issues/8>
+        - 改めて試してみた感じ、なぜかリポジトリーのcloneができてないらしい。詳しい原因はわからないが、sshは使わずhttpsでcloneした方が無難かも。`GIT_SSH_COMMAND`に`ssh -v`を設定してみるのはどうか
+- Regex Festaの事後処理: 拡大版記事を書く
+- [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- 中国語
+
 # 2019/10/22
 
 - Regex Festaの事後処理: 拡大版記事を書く
@@ -28,7 +38,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - Haskell-jp活動:
     - <https://github.com/haskell-jp/haskell-jp-wiki/issues/8>
-    - 概ねやるべきことを把握して、gititのDocker imageを作ってテストを試みてみたものの、全く動かず。
+        - 概ねやるべきことを把握して、gititのDocker imageを作ってテストを試みてみたものの、全く動かず。
 - [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - 中国語
