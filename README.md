@@ -17,11 +17,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題8を少しでも進める
 
-# 2019/10/23
+# 2019/10/23 - 2019/10/24
 
 - Haskell-jp活動:
     - <https://github.com/haskell-jp/haskell-jp-wiki/issues/8>
-        - 改めて試してみた感じ、なぜかリポジトリーのcloneができてないらしい。詳しい原因はわからないが、sshは使わずhttpsでcloneした方が無難かも。`GIT_SSH_COMMAND`に`ssh -v`を設定してみるのはどうか
+        - 2019/10/23: 改めて試してみた感じ、なぜかリポジトリーのcloneができてないらしい。詳しい原因はわからないが、sshは使わずhttpsでcloneした方が無難かも。`GIT_SSH_COMMAND`に`ssh -v`を設定してみるのはどうか
+        - 2019/10/24: cloneできない問題は解決した。原因は簡単で、パスフレーズが入力できてないんじゃなくてHostがknown_hostsに入ってないからだった。しかしまだHerokuでは動かない。タイムアウトでもしてるのかな。
 - Regex Festaの事後処理: 拡大版記事を書く
 - [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
