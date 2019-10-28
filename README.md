@@ -29,6 +29,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題8を少しでも進める
         - 結果: 未達
 
+# 2019/10/28
+
+- Regex Festaの事後処理:
+    - 記事を書いてPull requestを送る: 引き続き
+- [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- 中国語
+
 # 2019/10/27
 
 - Haskell-jp活動:
