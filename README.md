@@ -13,9 +13,27 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Regex Festaの事後処理:
     - 記事を書いてPull requestを送る
 - Haskell-jp活動:
-    - <https://github.com/haskell-jp/haskell-jp-wiki/issues/8>
+    - <https://github.com/haskell-jp/haskell-jp-wiki/issues/8>: もう少しで終えられそう
 - Haskell入門コンテンツ:
     - 課題8を少しでも進める
+
+# 2019/10/30
+
+- Regex Festaの事後処理:
+    - 記事を書いてPull requestを送る: 引き続き
+- Haskell-jp活動:
+    - <https://github.com/haskell-jp/haskell-jp-wiki/issues/8>
+- [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- 中国語
+
+# 2019/10/28 - 2019/10/29
+
+- Regex Festaの事後処理:
+    - 記事を書いてPull requestを送る: 引き続き
+- [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- 中国語
 
 # 2019/10/27までの目標
 
@@ -28,14 +46,6 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題8を少しでも進める
         - 結果: 未達
-
-# 2019/10/28 - 2019/10/29
-
-- Regex Festaの事後処理:
-    - 記事を書いてPull requestを送る: 引き続き
-- [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
-- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
-- 中国語
 
 # 2019/10/27
 
