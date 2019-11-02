@@ -17,6 +17,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題8を少しでも進める
 
+# 2019/11/02
+
+- その他: Rustオンラインもくもく会で開発環境の改善とigrep-cashbookの続き
+- [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- 中国語
+
 # 2019/10/31 - 2019/11/01
 
 - Regex Festaの事後処理:
