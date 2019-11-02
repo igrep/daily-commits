@@ -17,7 +17,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題8を少しでも進める
 
-# 2019/10/31
+# 2019/10/31 - 2019/11/01
 
 - Regex Festaの事後処理:
     - 記事を書いてPull requestを送る: 引き続き
