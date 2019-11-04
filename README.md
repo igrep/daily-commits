@@ -8,7 +8,7 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2019/11/04までの目標
+# 2019/11/10までの目標
 
 - Regex Festaの事後処理:
     - 記事を書いてPull requestを送る
@@ -16,6 +16,26 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - <https://github.com/haskell-jp/haskell-jp-wiki/issues/8>: もう少しで終えられそう
 - Haskell入門コンテンツ:
     - 課題8を少しでも進める
+
+# 2019/11/03までの目標
+
+- Regex Festaの事後処理:
+    - 記事を書いてPull requestを送る
+        - 結果: 未達
+- Haskell-jp活動:
+    - <https://github.com/haskell-jp/haskell-jp-wiki/issues/8>: もう少しで終えられそう
+        - 結果: 未達
+- Haskell入門コンテンツ:
+    - 課題8を少しでも進める
+        - 結果: 未達
+
+# 2019/11/03
+
+- Regex Festaの事後処理:
+    - 記事を書いてPull requestを送る: 引き続き
+- [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- 中国語
 
 # 2019/11/02
 
