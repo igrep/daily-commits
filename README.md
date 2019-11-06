@@ -18,13 +18,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題8を少しでも進める
 
-# 2019/11/05
+# 2019/11/05 - 2019/11/06
 
 - Regex Festaの事後処理:
-    - 記事を書いてPull requestを送る
+    - だんだん終わりが見えてきた
 - Haskell-jp活動:
-    - <https://github.com/haskell-jp/haskell-jp-wiki/issues/8>: もう少しで終えられそう
-        - デプロイ時のコマンドを間違えたのかWikiの更新がリポジトリーに反映されないというトラブルもあったが、なんとかうまくいったようだ。
+    - <https://github.com/haskell-jp/haskell-jp-wiki/issues/8>:
+        - 2019/11/05: もう少しで終えられそう。デプロイ時のコマンドを間違えたのかWikiの更新がリポジトリーに反映されないというトラブルもあったが、なんとかうまくいったようだ。
+        - 2019/11/06: 新しい転送用のURLもできた。
 - [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - 中国語
