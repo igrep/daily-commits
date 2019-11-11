@@ -8,7 +8,7 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2019/11/17
+# 2019/11/17までの目標
 
 - Regex Festaの事後処理:
     - 記事の公開
@@ -34,7 +34,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題8を少しでも進める
         - 結果: 未達
 
-# 2019/11/07 - 2019/11/10
+# 2019/11/07 - 2019/11/11
 
 - Regex Festaの事後処理:
     - だんだん終わりが見えてきた
