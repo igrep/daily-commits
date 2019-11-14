@@ -15,6 +15,8 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell-jp活動:
     - <https://github.com/haskell-jp/community/issues/6>
     - Haskell Day 2019事後処理: 少なくともタスクの整理はしたい
+        - 結果: 達成
+    - Haskell Day 2019事後処理: レポート記事
 - Gotanda.hsの資料:
     - 作成
 - タイプセーフプリキュア！:
@@ -34,11 +36,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題8を少しでも進める
         - 結果: 未達
 
-# 2019/11/07 - 2019/11/13
+# 2019/11/07 - 2019/11/14
 
 - Regex Festaの事後処理:
     - 2019/11/07 - 2019/11/12: だんだん終わりが見えてきた
     - 2019/11/13: ようやく一通りできた
+    - 2019/11/14: Pull requestを送って細かい修正 <https://github.com/haskell-jp/blog/pull/175>
 - [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - 中国語
