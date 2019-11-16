@@ -24,11 +24,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題8を少しでも進める
 
-# 2019/11/15
+# 2019/11/15 - 2019/11/16
 
 - Haskell-jp活動:
     - Haskell Day 2019事後処理: レポート記事
-        - 書き始め: とりあえずスライドのURLのリストは概ね挙げた。
+        - 2019/11/15: 書き始め: とりあえずスライドのURLのリストは概ね挙げた。
+        - 2019/11/16: 写真を収集してリストアップ
 - [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - 中国語
