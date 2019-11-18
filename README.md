@@ -8,14 +8,13 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2019/11/17までの目標
+# 2019/11/24までの目標
+
+今週もどれか2つぐらい満たせたらいい気分で
 
 - Regex Festaの事後処理:
     - 記事の公開
 - Haskell-jp活動:
-    - <https://github.com/haskell-jp/community/issues/6>
-    - Haskell Day 2019事後処理: 少なくともタスクの整理はしたい
-        - 結果: 達成
     - Haskell Day 2019事後処理: レポート記事
 - Gotanda.hsの資料:
     - 作成
@@ -23,6 +22,34 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Haskell Advent Calendarのネタの実装
 - Haskell入門コンテンツ:
     - 課題8を少しでも進める
+
+# 2019/11/17までの目標
+
+- Regex Festaの事後処理:
+    - 記事の公開
+        - 結果: 未達。Pull requestまで
+- Haskell-jp活動:
+    - <https://github.com/haskell-jp/community/issues/6>
+        - 結果: 達成。やり残しはあるけどとりあえずチェックははずそう
+    - Haskell Day 2019事後処理: 少なくともタスクの整理はしたい
+        - 結果: 達成
+    - Haskell Day 2019事後処理: レポート記事
+        - 結果: 未達。
+- Gotanda.hsの資料:
+    - 作成
+        - 結果: 未達。
+- タイプセーフプリキュア！:
+    - Haskell Advent Calendarのネタの実装
+        - 結果: 未達。
+- Haskell入門コンテンツ:
+    - 課題8を少しでも進める
+        - 結果: 未達。
+
+# 2019/11/17
+
+- [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- 中国語
 
 # 2019/11/15 - 2019/11/16
 
