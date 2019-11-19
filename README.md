@@ -45,7 +45,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題8を少しでも進める
         - 結果: 未達。
 
-# 2019/11/17 - 2019/11/18
+# 2019/11/17 - 2019/11/19
 
 - [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
