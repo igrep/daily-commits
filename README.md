@@ -23,7 +23,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題8を少しでも進める
 
-# 2019/11/20 - 2019/11/21
+# 2019/11/20 - 2019/11/22
 
 - Haskell-jp活動:
     - Haskell Day 2019事後処理: レポート記事
