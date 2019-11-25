@@ -23,6 +23,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題8を少しでも進める
 
+# 2019/11/25
+
+- Gotanda.hsの資料: 話す内容を決めた
+- [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- 中国語
+
 # 2019/11/24までの目標
 
 今週もどれか2つぐらい満たせたらいい気分で
