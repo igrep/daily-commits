@@ -25,10 +25,18 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題8を少しでも進める
 
+# 2019/11/30
+
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
+- 中国語
+- その他:
+    - igreque.infoにスライドリスト機能
+
 # 2019/11/29
 
 - Haskell-jp活動:
-    - Haskell Day 2019事後処理: レポート記事の公開
+    - Haskell Day 2019事後処理: レポート記事の公開: <https://haskell.jp/blog/posts/2019/haskell-day-2019.html>
 - Gotanda.hsの資料:
     - 発表・公開: <https://the.igreque.info/slides/2019-11-29-stack-cabal.html>
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
