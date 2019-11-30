@@ -16,17 +16,30 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 記事の公開
 - Haskell-jp活動:
     - Haskell Day 2019事後処理: レポート記事の公開
+        - 結果: 達成
 - Gotanda.hsの資料:
     - 作成・発表
+        - 結果: 達成
 - タイプセーフプリキュア！:
     - Haskell Advent Calendarのネタの実装
 - Haskell入門コンテンツ:
     - 課題8を少しでも進める
 
+# 2019/11/29
+
+- Haskell-jp活動:
+    - Haskell Day 2019事後処理: レポート記事の公開
+- Gotanda.hsの資料:
+    - 発表・公開: <https://the.igreque.info/slides/2019-11-29-stack-cabal.html>
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
+- 中国語
+
 # 2019/11/28
 
 - Gotanda.hsの資料
 - [プログラミングHaskell 第2版](https://www.lambdanote.com/products/haskell-ebook)
+    - 読了
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - 中国語
 
