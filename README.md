@@ -8,12 +8,30 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2019/12/08までの目標
+
+このうち二つでもやりたい
+
+- タイプセーフプリキュア！:
+    - Haskell Advent Calendarのネタの実装
+- Regex Festaの事後処理:
+    - 記事の修正
+- Strict拡張の記事
+    - 記事の初稿完成
+- unicode-showのメンテ
+    - 最新のStackge LTSでビルド
+- chghc
+    - 実装してみる
+- Haskell入門コンテンツ:
+    - 課題8を少しでも進める
+
 # 2019/12/01までの目標
 
-今週は3つぐらいを目標に
+今週は3つぐらいを目標に: ついでにスライド一覧の作成ができたので満足。これでスライドを発表する度に新しい記事を作るという面倒なことをしなくて済む（記事を書きたいときもしばしばあるけど
 
 - Regex Festaの事後処理:
     - 記事の公開
+        - 結果: 未達
 - Haskell-jp活動:
     - Haskell Day 2019事後処理: レポート記事の公開
         - 結果: 達成
@@ -22,10 +40,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 結果: 達成
 - タイプセーフプリキュア！:
     - Haskell Advent Calendarのネタの実装
+        - 結果: 未達
 - Haskell入門コンテンツ:
     - 課題8を少しでも進める
+        - 結果: 未達
 
-# 2019/11/30
+# 2019/11/30 - 2019/12/01
 
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
