@@ -25,7 +25,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題8を少しでも進める
 
-# 2019/12/03 - 2019/12/04
+# 2019/12/03 - 2019/12/05
 
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
