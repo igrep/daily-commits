@@ -8,7 +8,7 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2019/12/08までの目標
+# 2019/12/15までの目標
 
 このうち二つでもやりたい
 
@@ -18,14 +18,35 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 記事の修正
 - Strict拡張の記事
     - 記事の初稿完成
-- unicode-showのメンテ
-    - 最新のStackge LTSでビルド
 - chghc
     - 実装してみる
 - Haskell入門コンテンツ:
     - 課題8を少しでも進める
 
-# 2019/12/07
+# 2019/12/08までの目標
+
+このうち二つでもやりたい
+
+- タイプセーフプリキュア！:
+    - Haskell Advent Calendarのネタの実装
+        - 結果: 未達
+- Regex Festaの事後処理:
+    - 記事の修正
+        - 結果: 未達
+- Strict拡張の記事
+    - 記事の初稿完成
+        - 結果: 未達
+- unicode-showのメンテ
+    - 最新のStackge LTSでビルド
+        - 結果: 達成
+- chghc
+    - 実装してみる
+        - 結果: 未達
+- Haskell入門コンテンツ:
+    - 課題8を少しでも進める
+        - 結果: 未達
+
+# 2019/12/07 - 2019/12/08
 
 - タイプセーフプリキュア！:
     - Haskell Advent Calendarのネタの実装
