@@ -23,10 +23,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題8を少しでも進める
 
-# 2019/12/09
+# 2019/12/09 - 2019/12/09
 
 - タイプセーフプリキュア！:
     - Haskell Advent Calendarのネタの実装: 概ねやることはわかったので後は書くだけ... と思いきや、type familyのinstanceがOVERLAPPABLEにできない問題にぶち当たる。やっぱりタプルの場合は`enter`じゃない別の関数を使う、ぐらいの方が簡単でいいかな...
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
+- 中国語
 
 # 2019/12/08までの目標
 
