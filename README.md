@@ -26,7 +26,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 # 2019/12/09 - 2019/12/10
 
 - タイプセーフプリキュア！:
-    - Haskell Advent Calendarのネタの実装: 
+    - Haskell Advent Calendarのネタの実装:
         - 2019/12/09: 概ねやることはわかったので後は書くだけ... と思いきや、type familyのinstanceがOVERLAPPABLEにできない問題にぶち当たる。やっぱりタプルの場合は`enter`じゃない別の関数を使う、ぐらいの方が簡単でいいかな...
         - 2019/12/10: closedなtype familyを使えばいけるかな、と思ってやってみた。OVERLAPPABLEにできない問題は回避できたものの、今度は定義したtype familyの結果を、`enter`関数の結果から推論できないという問題が。結局全部Template Haskellでゴリゴリ書く方がうまくいきそう
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
