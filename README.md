@@ -23,10 +23,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題8を少しでも進める
 
-# 2019/12/13
+# 2019/12/13 - 2019/12/14
 
 - タイプセーフプリキュア！:
     - Haskell Advent Calendarのネタの実装
+        - 2019/12/14: `enter`関数のタプルサポートを実装。実装できたつもりが、従来の`IsTransformedOrNot`のインスタンスは、プリキュアのグループでの変身でも、ここのプリキュアに対してインスタンスを定義していたため、その中で新しい`EnterAction`のインスタンスを定義しても意味がないようだ。
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
 - 中国語
