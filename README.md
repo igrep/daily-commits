@@ -28,6 +28,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - タイプセーフプリキュア！:
     - Haskell Advent Calendarのネタの実装
         - 2019/12/14: `enter`関数のタプルサポートを実装。実装できたつもりが、従来の`IsTransformedOrNot`のインスタンスは、プリキュアのグループでの変身でも、ここのプリキュアに対してインスタンスを定義していたため、その中で新しい`EnterAction`のインスタンスを定義しても意味がないようだ。
+            - とりあえず解決。残りの問題は、変身が2段階になっているケースの対応。今回はここまではやらないけど、回避策を考えねば
+            - ↑も解決。と思いきや全然意図通り動いてないぞ...
+            - 今度こそできた？と思いきや今度はsplice後のコードでコンパイルエラー。
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
 - 中国語
 
 # 2019/12/12
