@@ -8,9 +8,9 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2019/12/15までの目標
+# 2019/12/22までの目標
 
-このうち二つでもやりたい
+引き続き。このうち二つでもやりたい
 
 - タイプセーフプリキュア！:
     - Haskell Advent Calendarのネタの実装
@@ -23,6 +23,26 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題8を少しでも進める
 
+# 2019/12/15までの目標
+
+このうち二つでもやりたい
+
+- タイプセーフプリキュア！:
+    - Haskell Advent Calendarのネタの実装
+        - 結果: 未達
+- Regex Festaの事後処理:
+    - 記事の修正
+        - 結果: 未達
+- Strict拡張の記事
+    - 記事の初稿完成
+        - 結果: 未達
+- chghc
+    - 実装してみる
+        - 結果: 未達
+- Haskell入門コンテンツ:
+    - 課題8を少しでも進める
+        - 結果: 未達
+
 # 2019/12/13 - 2019/12/14
 
 - タイプセーフプリキュア！:
@@ -31,6 +51,9 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
             - とりあえず解決。残りの問題は、変身が2段階になっているケースの対応。今回はここまではやらないけど、回避策を考えねば
             - ↑も解決。と思いきや全然意図通り動いてないぞ...
             - 今度こそできた？と思いきや今度はsplice後のコードでコンパイルエラー。
+        - 2019/12/15:
+            - `enter`関数のタプルサポートを実装。やっとできた。Template Haskellが生成したコードのどこに型エラーがあるかわかりづらい...
+            - `transform`の実装開始。
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
 - 中国語
