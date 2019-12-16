@@ -43,7 +43,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題8を少しでも進める
         - 結果: 未達
 
-# 2019/12/13 - 2019/12/14
+# 2019/12/13 - 2019/12/16
 
 - タイプセーフプリキュア！:
     - Haskell Advent Calendarのネタの実装
@@ -54,6 +54,8 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 2019/12/15:
             - `enter`関数のタプルサポートを実装。やっとできた。Template Haskellが生成したコードのどこに型エラーがあるかわかりづらい...
             - `transform`の実装開始。
+        - 2019/12/16:
+            - 引き続き`transform`の実装。
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
 - 中国語
