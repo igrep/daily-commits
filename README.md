@@ -43,7 +43,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題8を少しでも進める
         - 結果: 未達
 
-# 2019/12/13 - 2019/12/16
+# 2019/12/13 - 2019/12/17
 
 - タイプセーフプリキュア！:
     - Haskell Advent Calendarのネタの実装
@@ -56,6 +56,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
             - `transform`の実装開始。
         - 2019/12/16:
             - 引き続き`transform`の実装。
+        - 2019/12/17:
+            - `transform`の実装できた？と思いきや、type familyを合成している箇所でtype familyの実行結果が推論できないのか、インスタンスになっているかわからない、とのエラーが。  
+              PSet型クラスをPSetAll型クラスみたいな、複数の型（というかタプル型の場合）に結果が変わるように作る必要がありそう。  
+              PSetAllを作ろうと思うと最初に考えたアイディアと同様に、type familyがoverlapできない問題にぶち当たるだろうから、Template Haskellで生成するときに、タプルじゃない、単体の型のインスタンスを生成するとき、長さ1のタプルでラップしてあげればいいのか。  
+              <https://twitter.com/igrep/status/1206887264036352001>
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
 - 中国語
