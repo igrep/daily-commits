@@ -43,7 +43,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題8を少しでも進める
         - 結果: 未達
 
-# 2019/12/13 - 2019/12/18
+# 2019/12/13 - 2019/12/19
 
 - タイプセーフプリキュア！:
     - Haskell Advent Calendarのネタの実装
@@ -63,6 +63,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
               <https://twitter.com/igrep/status/1206887264036352001>
         - 2019/12/18:
             - 必要なのは`PSetAll`みたいにタプルのサイズごとに`PSet`のインスタンスを作ることではなく、`PSet`で`hSetValIf`に渡す条件を`==`から、タプルのサイズごとに判定方法を変える`TElem`を作ることだった。
+            - で、それによって`TransformAction`の実装が（多分）できた。
+            - ので、続きとして`PurifyAction`の実装に取り組むも、`purificationInstance`を定義する時点で、変身前のプリキュアの情報がとれないため、現状ではうまくできないことがわかった   
+              （去年の時点では`AsGirl`という型族を使っていたためクリアできていたが、今回はそれは使えないと当初判断した）
+            - ので、変身前後の情報を`unsafePerformIO`で作ったグローバル変数に入れてやることにした...。  
+              他の方法もありそうだけど、この後検討していた、2段階以上の変身を正しく表現する修正にもあった方が確実そうなので、やむを得まい。  
+              でも`AsGirl`型族をうまく使えばそれもできそうな気もしなくはない。迷うな。
+        - 2019/12/19:
+            - とりあえずTemplate Haskellで`unsafePerformIO`使うことで変身前後の情報を保存する方向で実装中
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
 - 中国語
