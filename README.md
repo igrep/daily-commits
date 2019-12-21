@@ -43,7 +43,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題8を少しでも進める
         - 結果: 未達
 
-# 2019/12/13 - 2019/12/20
+# 2019/12/13 - 2019/12/21
 
 - タイプセーフプリキュア！:
     - Haskell Advent Calendarのネタの実装
@@ -76,6 +76,8 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
               <https://mobile.twitter.com/igrep/status/1207903230002257920>
             - 従来それだと無理だろうと考えていたのは、transformationsの情報を、ファイルをまたいで共有する必要があると思ったから（特に、Yes5.hsとYes5GoGo.hsにおいて）。でも、実際のところそうなってはいなかった。  
               <https://mobile.twitter.com/igrep/status/1207904270676135936>
+        - 2019/12/21:
+            - 結局、また同じ型エラーにぶち当たってしまった、ように見える。今年のHaskell Advent Calendarは別のネタにしよう...
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
 - 中国語
