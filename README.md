@@ -23,6 +23,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題8を少しでも進める
 
+# 2019/12/23
+
+- タイプセーフプリキュア！:
+    - キュアコスモの変身の修正
+- Regex Festaの事後処理:
+    - 一部修正
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
+- 中国語
+
 # 2019/12/22までの目標
 
 引き続き。このうち二つでもやりたい
