@@ -14,14 +14,25 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - タイプセーフプリキュア！:
     - キュアコスモの変身の修正
+        - 結果: 達成
 - Regex Festaの事後処理:
     - 記事の修正
+        - 結果: 達成
 - Strict拡張の記事
     - 記事の初稿完成
 - chghc
     - 実装してみる
 - Haskell入門コンテンツ:
     - 課題8を少しでも進める
+        - 結果: 達成
+
+# 2019/12/26
+
+- Haskell入門コンテンツ:
+    - 課題8を少しだけ
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
+- 中国語
 
 # 2019/12/25
 
