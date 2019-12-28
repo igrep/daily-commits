@@ -26,6 +26,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題8を少しでも進める
         - 結果: 達成
 
+# 2019/12/28
+
+- Haskell入門コンテンツ:
+    - 課題8を書いていて、いろいろ前提知識が足りないことに気づいた。if式と型の名前について前の課題でやるべきではないだろうか。
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
+- [Mastering Reverse Engineering](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering)
+- 中国語
+
 # 2019/12/26 - 2019/12/27
 
 - Haskell入門コンテンツ:
