@@ -8,6 +8,12 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2020/01/05までの目標
+
+- Haskell入門コンテンツ:
+    - 課題3.5に挟んだ型と型エラーの解説
+    - if式の説明をどこかに挟む
+
 # 2019/12/29までの目標
 
 引き続き。このうち三つやりたい
@@ -20,16 +26,19 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 結果: 達成
 - Strict拡張の記事
     - 記事の初稿完成
+        - 結果: 未達
 - chghc
     - 実装してみる
+        - 結果: 未達
 - Haskell入門コンテンツ:
     - 課題8を少しでも進める
         - 結果: 達成
 
-# 2019/12/28
+# 2019/12/28 - 2019/12/29
 
 - Haskell入門コンテンツ:
-    - 課題8を書いていて、いろいろ前提知識が足りないことに気づいた。if式と型の名前について前の課題でやるべきではないだろうか。
+    - 2019/12/28: 課題8を書いていて、いろいろ前提知識が足りないことに気づいた。if式と型の名前について前の課題でやるべきではないだろうか。
+    - 2019/12/29: 型の解説書き始め
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
 - [Mastering Reverse Engineering](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering)
