@@ -34,13 +34,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題8を少しでも進める
         - 結果: 達成
 
-# 2019/12/28 - 2019/12/30
+# 2019/12/28 - 2019/12/31
 
 - Haskell入門コンテンツ:
     - 2019/12/28: 課題8を書いていて、いろいろ前提知識が足りないことに気づいた。if式と型の名前について前の課題でやるべきではないだろうか。
     - 2019/12/29: 型の解説書き始め
     - 2019/12/30: 型の解説自体は課題5でやっていたため、課題5のおまけとして他の型をちょっとだけ紹介するのが良いのではないか
         - 課題5の次の課題を間に挟むことにした。そこで`Bool`と`if`にしれっと触れる
+    - 2019/12/31: 課題5.5引き続き。
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
 - [Mastering Reverse Engineering](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering)
