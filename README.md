@@ -12,6 +12,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - Haskell入門コンテンツ:
     - 課題5.5に挟んだif式の説明
+        - 結果: 未達
+
+# 2020/01/05
+
+- Haskell-jp活動:
+    - Fix: [日本語が混ざったコミットメッセージを与えるとエラーを返すことがある · Issue #14 · haskell-jp/haskell-jp-wiki](https://github.com/haskell-jp/haskell-jp-wiki/issues/14)
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
+- [Mastering Reverse Engineering](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering)
+- 中国語
 
 # 2020/01/01 - 2020/01/04
 
