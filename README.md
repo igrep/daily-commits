@@ -25,10 +25,19 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - chghc
     - 実装してみる
 
+# 2020/01/10
+
+- Strict拡張の記事
+    - イントロダクションを途中まで
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
+- [Mastering Reverse Engineering](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering)
+- 中国語
+
 # 2020/01/08 - 2020/01/09
 
 - Haskell入門コンテンツ:
-    - 2020/01/08: 課題5.5引き続き
+    - 2020/01/08 - 2020/01/09: 課題5.5引き続き
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
 - [Mastering Reverse Engineering](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering)
