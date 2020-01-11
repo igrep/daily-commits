@@ -17,13 +17,25 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Strict拡張の記事
     - 記事の初稿を半分程度
 - stackのバグ
-    - extra-deps, stack clean: 同様のバグがないか探す
+    - extra-deps, stack clean: 再現ケースを作って同様のバグがないか探す
 - stackageのRSSが遅い問題
     - 直し方を調べてコメント
+        - 結果: 達成 <https://github.com/fpco/stackage-server/pull/282>
 - Pharo By Example
     - First appの実装
 - chghc
     - 実装してみる
+
+# 2020/01/11
+
+- stackageのRSSが遅い問題
+    - 直し方を調べてコメント
+        - isssueへの返事もどうせなさそうだし、軽く調べた感じ簡単に直せそうだったので直してみた: <https://github.com/fpco/stackage-server/pull/282>
+            - 自前で動かすのが非常に面倒そうなので試せてないけど...
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
+- [Mastering Reverse Engineering](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering)
+- 中国語
 
 # 2020/01/10
 
