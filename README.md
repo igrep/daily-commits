@@ -12,6 +12,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - Haskell入門コンテンツ:
     - 課題5.5に挟んだif式の説明
+        - 結果: 達成
     - 課題8の不足箇所を埋める
 - Strict拡張の記事
     - 記事の初稿を半分程度
@@ -24,6 +25,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - First appの実装
 - chghc
     - 実装してみる
+
+# 2020/01/14
+
+- Haskell入門コンテンツ:
+    - 課題5.5に挟んだif式の説明: ひとまず完成: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/b22bee3d507146bf7cfa6370f85da8d2210ed33d>
+- [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
+- [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
+- [Mastering Reverse Engineering](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering)
+- 中国語
+- 英語
 
 # 2020/01/13
 
