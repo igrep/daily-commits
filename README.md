@@ -28,10 +28,11 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - chghc
     - 実装してみる
 
-# 2020/01/18
+# 2020/01/18 - 2020/01/19
 
 - Strict拡張の記事
-    - サンプルコードの動かし方、使用した環境の記載
+    - 2020/01/18: サンプルコードの動かし方、使用した環境の記載
+    - 2020/01/19: 各サンプルの見出し
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
 - [Mastering Reverse Engineering](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering)
