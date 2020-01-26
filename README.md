@@ -22,7 +22,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - chghc
     - 実装してみる
 
-# 2020/01/24
+# 2020/01/24- 2020/01/25
 
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
