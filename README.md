@@ -42,7 +42,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 実装してみる
         - 結果: 未達
 
-# 2020/01/24 - 2020/01/26
+# 2020/01/24 - 2020/01/27
 
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
