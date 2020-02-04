@@ -45,10 +45,10 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 実装してみる
         - 結果: 未達
 
-# 2020/02/03
+# 2020/02/03 - 2020/02/04
 
 - Haskell入門コンテンツ:
-    - 2020/02/03: 引き続き課題8
+    - 2020/02/03 - 2020/02/04: 引き続き課題8
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
 - [Mastering Reverse Engineering](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering)
