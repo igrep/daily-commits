@@ -8,12 +8,13 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2020/02/09までの目標
+# 2020/02/16までの目標
 
 - Haskell入門コンテンツ:
     - 課題8の不足箇所を埋める
     - 課題7の不足箇所を埋める
 - Neovimの改善
+    - Deniteの改善
     - open-my-project.vim
     - Vimとお別れ
 - Strict拡張の記事
@@ -25,7 +26,32 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - chghc
     - 実装してみる
 
-# 2020/02/08
+# 2020/02/09までの目標
+
+- Haskell入門コンテンツ:
+    - 課題8の不足箇所を埋める
+        - 結果: 未達
+    - 課題7の不足箇所を埋める
+        - 結果: 未達
+- Neovimの改善
+    - open-my-project.vim
+        - 結果: 未達
+    - Vimとお別れ
+        - 結果: 未達
+- Strict拡張の記事
+    - 記事の初稿を半分程度
+        - 結果: 未達
+- stackのバグ
+    - extra-deps, stack clean: 再現ケースを作って同様のバグがないか探す
+        - 結果: 未達
+- Pharo By Example
+    - First appの実装
+        - 結果: 未達
+- chghc
+    - 実装してみる
+        - 結果: 未達
+
+# 2020/02/08 - 2020/02/09
 
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
