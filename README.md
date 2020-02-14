@@ -26,17 +26,19 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - chghc
     - 実装してみる
  
-# 2020/02/10 - 2020/02/12
+# 2020/02/10 - 2020/02/13
 
 - Neovimの改善
     - 2020/02/10 - 2020/02/11: Deniteの改善
     - 2020/02/11: Neovimのバグ報告 <https://github.com/neovim/neovim/issues/11850>
     - 2020/02/12: バグを報告してから、よくよく考えたら`term://`への`autocmd`は`TermOpen`のみで良いことに気づき、直した。  
+    - 2020/02/13: denite-mappingの作成開始
       これで長いこと少し悩んでいた問題を回避できる。
 - [The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)
 - [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
 - [Mastering Reverse Engineering](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering)
 - オランダ語
+- 英語
 
 # 2020/02/09までの目標
 
