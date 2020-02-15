@@ -26,6 +26,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - chghc
     - 実装してみる
  
+# 2020/02/15
+
+- Haskell-jp Blog:
+    - 記事書いてPull requestを送った
+        - <https://github.com/haskell-jp/blog/pull/187>
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
+- [Mastering Reverse Engineering](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering)
+- オランダ語
+ 
 # 2020/02/11 - 2020/02/14
 
 - Neovimの改善
