@@ -25,6 +25,20 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - First appの実装
 - chghc
     - 実装してみる
+ 
+# 2020/02/17 - 2020/02/18
+
+- Neovimの改善
+    - 2020/02/17: Deniteの改善
+        - denite-mappingを公開
+    - 2020/02/17 - 2020/02/18: terminal-registryの修正
+        - 最低限`tag`から`id`への変更は完了。
+        - あと`id`が被ったら古いプロセスをkillして閉じる機能も作ろうかな
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
+- [Mastering Reverse Engineering](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering)
+- オランダ語
+- 英語
 
 # 2020/02/16までの目標
 
@@ -52,18 +66,6 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - chghc
     - 実装してみる
         - 結果: 未達
- 
-# 2020/02/17
-
-- Neovimの改善
-    - Deniteの改善
-        - denite-mappingを公開
-        - terminal-registryの修正開始
-- [Rust in Action](https://www.manning.com/books/rust-in-action)
-- [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
-- [Mastering Reverse Engineering](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering)
-- オランダ語
-- 英語
  
 # 2020/02/16
 
