@@ -26,14 +26,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - chghc
     - 実装してみる
  
-# 2020/02/17 - 2020/02/18
+# 2020/02/17 - 2020/02/19
 
 - Neovimの改善
     - 2020/02/17: Deniteの改善
         - denite-mappingを公開
-    - 2020/02/17 - 2020/02/18: terminal-registryの修正
+    - 2020/02/17 - 2020/02/19: terminal-registryの修正
         - 最低限`tag`から`id`への変更は完了。
-        - あと`id`が被ったら古いプロセスをkillして閉じる機能も作ろうかな
+        - id`が被ったら古いプロセスをkillして閉じる機能を実装（まだテストしてない）
+        - 次は`open_or_switch`や`send`、`unregsiter`から`cmd`という引数をなくして直接`id`を指定させる形式に変えよう
+            - `open_or_switch`は`switch`に変更
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
 - [Mastering Reverse Engineering](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering)
