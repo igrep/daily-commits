@@ -14,7 +14,6 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題8の不足箇所を埋める
     - 課題7の不足箇所を埋める
 - Neovimの改善
-    - Deniteの改善
     - open-my-project.vim
     - Vimとお別れ
 - Strict拡張の記事
