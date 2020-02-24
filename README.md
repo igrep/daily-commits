@@ -14,7 +14,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題8の不足箇所を埋める
     - 課題7の不足箇所を埋める
 - Neovimの改善
-    - open-my-project.vim
+    - my-project-opener.vim
     - Vimとお別れ
 - Strict拡張の記事
     - 記事の初稿を半分程度
@@ -35,7 +35,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Neovimの改善
     - Deniteの改善
         - 結果: 達成
-    - open-my-project.vim
+    - my-project-opener.vim
         - 結果: 未達
     - Vimとお別れ
         - 結果: 未達
@@ -52,13 +52,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 実装してみる
         - 結果: 未達
  
-# 2020/02/22 - 2020/02/23
+# 2020/02/22 - 2020/02/24
 
 - Neovimの改善
     - 2020/02/22:
-        - open-my-project.vim、の前に、一緒に使うことになるであろうプラグインを作成
+        - my-project-opener.vim、の前に、一緒に使うことになるであろうプラグインを作成
     - 2020/02/23:
-        - open-my-project.vimの作成。昨日作った一緒に使うことになるであろうプラグイン、my-session-loader.vimと組み合わせたとき、うまく動いていないように見える。またneovimのバグのような気がする...
+        - my-project-opener.vimの作成。昨日作った一緒に使うことになるであろうプラグイン、my-session-loader.vimと組み合わせたとき、うまく動いていないように見える。またneovimのバグのような気がする...
+    - 2020/02/24:
+        - 昨日発覚した問題も回避して、最低限欲しい機能を実装できた
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
 - [Mastering Reverse Engineering](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering)
@@ -92,7 +94,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Neovimの改善
     - Deniteの改善
         - 結果: 未達。もうちょっと
-    - open-my-project.vim
+    - my-project-opener.vim
         - 結果: 未達
     - Vimとお別れ
         - 結果: 未達
@@ -165,7 +167,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題7の不足箇所を埋める
         - 結果: 未達
 - Neovimの改善
-    - open-my-project.vim
+    - my-project-opener.vim
         - 結果: 未達
     - Vimとお別れ
         - 結果: 未達
