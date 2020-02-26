@@ -25,11 +25,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - chghc
     - 実装してみる
  
-# 2020/02/25
+# 2020/02/25 - 2020/02/26
 
 - Haskell入門コンテンツ:
     - 課題8の不足箇所を埋める
-        - これで一通り埋まったはず
+        - 2020/02/25: これで一通り埋まったはず
+        - 2020/02/26: 一部修正
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
 - [Mastering Reverse Engineering](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering)
