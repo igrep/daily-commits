@@ -12,6 +12,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - Haskell入門コンテンツ:
     - 課題8の不足箇所を埋める
+        - 結果: 達成
     - 課題7の不足箇所を埋める
 - Neovimの改善
     - my-project-opener.vim
@@ -24,6 +25,18 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - First appの実装
 - chghc
     - 実装してみる
+ 
+# 2020/02/29
+
+- Haskell入門コンテンツ:
+    - 課題8の不足箇所を埋める
+        - 2020/02/29: できたはず。
+    - 課題7の不足箇所を埋める
+        - 2020/02/29: 各所修正しつつ進めてる。
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
+- [Mastering Reverse Engineering](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering)
+- オランダ語
  
 # 2020/02/25 - 2020/02/28
 
