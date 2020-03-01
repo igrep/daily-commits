@@ -8,23 +8,44 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2020/03/08までの目標
+
+- Reverse Engineering:
+    - Derek Banasさんのassembly tutorialのうち、書きたい箇所を写経して試す
+
 # 2020/03/01までの目標
 
 - Haskell入門コンテンツ:
     - 課題8の不足箇所を埋める
         - 結果: 達成
     - 課題7の不足箇所を埋める
+        - 結果: 未達
 - Neovimの改善
     - my-project-opener.vim
+        - 結果: 達成
     - Vimとお別れ
+        - 結果: 未達
 - Strict拡張の記事
     - 記事の初稿を半分程度
+        - 結果: 未達
 - stackのバグ
     - extra-deps, stack clean: 再現ケースを作って同様のバグがないか探す
+        - 結果: 未達
 - Pharo By Example
     - First appの実装
+        - 結果: 未達
 - chghc
     - 実装してみる
+        - 結果: 未達
+ 
+# 2020/03/01
+
+- Strict拡張の記事
+    - ほんのわずかに進めた
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
+- [Mastering Reverse Engineering](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering)
+- オランダ語
  
 # 2020/02/29
 
