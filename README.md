@@ -12,6 +12,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - Reverse Engineering:
     - Derek Banasさんのassembly tutorialのうち、書きたい箇所を写経して試す
+ 
+# 2020/03/02
+
+- Reverse Engineering:
+    - Derek Banasさんのassembly tutorialのstdinから受け取ってstdoutに出す処理を書いてみてる
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
+- [Mastering Reverse Engineering](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering)
+- オランダ語
+- 英語
 
 # 2020/03/01までの目標
 
