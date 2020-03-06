@@ -13,13 +13,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Reverse Engineering:
     - Derek Banasさんのassembly tutorialのうち、書きたい箇所を写経して試す
  
-# 2020/03/02 - 2020/03/05
+# 2020/03/02 - 2020/03/06
 
 - Reverse Engineering:
     - 2020/03/02 - 2020/03/03: Derek Banasさんのassembly tutorialのstdinから受け取ってstdoutに出す処理を書いてみた
     - 2020/03/03: そのまま続けてbranchingやBICの例を書いてみた
     - 2020/03/04: ループ処理を書いて、初めてデバッガーを起動させた（まだ起動させただけ
     - 2020/03/05: ステップ実行できた
+    - 2020/03/06: 「XXI. Memory Storage」のサンプルを書いてる
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
 - [Mastering Reverse Engineering](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering)
