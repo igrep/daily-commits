@@ -8,11 +8,27 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2020/03/15までの目標
+
+- Reverse Engineering:
+    - Derek Banasさんのassembly tutorialのうち、書きたい箇所を写経して試す
+    - GHCが生成したHello Worldの動作をIDA Proで理解する
+
 # 2020/03/08までの目標
 
 - Reverse Engineering:
     - Derek Banasさんのassembly tutorialのうち、書きたい箇所を写経して試す
- 
+        - 結果: 未達
+
+# 2020/03/08
+
+- タイプセーフプリキュア:
+    - ヒーリングっど♡プリキュアの追加: <https://github.com/igrep/typesafe-precure/pull/42>
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
+- [たのしいバイナリの歩き方](https://gihyo.jp/book/2013/978-4-7741-5918-8)
+- オランダ語
+
 # 2020/03/07
 
 - Reverse Engineering:
@@ -21,7 +37,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
 - [Mastering Reverse Engineering](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering)
 - オランダ語
- 
+
 # 2020/03/02 - 2020/03/06
 
 - Reverse Engineering:
