@@ -14,12 +14,13 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Derek Banasさんのassembly tutorialのうち、書きたい箇所を写経して試す
     - GHCが生成したHello Worldの動作をIDA Proで理解する
 
-# 2020/03/09 - 2020/03/10
+# 2020/03/09 - 2020/03/11
 
 - Reverse Engineering:
     - 2020/03/09: 「XXV. The Stack (Slide)」の最初のサンプルをとりあえずコピペ
     - 2020/03/10: コピペして修正したものを動かしてみるも、なぜかBus errorに。
         - <https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/posts/using-the-stack-in-aarch64-implementing-push-and-pop> で解説してることかな？
+    - 2020/03/11: やはりBus errorの原因はalignmentを間違えていたからだった。コピペして修正したコードが動いた。
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
 - [たのしいバイナリの歩き方](https://gihyo.jp/book/2013/978-4-7741-5918-8)
