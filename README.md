@@ -21,7 +21,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2020/03/10: コピペして修正したものを動かしてみるも、なぜかBus errorに。
         - <https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/posts/using-the-stack-in-aarch64-implementing-push-and-pop> で解説してることかな？
     - 2020/03/11: やはりBus errorの原因はalignmentを間違えていたからだった。コピペして修正したコードが動いた。
-    - 2020/03/12: 動いたけどなんかおかしい... と思ったら、びっくりマークを付け忘れたせいか、SPの値が変わってなかった。
+    - 2020/03/12: 「XXV. The Stack (Slide)」の二つ目のサンプルを書いたけどなんかおかしい... と思ったら、びっくりマークを付け忘れたせいか、SPの値が変わってなかった。
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
 - [たのしいバイナリの歩き方](https://gihyo.jp/book/2013/978-4-7741-5918-8)
