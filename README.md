@@ -8,11 +8,32 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2020/03/22までの目標
+
+- Reverse Engineering:
+    - GHCが生成したHello Worldの動作をIDA Proで理解する
+
 # 2020/03/15までの目標
 
 - Reverse Engineering:
     - Derek Banasさんのassembly tutorialのうち、書きたい箇所を写経して試す
+        - 結果: 達成。最後の方うまく動かないけどもう飽きたしいいや
     - GHCが生成したHello Worldの動作をIDA Proで理解する
+        - 結果: 未達
+
+# 2020/03/14 - 2020/03/15
+
+- Reverse Engineering:
+    - 2020/03/14: Haskell-jpもくもく会にて、GHCが`main = putStrLn "hello"`をコンパイルした結果をIDA Proやradare2で調査。
+        - いろいろ初めてづくしだったので今日は手探りで終わった感じ
+        - レジスターの使い方にどうもGHC RTS固有のルールがあるような気がする、けどわからん
+        - 聞いてたとおりclosureの評価に入ったらjmpだらけなので、やっぱCのプログラムとは大分違うなぁ
+    - 2020/03/15:
+        - 「XXVI. LIBC」の節にチャレンジしたけどうまく動かず。Termux上で直接やったらうまくいくかもだけど、もう飽きたしだいたいわかったしいいや。
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
+- [たのしいバイナリの歩き方](https://gihyo.jp/book/2013/978-4-7741-5918-8)
+- オランダ語
 
 # 2020/03/09 - 2020/03/14
 
@@ -23,10 +44,6 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2020/03/11: やはりBus errorの原因はalignmentを間違えていたからだった。コピペして修正したコードが動いた。
     - 2020/03/12: 「XXV. The Stack (Slide)」の二つ目のサンプルを書いたけどなんかおかしい... と思ったら、びっくりマークを付け忘れたせいか、SPの値が変わってなかった。
     - 2020/03/13: びっくりマークでSPの値を変えることで解決。でも`LDP`した場合は相変わらずうまくいかないな。まぁいいか。
-    - 2020/03/14: Haskell-jpもくもく会にて、GHCが`main = putStrLn "hello"`をコンパイルした結果をIDA Proやradare2で調査。
-        - いろいろ初めてづくしだったので今日は手探りで終わった感じ
-        - レジスターの使い方にどうもGHC RTS固有のルールがあるような気がする、けどわからん
-        - 聞いてたとおりclosureの評価に入ったらjmpだらけなので、やっぱCのプログラムとは大分違うなぁ
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
 - [たのしいバイナリの歩き方](https://gihyo.jp/book/2013/978-4-7741-5918-8)
