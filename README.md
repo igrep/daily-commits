@@ -12,6 +12,18 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - Reverse Engineering:
     - GHCが生成したHello Worldの動作をIDA Proで理解する
+        - 文字列リテラルを`[String]`に変換する仕組みをアセンブリーで理解
+        - libcの出力系関数にたどり着くまでをアセンブリーで理解
+
+# 2020/03/16
+
+- Reverse Engineering:
+    - 2020/03/16: 該当の箇所を再度IDA Proで開いただけ
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
+- [たのしいバイナリの歩き方](https://gihyo.jp/book/2013/978-4-7741-5918-8)
+- オランダ語
+- 英語
 
 # 2020/03/15までの目標
 
