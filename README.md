@@ -15,11 +15,18 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 文字列リテラルを`[String]`に変換する仕組みをアセンブリーで理解
         - libcの出力系関数にたどり着くまでをアセンブリーで理解
 
-# 2020/03/16 - 2020/03/17
+# 2020/03/16 - 2020/03/18
 
 - Reverse Engineering:
     - 2020/03/16: 該当の箇所を再度IDA Proで開いただけ
     - 2020/03/17: まだわからん
+    - 2020/03/18:
+        - `unpackCString`や`GHC.Event.Poll.new`の関数の入り口に、以下のようなコードがあった。他の関数にもあるのだろうか  
+          ```
+          lea     rax, [rbp-10h] ; rbpを下げる幅は異なる
+          cmp     rax, r15
+          jb      short loc_456223
+          ```
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
 - [たのしいバイナリの歩き方](https://gihyo.jp/book/2013/978-4-7741-5918-8)
