@@ -20,7 +20,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - その他:
     - Folding@homeについて調査
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
-- [Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
+- [Radare2 Book](https://radare.gitbooks.io/radare2book/)
 - [たのしいバイナリの歩き方](https://gihyo.jp/book/2013/978-4-7741-5918-8)
 - オランダ語
 
