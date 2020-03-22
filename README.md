@@ -8,12 +8,33 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2020/03/29までの目標
+
+
 # 2020/03/22までの目標
 
 - Reverse Engineering:
     - GHCが生成したHello Worldの動作をIDA Proで理解する
         - 文字列リテラルを`[String]`に変換する仕組みをアセンブリーで理解
--       - libcの出力系関数にたどり着くまでをアセンブリーで理解
+            - 結果: 未達
+        - libcの出力系関数にたどり着くまでをアセンブリーで理解
+            - 結果: 未達
+ 
+# 2020/03/22
+
+- その他:
+    - Folding@homeについてブログ記事を書いた: <https://the.igreque.info/posts/2020/01-folding-at-home.html>
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [Radare2 Book](https://radare.gitbooks.io/radare2book/)
+- [たのしいバイナリの歩き方](https://gihyo.jp/book/2013/978-4-7741-5918-8)
+- 中国語
+ 
+# 2020/03/21
+
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [Radare2 Book](https://radare.gitbooks.io/radare2book/)
+- [たのしいバイナリの歩き方](https://gihyo.jp/book/2013/978-4-7741-5918-8)
+- 中国語
  
 # 2020/03/20
 
