@@ -10,6 +10,22 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 # 2020/03/29までの目標
 
+- Strict拡張の記事:
+    - 記事の初稿を書き上げる
+- wasm2arm32 compiler:
+    - RasPi 4のセットアップ
+
+# 2020/03/23
+
+- wasm2arm32 compiler:
+    - RasPi 4のセットアップ
+        - ケースに入れただけ
+- Strict拡張の記事:
+    - ちょっと進めた
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [Radare2 Book](https://radare.gitbooks.io/radare2book/)
+- [たのしいバイナリの歩き方](https://gihyo.jp/book/2013/978-4-7741-5918-8)
+- 中国語
 
 # 2020/03/22までの目標
 
@@ -19,7 +35,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
             - 結果: 未達
         - libcの出力系関数にたどり着くまでをアセンブリーで理解
             - 結果: 未達
- 
+
 # 2020/03/22
 
 - その他:
@@ -28,14 +44,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - [Radare2 Book](https://radare.gitbooks.io/radare2book/)
 - [たのしいバイナリの歩き方](https://gihyo.jp/book/2013/978-4-7741-5918-8)
 - 中国語
- 
+
 # 2020/03/21
 
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [Radare2 Book](https://radare.gitbooks.io/radare2book/)
 - [たのしいバイナリの歩き方](https://gihyo.jp/book/2013/978-4-7741-5918-8)
 - 中国語
- 
+
 # 2020/03/20
 
 - その他:
