@@ -15,12 +15,22 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - wasm2arm32 compiler:
     - RasPi 4のセットアップ
 
-# 2020/03/23 - 2020/03/24
+# 2020/03/24 - 2020/03/25
 
 - wasm2arm32 compiler:
     - RasPi 4のセットアップ
-        - 2020/03/23: ケースに入れただけ
         - 2020/03/24: OSの初期設定完了。
+        - 2020/03/25: sshやunisonのビルド
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [Radare2 Book](https://radare.gitbooks.io/radare2book/)
+- [たのしいバイナリの歩き方](https://gihyo.jp/book/2013/978-4-7741-5918-8)
+- 中国語
+
+# 2020/03/23
+
+- wasm2arm32 compiler:
+    - RasPi 4のセットアップ
+        - ケースに入れただけ
 - Strict拡張の記事:
     - ちょっと進めた
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
