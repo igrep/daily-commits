@@ -14,14 +14,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 記事の初稿を書き上げる
 - wasm2arm32 compiler:
     - RasPi 4のセットアップ
+        - 結果: 達成
 
-# 2020/03/24 - 2020/03/26
+# 2020/03/24 - 2020/03/27
 
 - wasm2arm32 compiler:
     - RasPi 4のセットアップ
         - 2020/03/24: OSの初期設定完了。
         - 2020/03/25: sshやunisonのインストール
-        - 2020/03/26: sshの有効化
+        - 2020/03/26: sshの有効化、固定IPの設定
+        - 2020/03/27: 固定IPの設定が間違っていたので修正
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [Radare2 Book](https://radare.gitbooks.io/radare2book/)
 - [たのしいバイナリの歩き方](https://gihyo.jp/book/2013/978-4-7741-5918-8)
