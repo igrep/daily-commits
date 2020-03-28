@@ -16,6 +16,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - RasPi 4のセットアップ
         - 結果: 達成
 
+# 2020/03/28
+
+- igrep-cashbook: Rustへの移植を久々に。パーサーのコンパイルが通せたけどテストが通らない。combine難しい
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [Radare2 Book](https://radare.gitbooks.io/radare2book/)
+- [たのしいバイナリの歩き方](https://gihyo.jp/book/2013/978-4-7741-5918-8)
+- 中国語
+
 # 2020/03/24 - 2020/03/27
 
 - wasm2arm32 compiler:
