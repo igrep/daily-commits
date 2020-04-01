@@ -15,11 +15,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - wasm2arm32 compiler:
     - Derek Banasさんのassembly tutorialのサンプルを試す
 
-# 2020/03/30 - 2020/03/31
+# 2020/03/30 - 2020/04/01
 
 - wasm2arm32 compiler:
     - 2020/03/30: サンプルを試せるよう準備。unisonの設定とか
     - 2020/03/31: Derek Banasさんの最初のサンプルを試した。普通に試せた。まさか`@`でコメントも使えるとは
+    - 2020/04/01: Derek Banasさんの、libcを呼び出すサンプルもできた。`R0`のレジスターを変えれば`main`の戻り値、つまりexit codeも変えられることがわかった
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [Radare2 Book](https://radare.gitbooks.io/radare2book/)
 - [たのしいバイナリの歩き方](https://gihyo.jp/book/2013/978-4-7741-5918-8)
