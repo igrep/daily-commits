@@ -15,7 +15,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - wasm2arm32 compiler:
     - Derek Banasさんのassembly tutorialのサンプルを試す
 
-# 2020/03/30 - 2020/04/02
+# 2020/03/30 - 2020/04/03
 
 - wasm2arm32 compiler:
     - 2020/03/30: サンプルを試せるよう準備。unisonの設定とか
@@ -24,6 +24,9 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2020/04/02:
         - Derek Banasさんの、stackを操作するサンプルも確認。やっぱりAArch64のようにalignmentの制限はないらしい。
         - あとはオリジナルの関数をgccでリンクさせてCから呼んでみようか。
+    - 2020/04/03:
+        - Derek Banasさんの、関数を作ってassemblyから呼ぶサンプルを試した。  
+          なぜか関数呼び出しの際リンクレジスターをスタックに入れてないので、呼び出し規約を守れてないのでは...
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [Radare2 Book](https://radare.gitbooks.io/radare2book/)
 - [たのしいバイナリの歩き方](https://gihyo.jp/book/2013/978-4-7741-5918-8)
