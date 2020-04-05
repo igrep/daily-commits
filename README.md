@@ -15,6 +15,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - wasm2arm32 compiler:
     - Derek Banasさんのassembly tutorialのサンプルを試す
 
+# 2020/04/05
+
+- Strict拡張の記事: またちょろっとだけ進めた
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [Radare2 Book](https://radare.gitbooks.io/radare2book/)
+- [たのしいバイナリの歩き方](https://gihyo.jp/book/2013/978-4-7741-5918-8)
+- 中国語
+
 # 2020/04/04
 
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
