@@ -16,13 +16,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Derek Banasさんのassembly tutorialのサンプルを試す
     - Wasmerのパーサーを使ってwasmファイルをパースするまで
 
-# 2020/04/06 - 2020/04/07
+# 2020/04/06 - 2020/04/08
 
 - wasm2arm32 compiler:
     - 2020/04/06:
         - 呼び出し規約を調べるためにPractical Reverse Engineeringを読み返してる
     - 2020/04/07:
         - だいたい呼び出し規約がわかったので関数を書いてみた。試すのは明日
+    - 2020/04/08:
+        - Makefileを書いてみたが、gccのオプションが間違っているらしく、リンクできない
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [Radare2 Book](https://radare.gitbooks.io/radare2book/)
 - [たのしいバイナリの歩き方](https://gihyo.jp/book/2013/978-4-7741-5918-8)
