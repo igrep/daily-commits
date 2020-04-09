@@ -16,7 +16,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Derek Banasさんのassembly tutorialのサンプルを試す
     - Wasmerのパーサーを使ってwasmファイルをパースするまで
 
-# 2020/04/06 - 2020/04/08
+# 2020/04/06 - 2020/04/09
 
 - wasm2arm32 compiler:
     - 2020/04/06:
@@ -25,6 +25,10 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - だいたい呼び出し規約がわかったので関数を書いてみた。試すのは明日
     - 2020/04/08:
         - Makefileを書いてみたが、gccのオプションが間違っているらしく、リンクできない
+    - 2020/04/09:
+        - 間違っていたのはgccのオプションではなく、アセンブリーの方だった。関数を`.global`で宣言してなかった。
+        - コンパイルして実行してみるも、Illegal Instructionに。レジスターをpopする順番を間違えたせいで、関数から返るときのジャンプ先を間違えていた。
+        - これも直すと作成した関数の実行結果は表示されたが、Segmentation Faultに。
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [Radare2 Book](https://radare.gitbooks.io/radare2book/)
 - [たのしいバイナリの歩き方](https://gihyo.jp/book/2013/978-4-7741-5918-8)
