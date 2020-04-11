@@ -16,7 +16,26 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Derek Banasさんのassembly tutorialのサンプルを試す
     - Wasmerのパーサーを使ってwasmファイルをパースするまで
 
-# 2020/04/06 - 2020/04/10
+# 2020/04/11
+
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [Radare2 Book](https://radare.gitbooks.io/radare2book/)
+- WebAssembly関連のIssue漁り
+- 中国語
+
+# 2020/04/10
+
+- wasm2arm32 compiler:
+    - 2020/04/10:
+        - 軽く直してみるも、現象変わらず。
+        - gdbで見た感じ、`main`関数から抜け出す際、保存していた`lr`の値を`pc`に`pop`することで抜け出しているのだけど、その書き換えた`pc`がおかしいらしい。  
+          `mult3`も同じように`pc`を書き換える形で`return`すればいいのだろうか。
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [Radare2 Book](https://radare.gitbooks.io/radare2book/)
+- WebAssembly関連のIssue漁り
+- 中国語
+
+# 2020/04/06 - 2020/04/09
 
 - wasm2arm32 compiler:
     - 2020/04/06:
@@ -29,13 +48,10 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 間違っていたのはgccのオプションではなく、アセンブリーの方だった。関数を`.global`で宣言してなかった。
         - コンパイルして実行してみるも、Illegal Instructionに。レジスターをpopする順番を間違えたせいで、関数から返るときのジャンプ先を間違えていた。
         - これも直すと作成した関数の実行結果は表示されたが、Segmentation Faultに。
-    - 2020/04/10:
-        - 軽く直してみるも、現象変わらず。
-        - gdbで見た感じ、`main`関数から抜け出す際、保存していた`lr`の値を`pc`に`pop`することで抜け出しているのだけど、その書き換えた`pc`がおかしいらしい。  
-          `mult3`も同じように`pc`を書き換える形で`return`すればいいのだろうか。
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [Radare2 Book](https://radare.gitbooks.io/radare2book/)
 - [たのしいバイナリの歩き方](https://gihyo.jp/book/2013/978-4-7741-5918-8)
+    - 2020/04/09: 読了
 - 中国語
 
 # 2020/04/05までの目標
