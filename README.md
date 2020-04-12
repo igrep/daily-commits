@@ -8,13 +8,32 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2020/04/12までの目標
+# 2020/04/19までの目標
 
 - Strict拡張の記事:
     - 記事の初稿を書き上げる
 - wasm2arm32 compiler:
     - Derek Banasさんのassembly tutorialのサンプルを試す
     - Wasmerのパーサーを使ってwasmファイルをパースするまで
+
+# 2020/04/12までの目標
+
+- Strict拡張の記事:
+    - 記事の初稿を書き上げる
+        - 結果: 未達
+- wasm2arm32 compiler:
+    - Derek Banasさんのassembly tutorialのサンプルを試す
+        - 結果: 未達
+    - Wasmerのパーサーを使ってwasmファイルをパースするまで
+        - 結果: 未達
+
+# 2020/04/12
+
+- Strict拡張の記事: ようやく最初の1ケースを解説できた。
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [Radare2 Book](https://radare.gitbooks.io/radare2book/)
+- WebAssembly関連のIssue漁り
+- 中国語
 
 # 2020/04/11
 
