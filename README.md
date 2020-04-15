@@ -16,12 +16,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Derek Banasさんのassembly tutorialのサンプルを試す
     - Wasmerのパーサーを使ってwasmファイルをパースするまで
 
-# 2020/04/13
+# 2020/04/13 - 2020/04/14
 
 - wasm2arm32 compiler:
     - 2020/04/13:
         - `objdump`でできあがったアセンブリーを見てみたら、コメントアウトしたはずのコードがコメントアウトされてなかったのが原因だった...  
           なんでこんなに構文にばらつきがあるんだアセンブリーは...
+    - 2020/04/14:
+        - プロジェクト初期化。
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [Radare2 Book](https://radare.gitbooks.io/radare2book/)
 - WebAssembly関連のIssue漁り
