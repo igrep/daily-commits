@@ -16,7 +16,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Derek Banasさんのassembly tutorialのサンプルを試す
     - Wasmerのパーサーを使ってwasmファイルをパースするまで
 
-# 2020/04/13 - 2020/04/16
+# 2020/04/13 - 2020/04/17
 
 - wasm2arm32 compiler:
     - 2020/04/13:
@@ -26,7 +26,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 2020/04/15:
         - wasmer-runtime-coreのソースを読んで、パーサーがpubであることを確認した
         - wasmer-runtime-coreをdependencyに
-    - 2020/04/16:
+    - 2020/04/16 - 2020/04/17:
         - `wasmer_runtime_core::parse::read_module`を呼ぶ処理を書いてる
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [Radare2 Book](https://radare.gitbooks.io/radare2book/)
