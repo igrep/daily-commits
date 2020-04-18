@@ -16,6 +16,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Derek Banasさんのassembly tutorialのサンプルを試す
     - Wasmerのパーサーを使ってwasmファイルをパースするまで
 
+# 2020/04/18
+
+- Strict拡張の記事:
+    - 2020/04/18:
+        - ポイントフリースタイルのケースについて書き上げた
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [Radare2 Book](https://radare.gitbooks.io/radare2book/)
+- WebAssembly関連のIssue漁り
+- 中国語
+
 # 2020/04/13 - 2020/04/17
 
 - wasm2arm32 compiler:
