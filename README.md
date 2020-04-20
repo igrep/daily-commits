@@ -15,6 +15,17 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - wasm2arm32 compiler:
     - Wasmerのパーサーを使ってwasmファイルをパースするまで
 
+# 2020/04/20
+
+- wasm2arm32 compiler:
+    - 2020/04/20:
+        - `wasmer_runtime_core::parse::read_module`を呼ぶには、バックエンドがしっかりできていないとダメらしい。  
+          インクリメンタルな開発にはやっぱり不向きっぽいし、パーサーから自前で作ろうかねぇ。
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [Radare2 Book](https://radare.gitbooks.io/radare2book/)
+- WebAssembly関連のIssue漁り
+- 中国語
+
 # 2020/04/19までの目標
 
 - Strict拡張の記事:
