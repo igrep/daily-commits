@@ -15,6 +15,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - wasm2arm32 compiler:
     - Wasmerのパーサーを使ってwasmファイルをパースするまで
 
+# 2020/04/22
+
+- Neovimプラグイン整備:
+    - wasmerのリポジトリーを探検するのがしんどいので、開発版のNeovimを使って`tagfunc`を設定するよう修正。  
+      とりあえず開発版のNeovimのインストールと、nvim-lspプラグインのインストール・設定ができた
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [Radare2 Book](https://radare.gitbooks.io/radare2book/)
+- WebAssembly関連のIssue漁り
+- 中国語
+
 # 2020/04/20 - 2020/04/21
 
 - wasm2arm32 compiler:
