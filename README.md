@@ -15,12 +15,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - wasm2arm32 compiler:
     - Wasmerのパーサーを使ってwasmファイルをパースするまで
 
-# 2020/04/22 - 2020/04/23
+# 2020/04/22 - 2020/04/25
 
 - Neovimプラグイン整備:
     - 2020/04/22: wasmerのリポジトリーを探検するのがしんどいので、開発版のNeovimを使って`tagfunc`を設定するよう修正。  
       とりあえず開発版のNeovimのインストールと、nvim-lspプラグインのインストール・設定ができた
     - 2020/04/23: nvim-lspに基づいて`tagfunc`を設定すべく、<https://daisuzu.hatenablog.com/entry/2019/12/06/005543>から`tagfunc`の定義をコピペ
+    - 2020/04/24: Neovimのドキュメントを読んでいるうちに、もしかしてNeovimの機能でもっと簡単にできないかな、と思って調査
+        - <https://github.com/neovim/neovim/blob/9678fe4cfba9f7a9dacbd6d5a56c58241e98aa60/runtime/lua/vim/lsp/util.lua#L399> ここでタグを保存する関数が呼べれば... と思ったがそんな都合のいい物はなさそう。TODOにしているぐらいだしね...
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [Radare2 Book](https://radare.gitbooks.io/radare2book/)
 - WebAssembly関連のIssue漁り
