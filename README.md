@@ -8,12 +8,30 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2020/04/26までの目標
+# 2020/05/03までの目標
 
 - Strict拡張の記事:
     - 記事の初稿を書き上げる
 - wasm2arm32 compiler:
     - Wasmerのパーサーを使ってwasmファイルをパースするまで
+
+# 2020/04/26までの目標
+
+- Strict拡張の記事:
+    - 記事の初稿を書き上げる
+        - 結果: 未達
+- wasm2arm32 compiler:
+    - Wasmerのパーサーを使ってwasmファイルをパースするまで
+        - 結果: 未達
+
+# 2020/04/26
+
+- 仕事でぶち当たっている問題 <https://github.com/wasmerio/wasmer/issues/1379> を詳しく調査できないかとAOSPのソースやらデバッグ用のツールをダウンロードできないかと挑戦するも、ディスク容量的にきつい...。そのために古いスマホをroot化したけど無駄だったっぽいな。
+    - 後はやっぱり、wasmerのソースをもっと削って、再現ケースを作るのを頑張るか。
+    - なんとなくAOSPのソースの[この辺](https://cs.android.com/android/platform/superproject/+/master:art/runtime/art_method.cc;bpv=1;bpt=1;l=312?q=StackOverflowError&ss=android%2Fplatform%2Fsuperproject:art%2F)とか[wasmerのx86\_64向けのコード生成](https://github.com/wasmerio/wasmer/blob/ab106af422a5c9e263d08c1f8a8ae1fd859e55b8/lib/singlepass-backend/src/codegen_x64.rs#L67)にその[AArch64版](https://github.com/wasmerio/wasmer/blob/ab106af422a5c9e263d08c1f8a8ae1fd859e55b8/lib/singlepass-backend/src/codegen_x64.rs#L165)を眺めていて気になったのは、なんでAArch64版は`sp`を書き換えた上で問題の関数に`br`してるんだろう、ってところ。x86版では`sp`に操作していても、`0xffff...0`で`and`したり`sub`してるだけ。多分これはアラインメントをそろえたり引数を1個ずつ取り出すときにスタックから参照するためだけのものだろう。
+        - Androidは単にスレッド毎に自前で`sp`を管理して、メソッド呼び出し毎にチェックしているだけなのだ。そのチェックに引っかかっただけでは、と思わざるを得ない。まだ確信は持てないけど。
+- Neovimプラグイン整備:
+    - luaで`tagfunc`を定義するのに挑戦。vim-lspのコードをnvim-lsp向けに翻訳するのがめんどい
 
 # 2020/04/25
 
