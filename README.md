@@ -15,11 +15,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - wasm2arm32 compiler:
     - Wasmerのパーサーを使ってwasmファイルをパースするまで
 
-# 2020/04/27 - 2020/04/29
+# 2020/04/27 - 2020/04/30
 
 - Neovimプラグイン整備:
     - 2020/04/27 - 2020/04/28: NeovimのLSPのソースを読みながら実装。
     - 2020/04/29: 多分できたはずなので明日テスト
+    - 2020/04/30: うまく動かない。とりあえずランタイムエラーが起きないところまで修正できたものの、パラメーターがおかしいのか結果が返ってこない
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [Radare2 Book](https://radare.gitbooks.io/radare2book/)
 - WebAssembly関連のIssue漁り
