@@ -15,11 +15,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - wasm2arm32 compiler:
     - Wasmerのパーサーを使ってwasmファイルをパースするまで
 
-# 2020/05/04
+# 2020/05/04 - 2020/05/05
 
 - Strict拡張の記事:
     - 記事の初稿を書き上げる
-        - 入れ子になったパターンマッチングにおける問題の節を書いた
+        - 2020/05/04: 入れ子になったパターンマッチングにおける問題の節を書いた
+        - 2020/05/05: `Storable`のケースと`foldr`のケースを並行してちょっとずつ + 他の箇所も微修正
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [Radare2 Book](https://radare.gitbooks.io/radare2book/)
 - WebAssembly関連のIssue漁り
