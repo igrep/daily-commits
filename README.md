@@ -15,6 +15,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - wasm2arm32 compiler:
     - Wasmerのパーサーを使ってwasmファイルをパースするまで
 
+# 2020/05/07
+
+- wasm2arm32 compiler:
+    - Wasmerのパーサーを使ってwasmファイルをパースするまで
+        - 2020/05/07: `impl`に必要なメソッドの一覧をコピペ。どこまでwasmer-runtime-coreベースで作るかなー。
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [Radare2 Book](https://radare.gitbooks.io/radare2book/)
+- WebAssembly関連のIssue漁り
+- 中国語
+
 # 2020/05/04 - 2020/05/06
 
 - Strict拡張の記事:
