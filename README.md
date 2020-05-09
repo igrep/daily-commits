@@ -19,7 +19,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - Strict拡張の記事:
     - 記事の初稿を書き上げる
-        - 2020/05/09: foldrのケースについて、サンプルの実行結果を確認しつつ内容を検討
+        - 2020/05/09: foldrのケースについて、サンプルの実行結果を確認しつつ内容を検討。やっぱfoldlについてはいらないんじゃないかな。`Strict`の有無にあまり関係ないし
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [Radare2 Book](https://radare.gitbooks.io/radare2book/)
 - WebAssembly関連のIssue漁り
