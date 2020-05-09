@@ -15,6 +15,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - wasm2arm32 compiler:
     - Wasmerのパーサーを使ってwasmファイルをパースするまで
 
+# 2020/05/09
+
+- Strict拡張の記事:
+    - 記事の初稿を書き上げる
+        - 2020/05/09: foldrのケースについて、サンプルの実行結果を確認しつつ内容を検討
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [Radare2 Book](https://radare.gitbooks.io/radare2book/)
+- WebAssembly関連のIssue漁り
+- 中国語
+
 # 2020/05/07 - 2020/05/08
 
 - wasm2arm32 compiler:
