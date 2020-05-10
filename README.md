@@ -15,6 +15,18 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - wasm2arm32 compiler:
     - Wasmerのパーサーを使ってwasmファイルをパースするまで
 
+# 2020/05/10
+
+- Strict拡張の記事:
+    - 記事の初稿を書き上げる
+        - 2020/05/10: サンプルをrunghcでも実行できるようやり方を調べたり、冒頭を整えたり。
+- Neovimプラグイン整備:
+    - `tagfunc`の件を記事にした: <https://igrep.qrunch.io/entries/K6sUDofcmvtnRqzk>
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [Radare2 Book](https://radare.gitbooks.io/radare2book/)
+- WebAssembly関連のIssue漁り
+- 中国語
+
 # 2020/05/09
 
 - Strict拡張の記事:
