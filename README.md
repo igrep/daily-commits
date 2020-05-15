@@ -17,11 +17,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell-jp活動:
     - slack-logを単一の実行ファイルにする件
 
-# 2020/05/12 - 2020/05/14
+# 2020/05/12 - 2020/05/15
 
 - wasm2arm32 compiler:
     - Wasmerのパーサーを使ってwasmファイルをパースするまで
         - 2020/05/12 - 2020/05/14: とりあえず引数をひたすら`println`するよう実装
+        - 2020/05/15: runtime-coreの一部の実装にアーキテクチャー依存、つまりARM32ではまだ実装されてない部分があったことに気づく。どうしようかなぁ。やっぱりwasmerベースで作るのは一旦諦めるかなー。stubで埋めるかなー。
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [Radare2 Book](https://radare.gitbooks.io/radare2book/)
 - WebAssembly関連のIssue漁り
