@@ -15,7 +15,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - wasm2arm32 compiler:
     - Wasmerのパーサーを使ってwasmファイルをパースするまで
 
-# 2020/05/18 - 2020/05/21
+# 2020/05/18 - 2020/05/22
 
 - wasm2arm32 compiler:
     - Wasmerのパーサーを使ってwasmファイルをパースするまで
@@ -23,6 +23,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 2020/05/19: `from_cache`メソッドの実装が面倒
         - 2020/05/20: 必要なメソッドの定義が終わった！
         - 2020/05/21: コンパイルはできたものの、リンク時にエラー。やっぱりRasPi向けのクロスコンパイル用のSDKが必要らしい
+        - 2020/05/22: VMにRasPiのビルド環境をセットアップ
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [Radare2 Book](https://radare.gitbooks.io/radare2book/)
 - WebAssembly関連のIssue漁り
