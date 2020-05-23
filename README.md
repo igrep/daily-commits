@@ -15,6 +15,20 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - wasm2arm32 compiler:
     - Wasmerのパーサーを使ってwasmファイルをパースするまで
 
+# 2020/05/23
+
+- Haskell-jp活動:
+    - [Haskell-jpもくもく会運営ガイド](https://wiki.haskell.jp/Workshop/hasmoku/OrganizerGuide)
+    - [slack のチャンネル系 Web API が非推奨になります](https://github.com/haskell-jp/slack-log/issues/42)
+        - Slackのドキュメントを読んだりslack-webパッケージのソースを読んだり
+- Strict拡張の記事:
+    - 記事の初稿を書き上げる
+        - 少し加筆
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [Radare2 Book](https://radare.gitbooks.io/radare2book/)
+- WebAssembly関連のIssue漁り
+- 中国語
+
 # 2020/05/18 - 2020/05/22
 
 - wasm2arm32 compiler:
