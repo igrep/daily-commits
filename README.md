@@ -17,11 +17,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
 
-# 2020/05/25
+# 2020/05/25 - 2020/05/26
 
 - wasm2arm32 compiler:
     - Wasmerのパーサーを使ってwasmファイルをパースするまで
         - 2020/05/25: ビルドできたかな？正しいツールを使用できたか確信が持てないので動かさないと...
+        - 2020/05/26: RasPi上で実行するスクリプトを設定。ビルドが正しいか自身がなかったが、テストは失敗したものの実行はできてるらしい。一安心
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [Radare2 Book](https://radare.gitbooks.io/radare2book/)
 - WebAssembly関連のIssue漁り
