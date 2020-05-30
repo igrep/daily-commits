@@ -17,6 +17,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
 
+# 2020/05/30
+
+- Haskell-jp活動:
+    - slack-webパッケージにConversations APIを実装
+        - Swagger Editor上で実行できたおかげで`conversations.list`の挙動がよくわかった
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- WebAssembly関連のIssue漁り
+- 中国語
+
 # 2020/05/25 - 2020/05/29
 
 - wasm2arm32 compiler:
