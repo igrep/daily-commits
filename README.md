@@ -8,7 +8,7 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2020/05/31までの目標
+# 2020/06/07までの目標
 
 - Strict拡張の記事:
     - 記事の初稿を書き上げる
@@ -16,6 +16,26 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Wasmerのパーサーを使ってwasmファイルをパースするまで
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
+
+# 2020/05/31までの目標
+
+- Strict拡張の記事:
+    - 記事の初稿を書き上げる
+        - 結果: 未達
+- wasm2arm32 compiler:
+    - Wasmerのパーサーを使ってwasmファイルをパースするまで
+        - 結果: 未達
+- Haskell-jp活動:
+    - slack-webパッケージにConversations APIを実装
+        - 結果: 未達
+
+# 2020/05/31
+
+- Strict拡張の記事:
+    - <https://github.com/haskell-jp/blog/commit/b3ead0d1671a501a13ec58c94755733fa7a2e57d> ここまで書けたので多分もう少し。
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- WebAssemblyの仕様
+- 中国語
 
 # 2020/05/30
 
