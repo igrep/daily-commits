@@ -14,8 +14,20 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 記事の初稿を書き上げる
 - wasm2arm32 compiler:
     - Wasmerのパーサーを使ってwasmファイルをパースするまで
+        - 結果: 達成
+    - パース結果を理解して、次のゴールを考える
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
+
+# 2020/06/01
+
+- wasm2arm32 compiler:
+    - Wasmerのパーサーを使ってwasmファイルをパースするまで
+        - やっとできた。出力結果が出ないのは`cargo`がビルドしたテストの実行ファイルの仕様だった。`--nocapture`オプションをつけて解決。
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識](https://gihyo.jp/book/2018/978-4-7741-9607-7)
+- WebAssemblyの仕様
+- 中国語
 
 # 2020/05/31までの目標
 
@@ -34,6 +46,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Strict拡張の記事:
     - <https://github.com/haskell-jp/blog/commit/b3ead0d1671a501a13ec58c94755733fa7a2e57d> ここまで書けたので多分もう少し。
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識](https://gihyo.jp/book/2018/978-4-7741-9607-7)
 - WebAssemblyの仕様
 - 中国語
 
