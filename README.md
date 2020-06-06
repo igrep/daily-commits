@@ -19,7 +19,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 結果: 達成
     - 空の関数を`return 0`する`main`にコンパイルするまで
 - Haskell-jp活動:
-    - slack-webパッケージにConversations APIを実装
+ 
+# 2020/06/06
+
+- Strict拡張の記事:
+    - これまで書いたところの見直し・微修正。あとはまとめを書いて終わり。
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識](https://gihyo.jp/book/2018/978-4-7741-9607-7)
+- WebAssemblyの仕様
+- 中国語   - slack-webパッケージにConversations APIを実装
 
 # 2020/06/01 - 2020/06/05
 
