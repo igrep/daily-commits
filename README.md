@@ -8,17 +8,41 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2020/06/14までの目標
+
+- Strict拡張の記事:
+    - 「Case 3: 内側のパターンはやっぱりダメ」の節の修正
+- wasm2arm32 compiler:
+    - 空の関数を`return 0`する`main`にコンパイルするまで
+- Haskell-jp活動:
+    - slack-webパッケージにConversations APIを実装
+
 # 2020/06/07までの目標
 
 - Strict拡張の記事:
     - 記事の初稿を書き上げる
+        - 結果: 達成
 - wasm2arm32 compiler:
     - Wasmerのパーサーを使ってwasmファイルをパースするまで
         - 結果: 達成
     - パース結果を理解して、次のゴールを考える
         - 結果: 達成
     - 空の関数を`return 0`する`main`にコンパイルするまで
+        - 結果: 未達
 - Haskell-jp活動:
+    - slack-webパッケージにConversations APIを実装
+
+# 2020/06/07
+
+- Strict拡張の記事:
+    - ようやく書き上げてWIPを外すも、大幅に修正しないといけない箇所が発覚。つらい
+- Haskell-jp活動:
+    - slack-webパッケージにConversations APIを実装
+        - いろいろ気がかりでほぼ進まず...
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識](https://gihyo.jp/book/2018/978-4-7741-9607-7)
+- WebAssemblyの仕様
+- 中国語
  
 # 2020/06/06
 
@@ -27,7 +51,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識](https://gihyo.jp/book/2018/978-4-7741-9607-7)
 - WebAssemblyの仕様
-- 中国語   - slack-webパッケージにConversations APIを実装
+- 中国語
 
 # 2020/06/01 - 2020/06/05
 
