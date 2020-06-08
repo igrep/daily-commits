@@ -17,6 +17,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
 
+# 2020/06/08
+
+- Strict拡張の記事:
+    - 2020/06/08: 指摘箇所の修正。
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識](https://gihyo.jp/book/2018/978-4-7741-9607-7)
+- WebAssemblyの仕様
+- 中国語
+
 # 2020/06/07までの目標
 
 - Strict拡張の記事:
