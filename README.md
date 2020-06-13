@@ -17,6 +17,20 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
 
+# 2020/06/12
+
+- wasm2arm32 compiler:
+    - 空の関数を`return 0`する`main`にコンパイルするまで
+        - 関数の名前を`ModuleInfo`からとろうと思ったが、`ModuleInfo.exports`から名前を引くのは難しそうだ。  
+          `finalize`するときにtraverseして書き出すような形にすれば良いだろうか。  
+          ただ、現状アセンブリーとして書き出す関係上、`BL`するときは名前で引くので、安直な方法ではダメだろう。  
+          やっぱとりあえず`main`決め打ちか、あるいは効率悪かろうか無理矢理引くか。  
+          やっぱこういうことがあるから既存のwasmerの仕組みから作るのは微妙なアプローチになってしまうな...
+- [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識](https://gihyo.jp/book/2018/978-4-7741-9607-7)
+- WebAssemblyの仕様
+- 中国語
+
 # 2020/06/08 - 2020/06/11
 
 - Strict拡張の記事:
