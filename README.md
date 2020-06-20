@@ -15,6 +15,17 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
 
+# 2020/06/20
+
+- wasm2arm32 compiler:
+    - 空の関数を`return 0`する`main`にコンパイルするまで
+        - 2020/06/20: gccでコンパイルできた。あとはテストでできた実行ファイルを実行してみよう
+- Haskell入門コンテンツ:
+    - 課題7の不足箇所を埋める: またちょっとだけ進めた。ほぼ完成。
+- [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識](https://gihyo.jp/book/2018/978-4-7741-9607-7)
+- WebAssemblyの仕様
+- 中国語
+
 # 2020/06/17 - 2020/06/19
 
 - wasm2arm32 compiler:
