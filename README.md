@@ -8,12 +8,32 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2020/06/28までの目標
+
+- wasm2arm32 compiler:
+    - 正数の足し算を実装
+- Haskell-jp活動:
+    - slack-webパッケージにConversations APIを実装
+- Haskell入門コンテンツ:
+    - 課題7の不足箇所を埋める
+
 # 2020/06/21までの目標
 
 - wasm2arm32 compiler:
     - 空の関数を`return 0`する`main`にコンパイルするまで
+        - 結果: 達成
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
+        - 結果: 未達
+
+# 2020/06/21
+
+- Haskell-jp活動:
+    - slack-webパッケージにConversations APIを実装
+        - `ToJSON`, `FromJSON`のインスタンスをひたすら定義。従来`FromJSON`しか宣言されてなかった型についてもついでに追加。slack-logでも実際orphan instance定義してたし、需要はあるはず。
+- [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識](https://gihyo.jp/book/2018/978-4-7741-9607-7)
+- WebAssemblyの仕様
+- 中国語
 
 # 2020/06/20
 
