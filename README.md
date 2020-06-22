@@ -11,11 +11,19 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 # 2020/06/28までの目標
 
 - wasm2arm32 compiler:
-    - 正数の足し算を実装
+    - 整数の足し算を実装
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
 - Haskell入門コンテンツ:
     - 課題7の不足箇所を埋める
+
+# 2020/06/22
+
+- wasm2arm32 compiler:
+    - 整数の足し算を実装
+- [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識](https://gihyo.jp/book/2018/978-4-7741-9607-7)
+- WebAssemblyの仕様
+- 中国語
 
 # 2020/06/21までの目標
 
@@ -39,7 +47,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - wasm2arm32 compiler:
     - 空の関数を`return 0`する`main`にコンパイルするまで
-        - 2020/06/20: gccでコンパイルできた。あとはテストでできた実行ファイルを実行してみよう
+        - 2020/06/20: gccでコンパイルできた。 ~~あとはテストでできた実行ファイルを実行してみよう~~ 今回はいいや
 - Haskell入門コンテンツ:
     - 課題7の不足箇所を埋める: またちょっとだけ進めた。ほぼ完成。
 - [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識](https://gihyo.jp/book/2018/978-4-7741-9607-7)
