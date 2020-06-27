@@ -17,6 +17,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題7の不足箇所を埋める
 
+# 2020/06/27
+
+- Haskell-jp活動:
+    - slack-webパッケージにConversations APIを実装
+        - `ToJSON`のインスタンスを定義。テストも書こうと思ったが、<https://haskell.jp/slack-log/html/CUPBC8WCE/12.html#message-1593250386.354200>で触れているわかりづらいエラーにハマってテストまでは書ききれず。  
+          次はあれか、必要な関数の追加とslack-logで必要な <https://api.slack.com/methods/conversations.list>と<https://api.slack.com/methods/conversations.history>の実装か
+- [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識](https://gihyo.jp/book/2018/978-4-7741-9607-7)
+- WebAssemblyの仕様
+- 中国語
+
 # 2020/06/22 - 2020/06/26
 
 - wasm2arm32 compiler:
