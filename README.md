@@ -8,15 +8,25 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2020/07/28までの目標
+# 2020/07/05までの目標
 
 - wasm2arm32 compiler:
     - 整数の足し算を実装
-    - その他のbinopを実装
+        - 結果: 達成
+    - 関数呼び出しの実装
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
 - Haskell入門コンテンツ:
     - 課題7の不足箇所を埋める
+
+# 2020/06/29
+
+- wasm2arm32 compiler:
+    - 整数の足し算を実装:
+        - 2020/06/29: `i32.add`の実装できた。
+- [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識](https://gihyo.jp/book/2018/978-4-7741-9607-7)
+- WebAssemblyの仕様
+- 中国語
 
 # 2020/06/28までの目標
 
