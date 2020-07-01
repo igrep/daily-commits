@@ -13,17 +13,18 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - wasm2arm32 compiler:
     - 整数の足し算を実装
         - 結果: 達成
-    - 関数呼び出しの実装
+    - モジュール内部の関数呼び出しの実装
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
 - Haskell入門コンテンツ:
     - 課題7の不足箇所を埋める
 
-# 2020/06/29
+# 2020/06/29 - 2020/06/30
 
 - wasm2arm32 compiler:
     - 整数の足し算を実装:
-        - 2020/06/29: `i32.add`の実装できた。
+        - 2020/06/29: `i32.add`の実装できた
+        - 2020/06/30: モジュール内部の関数呼び出しの、サンプルwasmファイルを作成
 - [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識](https://gihyo.jp/book/2018/978-4-7741-9607-7)
 - WebAssemblyの仕様
 - 中国語
@@ -44,7 +45,6 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識](https://gihyo.jp/book/2018/978-4-7741-9607-7)
 - WebAssemblyの仕様
-- 中国語
 
 # 2020/06/27
 
