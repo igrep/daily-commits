@@ -19,6 +19,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題7の不足箇所を埋める
 
+# 2020/07/04
+
+- Haskell-jp活動:
+    - 先週書いたテストが通るよう修正。ひたすらArbitraryのインスタンスを追加したり。次は`ListReq`, `ListRsp`を追加するところからかな？
+- [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識](https://gihyo.jp/book/2018/978-4-7741-9607-7)
+- WebAssemblyの仕様
+- 中国語
+
 # 2020/06/29 - 2020/07/03
 
 - wasm2arm32 compiler:
