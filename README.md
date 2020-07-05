@@ -8,16 +8,37 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2020/07/12までの目標
+
+- wasm2arm32 compiler:
+    - モジュール内部の関数呼び出しの実装
+- Haskell-jp活動:
+    - slack-webパッケージにConversations APIを実装
+- Haskell入門コンテンツ:
+    - 課題7の不足箇所を埋める
+
 # 2020/07/05までの目標
 
 - wasm2arm32 compiler:
     - 整数の足し算を実装
         - 結果: 達成
     - モジュール内部の関数呼び出しの実装
+        - 結果: 未達
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
+        - 結果: 未達
 - Haskell入門コンテンツ:
     - 課題7の不足箇所を埋める
+        - 結果: 未達
+
+# 2020/07/05
+
+- Haskell入門コンテンツ:
+    - 課題7の不足箇所を埋める
+        - 課題7今度こそ終わった！と思って読み返してみたらまだ不自然な書き漏らしがあるみたいだね...
+- [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識](https://gihyo.jp/book/2018/978-4-7741-9607-7)
+- WebAssemblyの仕様
+- 中国語
 
 # 2020/07/04
 
