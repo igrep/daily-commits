@@ -17,6 +17,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題7の不足箇所を埋める
 
+# 2020/07/11
+
+- Haskell入門コンテンツ:
+    - 課題7の不足箇所を埋める: `Read`型クラスの説明がなかなか面倒だ
+- [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識](https://gihyo.jp/book/2018/978-4-7741-9607-7)
+- WebAssemblyの仕様
+- 中国語
+
 # 2020/07/06 - 2020/07/10
 
 - wasm2arm32 compiler:
