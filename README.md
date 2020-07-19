@@ -8,6 +8,18 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2020/07/26までの目標
+
+- wasm2arm32 compiler:
+    - モジュール内部の関数呼び出しの実装
+        - 引数一つ
+        - wasmerのパーサーでwasmのテストケースをパースしてみる
+- Haskell-jp活動:
+    - slack-webパッケージにConversations APIを実装
+        - conversations.repliesの実装
+- Haskell入門コンテンツ:
+    - 課題7の不足箇所を埋める
+
 # 2020/07/19までの目標
 
 - wasm2arm32 compiler:
@@ -15,12 +27,29 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 戻り値あり
             - 結果: 達成
         - 引数一つ
+            - 結果: 未達
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
         - テスト用のコマンドを書く
+            - 結果: 達成
         - Pull requestを送る
+            - 結果: 達成
 - Haskell入門コンテンツ:
     - 課題7の不足箇所を埋める
+        - 結果: 未達
+
+# 2020/07/19
+
+- Haskell-jp活動:
+    - slack-webパッケージにConversations APIを実装
+        - 動作確認するコマンドを書いてPull requestを送った。しかし、まだまだ一筋縄ではいかないようだ
+            - <https://github.com/haskell-jp/slack-log/issues/42#issuecomment-660626610>
+- Haskell入門コンテンツ:
+    - 課題7の不足箇所を埋める
+        - 昨日やらなかった分進めたぞ。さっと見直した感じまだ書き足す箇所は少しありそう
+- [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識](https://gihyo.jp/book/2018/978-4-7741-9607-7)
+- WebAssemblyの仕様
+- 中国語
 
 # 2020/07/18
 
