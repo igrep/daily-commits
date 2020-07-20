@@ -13,12 +13,22 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - wasm2arm32 compiler:
     - モジュール内部の関数呼び出しの実装
         - 引数一つ
+        - 引数三つまで
         - wasmerのパーサーでwasmのテストケースをパースしてみる
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
         - conversations.repliesの実装
 - Haskell入門コンテンツ:
     - 課題7の不足箇所を埋める
+
+# 2020/07/20
+
+- wasm2arm32 compiler:
+    - モジュール内部の関数呼び出しの実装
+        - 2020/07/20: 引数一つの場合のテストケースのログを調べた
+- [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識](https://gihyo.jp/book/2018/978-4-7741-9607-7)
+- WebAssemblyの仕様
+- 中国語
 
 # 2020/07/19までの目標
 
