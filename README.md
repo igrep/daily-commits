@@ -21,6 +21,17 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題7の不足箇所を埋める
 
+# 2020/07/23
+
+- Haskell入門コンテンツ:
+    - 課題7の不足箇所を埋める: 少し進めた。今度こそもうちょっとかな...
+- その他:
+    - ブログとQiitaに同時投稿するのをサポートするツール
+        - とりあえずREADMEを書いて使うライブラリーの素振りなどをしていた: <https://github.com/igrep/multipost>
+- [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識](https://gihyo.jp/book/2018/978-4-7741-9607-7)
+- WebAssemblyの仕様
+- 中国語
+
 # 2020/07/20 - 2020/07/22
 
 - wasm2arm32 compiler:
