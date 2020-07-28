@@ -13,13 +13,26 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - wasm2arm32 compiler:
     - モジュール内部の関数呼び出しの実装
         - 引数一つ
-        - 引数三つまで
+            - 結果: 達成
+        - 引数四つまで
         - wasmerのパーサーでwasmのテストケースをパースしてみる
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
         - conversations.repliesの実装
 - Haskell入門コンテンツ:
     - 課題7の不足箇所を埋める
+
+# 2020/07/28
+
+- wasm2arm32 compiler:
+    - モジュール内部の関数呼び出しの実装
+        - 2020/07/27:
+            - 引数一つの場合のテストケースをクリア
+- その他:
+    - ブログとQiitaに同時投稿するのをサポートするツール
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- WebAssemblyの仕様
+- 中国語
 
 # 2020/07/27
 
@@ -31,6 +44,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
               まぁgdbの使い方を久々に思い出せたし、より原因を確信できたので良かった。
             - 「`get_local`という命令は`feed_event`には出てこないらしい」と思ってたけどよく見たら普通に出てた
 - [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識](https://gihyo.jp/book/2018/978-4-7741-9607-7)
+    - 読了
 - WebAssemblyの仕様
 - 中国語
 
