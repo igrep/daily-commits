@@ -15,12 +15,22 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 引数一つ
             - 結果: 達成
         - 引数四つまで（テストケースでは二つまで）
+        - exportしてない関数を.globalに入れない
         - wasmerのパーサーでwasmのテストケースをパースしてみる
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
         - conversations.repliesの実装
 - Haskell入門コンテンツ:
     - 課題7の不足箇所を埋める
+
+# 2020/07/30
+
+- wasm2arm32 compiler:
+    - モジュール内部の関数呼び出しの実装
+        - 2020/07/30: exportしてない関数を.globalに入れないところまでできた。明日はコミットして次の課題へ
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- WebAssemblyの仕様
+- 中国語
 
 # 2020/07/28 - 2020/07/29
 
