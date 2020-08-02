@@ -8,6 +8,17 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
+# 2020/08/09までの目標
+
+- wasm2arm32 compiler:
+    - モジュール内部の関数呼び出しの実装
+        - wasmのテストケースを実行できるARM32の実行ファイルを吐く
+- Haskell-jp活動:
+    - slack-webパッケージにConversations APIを実装
+        - conversations.repliesのテスト用コマンドを作る
+- Haskell入門コンテンツ:
+    - 課題7の不足箇所を埋める
+
 # 2020/08/02までの目標
 
 - wasm2arm32 compiler:
@@ -19,11 +30,23 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - exportしてない関数を.globalに入れない
             - 結果: 達成
         - wasmerのパーサーでwasmのテストケースをパースしてみる
+            - 結果: 未達。直接パースはできないので実質できたようなもんだけどね
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
         - conversations.repliesの実装
+            - 結果: 達成
 - Haskell入門コンテンツ:
     - 課題7の不足箇所を埋める
+        - 結果: 未達
+
+# 2020/08/02
+
+- Haskell-jp活動:
+    - slack-webパッケージにConversations APIを実装
+        - conversations.repliesの実装ができたはず。次は試すための小さなコマンドを作ろう
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- WebAssemblyの仕様
+- 中国語
 
 # 2020/08/01
 
