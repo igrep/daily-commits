@@ -11,8 +11,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 # 2020/08/09までの目標
 
 - wasm2arm32 compiler:
-    - モジュール内部の関数呼び出しの実装
-        - wasmのテストケースを実行できるARM32の実行ファイルを吐く
+    - wasmのテストケースを実行できるARM32の実行ファイルを吐く
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
         - conversations.repliesのテスト用コマンドを作る
@@ -38,6 +37,18 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題7の不足箇所を埋める
         - 結果: 未達
+
+# 2020/08/03
+
+- wasm2arm32 compiler:
+    - wasmのテストケースを実行できるARM32の実行ファイルを吐く
+        - やることはJSONファイルを解釈してARM32のELFを吐くこと。とりあえず簡単そうな`assert_invalid`を解釈するようにしてみようかな
+- Haskell入門コンテンツ:
+    - 課題7の不足箇所を埋める
+        - 今度こそ埋まったはず（何度目だ？）。明日また一通り読んで大丈夫そうだったら達成にする。
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- WebAssemblyの仕様
+- 中国語
 
 # 2020/08/02
 
