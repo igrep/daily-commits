@@ -19,12 +19,23 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題7の不足箇所を埋める
         - 結果: 達成
 
+# 2020/08/03
+
+- wasm2arm32 compiler:
+    - wasmのテストケースを実行できるARM32の実行ファイルを吐く
+        - とりあえず`Makefile`の修正から。やっぱり正常系のケースを実行できるようにしよう
+- その他:
+    - ブログとQiitaに同時投稿するのをサポートするツール
+        - fakefsパッケージの修正続き
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- WebAssemblyの仕様
+- 中国語
+
 # 2020/08/04
 
 - Haskell入門コンテンツ:
     - 課題7の不足箇所を埋める
         - できた。やっとpushした: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/1e42fa215f3572733c16831de7fd38a07f373e2b>
-
 - その他:
     - ブログとQiitaに同時投稿するのをサポートするツール
         - テストで例外が発生したときの挙動が分かりづらかったし、例外が発生したときに実行後のファイルシステムなどがテストできないことに気づいたので、テストで使用するMonadを書き直していた。  
