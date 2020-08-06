@@ -19,6 +19,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題7の不足箇所を埋める
         - 結果: 達成
 
+# 2020/08/04
+
+- wasm2arm32 compiler:
+    - wasmのテストケースを実行できるARM32の実行ファイルを吐く
+        - よく考えたらwast2jsonを使わなくともRustのwast crateを使えばいいんじゃないか...
+            - <https://github.com/bytecodealliance/wasm-tools/tree/main/crates/wast>
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- WebAssemblyの仕様
+- 中国語
+
 # 2020/08/03
 
 - wasm2arm32 compiler:
