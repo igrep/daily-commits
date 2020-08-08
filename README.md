@@ -19,17 +19,32 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題7の不足箇所を埋める
         - 結果: 達成
 
-# 2020/08/04
+# 2020/08/07
 
 - wasm2arm32 compiler:
     - wasmのテストケースを実行できるARM32の実行ファイルを吐く
-        - よく考えたらwast2jsonを使わなくともRustのwast crateを使えばいいんじゃないか...
+        - 2020/08/07:
+            - wast crateだとwasmファイルが分割できないのでやっぱwast2jsonが吐いたJSONを解釈した方がいいかも
+            - wasmerは自前でwastファイルをパースして生成している？wasmer自身にはwasmのテキストフォーマットをパースする機能がないみたいだけど...
+            - まぁとりあえず`run_tests_from_wast_json`関数から始めよう
+- その他:
+    - ブログとQiitaに同時投稿するのをサポートするツール
+        - fakefsパッケージの修正続き。実装・テストの修正完了。見直したらpush・リリースしよう
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- WebAssemblyの仕様
+- 中国語
+
+# 2020/08/06
+
+- wasm2arm32 compiler:
+    - wasmのテストケースを実行できるARM32の実行ファイルを吐く
+        - 2020/08/06: よく考えたらwast2jsonを使わなくともRustのwast crateを使えばいいんじゃないか...
             - <https://github.com/bytecodealliance/wasm-tools/tree/main/crates/wast>
 - [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
 - WebAssemblyの仕様
 - 中国語
 
-# 2020/08/03
+# 2020/08/05
 
 - wasm2arm32 compiler:
     - wasmのテストケースを実行できるARM32の実行ファイルを吐く
