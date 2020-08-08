@@ -19,6 +19,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 課題7の不足箇所を埋める
         - 結果: 達成
 
+# 2020/08/08
+
+- Haskell-jp活動:
+    - slack-webパッケージにConversations APIを実装
+        - conversations.repliesを試すための小さなコマンドもできたはず（未検証
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- WebAssemblyの仕様
+- 中国語
+
 # 2020/08/07
 
 - wasm2arm32 compiler:
