@@ -8,22 +8,41 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2020/08/09までの目標
+# 2020/08/16までの目標
 
 - wasm2arm32 compiler:
     - wasmのテストケースを実行できるARM32の実行ファイルを吐く
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
         - conversations.repliesのテスト用コマンドを作る
+        - 今後の実装タスクをまとめる
+        - conversations.listを取得する処理の実装
+        - conversations.historyを取得する処理の実装
+- Haskell入門コンテンツ:
+    - 課題9の不足箇所を埋める
+
+# 2020/08/09までの目標
+
+- wasm2arm32 compiler:
+    - wasmのテストケースを実行できるARM32の実行ファイルを吐く
+        - 結果: 未達
+- Haskell-jp活動:
+    - slack-webパッケージにConversations APIを実装
+        - conversations.repliesのテスト用コマンドを作る
+        - 結果: 未達
 - Haskell入門コンテンツ:
     - 課題7の不足箇所を埋める
         - 結果: 達成
 
-# 2020/08/08
+# 2020/08/08 - 2020/08/09
 
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
-        - conversations.repliesを試すための小さなコマンドもできたはず（未検証
+        - 2020/08/08: conversations.repliesを試すための小さなコマンドもできたはず（未検証
+        - 2020/08/09:
+            - conversations.repliesを試すための小さなコマンドを試すところで、slack-webパッケージが従来タイムスタンプを正しく扱ってないため、スレッドへのリプライを取得する際不都合が生じる可能性に気づいたので、修正。
+            - いざ動かすも、なぜかスレッドの先頭のメッセージしか返ってこない。  
+              多分、古いSlackのaccess tokenを利用しているからではなかろうか。（多分、Slackがレスポンスに警告を含めていると思うので、 <https://docs.servant.dev/en/stable/cookbook/using-free-client/UsingFreeClient.html> とかFiddlerとかを使って覗けないものか。
 - [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
 - WebAssemblyの仕様
 - 中国語
