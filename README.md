@@ -21,6 +21,21 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 
+# 2020/08/15
+
+- Haskell-jp活動:
+    - slack-webパッケージにConversations APIを実装
+        - 2020/08/15:
+            - 古いSlackのaccess tokenの利用を止めても結果変わらず。
+                - 原因はSlackに渡すタイムスタンプの小数点以下が7桁以上になっていたからだった。SlackTimestampの扱いを修正したときにバグった
+                - ついでにタイムスタンプのパラメーターに「just」など無関係な文字列が混ざってしまう問題を修正
+                - ようやくconversations.repliesから結果がとれるようになったが、ページネーションのやり方がおかしく、意図しない結果に。
+                    - `oldest`に渡される値がすべてのリクエストで同じ値になってしまっている
+                    - conversations.repliesはレスポンスの先頭のメッセージに必ずスレッドの先頭のメッセージを含めるため、余計な結果が混ざってしまう
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- WebAssemblyの仕様
+- 中国語
+
 # 2020/08/13 - 2020/08/14
 
 - wasm2arm32 compiler:
