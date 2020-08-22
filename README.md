@@ -25,6 +25,18 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - wasm2arm32 compiler:
     - wasmのテストケースを実行できるARM32の実行ファイルを吐く
+        - モジュール分割引き続き
+- その他:
+    - ブログとQiitaに同時投稿するのをサポートするツール
+        - テストを通してからcommitしてなかったのでcommit・push。ついでに職場が最初の実験環境になりそうなので実行ファイルのリリースもしておいた。
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- WebAssemblyの仕様
+- 中国語
+
+# 2020/08/20
+
+- wasm2arm32 compiler:
+    - wasmのテストケースを実行できるARM32の実行ファイルを吐く
         - 2020/08/20:
             - さすがにwast関係の諸々は分けた方がいいと感じたのでモジュールを分割し始めた。  
               <https://qnighy.hatenablog.com/entry/2017/03/27/070000> が丁寧だし正確そうだ。
@@ -34,7 +46,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - WebAssemblyの仕様
 - 中国語
 
-# 2020/08/19 - 2020/08/20
+# 2020/08/19
 
 - wasm2arm32 compiler:
     - wasmのテストケースを実行できるARM32の実行ファイルを吐く
