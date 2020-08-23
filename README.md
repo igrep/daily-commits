@@ -8,18 +8,48 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2020/08/23までの目標
+# 2020/08/30までの目標
 
 - wasm2arm32 compiler:
     - wasmのテストケースを実行できるARM32の実行ファイルを吐く
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
+        - conversations.repliesの内部で使用している関数をテスト
+        - conversations.repliesの内部で使用している関数をリファクタリング
         - conversations.repliesのテスト用コマンドを作る
-        - 今後の実装タスクをまとめる
-        - conversations.listを取得する処理の実装
-        - conversations.historyを取得する処理の実装
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
+
+# 2020/08/23までの目標
+
+- wasm2arm32 compiler:
+    - wasmのテストケースを実行できるARM32の実行ファイルを吐く
+        - 結果: 未達
+- Haskell-jp活動:
+    - slack-webパッケージにConversations APIを実装
+        - conversations.repliesのテスト用コマンドを作る
+            - 結果: 未達
+        - 今後の実装タスクをまとめる
+            - 結果: 未達
+        - conversations.listを取得する処理の実装
+            - 結果: 未達
+        - conversations.historyを取得する処理の実装
+            - 結果: 未達
+- Haskell入門コンテンツ:
+    - 課題9の不足箇所を埋める
+            - 結果: 未達
+
+# 2020/08/23
+
+- Haskell-jp活動:
+    - slack-webパッケージにConversations APIを実装
+        - 「`oldest`に渡される値がすべてのリクエストで同じ値になってしまっている」問題は、どうやら少なくとも、他のhistory系のAPIについては意図通りらしい。
+            - `latest`のみを少しずつ古い時間にずらすことで、全件取得する、というアルゴリズムのようだ
+            - conversations.repliesはレスポンスの先頭のメッセージに必ずスレッドの先頭のメッセージを含めるため、余計な結果が混ざってしまう
+        - やっぱりconversations.repliesとchannels.historyはレスポンスの順番が逆っぽいな。conversations.historyもconversions.repliesと同じなんだろうか。
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- WebAssemblyの仕様
+- 中国語
 
 # 2020/08/22
 
