@@ -14,11 +14,20 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - wasmのテストケースを実行できるARM32の実行ファイルを吐く
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
-        - conversations.repliesの内部で使用している関数をテスト
-        - conversations.repliesの内部で使用している関数をリファクタリング
+        - conversations.repliesとconversations.historyが内部で使用している関数をテスト
+        - conversations.repliesとconversations.historyが内部で使用している関数をリファクタリング
         - conversations.repliesのテスト用コマンドを作る
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
+
+# 2020/08/24
+
+- Haskell-jp活動:
+    - slack-webパッケージにConversations APIを実装
+        - conversations.repliesとconversations.historyが内部で使用している関数を作り直すべく、型設計
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- WebAssemblyの仕様
+- 中国語
 
 # 2020/08/23までの目標
 
