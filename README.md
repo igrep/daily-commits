@@ -20,6 +20,19 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 
+# 2020/08/25
+
+- wasm2arm32 compiler:
+    - wasmのテストケースを実行できるARM32の実行ファイルを吐く
+        - モジュール分割に伴うunused importsの削除
+- Haskell-jp活動:
+    - slack-webパッケージにConversations APIを実装
+        - `conversations.history`の再実装。型定義もなるべく新しい機能が使えるように新しいものを定義して使うことにした。
+        - テストコードのために、fakefsの「なんかストリームっぽいものを操作するバージョン」を作り始めた。
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- WebAssemblyの仕様
+- 中国語
+
 # 2020/08/24
 
 - Haskell-jp活動:
