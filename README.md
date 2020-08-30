@@ -8,7 +8,7 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2020/08/30までの目標
+# 2020/09/06までの目標
 
 - wasm2arm32 compiler:
     - wasmのテストケースを実行できるARM32の実行ファイルを吐く
@@ -19,6 +19,31 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - conversations.repliesのテスト用コマンドを作る
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
+
+# 2020/08/30までの目標
+
+- wasm2arm32 compiler:
+    - wasmのテストケースを実行できるARM32の実行ファイルを吐く
+        - 結果: 未達
+- Haskell-jp活動:
+    - slack-webパッケージにConversations APIを実装
+        - conversations.repliesとconversations.historyが内部で使用している関数をテスト
+            - 結果: 未達
+        - conversations.repliesとconversations.historyが内部で使用している関数をリファクタリング
+            - 結果: 未達
+        - conversations.repliesのテスト用コマンドを作る
+            - 結果: 未達
+- Haskell入門コンテンツ:
+    - 課題9の不足箇所を埋める
+        - 結果: 未達
+
+# 2020/08/30
+
+- タイプセーフプリキュア:
+    - ヒーリングっど♡プリキュア追加浄化技・戦士追加
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- WebAssemblyの仕様
+- 中国語
 
 # 2020/08/29
 
