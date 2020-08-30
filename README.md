@@ -17,12 +17,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - conversations.repliesとconversations.historyが内部で使用している関数をテスト
         - conversations.repliesとconversations.historyが内部で使用している関数をリファクタリング
         - conversations.repliesのテスト用コマンドを作る
-- その他:
-    - Google Shopping List にテンプレート的な機能
-        - 2020/08/27: ようやくブックマークレットが実装できた。
-        - 2020/08/28: multipostのテストも兼ねて、試しに投稿してみよう
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
+
+# 2020/08/29
+
+- Haskell入門コンテンツ:
+    - 課題9の不足箇所を埋める
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- WebAssemblyの仕様
+- 中国語
 
 # 2020/08/27 - 2020/08/28
 
@@ -30,6 +34,10 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - wasmのテストケースを実行できるARM32の実行ファイルを吐く
         - 2020/08/27: 昨日であった問題は`RefCell`を使えばよい気がするが、ベストプラクティスがわからないのでやっぱり最小ケースを作って人に聞いてみよう。
         - 2020/08/28: 引き続き最小ケース作り。
+- その他:
+    - Google Shopping List にテンプレート的な機能
+        - 2020/08/27: ようやくブックマークレットが実装できた。
+        - 2020/08/28: multipostのテストも兼ねて、試しに投稿してみよう
 - [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
 - WebAssemblyの仕様
 - 中国語
