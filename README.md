@@ -17,8 +17,24 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - conversations.repliesとconversations.historyが内部で使用している関数をテスト
         - conversations.repliesとconversations.historyが内部で使用している関数をリファクタリング
         - conversations.repliesのテスト用コマンドを作る
+    - ブログとQiitaに同時投稿するのをサポートするツール
+        - igreque.infoのテンプレートを編集して`canonicalUrl`を特別扱い。後は公開する用のスクリプトを書いて試しに実行するってところか。
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
+
+# 2020/09/01
+
+- wasm2arm32 compiler:
+    - wasmのテストケースを実行できるARM32の実行ファイルを吐く
+        - 2020/08/31: 最小ケース的なもののコンパイルが通せた。
+- その他:
+    - Google Shopping List にテンプレート的な機能
+        - 2020/09/01: 記事が書けた。
+    - Google Shopping List からアイテムをコピーする
+        - サクッとブックマークレットを書いた。これも記事にしよう
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- WebAssemblyの仕様
+- 中国語
 
 # 2020/08/31
 
