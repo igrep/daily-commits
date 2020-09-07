@@ -21,12 +21,31 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - Monad則を破る話: 半分程度執筆
     - Docker/haskellのドキュメントについて
         - 改めてstackで試す
+            - 結果: 達成
+        - ドキュメント修正のPull requestを送る
 - その他:
     - ブログとQiitaに同時投稿するのをサポートするツール
         - フィルター機能の設計に向け、他の静的サイトジェネレーターを調査
     - Google Shopping Listの中身をリストアップする記事: 執筆
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
+
+# 2020/09/07
+
+- wasm2arm32 compiler:
+    - wasmのテストケースを実行できるARM32の実行ファイルを吐く
+        - 2020/09/07: 文字列を組み立てる方向に修正して引き続き
+- Haskell-jp活動:
+    - Docker/haskellのドキュメントについて
+        - 改めてstackで試して、ドキュメントの修正事項がわかった。
+            - <https://twitter.com/igrep/status/1302762128953151489>
+    - Monad則を破る話: ちょっとだけ
+- その他:
+    - ブログとQiitaに同時投稿するのをサポートするツール
+        - Gatsby, Next.jsを見た限り、やっぱりmarkdownの先頭にYAMLっぽい形式のメタデータを書くのが主流なようだ
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- WebAssemblyの仕様
+- 中国語
 
 
 # 2020/09/06までの目標
