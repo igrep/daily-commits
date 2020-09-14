@@ -26,6 +26,17 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 
+# 2020/09/14
+
+- wasm2arm32 compiler:
+    - wasmのテストケースを実行できるARM32の実行ファイルを吐く
+        - 2020/09/14: `assert_return`対象の関数を呼ぶコード書き始め
+- Haskell-jp活動:
+    - Monad則を破る話: `Writer`の`Monad`のインスタンス定義について
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- WebAssemblyの仕様
+- 中国語
+
 # 2020/09/13までの目標
 
 - wasm2arm32 compiler:
