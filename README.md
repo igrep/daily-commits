@@ -8,17 +8,41 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2020/09/13までの目標
+# 2020/09/20までの目標
 
 - wasm2arm32 compiler:
     - wasmのテストケースを実行できるARM32の実行ファイルを吐く
 - Haskell-jp活動:
-    - キックオフのアジェンダ
     - slack-webパッケージにConversations APIを実装
         - conversations.repliesとconversations.historyが内部で使用している関数をテスト
         - conversations.repliesとconversations.historyが内部で使用している関数をリファクタリング
         - conversations.repliesのテスト用コマンドを作る
+    - Monad則を破る話: 半分強程度執筆
+- その他:
+    - ブログとQiitaに同時投稿するのをサポートするツール
+        - 新しい仕様の型設計
+    - Google Shopping Listの中身をエディターで編集する記事:
+        - ブックマークレット実装
+- Haskell入門コンテンツ:
+    - 課題9の不足箇所を埋める
+
+# 2020/09/13までの目標
+
+- wasm2arm32 compiler:
+    - wasmのテストケースを実行できるARM32の実行ファイルを吐く
+        - 結果: 未達
+- Haskell-jp活動:
+    - キックオフのアジェンダ
+        - 結果: 達成
+    - slack-webパッケージにConversations APIを実装
+        - conversations.repliesとconversations.historyが内部で使用している関数をテスト
+            - 結果: 未達
+        - conversations.repliesとconversations.historyが内部で使用している関数をリファクタリング
+            - 結果: 未達
+        - conversations.repliesのテスト用コマンドを作る
+            - 結果: 未達
     - Monad則を破る話: 半分程度執筆
+        - 結果: 未達
     - Docker/haskellのドキュメントについて
         - 改めてstackで試す
             - 結果: 達成
@@ -31,8 +55,19 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - タグの末尾にカンマが入ってしまう問題の修正
             - 結果: 達成
     - Google Shopping Listの中身をリストアップする記事: 執筆
+        - 結果: 未達
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
+        - 結果: 未達
+
+# 2020/09/13
+
+- Haskell-jp活動:
+    - キックオフのアジェンダ
+        - 書けた。遅くなってしまったのでアナウンスは明日。
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- WebAssemblyの仕様
+- 中国語
 
 # 2020/09/12
 
