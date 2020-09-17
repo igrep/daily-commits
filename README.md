@@ -26,6 +26,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 
+# 2020/09/17
+
+- Haskell-jp活動:
+    - Monad則を破る話:
+         - 2020/09/17:
+            - 少しサンプルを書いてから、サンプルのテストを自動化できないかとmarkdown-unlitを試すも、ちょっとイマイチ。
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- WebAssemblyの仕様
+- 中国語
+
 # 2020/09/15 - 2020/09/16
 
 - wasm2arm32 compiler:
