@@ -26,6 +26,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 
+# 2020/09/19
+
+- Haskell-jp活動:
+    - Monad則を破る話: 引き続きYak Shaving。
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- WebAssemblyの仕様
+- 中国語
+
 # 2020/09/17 - 2020/09/18
 
 - Haskell-jp活動:
@@ -34,7 +42,8 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - 2020/09/18:
             - 自前のLitelate Haskellツールが作りたくなって夢中で書いてしまった。最低限今回の記事に必要なものが半分くらいできただろうか。
             - 相変わらずYak Shavingばっかり捗ってしまう...
-
+        - 2020/09/19: 引き続きYak Shaving。
+- 中国語
 
 # 2020/09/15 - 2020/09/16
 
