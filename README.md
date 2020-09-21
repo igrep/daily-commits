@@ -8,7 +8,7 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2020/09/20までの目標
+# 2020/09/27までの目標
 
 - wasm2arm32 compiler:
     - wasmのテストケースを実行できるARM32の実行ファイルを吐く
@@ -25,6 +25,43 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - ブックマークレット実装
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
+
+# 2020/09/20までの目標
+
+- wasm2arm32 compiler:
+    - wasmのテストケースを実行できるARM32の実行ファイルを吐く
+        - 結果: 未達
+- Haskell-jp活動:
+    - slack-webパッケージにConversations APIを実装
+        - conversations.repliesとconversations.historyが内部で使用している関数をテスト
+            - 結果: 未達
+        - conversations.repliesとconversations.historyが内部で使用している関数をリファクタリング
+            - 結果: 未達
+        - conversations.repliesのテスト用コマンドを作る
+            - 結果: 未達
+    - Monad則を破る話: 半分強程度執筆
+        - 結果: 未達
+- その他:
+    - ブログとQiitaに同時投稿するのをサポートするツール
+        - 新しい仕様の型設計
+            - 結果: 未達
+    - Google Shopping Listの中身をエディターで編集する記事:
+        - ブックマークレット実装
+            - 結果: 未達
+- Haskell入門コンテンツ:
+    - 課題9の不足箇所を埋める
+        - 結果: 未達
+
+# 2020/09/20
+
+- Haskell-jp活動:
+    - slack-webパッケージにConversations APIを実装
+        - ようやく新しいconversationsHistoryの実装ができたけど、テストで無限ループしてしまう。
+        - エラーが発生した場合に途中まで取得した結果が返せるようにした方がいいことに気づいて、また難易度が上がってしまった。
+            - とりあえず型を変えたけど、これちゃんと順番を維持しようと思ったらDListっぽい構造にしないとな...
+- [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識](https://gihyo.jp/book/2018/978-4-7741-9607-7)
+- WebAssemblyの仕様
+- 中国語
 
 # 2020/09/19
 
