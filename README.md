@@ -26,6 +26,20 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 
+# 2020/09/23
+
+- Haskell-jp活動:
+    - Monad則を破る話:
+        - 2020/09/22:
+            - Yak Shaving続き。`processLine`関数のテストを書く前にいろいろ整備。
+                - 明日はAppStateのGeneratorを定義かな。`inCodeBlock`か否かでケースを分けてやるのがよさそう。あとすでにComparisonがいるかどうか
+            - エラーを警告として出せるよう型を修正。エラーで途中で止める場合を考えると本当はLazy IOで1行ずつ書くのはやめた方がいいのかも。
+    - Haskell-jp Admins設立
+        - organizationなどを作成。次は作成に関する根回しを。
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- WebAssemblyの仕様
+- 中国語
+
 # 2020/09/21 - 2020/09/22
 
 - Haskell-jp活動:
