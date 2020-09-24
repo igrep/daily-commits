@@ -26,16 +26,22 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 
-# 2020/09/23
+# 2020/09/23 - 2020/09/24
 
+- wasm2arm32 compiler:
+    - wasmのテストケースを実行できるARM32の実行ファイルを吐く
+        - 2020/09/23: `assert_equal`の呼び出しができたはず。assemblyなんで正しくできてるか自信がない
+        - 2020/09/24: `assert_equal`の実装ができた。これもassemblyなんで正しくできてるか自信がない
 - Haskell-jp活動:
     - Monad則を破る話:
-        - 2020/09/22:
+        - 2020/09/23:
             - Yak Shaving続き。`processLine`関数のテストを書く前にいろいろ整備。
                 - 明日はAppStateのGeneratorを定義かな。`inCodeBlock`か否かでケースを分けてやるのがよさそう。あとすでにComparisonがいるかどうか
             - エラーを警告として出せるよう型を修正。エラーで途中で止める場合を考えると本当はLazy IOで1行ずつ書くのはやめた方がいいのかも。
+        - 2020/09/24: Yak Shaving続き。テストケースのcontextを列挙。
     - Haskell-jp Admins設立
-        - organizationなどを作成。次は作成に関する根回しを。
+        - 2020/09/23: organizationなどを作成。次は作成に関する根回しを。
+        - 2020/09/24: 総則を途中まで書いた。
 - [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
 - WebAssemblyの仕様
 - 中国語
