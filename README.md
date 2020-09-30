@@ -32,14 +32,17 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - wasm2arm32 compiler:
     - wasmのテストケースを実行できるARM32の実行ファイルを吐く
         - 2020/09/28 - 2020/09/29: 実行時エラーを修正。テストの`main`関数を吐き出すのを忘れていたのも修正。次はgccでコンパイルだ。
+        - 2020/09/30: gccでコンパイルして実行する処理を抜き出した
 - Haskell-jp活動:
     - Monad則を破る話:
         - ReadmeTestの実装:
             - 2020/09/28: まだ構文エラーがあるので分からないけど、最初の2つのケースについてのテストケースができたはず
             - 2020/09/29: 3つめのテストケース作成
+            - 2020/09/30: currentDirectiveが`Ignore`の場合と`AppendAsIs`の場合のテストケースができたはず。
     - Haskell-jp Admins設立
         - 2020/09/28: COCのドラフト用リポジトリーを作成。Haskell Day 2019からひとまずコピペして一括置換を中心に修正。
         - 2020/09/29: 一部言葉が出てこない部分はあるものの、Pull requestを作っておいた: <https://github.com/haskell-jp-admins/coc-draft/pull/1>
+        - 2020/09/30: 一通り埋めた。よく考えたら公開しないと事前に共有したい外のメンバーに見せられないな。
 - [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
 - WebAssemblyの仕様
 - 中国語
