@@ -15,6 +15,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
         - conversations.repliesとconversations.historyが内部で使用している関数をテスト
+            - 達成
         - conversations.repliesとconversations.historyが内部で使用している関数をリファクタリング
         - conversations.repliesのテスト用コマンドを作る
     - Monad則を破る話:
@@ -26,6 +27,18 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
     - 買い物リストをAirtableに移行
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
+
+# 2020/10/03
+
+- Haskell-jp活動:
+    - slack-webパッケージにConversations APIを実装
+        - conversations.historyをpaginationする関数について引き続き。
+            - スペースリークっぽい現象を回避するためにデータ構造を見直した。`historyRspMessages`を`ConsecutiveResponses`に詰め替える処理がなくなった分だけ高速になったはずだけど、やっぱりメモリーをもりもり食ってしまう。
+            - あと、実際にSlackのAPIに対して実行してみたところ、なぜか無限にAPIを実行してしまい、最終的にSlackのrate limitedエラーに。
+                - cursorの扱い方が想定と違うのだろうか？
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- WebAssemblyの仕様
+- 中国語
 
 # 2020/10/01 - 2020/10/02
 
