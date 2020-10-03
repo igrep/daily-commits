@@ -27,15 +27,17 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 
-# 2020/10/01
+# 2020/10/01 - 2020/10/02
 
 - wasm2arm32 compiler:
     - wasmのテストケースを実行できるARM32の実行ファイルを吐く
         - 2020/10/01: gccでコンパイルして実行する処理を抜き出してできたコンパイルエラー修正、wastから生成したasmファイルを実行する処理も書いてる
+        - 2020/10/02: 一つのwastファイルにコンパイルするwasmファイルが複数存在する場合があるので、現在のwasmファイルが切り替わった段階でアセンブリーをコンパイル・実行する処理に変更中
 - Haskell-jp活動:
     - Monad則を破る話:
         - ReadmeTestの実装:
             - 2020/10/01: currentDirectiveが`ValidateExpression`の場合のテストケースができたはず。あと、\`\`\`という行を受け取った場合のテストケースを共通化した
+            - 2020/10/02: currentDirectiveが`CompareAfterPrompt`の場合について、まだまだいろいろ迷う余地があるな
 - [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
 - WebAssemblyの仕様
 - 中国語
