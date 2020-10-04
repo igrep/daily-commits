@@ -8,14 +8,12 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2020/10/04までの目標
+# 2020/10/11までの目標
 
 - wasm2arm32 compiler:
     - wasmのテストケースを実行できるARM32の実行ファイルを吐く
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
-        - conversations.repliesとconversations.historyが内部で使用している関数をテスト
-            - 達成
         - conversations.repliesとconversations.historyが内部で使用している関数をリファクタリング
         - conversations.repliesのテスト用コマンドを作る
     - Monad則を破る話:
@@ -24,9 +22,45 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - その他:
     - ブログとQiitaに同時投稿するのをサポートするツール
         - 新しい仕様の型設計
-    - 買い物リストをAirtableに移行
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
+
+# 2020/10/04までの目標
+
+- wasm2arm32 compiler:
+    - wasmのテストケースを実行できるARM32の実行ファイルを吐く
+- Haskell-jp活動:
+    - slack-webパッケージにConversations APIを実装
+        - conversations.repliesとconversations.historyが内部で使用している関数をテスト
+            - 結果: 達成
+        - conversations.repliesとconversations.historyが内部で使用している関数をリファクタリング
+            - 結果: 未達
+        - conversations.repliesのテスト用コマンドを作る
+            - 結果: 未達
+    - Monad則を破る話:
+        - 半分強程度執筆
+            - 結果: 未達
+        - ReadmeTestの実装
+            - 結果: 未達
+- その他:
+    - ブログとQiitaに同時投稿するのをサポートするツール
+        - 新しい仕様の型設計
+            - 結果: 未達
+    - 買い物リストをAirtableに移行
+            - 結果: 達成
+- Haskell入門コンテンツ:
+    - 課題9の不足箇所を埋める
+            - 結果: 未達
+
+# 2020/10/04
+
+- Haskell-jp活動:
+    - Monad則を破る話:
+        - ReadmeTestの実装:
+            - 2020/10/04: currentDirectiveが`CompareAfterPrompt`の場合のテストが半分くらいできたはず
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- WebAssemblyの仕様
+- 中国語
 
 # 2020/10/03
 
