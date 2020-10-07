@@ -25,16 +25,22 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 
-# 2020/10/06
+# 2020/10/06 - 2020/10/07
 
 - wasm2arm32 compiler:
     - wasmのテストケースを実行できるARM32の実行ファイルを吐く
         - 2020/10/06: ようやく生成したasmファイルをコンパイルするところまで来たが、案の定コンパイルエラー。とりあえずはすぐ直せそうだ
+        - 2020/10/07:
+            - コンパイルエラーは<https://teratail.com/questions/102402>だった。
+            - 👆こちらは直したが今度は<https://stackoverflow.com/questions/36740646/gcc-invalid-literal-constant-pool-needs-to-be-closer>が。まだ直し方は分からない
+                - "invalid literal constant: pool needs to be closer"
 - Haskell-jp活動:
     - Monad則を破る話:
         - ReadmeTestの実装:
             - 2020/10/06: まだ最新の`Comparison`を計算する箇所についてundefinedが残っているが、一通りテストが埋まった。型エラーがあるのでまだかかりそうだけど。
+            - 2020/10/07: テストのコンパイル通った。（警告と`undefined`がまだある）
     - Haskell-jp Admins設立
+            - 2020/10/07: COCのドラフトの修正。概ねできたが一晩温めよう
             - 2020/10/06: 定款について前回の会議で気になった点を修正
 - [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
 - WebAssemblyの仕様
