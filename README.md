@@ -25,7 +25,18 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 
-# 2020/10/06 - 2020/10/08
+# 2020/10/08
+
+- wasm2arm32 compiler:
+    - wasmのテストケースを実行できるARM32の実行ファイルを吐く
+        - 2020/10/08:
+            - 昨日出くわした問題はなかなか難しそうだ。要するに`LDR R1, =12345`などする命令が多すぎて、リテラルの位置がPCより制限を超えて離れてしまっているからだろう。ここまではアセンブラーが自動で解決してくれない、と。やっぱり`MOVW`・`MOVT`を組み合わせて使う方法の方が確実かな？
+                - <https://stackoverflow.com/questions/36740646/gcc-invalid-literal-constant-pool-needs-to-be-closer>
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- WebAssemblyの仕様
+- 中国語
+
+# 2020/10/06 - 2020/10/07
 
 - wasm2arm32 compiler:
     - wasmのテストケースを実行できるARM32の実行ファイルを吐く
