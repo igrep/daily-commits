@@ -25,6 +25,17 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 
+# 2020/10/12
+
+- wasm2arm32 compiler:
+    - wasmのテストケースを実行できるARM32の実行ファイルを吐く
+        - `MOVT`・`MOVW`を使う方向で修正中。途中で`MOV32`という擬似命令があることも知ったが、残念ながら手元のgccでは使えなかった
+- Haskell-jp活動:
+    - Haskell-jp Admins設立
+        - COCの細かい修正と見直しが済んだのところで、いろいろやりづらそうなことに気づいたのでCOC用のリポジトリーを整理。
+        - 次は<https://github.com/haskell-jp-admins/coc-draft/pull/1>のPRのコミットをrebaseしてパッチに変換してから整理しよう。PRはそれから。余計な手間を増やしてしまったな...
+- 中国語
+
 # 2020/10/11までの目標
 
 - wasm2arm32 compiler:
@@ -66,7 +77,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
                 - 遅延IOは諦めて、自前でiteratorを作ることにした。簡単に確認しただけだけど、メモリーの消費量は改善されたようだ
                 - SlackのAPIを無限に呼んでしまう問題は、cursorを渡し忘れていたからだった。ToFormData型クラスの実装は手動だったのだ...
     - Haskell-jp Admins設立
-            - COCをさらに修正。明日こそみんなに共有かな
+        - COCをさらに修正。明日こそみんなに共有かな
 - [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
 - WebAssemblyの仕様
 - 中国語
