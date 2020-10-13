@@ -33,7 +33,12 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell-jp活動:
     - Monad則を破る話:
         - ReadmeTestの実装
-            - `CompareAfterPrompt`のtest続き
+            - `CompareAfterPrompt`のtest続き。仕様を少し改めて、テストする行の続きを表すのに空白文字` ｀は使えないことにした。その方がGHCiの仕様と一貫するし。
+                - 2行以上続くとややこしいのが実際にexpected lineと比較するのはexpected lineを書く手前の行、ってところだね...。まだちょっと仕様がおかしい気がするな。
+                - やっぱり`Comparison`の`lineToTest`は2行以上続くものではないのでは
+                - なので、`foundComparisonLines`に追記するのは`expectedLines`が空じゃない場合だけなのでは
+                - となると、`CompareAfterPrompt`におけるコードブロックは全体として一つの宣言にして各行は`let`で定義すればいい？
+                    - `ValidateExpression`も同じ方法にした方が一貫性が出てよさそう
 - [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
 - WebAssemblyの仕様
 - 中国語
