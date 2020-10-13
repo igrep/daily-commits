@@ -25,6 +25,19 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 
+# 2020/10/13
+
+- wasm2arm32 compiler:
+    - wasmのテストケースを実行できるARM32の実行ファイルを吐く
+        - `MOVT`・`MOVW`を使う方向で修正中。もうちょっとのはず
+- Haskell-jp活動:
+    - Monad則を破る話:
+        - ReadmeTestの実装
+            - `CompareAfterPrompt`のtest続き
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- WebAssemblyの仕様
+- 中国語
+
 # 2020/10/12
 
 - wasm2arm32 compiler:
