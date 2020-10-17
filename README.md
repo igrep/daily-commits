@@ -25,17 +25,20 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 
-# 2020/10/15
+# 2020/10/15 - 2020/10/16
 
 - wasm2arm32 compiler:
     - wasmのテストケースを実行できるARM32の実行ファイルを吐く
         - 2020/10/15:
             - 実行してみたらIllegal Instructionに。
             - gdbからも`main`や`assert_equal`など、定義したはずの関数がないと言われるし、さっぱりわからん。確かにobjdumpしても両方見つからない...
+        - 2020/10/16:
+            - 生成したassemblyを取り出していろいろいじってみたら実行できた。どうやら`.text`と`.data`がごっちゃになっていたのが問題らしい。ただ実行の最後にSegmentation faultになった。
 - Haskell-jp活動:
     - Monad則を破る話:
         - ReadmeTestの実装
-            - `CompareAfterPrompt`のパース方法が変わったので修正
+            - 2020/10/15: `CompareAfterPrompt`のパース方法が変わったので修正
+            - 2020/10/16: ちょっとだけ
 - [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
 - WebAssemblyの仕様
 - 中国語
