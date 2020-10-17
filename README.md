@@ -25,6 +25,19 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 
+# 2020/10/17
+
+- Haskell-jp活動:
+    - Monad則を破る話:
+        - ReadmeTestの実装
+            - 2020/10/17: `CompareAfterPrompt`に関していえば、やっぱり設計を間違ったな... テストにしても実装にしても複雑すぎる気がしてきたぞ
+- Haskell入門コンテンツ:
+    - 課題9の不足箇所を埋める
+        - 課題9の途中までできたところをコミット: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/b2784981ab6c85a4b9eda8631bdbfab4498b0259>
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- WebAssemblyの仕様
+- 中国語
+
 # 2020/10/15 - 2020/10/16
 
 - wasm2arm32 compiler:
@@ -39,6 +52,7 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
         - ReadmeTestの実装
             - 2020/10/15: `CompareAfterPrompt`のパース方法が変わったので修正
             - 2020/10/16: ちょっとだけ
+            - 2020/10/17: `CompareAfterPrompt`に関していえば、やっぱり設計を間違ったな... テストにしても実装にしても複雑すぎる気がしてきたぞ
 - [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
 - WebAssemblyの仕様
 - 中国語
