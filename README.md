@@ -8,7 +8,7 @@ Execute this vim command to push updates of this file:
 
 GitHubのPublic Contribution Mapをどうしても途切れさせたくないために、毎日、OSSに何らかの形で寄与するか、何かしら技術を磨いたりブログ書いたりしたら更新する。
 
-# 2020/10/18までの目標
+# 2020/10/25までの目標
 
 - wasm2arm32 compiler:
     - wasmのテストケースを実行できるARM32の実行ファイルを吐く
@@ -25,15 +25,41 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 
-# 2020/10/17
+# 2020/10/18までの目標
+
+- wasm2arm32 compiler:
+    - wasmのテストケースを実行できるARM32の実行ファイルを吐く
+        - 結果: 未達
+- Haskell-jp活動:
+    - slack-webパッケージにConversations APIを実装
+        - conversations.repliesとconversations.historyが内部で使用している関数をリファクタリング
+            - 結果: 未達
+        - conversations.repliesのテスト用コマンドを作る
+            - 結果: 未達
+    - Monad則を破る話:
+        - 半分強程度執筆
+            - 結果: 未達
+        - ReadmeTestの実装
+            - 結果: 未達
+- その他:
+    - ブログとQiitaに同時投稿するのをサポートするツール
+        - 新しい仕様の型設計
+            - 結果: 未達
+- Haskell入門コンテンツ:
+    - 課題9の不足箇所を埋める
+        - 結果: 未達
+
+# 2020/10/17 - 2020/10/18
 
 - Haskell-jp活動:
     - Monad則を破る話:
         - ReadmeTestの実装
             - 2020/10/17: `CompareAfterPrompt`に関していえば、やっぱり設計を間違ったな... テストにしても実装にしても複雑すぎる気がしてきたぞ
+            - 2020/10/18: と思ったけどできそう。`CompareAfterPrompt`を使った場合の変換規則を整理
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
-        - 課題9の途中までできたところをコミット: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/b2784981ab6c85a4b9eda8631bdbfab4498b0259>
+        - 2020/10/17: 課題9の途中までできたところをコミット: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/b2784981ab6c85a4b9eda8631bdbfab4498b0259>
+        - 2020/10/18: ちょっとだけ
 - [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
 - WebAssemblyの仕様
 - 中国語
