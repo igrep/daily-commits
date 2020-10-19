@@ -25,6 +25,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 
+# 2020/10/19
+
+- wasm2arm32 compiler:
+    - wasmのテストケースを実行できるARM32の実行ファイルを吐く
+        - 2020/10/19:
+            - 先週見つけた問題は直せた（はず）。しかし、出力した実行ファイルの出力が`cargo test`したときに出てきてないような...？
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- [圏論入門 Haskellで計算する具体例から](https://www.nippyo.co.jp/shop/book/8340.html)
+- 中国語
+
 # 2020/10/18までの目標
 
 - wasm2arm32 compiler:
