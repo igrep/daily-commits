@@ -25,6 +25,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 
+# 2020/10/20
+
+- Haskell-jp活動:
+    - COCに対する変更を共有する準備をしたのでその記録を記事にした:
+        - <https://qiita.com/igrep/items/acf0b1e4f1917f9c636c>
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- [圏論入門 Haskellで計算する具体例から](https://www.nippyo.co.jp/shop/book/8340.html)
+- 中国語
+
 # 2020/10/19
 
 - wasm2arm32 compiler:
