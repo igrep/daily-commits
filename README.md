@@ -25,6 +25,23 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 
+# 2020/10/21
+
+- wasm2arm32 compiler:
+    - wasmのテストケースを実行できるARM32の実行ファイルを吐く
+        - 2020/10/21:
+            - やっぱりなぜか実行ファイルの出力が出てこない。segfaultしてるから？
+- Haskell-jp活動:
+    - 次回の会議のアジェンダ共有
+    - Monad則を破る話:
+        - ReadmeTestの実装
+            - また`CompareAfterPrompt`に絡む問題に気づいた。けどまぁとりあえず気にしないでおくか...
+                - expected lineが存在しないテスト行というのは、恐らくGHCiでの代入に相当するので、今想定しているような`let rtcapT__NN = `を先頭に付け加える方法では正しく動かない。これを直すには、やっぱり当初の設計のように、1行1行変換する方式には限界があるため、将来的には別の実装に変えよう
+                - 現状、`ByExpression`のみ実装しよう。例の記事に必要なのはそれだけのはず
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- [圏論入門 Haskellで計算する具体例から](https://www.nippyo.co.jp/shop/book/8340.html)
+- 中国語
+
 # 2020/10/20
 
 - Haskell-jp活動:
