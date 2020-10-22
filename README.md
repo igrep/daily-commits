@@ -12,6 +12,8 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - wasm2arm32 compiler:
     - wasmのテストケースを実行できるARM32の実行ファイルを吐く
+        - 結果: 達成
+    - subのテストケースを解決
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
         - conversations.repliesとconversations.historyが内部で使用している関数をリファクタリング
@@ -25,19 +27,22 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 
-# 2020/10/21
+# 2020/10/21 - 2020/10/22
 
 - wasm2arm32 compiler:
     - wasmのテストケースを実行できるARM32の実行ファイルを吐く
         - 2020/10/21:
             - やっぱりなぜか実行ファイルの出力が出てこない。segfaultしてるから？
+        - 2020/10/22: stderrに吐くことでメッセージを確認できた。と、いうわけでやっとテストランナーができた
 - Haskell-jp活動:
-    - 次回の会議のアジェンダ共有
+    - 2020/10/21: 次回の会議のアジェンダ共有
+    - 2020/10/22: COCのbranchをpublicにpushするところまで。緊張するから呼びかけは明日以降！
     - Monad則を破る話:
         - ReadmeTestの実装
-            - また`CompareAfterPrompt`に絡む問題に気づいた。けどまぁとりあえず気にしないでおくか...
+            - 2020/10/21: また`CompareAfterPrompt`に絡む問題に気づいた。けどまぁとりあえず気にしないでおくか...
                 - expected lineが存在しないテスト行というのは、恐らくGHCiでの代入に相当するので、今想定しているような`let rtcapT__NN = `を先頭に付け加える方法では正しく動かない。これを直すには、やっぱり当初の設計のように、1行1行変換する方式には限界があるため、将来的には別の実装に変えよう
                 - 現状、`ByExpression`のみ実装しよう。例の記事に必要なのはそれだけのはず
+            - 2020/10/22: 今日もちょっとだけ前進
 - [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
 - [圏論入門 Haskellで計算する具体例から](https://www.nippyo.co.jp/shop/book/8340.html)
 - 中国語
