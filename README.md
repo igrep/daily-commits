@@ -28,6 +28,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 
+# 2020/10/24
+
+- Haskell-jp活動:
+    - 定款の6章の追記をpush
+- Haskell入門コンテンツ:
+    - 課題9の不足箇所を埋める: 引き続き。
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- [圏論入門 Haskellで計算する具体例から](https://www.nippyo.co.jp/shop/book/8340.html)
+- 中国語
+
 # 2020/10/21 - 2020/10/23
 
 - wasm2arm32 compiler:
