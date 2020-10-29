@@ -25,14 +25,15 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 
-# 2020/10/28
+# 2020/10/28 - 2020/10/29
 
 - wasm2arm32 compiler:
     - wasmのテストケースを実行できるARM32の実行ファイルを吐く
         - 2020/10/28: 立て続けに`i32.div_u`, `i32.rem_s`, `i32.rem_u`, `i32.and`, `i32.or`, `i32.xor`まで実装した。`i32.shl`についてはレジスターの値でシフトするにはどうすればいいんじゃろか。
             - やっぱりgccの関数を呼ぶしかない？明日はまたobjdumpして見てみるか。
+        - 2020/10/29:
+            - <https://www.mztn.org/dragon/arm6407shift.html> を見たら、LSLという命令があったので使ってみたものの、結果が合わない
 - [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
-- [圏論入門 Haskellで計算する具体例から](https://www.nippyo.co.jp/shop/book/8340.html)
 - 中国語
 
 # 2020/10/27
