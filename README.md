@@ -25,6 +25,14 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 
+# 2020/10/31
+
+- Haskell入門コンテンツ:
+    - 課題9の不足箇所を埋める
+        - ちょっとだけ。
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- 中国語
+
 # 2020/10/30
 
 - wasm2arm32 compiler:
