@@ -12,18 +12,25 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 
 - wasm2arm32 compiler:
     - i32.sdivのテストケースを解決
+        - 結果: 達成
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
         - conversations.repliesとconversations.historyが内部で使用している関数をリファクタリング
+            - 結果: 未達
         - conversations.repliesのテスト用コマンドを作る
+            - 結果: 未達
     - Monad則を破る話:
         - 半分強程度執筆
+            - 結果: 未達
         - ReadmeTestの実装
+            - 結果: 未達
 - その他:
     - ブログとQiitaに同時投稿するのをサポートするツール
         - 新しい仕様の型設計
+            - 結果: 未達
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
+        - 結果: 未達
 
 # 2020/11/01
 
