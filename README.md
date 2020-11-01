@@ -25,6 +25,16 @@ GitHubのPublic Contribution Mapをどうしても途切れさせたくないた
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 
+# 2020/11/01
+
+- Haskell-jp活動:
+    - slack-webパッケージにConversations APIを実装
+        - conversations.repliesの仕様を確認した: <https://twitter.com/igrep/status/1322811406291410950>
+        - specを一部修正。各ページの先頭にスレッドの先頭のメッセージをくっつける処理を実装
+- [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
+- [圏論入門 Haskellで計算する具体例から](https://www.nippyo.co.jp/shop/book/8340.html)
+- 中国語
+
 # 2020/10/31
 
 - Haskell入門コンテンツ:
