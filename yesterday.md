@@ -3,6 +3,8 @@
 - wasm2arm32 compiler:
     - i32.wastにおけるすべての`assert_return`のテストケースを解決
         - 2020/11/09: `i32.clz`は楽に実装できたが、`i32.ctz`についてはうまくいかない。Armネイティブにはないらしいため、GCCの`__ctzsi2`を使ったが、なぜか期待する結果にならない
+        - 2020/11/10: <http://graphics.stanford.edu/~seander/bithacks.html#ZerosOnRightParallel> の方法が簡潔そうなのでアセンブリーで実装しようと思いきや、signedなる見慣れない関数が！ググっても出てこない！まぁ想像は付くけど...
+            - そもそもこの関数で要件満たせるかどうかのチェックは必要か...
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
         - conversations.repliesとconversations.historyが内部で使用している関数をリファクタリング
@@ -14,6 +16,10 @@
                 - テストの誤りなど修正しつつ、さらに何ケースか解決。
                 - `ValidateAsExpression`のテストが二つ間違ってるじゃないか...
                 - というわけで残り11 failures
+            - 2020/11/10:
+                - 昨日見つけたテストの誤りを修正。残り9 failures。
+                - 残りのundefinedを埋めるためにリファクタリングしつつ構成を整えた
+                - あと、パーサーの仕様に穴があるせいで、一部意図通りに動いていなかった。`>`の直後に空白文字しか来なかった場合だ。そもそも`stripEnd`が余計だったと言えそう
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 - その他:
