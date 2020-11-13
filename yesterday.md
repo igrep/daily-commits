@@ -5,6 +5,8 @@
         - 2020/11/09: `i32.clz`は楽に実装できたが、`i32.ctz`についてはうまくいかない。Armネイティブにはないらしいため、GCCの`__ctzsi2`を使ったが、なぜか期待する結果にならない
         - 2020/11/10: <http://graphics.stanford.edu/~seander/bithacks.html#ZerosOnRightParallel> の方法が簡潔そうなのでアセンブリーで実装しようと思いきや、signedなる見慣れない関数が！ググっても出てこない！まぁ想像は付くけど...
             - そもそもこの関数で要件満たせるかどうかのチェックは必要か...
+        - 2020/11/11 - 2020/11/12: <http://graphics.stanford.edu/~seander/bithacks.html#ZerosOnRightParallel>の意味をちゃんと理解するのに苦戦中。
+            - どうも<http://graphics.stanford.edu/~seander/bithacks.html#ZerosOnRightLinear>にアルゴリズムにはバグがあるらしく、`0x80000000`を与えると無限ループすることがわかった。ちょっと直したくなる。直せばUSD10もらえるらしいし
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
         - conversations.repliesとconversations.historyが内部で使用している関数をリファクタリング
@@ -24,6 +26,10 @@
                 - CompareAfterPromptにおける共通のケースなどを処理して残り6 failures。いくつかテストケースがおかしいような
                 - ああー、あと、最初の方の行で`import`も生成しないとなぁ。最初の方の行にコードブロックが来ちゃったらどうすんだよ、って感じだけど...
                     - 行数をそろえるには、やっぱり`LINE`プラグマで調整するような仕様の方が実装しやすいんだろうなぁ...。まぁ、最初の方の行にいきなりコードブロックが出ることってないでしょうけど...
+            - 2020/11/12:
+                - `processLine`における`undefined`をすべて埋めた。テストがおかしいのでまだ残り6 failures。
+                - また一つ設計の問題に気づけた。あとは今の実装に合わせてテストを変えつつ、だな...
+                - あ、あとそういえば`foundCompareAfterPrompts`を処理するの忘れてたな...
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 - その他:
