@@ -6,7 +6,10 @@
         - 2020/11/10: <http://graphics.stanford.edu/~seander/bithacks.html#ZerosOnRightParallel> の方法が簡潔そうなのでアセンブリーで実装しようと思いきや、signedなる見慣れない関数が！ググっても出てこない！まぁ想像は付くけど...
             - そもそもこの関数で要件満たせるかどうかのチェックは必要か...
         - 2020/11/11 - 2020/11/12: <http://graphics.stanford.edu/~seander/bithacks.html#ZerosOnRightParallel>の意味をちゃんと理解するのに苦戦中。
-            - どうも<http://graphics.stanford.edu/~seander/bithacks.html#ZerosOnRightLinear>にアルゴリズムにはバグがあるらしく、`0x80000000`を与えると無限ループすることがわかった。ちょっと直したくなる。直せばUSD10もらえるらしいし
+            - ~~どうも<http://graphics.stanford.edu/~seander/bithacks.html#ZerosOnRightLinear>にアルゴリズムにはバグがあるらしく、`0x80000000`を与えると無限ループすることがわかった。ちょっと直したくなる。直せばUSD10もらえるらしいし~~
+                - 2020/11/13: やっぱりそんなことなかった。`unsigned int`と`int`を間違えていた。そりゃそうだ。
+        - 2020/11/13: i32.ctzに使うアルゴリズムを決定。
+            - <http://graphics.stanford.edu/~seander/bithacks.html#ZerosOnRightBinSearch>を使うことにした。よくよく読んでみたらこちらの方が自分にとって直感的だし。ループを使わずにアセンブリーで書けるのは多分楽。しかも速いらしい。
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
         - conversations.repliesとconversations.historyが内部で使用している関数をリファクタリング
@@ -30,6 +33,9 @@
                 - `processLine`における`undefined`をすべて埋めた。テストがおかしいのでまだ残り6 failures。
                 - また一つ設計の問題に気づけた。あとは今の実装に合わせてテストを変えつつ、だな...
                 - あ、あとそういえば`foundCompareAfterPrompts`を処理するの忘れてたな...
+            - 2020/11/13:
+                - 一部テストを修正して残り4 failures。型を変えてからまた大幅に見直すか...
+                - `foundCompareAfterPrompts`の処理も忘れずにな！
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 - その他:
@@ -37,9 +43,9 @@
         - 新しい仕様の型設計
 - 読書など:
     - [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
-        - 2020/11/09 - 2020/11/11
+        - 2020/11/09 - 2020/11/13
     - [圏論入門 Haskellで計算する具体例から](https://www.nippyo.co.jp/shop/book/8340.html)
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2020/11/09 - 2020/11/11
+        - 2020/11/09 - 2020/11/13
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/6b08329f972d281fddd6ce73511ba6879ab47d2d/yesterday.md)
