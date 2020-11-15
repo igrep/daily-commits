@@ -13,7 +13,10 @@
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
         - conversations.repliesとconversations.historyが内部で使用している関数をリファクタリング
+            - 達成。というかすでにやってた
         - slack-webパッケージにPull request
+            - 達成: <https://github.com/jpvillaisaza/slack-web/pull/84>
+        - replyを保存するための仕様を考えた。ちょっと効率は悪いけど概ねいい感じ。保存はこれでOKそう。
     - Monad則を破る話:
         - 半分強程度執筆
         - ReadmeTestの実装
@@ -44,9 +47,9 @@
         - 新しい仕様の型設計
 - 読書など:
     - [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
-        - 2020/11/09 - 2020/11/14
+        - 2020/11/09 - 2020/11/15
     - [圏論入門 Haskellで計算する具体例から](https://www.nippyo.co.jp/shop/book/8340.html)
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2020/11/09 - 2020/11/14
+        - 2020/11/09 - 2020/11/15
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/6b08329f972d281fddd6ce73511ba6879ab47d2d/yesterday.md)
