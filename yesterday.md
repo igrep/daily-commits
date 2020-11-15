@@ -1,47 +1,16 @@
-# 2020/11/09 - 2020-11-15
+# 2020/11/16 - 2020/11/22
 
 - wasm2arm32 compiler:
     - i32.wastにおけるすべての`assert_return`のテストケースを解決
-        - 2020/11/09: `i32.clz`は楽に実装できたが、`i32.ctz`についてはうまくいかない。Armネイティブにはないらしいため、GCCの`__ctzsi2`を使ったが、なぜか期待する結果にならない
-        - 2020/11/10: <http://graphics.stanford.edu/~seander/bithacks.html#ZerosOnRightParallel> の方法が簡潔そうなのでアセンブリーで実装しようと思いきや、signedなる見慣れない関数が！ググっても出てこない！まぁ想像は付くけど...
-            - そもそもこの関数で要件満たせるかどうかのチェックは必要か...
-        - 2020/11/11 - 2020/11/12: <http://graphics.stanford.edu/~seander/bithacks.html#ZerosOnRightParallel>の意味をちゃんと理解するのに苦戦中。
-            - ~~どうも<http://graphics.stanford.edu/~seander/bithacks.html#ZerosOnRightLinear>にアルゴリズムにはバグがあるらしく、`0x80000000`を与えると無限ループすることがわかった。ちょっと直したくなる。直せばUSD10もらえるらしいし~~
-                - 2020/11/13: やっぱりそんなことなかった。`unsigned int`と`int`を間違えていた。そりゃそうだ。
-        - 2020/11/13: i32.ctzに使うアルゴリズムを決定。
-            - <http://graphics.stanford.edu/~seander/bithacks.html#ZerosOnRightBinSearch>を使うことにした。よくよく読んでみたらこちらの方が自分にとって直感的だし。ループを使わずにアセンブリーで書けるのは多分楽。しかも速いらしい。
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
-        - conversations.repliesとconversations.historyが内部で使用している関数をリファクタリング
-            - 達成。というかすでにやってた
-        - slack-webパッケージにPull request
-            - 達成: <https://github.com/jpvillaisaza/slack-web/pull/84>
-        - replyを保存するための仕様を考えた。ちょっと効率は悪いけど概ねいい感じ。保存はこれでOKそう。
+        - タイムスタンプがN日前以前のもので、かつthreadファイルがないmessageについて、replyがついてないか確認する
+        - replyが見つかったmessageについて、threadファイルを作る
     - Monad則を破る話:
         - 半分強程度執筆
         - ReadmeTestの実装
-            - 2020/11/09:
-                - テストの誤りなど修正しつつ、さらに何ケースか解決。
-                - `ValidateAsExpression`のテストが二つ間違ってるじゃないか...
-                - というわけで残り11 failures
-            - 2020/11/10:
-                - 昨日見つけたテストの誤りを修正。残り9 failures。
-                - 残りのundefinedを埋めるためにリファクタリングしつつ構成を整えた
-                - あと、パーサーの仕様に穴があるせいで、一部意図通りに動いていなかった。`>`の直後に空白文字しか来なかった場合だ。そもそも`stripEnd`が余計だったと言えそう
-            - 2020/11/11:
-                - CompareAfterPromptにおける共通のケースなどを処理して残り6 failures。いくつかテストケースがおかしいような
-                - ああー、あと、最初の方の行で`import`も生成しないとなぁ。最初の方の行にコードブロックが来ちゃったらどうすんだよ、って感じだけど...
-                    - 行数をそろえるには、やっぱり`LINE`プラグマで調整するような仕様の方が実装しやすいんだろうなぁ...。まぁ、最初の方の行にいきなりコードブロックが出ることってないでしょうけど...
-            - 2020/11/12:
-                - `processLine`における`undefined`をすべて埋めた。テストがおかしいのでまだ残り6 failures。
-                - また一つ設計の問題に気づけた。あとは今の実装に合わせてテストを変えつつ、だな...
-                - あ、あとそういえば`foundCompareAfterPrompts`を処理するの忘れてたな...
-            - 2020/11/13:
-                - 一部テストを修正して残り4 failures。型を変えてからまた大幅に見直すか...
-                - `foundCompareAfterPrompts`の処理も忘れずにな！
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
-        - 2020/11/14: 今日も少し前進
 - その他:
     - ブログとQiitaに同時投稿するのをサポートするツール
         - 新しい仕様の型設計
@@ -52,4 +21,4 @@
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
         - 2020/11/09 - 2020/11/15
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/6b08329f972d281fddd6ce73511ba6879ab47d2d/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/262f4a67e84582d0512469822f1d2f000eaac0af/yesterday.md)
