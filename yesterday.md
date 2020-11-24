@@ -1,7 +1,8 @@
-# 2020/11/16 - 2020/11/22
+# 2020/11/23 - 2020/11/24
 
 - wasm2arm32 compiler:
     - i32.wastにおけるすべての`assert_return`のテストケースを解決
+        - 2020/11/24: `i32.extend16_s`, `i32.extend8_s`の実装
 - Haskell-jp活動:
     - slack-webパッケージにConversations APIを実装
         - タイムスタンプがN日前以前のもので、かつthreadファイルがないmessageについて、replyがついてないか確認する
@@ -12,6 +13,8 @@
             - ブログ記事を書くまでの残りのTODOを整理:
                 - importの問題: 冒頭N行目は出力しない
                 - `generateMain`の実装
+                    - 2020/11/24: 実装しているうちにまだ仕様にミスがあることに気づいた。またテストも直さないと...
+                        - と、思いきやなぜか型エラーを直しただけでテストが通るぞ？テストできてない箇所ってことか...
                 - 2行目以降のexpected lineを出力する際の、インデント幅を適切に調整
     - slack-logの修正
         - <https://github.com/jpvillaisaza/slack-web/pull/84>の見直し、マージ
@@ -25,9 +28,9 @@
         - 新しい仕様の型設計
 - 読書など:
     - [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
-        - 2020/11/23
+        - 2020/11/23 - 2020/11/24
     - [圏論入門 Haskellで計算する具体例から](https://www.nippyo.co.jp/shop/book/8340.html)
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2020/11/23
+        - 2020/11/23 - 2020/11/24
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/92e7b8326e87988174de587524318f4491be08e6/yesterday.md)
