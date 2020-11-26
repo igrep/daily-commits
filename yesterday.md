@@ -4,8 +4,9 @@
     - i32.wastにおけるすべての`assert_return`のテストケースを解決
         - 2020/11/24: `i32.extend16_s`, `i32.extend8_s`の実装
         - 2020/11/25: `i32.eqz`を簡単に実装。もうちょっと効率のいい実装がありそう
+        - 2020/11/26: ちょっと考えたけど、conditional executionにnot zeroがないと難しいな
 - Haskell-jp活動:
-    - slack-webパッケージにConversations APIを実装
+    - slack-logの修正
         - タイムスタンプがN日前以前のもので、かつthreadファイルがないmessageについて、replyがついてないか確認する
         - replyが見つかったmessageについて、threadファイルを作る
     - Monad則を破る話:
@@ -19,21 +20,16 @@
                     - 2020/11/25: 多分実装できた。
                 - 2行目以降のexpected lineを出力する際の、インデント幅を適切に調整
                     - 2020/11/25: 多分実装できた。あとはテストの修正のみ
-    - slack-logの修正
-        - <https://github.com/jpvillaisaza/slack-web/pull/84>の見直し、マージ
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 - その他:
-    - タイプセーフプリキュア！
-        - 新しいバージョンをリリース: <http://hackage.haskell.org/package/typesafe-precure-0.7.10.1>。
-        - issueの追加: <https://github.com/igrep/typesafe-precure/issues/44>
     - ブログとQiitaに同時投稿するのをサポートするツール
         - 新しい仕様の型設計
 - 読書など:
     - [はじめてのOSコードリーディング --- UNIX V6で学ぶカーネルのしくみ](https://gihyo.jp/dp/ebook/2013/978-4-7741-5517-3)
-        - 2020/11/23 - 2020/11/25
+        - 2020/11/23 - 2020/11/26
     - [圏論入門 Haskellで計算する具体例から](https://www.nippyo.co.jp/shop/book/8340.html)
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2020/11/23 - 2020/11/25
+        - 2020/11/23 - 2020/11/26
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/92e7b8326e87988174de587524318f4491be08e6/yesterday.md)
