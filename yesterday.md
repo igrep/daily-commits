@@ -2,6 +2,7 @@
 
 - wasm2arm32 compiler:
     - i32.wastにおけるすべての`assert_return`のテストケースを解決
+        - 2020/11/30: `i32.lt_s`の実装。
 - Haskell-jp活動:
     - slack-logの修正
         - タイムスタンプがN日以前のもので、かつthreadファイルがないmessageについて、replyがついてないか確認する
@@ -20,6 +21,8 @@
         - 新しい仕様の型設計
 - 読書など:
     - [圏論入門 Haskellで計算する具体例から](https://www.nippyo.co.jp/shop/book/8340.html)
+        - 2020/11/30
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
+        - 2020/11/30
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/d2a581aec730d85f24e66084d3804e97db88059b/yesterday.md)
