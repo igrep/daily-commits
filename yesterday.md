@@ -1,37 +1,23 @@
-# 2020/11/30 - 2020/12/06
+# 2020/12/07 - 2020/12/13
 
 - wasm2arm32 compiler:
-    - i32.wastにおけるすべての`assert_return`のテストケースを解決
-        - 2020/11/30: `i32.lt_s`の実装。
-        - 2020/12/01: `i32.lt_u`, `i32.le_s`の実装。
-        - 2020/12/03: `i32.le_u`の実装。
-        - 2020/12/04: 達成。`i32.gt_s`など、残りのテストケースをクリア。
+    - i32.wastにおけるすべての`assert_trap`のテストケースを解決
+    - i32.wastにおけるすべての`assert_invalid`のテストケースを解決
 - Haskell-jp活動:
     - slack-logの修正
         - タイムスタンプがN日以前のもので、かつthreadファイルがないmessageについて、replyがついてないか確認する
-            - 結果: 未達
         - replyが見つかったmessageについて、threadファイルを作る
-            - 結果: 未達
     - Monad則を破る話:
         - 半分強程度執筆
         - ReadmeTestの実装
-            - ブログ記事を書くまでの残りのTODOを整理:
-                - 2行目以降のexpected lineを出力する際の、インデント幅を適切に調整
-                    - 2020/12/06: 結果: 達成
-            - 結合テスト
-                - 結果: 未達
+            - 結合テスト・バグ修正
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
-        - 2020/12/05: ちょっとだけ
-        - 結果: 未達
 - その他:
     - ブログとQiitaに同時投稿するのをサポートするツール
         - 新しい仕様の型設計
-            - 結果: 未達
 - 読書など:
     - [圏論入門 Haskellで計算する具体例から](https://www.nippyo.co.jp/shop/book/8340.html)
-        - 2020/11/30 - 2020/12/06
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2020/11/30 - 2020/12/06
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/d2a581aec730d85f24e66084d3804e97db88059b/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/6eb1401b86ee228594e2dc9837b26abedbc08a35/yesterday.md)
