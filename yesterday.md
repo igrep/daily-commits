@@ -2,6 +2,8 @@
 
 - wasm2arm32 compiler:
     - i32.wastにおけるすべての`assert_trap`のテストケースを解決
+        - 2020/12/07: trapするということは、現行の実装だとその場で実行ファイルの実行を終了させなければならない。そのためには別ファイルに書き出さないといけない、ってことか...
+            - そのために、`current_wasm_data`をメモリーに持っておくことにした
     - i32.wastにおけるすべての`assert_invalid`のテストケースを解決
 - Haskell-jp活動:
     - slack-logの修正
@@ -18,6 +20,8 @@
         - 新しい仕様の型設計
 - 読書など:
     - [圏論入門 Haskellで計算する具体例から](https://www.nippyo.co.jp/shop/book/8340.html)
+        - 2020/12/07
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
+        - 2020/12/07
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/6eb1401b86ee228594e2dc9837b26abedbc08a35/yesterday.md)
