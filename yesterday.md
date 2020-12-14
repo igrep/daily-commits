@@ -13,6 +13,7 @@
         - replyが見つかったmessageについて、threadファイルを作る
     - Monad則を破る話:
         - 初版完成
+            - 2020/12/14: 最後の節が概ねできた？
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
 - その他:
@@ -20,6 +21,8 @@
         - 新しい仕様の型設計
 - 読書など:
     - [圏論入門 Haskellで計算する具体例から](https://www.nippyo.co.jp/shop/book/8340.html)
+        - 2020/12/14
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
+        - 2020/12/14
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/0c3647396c7adfe1e8f8b3f370a7e859a3a15e78/yesterday.md)
