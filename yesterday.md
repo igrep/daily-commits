@@ -6,6 +6,7 @@
         - 2020/12/22: WATの話に手を付けつつ、図を作るために簡単なwasmファイルを手でパースしてた
         - 2020/12/23: wasmファイルの中身の作図ができた。docxだとSVGは表示できず、odtだとなんか崩れるがどうせこれが最終稿ではないので気にしない！
         - 2020/12/25: ひとことだけ
+        - 2020/12/26: JavaScriptとの関係
     - 動くサンプルの実装
 - wasm2arm32 compiler:
     - i32.wastにおけるすべての`assert_trap`のテストケースを解決
@@ -21,6 +22,8 @@
             - 結果: 達成
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
+        - `words`関数の説明。やっと課題9の終わりが見えてきたかな？
+            - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/d0afbaa9aa2b16f183b47329a92301d9ba544ee0>
 - その他:
     - ブログとQiitaに同時投稿するのをサポートするツール
 - 読書など:
