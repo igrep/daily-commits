@@ -2,43 +2,21 @@
 
 - 記事:
     - 概要の執筆
-        - 2020/12/21: 外用が半分くらい書けた？あと図を書きたい箇所が一つ見つかった
-        - 2020/12/22: WATの話に手を付けつつ、図を作るために簡単なwasmファイルを手でパースしてた
-        - 2020/12/23: wasmファイルの中身の作図ができた。docxだとSVGは表示できず、odtだとなんか崩れるがどうせこれが最終稿ではないので気にしない！
-        - 2020/12/25: ひとことだけ
-        - 2020/12/26: JavaScriptとの関係
-        - 2020/12/27: 利用例や想定されるユースケースを概ね書いた。意外と概要だけで紙幅が減ってしまったのでそろそろ動くサンプルのことを考えねば。
-        - 結果: 未達
     - 動くサンプルの実装
-        - 結果: 未達
+    - サンプルの解説
 - wasm2arm32 compiler:
     - i32.wastにおけるすべての`assert_trap`のテストケースを解決
-        - 結果: 未達
     - i32.wastにおけるすべての`assert_invalid`のテストケースを解決
-        - 結果: 未達
 - Haskell-jp活動:
     - slack-logの修正
         - タイムスタンプがN日以前のもので、かつthreadファイルがないmessageについて、replyがついてないか確認する
-            - 結果: 未達
         - replyが見つかったmessageについて、threadファイルを作る
-            - 結果: 未達
-    - Monad則を破る話:
-        - 修正・公開
-            - 2020/12/24: 最終調整
-            - 2020/12/25: 公開
-            - 結果: 達成
 - Haskell入門コンテンツ:
     - 課題9の不足箇所を埋める
-        - `words`関数の説明。やっと課題9の終わりが見えてきたかな？
-            - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/d0afbaa9aa2b16f183b47329a92301d9ba544ee0>
-        - 結果: 未達
 - その他:
     - ブログとQiitaに同時投稿するのをサポートするツール
-        - 結果: 未達
 - 読書など:
     - [圏論入門 Haskellで計算する具体例から](https://www.nippyo.co.jp/shop/book/8340.html)
-        - 2020/12/21 - 2020/12/27
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2020/12/21 - 2020/12/27
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/d0940b9f151aee2bc951db32c65c0c9696fabcbd/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/ee906c23e35979282ae58b814bc61f75fe57dcbf/yesterday.md)
