@@ -2,6 +2,7 @@
 
 - 記事:
     - 概要の執筆
+        - 2020/12/28: ちょっとだけ。
     - 動くサンプルの実装
     - サンプルの解説
 - wasm2arm32 compiler:
@@ -17,6 +18,8 @@
     - ブログとQiitaに同時投稿するのをサポートするツール
 - 読書など:
     - [圏論入門 Haskellで計算する具体例から](https://www.nippyo.co.jp/shop/book/8340.html)
+        - 2020/12/28
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
+        - 2020/12/28
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/ee906c23e35979282ae58b814bc61f75fe57dcbf/yesterday.md)
