@@ -14,17 +14,22 @@
             - 2021/01/20: replyを取得して保存するところまで書けた。あと、結構複雑になったのでテストしやすくするためにモジュール分割した。明日はテスト書こうな。
             - 2021/01/21: 対象となるスレッドを選び出す処理のテストを書き始めた
             - 2021/01/22: テストデータ作成開始
+            - 2021/01/23: テストほぼ完成。
         - 使用できなくなるAPIをリストアップして書き換える
 - Haskell入門コンテンツ:
     - 課題10の不足箇所を埋める
+        - 2021/01/23: 関数定義の方法は一般化した構文を出してないけど大丈夫かな... <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/1dac6b931a56b8329ddd33acebad29fa40b96d64>
+        - 結果: 未達
 - その他:
     - ブログとQiitaに同時投稿するのをサポートするツール
     - 記事:
         - 2021/01/22: 著者校正
 - 読書など:
     - [圏論入門 Haskellで計算する具体例から](https://www.nippyo.co.jp/shop/book/8340.html)
-        - 2021/01/18 - 2021/01/22
+        - 2021/01/18 - 2021/01/22: 読了。ほとんど分からなかったけど！
+    - [Effect Handlers in Haskell, Evidently](https://xnning.github.io/papers/haskell-evidently.pdf)
+        - 2021/01/23
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2021/01/18 - 2021/01/22
+        - 2021/01/18 - 2021/01/23
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/77e43c0b87bb03cdccf8879a9545d95cf94a60bd/yesterday.md)
