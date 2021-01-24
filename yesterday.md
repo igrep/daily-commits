@@ -2,7 +2,9 @@
 
 - wasm2arm32 compiler:
     - i32.wastにおけるすべての`assert_trap`のテストケースを解決
+        - 結果: 未達
     - i32.wastにおけるすべての`assert_invalid`のテストケースを解決
+        - 結果: 未達
 - Haskell-jp活動:
     - slack-logの修正
         - タイムスタンプがN日以前のもので、かつthreadファイルがないmessage、またはthreadファイルにおける最後のメッセージのタイムスタンプがN日以前のmessageに、replyがついてないか確認して、replyを取得する
@@ -15,21 +17,25 @@
             - 2021/01/21: 対象となるスレッドを選び出す処理のテストを書き始めた
             - 2021/01/22: テストデータ作成開始
             - 2021/01/23: テストほぼ完成。
+            - 2021/01/24: テストの修正・確認完了。実際のSlack APIを使ってのテストはできてないけど... コマンドを分けた方がテストしやすくていいかな？
+            - 結果: 達成
         - 使用できなくなるAPIをリストアップして書き換える
+            - 結果: 未達
 - Haskell入門コンテンツ:
     - 課題10の不足箇所を埋める
         - 2021/01/23: 関数定義の方法は一般化した構文を出してないけど大丈夫かな... <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/1dac6b931a56b8329ddd33acebad29fa40b96d64>
         - 結果: 未達
 - その他:
     - ブログとQiitaに同時投稿するのをサポートするツール
+        - 結果: 未達。次回いつ記事を書くか分からないしこれは当面先だろうなぁ。
     - 記事:
         - 2021/01/22: 著者校正
 - 読書など:
     - [圏論入門 Haskellで計算する具体例から](https://www.nippyo.co.jp/shop/book/8340.html)
         - 2021/01/18 - 2021/01/22: 読了。ほとんど分からなかったけど！
     - [Effect Handlers in Haskell, Evidently](https://xnning.github.io/papers/haskell-evidently.pdf)
-        - 2021/01/23
+        - 2021/01/23 - 2021/01/24
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2021/01/18 - 2021/01/23
+        - 2021/01/18 - 2021/01/24
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/77e43c0b87bb03cdccf8879a9545d95cf94a60bd/yesterday.md)
