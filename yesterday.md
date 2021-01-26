@@ -13,6 +13,8 @@
     - ブログとQiitaに同時投稿するのをサポートするツール
 - 読書など:
     - [Effect Handlers in Haskell, Evidently](https://xnning.github.io/papers/haskell-evidently.pdf)
+        - 2021/01/25
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
+        - 2021/01/25
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/42123041bda568c3e820ea9bbcdd6f139c6d4854/yesterday.md)
