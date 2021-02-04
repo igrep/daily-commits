@@ -22,8 +22,8 @@
         - 2021/02/02: 最終確認で一点だけ見つかった。ぐっじょぶ。
 - 読書など:
     - [Effect Handlers in Haskell, Evidently](https://xnning.github.io/papers/haskell-evidently.pdf)
-        - 2021/02/01 - 2021/02/03
+        - 2021/02/01 - 2021/02/04
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2021/02/01 - 2021/02/03
+        - 2021/02/01 - 2021/02/04
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/6dc41fa2bba826234b0d66cd112ac1c28a12aea7/yesterday.md)
