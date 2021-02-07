@@ -1,4 +1,4 @@
-# 2021/02/01 - 2021/02/05
+# 2021/02/01 - 2021/02/07
 
 - wasm2arm32 compiler:
     - i32.wastにおけるすべての`assert_trap`のテストケースを解決
@@ -33,9 +33,9 @@
         - 2021/02/02: 最終確認で一点だけ見つかった。ぐっじょぶ。
 - 読書など:
     - [Effect Handlers in Haskell, Evidently](https://xnning.github.io/papers/haskell-evidently.pdf)
-        - 2021/02/01 - 2021/02/06
+        - 2021/02/01 - 2021/02/07
             - 読了
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2021/02/01 - 2021/02/06
+        - 2021/02/01 - 2021/02/07
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/6dc41fa2bba826234b0d66cd112ac1c28a12aea7/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/482fa3010ec0c53f4d5f37c25ffbe14b9344f4a1/yesterday.md)
