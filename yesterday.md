@@ -15,12 +15,8 @@
     - 課題10の不足箇所を埋める
 - その他:
     - ブログとQiitaに同時投稿するのをサポートするツール
-    - 記事
-        - 2021/02/02: 最終確認で一点だけ見つかった。ぐっじょぶ。
 - 読書など:
-    - [Effect Handlers in Haskell, Evidently](https://xnning.github.io/papers/haskell-evidently.pdf)
-        - 2021/02/01 - 2021/02/07
+    - [定理証明手習い](https://www.lambdanote.com/collections/littleprover)
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2021/02/01 - 2021/02/07
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/4352cbdea83636703c9c5a8790a36b218ecf85b2/yesterday.md)
