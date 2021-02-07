@@ -1,41 +1,26 @@
-# 2021/02/01 - 2021/02/07
+# 2021/02/08 - 2021/02/14
 
 - wasm2arm32 compiler:
     - i32.wastにおけるすべての`assert_trap`のテストケースを解決
-        - 結果: 未達
     - i32.wastにおけるすべての`assert_invalid`のテストケースを解決
-        - 結果: 未達
 - Haskell-jp活動:
     - slack-logの修正
         - 動作確認
-            - 2021/02/01: コードを確認、コミット
-            - 2021/02/02: なぜか同じチャンネルを何度もチェックして無限ループに入ってしまっているような？新しく追加した`loadingPage`のバグかな？
-            - 2021/02/03: デバッグコードを仕込んでみたが、ぱっと分からず。
-            - 2021/02/05: やっと気づいた。`[]`に`null`関数を適用するつもりが`Right []`に`null`していた。どっちも`Foldable`やもんな...
-            - 2021/02/06: 無限ループの原因を直して、さらにバグ修正。やっとエラーを出さずに動かせた。
-            - 結果: 未達
         - リリース
-            - 結果: 未達
         - アナウンス・次の開発者の募集
-            - 結果: 未達
         - slack-webへのPR
-            - 結果: 未達
 - 週刊アスキーへの道
     - 実装方法を考える
 - Haskell入門コンテンツ:
     - 課題10の不足箇所を埋める
-        - 純粋な関数で`let`のために`do`を使うのは止めた。<https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/1b38a735455e0e638ead04da6c80503c3161e98d>
-        - 結果: 未達
 - その他:
     - ブログとQiitaに同時投稿するのをサポートするツール
-        - 結果: 未達
     - 記事
         - 2021/02/02: 最終確認で一点だけ見つかった。ぐっじょぶ。
 - 読書など:
     - [Effect Handlers in Haskell, Evidently](https://xnning.github.io/papers/haskell-evidently.pdf)
         - 2021/02/01 - 2021/02/07
-            - 読了
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
         - 2021/02/01 - 2021/02/07
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/482fa3010ec0c53f4d5f37c25ffbe14b9344f4a1/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/4352cbdea83636703c9c5a8790a36b218ecf85b2/yesterday.md)
