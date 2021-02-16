@@ -6,6 +6,8 @@
 - Haskell-jp活動:
     - slack-logの修正
         - 動作確認
+            - やっと一箇所確認。conversations.historyの順番は問題なさそう。
+            - ただ、replyが1件もないスレッドに対してまでスレッドファイルを作っているのはちょっと意図と異なる挙動なので直そう。
         - リリース
         - アナウンス・次の開発者の募集
         - slack-webへのPR
@@ -17,8 +19,8 @@
     - ブログとQiitaに同時投稿するのをサポートするツール
 - 読書など:
     - [定理証明手習い](https://www.lambdanote.com/collections/littleprover)
-        - 2021/02/15
+        - 2021/02/15 - 2021/02/16
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2021/02/15
+        - 2021/02/15 - 2021/02/16
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/764b2d69f917ff33cac63021709c8eeb301733c8/yesterday.md)
