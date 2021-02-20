@@ -19,12 +19,13 @@
     - 実装方法を考える
 - Haskell入門コンテンツ:
     - 課題10の不足箇所を埋める
+        - 結果: 未達。<https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/5a94721425d519a32d2b17f436b85910e00164bf>
 - その他:
     - ブログとQiitaに同時投稿するのをサポートするツール
 - 読書など:
     - [定理証明手習い](https://www.lambdanote.com/collections/littleprover)
-        - 2021/02/15 - 2021/02/19
+        - 2021/02/15 - 2021/02/20
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2021/02/15 - 2021/02/19
+        - 2021/02/15 - 2021/02/20
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/764b2d69f917ff33cac63021709c8eeb301733c8/yesterday.md)
