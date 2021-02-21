@@ -1,41 +1,20 @@
-# 2021/02/15 - 2021/02/21
+# 2021/02/22 - 2021/02/28
 
 - wasm2arm32 compiler:
     - i32.wastにおけるすべての`assert_trap`のテストケースを解決
-        - 結果: 未達
     - i32.wastにおけるすべての`assert_invalid`のテストケースを解決
-        - 結果: 未達
 - Haskell-jp活動:
     - slack-logの修正
-        - 動作確認
-            - 2021/02/16
-                - やっと一箇所確認。conversations.historyの順番は問題なさそう。
-                - ただ、replyが1件もないスレッドに対してまでスレッドファイルを作っているのはちょっと意図と異なる挙動なので直そう。
-            - 2021/02/17: 一通り確認。バグは昨日の一つだけ。
-            - 2021/02/18: 再度実行して、新たに追加されたreplyが取得できることを確認していなかった。これも確認
-            - 2021/02/19: バグをサクッと修正
-            - 2021/02/20 - 2021/02/21: 全動作確認完了。
-            - 結果: 達成
-        - リリース
-            - 2021/02/21: とりあえずやった。実運用での確認は明日...
-            - 結果: 達成
         - アナウンス・次の開発者の募集
-            - 結果: 未達
         - slack-webへのPR
-            - 結果: 未達
 - 週刊アスキーへの道
     - 実装方法を考える
-        - 結果: 未達
 - Haskell入門コンテンツ:
     - 課題10の不足箇所を埋める
-        - 結果: 未達。<https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/5a94721425d519a32d2b17f436b85910e00164bf>
 - その他:
     - ブログとQiitaに同時投稿するのをサポートするツール
-        - 結果: 未達
 - 読書など:
     - [定理証明手習い](https://www.lambdanote.com/collections/littleprover)
-        - 2021/02/15 - 2021/02/21
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2021/02/15 - 2021/02/21
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/764b2d69f917ff33cac63021709c8eeb301733c8/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/a709d8c9a2c23a1a71572cbcf1b7cdc60b769c91/yesterday.md)
