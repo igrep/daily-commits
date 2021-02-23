@@ -6,6 +6,8 @@
 - Haskell-jp活動:
     - slack-logの修正
         - アナウンス・次の開発者の募集
+            - 2021/02/22: 最低限Slackで行った
+            - 結果: 達成
         - slack-webへのPR
 - 週刊アスキーへの道
     - 実装方法を考える
@@ -15,6 +17,8 @@
     - ブログとQiitaに同時投稿するのをサポートするツール
 - 読書など:
     - [定理証明手習い](https://www.lambdanote.com/collections/littleprover)
+        - 2021/02/22
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
+        - 2021/02/22
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/a709d8c9a2c23a1a71572cbcf1b7cdc60b769c91/yesterday.md)
