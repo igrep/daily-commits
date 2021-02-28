@@ -13,4 +13,4 @@
     - [定理証明手習い](https://www.lambdanote.com/collections/littleprover)
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/a709d8c9a2c23a1a71572cbcf1b7cdc60b769c91/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/29c64092aa00d05b5509ecaf64f962b5be86c1e8/yesterday.md)
