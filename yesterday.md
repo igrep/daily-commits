@@ -18,14 +18,18 @@
             - 「+」ボタン、Inkscapeが作ったものだと複雑で扱いづらかったので一から手で書いた
             - mousemoveとmouseleaveでイベントハンドラーが設定できたけど、「+」ボタンを出す位置の調整が難しい
                 - <https://stackoverflow.com/questions/10298658/mouse-position-inside-autoscaled-svg> を参考にやればできるのかな？
+        - 2021/03/06:
+            - 「+」ボタンの位置を調整
+            - 次に実装が必要な関数を列挙
+            - 新しくノードを追加する関数を実装し始め。
 - Haskell入門コンテンツ:
     - 課題10の不足箇所を埋める
 - その他:
     - ブログとQiitaに同時投稿するのをサポートするツール
 - 読書など:
     - [定理証明手習い](https://www.lambdanote.com/collections/littleprover)
-        - 2021/03/01 - 2021/03/05
+        - 2021/03/01 - 2021/03/06
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2021/03/01 - 2021/03/05
+        - 2021/03/01 - 2021/03/06
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/29c64092aa00d05b5509ecaf64f962b5be86c1e8/yesterday.md)
