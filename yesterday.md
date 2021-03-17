@@ -15,8 +15,8 @@
     - ブログとQiitaに同時投稿するのをサポートするツール
 - 読書など:
     - [定理証明手習い](https://www.lambdanote.com/collections/littleprover)
-        - 2021/03/15
+        - 2021/03/15 - 2021/03/16
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2021/03/15
+        - 2021/03/15 - 2021/03/16
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/2f285f9f4b6f9e4282c582787753e4a1d4789529/yesterday.md)
