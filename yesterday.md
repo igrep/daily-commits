@@ -24,7 +24,10 @@
 - 読書など:
     - [定理証明手習い](https://www.lambdanote.com/collections/littleprover)
         - 2021/03/15 - 2021/03/19
+            - 読了
+    - The Implementation of Functional Programming Languages
+        - 2021/03/20
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2021/03/15 - 2021/03/19
+        - 2021/03/15 - 2021/03/20
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/2f285f9f4b6f9e4282c582787753e4a1d4789529/yesterday.md)
