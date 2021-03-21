@@ -2,11 +2,14 @@
 
 - wasm2arm32 compiler:
     - i32.wastにおけるすべての`assert_trap`のテストケースを解決
+        - 結果: 未達
     - i32.wastにおけるすべての`assert_invalid`のテストケースを解決
+        - 結果: 未達
 - 週刊アスキーへの道
     - 実装
         - ノードが重なる問題の修正
             - 2021/03/18: Math.powにNumberじゃない値を与えている箇所がもう1箇所あったので直したけど、挙動はほぼ変わらず
+            - 結果: 未達
         - ノードの位置・サイズの調整
             - 2021/03/17: あらかたできた。あとはノードの位置を円の中心になるよう調整するところから
             - 2021/03/18: 円の中心の位置を調整
@@ -15,19 +18,29 @@
                 - しかし今度は運動エネルギーがオーバーフローして結果NaNになったり、計算が終わらないか、終わっても妙に近い位置になるか、になってしまった。難しいね。あとはWikipediaのいうとおり初期位置をランダムにするか、計算を適当に切り上げるように書くか、だな...
             - 結果: 達成
         - ノード間のエッジを付ける
+            - 結果: 未達
         - ノードのweightを上げ下げするボタン
+            - 結果: 未達
     - 提出に向けた調整
+        - 結果: 未達
 - Haskell入門コンテンツ:
     - 課題11の不足箇所を埋める
+        - 今週は課題10の修正のみ: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/b4f3ebe46f6894696f7dd2ea744c5767df0decc5>
+        - 結果: 未達
 - その他:
     - ブログとQiitaに同時投稿するのをサポートするツール
+        - 結果: 未達
+    - タイプセーフプリキュア
+        - <https://github.com/igrep/typesafe-precure/issues/44> に取り組み開始。修正方針はあらかた決定。とりあえず試しに部分的に変えてみてる
+        - 結果: 未達
 - 読書など:
     - [定理証明手習い](https://www.lambdanote.com/collections/littleprover)
         - 2021/03/15 - 2021/03/19
             - 読了
     - The Implementation of Functional Programming Languages
-        - 2021/03/20
+        - 2021/03/20 - 2021/03/21
+    - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2021/03/15 - 2021/03/20
+        - 2021/03/15 - 2021/03/21
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/2f285f9f4b6f9e4282c582787753e4a1d4789529/yesterday.md)
