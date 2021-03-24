@@ -10,6 +10,7 @@
             - 2021/03/23:
                 - ノードの初期位置をランダムにする作戦もやっぱりダメ。計算が終わらない
                 - 原典への引力を加える作戦もやっぱりダメ。計算が終わらない
+            - 2021/03/24: 他のグラフ描画アルゴリズムの調査中
         - 移動時のアニメーション
         - ノード間のエッジを付ける
         - ノードのweightを上げ下げするボタン
@@ -22,10 +23,10 @@
         - <https://github.com/igrep/typesafe-precure/issues/44> を解決
 - 読書など:
     - The Implementation of Functional Programming Languages
-        - 2021/03/22
+        - 2021/03/22 - 2021/03/24
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/03/22 - 2021/03/23
+        - 2021/03/22 - 2021/03/24
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2021/03/22 - 2021/03/23
+        - 2021/03/22 - 2021/03/24
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/c7fc53bdd57e4d61c2252f96541a3f97ab011be2/yesterday.md)
