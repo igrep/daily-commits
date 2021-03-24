@@ -7,6 +7,9 @@
     - 実装
         - ノードが重なる問題の修正
             - 2021/03/22: 計算を適当に切り上げる作戦をやってみるも失敗。ノードがものすごく遠くに行ってしまう。試行回数を減らせば一応見える位置にとどまるが、やはりノードを増やせば増やすほどどんどん右下に移動する。
+            - 2021/03/23:
+                - ノードの初期位置をランダムにする作戦もやっぱりダメ。計算が終わらない
+                - 原典への引力を加える作戦もやっぱりダメ。計算が終わらない
         - 移動時のアニメーション
         - ノード間のエッジを付ける
         - ノードのweightを上げ下げするボタン
@@ -21,8 +24,8 @@
     - The Implementation of Functional Programming Languages
         - 2021/03/22
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/03/22
+        - 2021/03/22 - 2021/03/23
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2021/03/22
+        - 2021/03/22 - 2021/03/23
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/c7fc53bdd57e4d61c2252f96541a3f97ab011be2/yesterday.md)
