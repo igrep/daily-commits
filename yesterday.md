@@ -17,16 +17,18 @@
     - 提出に向けた調整
 - Haskell入門コンテンツ:
     - 課題11の不足箇所を埋める
+        - 今週はイントロだけ修正: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/9a87cb2b79bc2b256b5b7427fe1e9e7deeee4e65>
 - その他:
     - ブログとQiitaに同時投稿するのをサポートするツール
     - タイプセーフプリキュア
         - <https://github.com/igrep/typesafe-precure/issues/44> を解決
+            - `:+:` 型を使った定義を組み立てる処理を一部実装。ついでにリファクタリング
 - 読書など:
     - The Implementation of Functional Programming Languages
-        - 2021/03/22 - 2021/03/26
+        - 2021/03/22 - 2021/03/27
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/03/22 - 2021/03/26
+        - 2021/03/22 - 2021/03/27
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2021/03/22 - 2021/03/26
+        - 2021/03/22 - 2021/03/27
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/c7fc53bdd57e4d61c2252f96541a3f97ab011be2/yesterday.md)
