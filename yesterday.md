@@ -19,10 +19,10 @@
         - [ ] <https://github.com/igrep/typesafe-precure/issues/44> を解決
 - 読書など:
     - The Implementation of Functional Programming Languages
-        - 2021/03/29
+        - 2021/03/29 - 2021/03/30
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/03/29
+        - 2021/03/29 - 2021/03/30
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2021/03/29
+        - 2021/03/29 - 2021/03/30
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/5deefda75f054eaf94285bf0abe094251cc5e883/yesterday.md)
