@@ -6,6 +6,7 @@
 - 週刊アスキーへの道
     - 実装
         - [ ] ノードが重なる問題の修正
+            - 2021/03/31: ようやく先週調べたアルゴリズムを実装開始
         - [ ] 移動時のアニメーション
         - [ ] ノード間のエッジを付ける
         - [ ] ノードのweightを上げ下げするボタン
@@ -17,12 +18,13 @@
     - [ ] ブログとQiitaに同時投稿するのをサポートするツール
     - タイプセーフプリキュア
         - [ ] <https://github.com/igrep/typesafe-precure/issues/44> を解決
+    - slack-logのビルドエラーを修正: <https://github.com/haskell-jp/slack-log/pull/53>
 - 読書など:
     - The Implementation of Functional Programming Languages
-        - 2021/03/29 - 2021/03/30
+        - 2021/03/29 - 2021/03/31
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/03/29 - 2021/03/30
+        - 2021/03/29 - 2021/03/31
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2021/03/29 - 2021/03/30
+        - 2021/03/29 - 2021/03/31
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/5deefda75f054eaf94285bf0abe094251cc5e883/yesterday.md)
