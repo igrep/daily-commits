@@ -7,6 +7,9 @@
     - 実装
         - [ ] ノードが重なる問題の修正
             - 2021/03/31 - 2021/04/01: 先週調べたアルゴリズムを実装
+            - 2021/04/02:
+                - 実装出来たはずだけど、やっぱりノードが端っこに飛んでしまってうまくいかない
+                - やっぱりノード数がたかだか数個のグラフで使うアルゴリズムではないのだろうか
         - [ ] 移動時のアニメーション
         - [ ] ノード間のエッジを付ける
         - [ ] ノードのweightを上げ下げするボタン
@@ -21,10 +24,10 @@
     - slack-logのビルドエラーを修正: <https://github.com/haskell-jp/slack-log/pull/53>
 - 読書など:
     - The Implementation of Functional Programming Languages
-        - 2021/03/29 - 2021/04/01
+        - 2021/03/29 - 2021/04/02
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/03/29 - 2021/04/01
+        - 2021/03/29 - 2021/04/02
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2021/03/29 - 2021/04/01
+        - 2021/03/29 - 2021/04/02
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/5deefda75f054eaf94285bf0abe094251cc5e883/yesterday.md)
