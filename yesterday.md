@@ -14,21 +14,23 @@
         - [ ] ノード間のエッジを付ける
         - [ ] ノードのweightを上げ下げするボタン
     - [ ] 提出に向けた調整
+        - 結果: 未達
 - Haskell入門コンテンツ:
     - [ ] 課題11の不足箇所を埋める
         - `loop`関数の説明が終わった: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/b8b7a399c7f5c329de662e4f1b7cde63cb50c276>
-        - 結果: 未達
 - その他:
     - [ ] ブログとQiitaに同時投稿するのをサポートするツール
     - タイプセーフプリキュア
         - [ ] <https://github.com/igrep/typesafe-precure/issues/44> を解決
-    - slack-logのビルドエラーを修正: <https://github.com/haskell-jp/slack-log/pull/53>
+            - Pull request送るところまでやった。来週見直してからマージしよう
+    - [x] slack-logのビルドエラーを修正: <https://github.com/haskell-jp/slack-log/pull/53>
+        - 2021/03/31: <https://github.com/haskell-jp/slack-log/pull/53> で解決。松原君が調査してくれたおかげで思いのほか早くすんだ。
 - 読書など:
     - The Implementation of Functional Programming Languages
-        - 2021/03/29 - 2021/04/03
+        - 2021/03/29 - 2021/04/04
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/03/29 - 2021/04/03
+        - 2021/03/29 - 2021/04/04
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2021/03/29 - 2021/04/03
+        - 2021/03/29 - 2021/04/04
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/5deefda75f054eaf94285bf0abe094251cc5e883/yesterday.md)
