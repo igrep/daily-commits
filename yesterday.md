@@ -29,9 +29,9 @@
     - [ ] ブログとQiitaに同時投稿するのをサポートするツール
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/04/12 - 2021/04/15
+        - 2021/04/12 - 2021/04/16
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2021/04/12 - 2021/04/15
+        - 2021/04/12 - 2021/04/16
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
