@@ -27,13 +27,16 @@
     - [ ] 提出に向けた調整
 - Haskell入門コンテンツ:
     - [ ] 課題11の不足箇所を埋める
+        - 2021/04/18: 今週はこれだけ: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/97c5c314b55561fa65cdb56defec0b44e0df20ed>
+- [ ] ブログとQiitaに同時投稿するのをサポートするツール
 - その他:
-    - [ ] ブログとQiitaに同時投稿するのをサポートするツール
+    - 2021/04/18: stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
+        - cabalでmmlhをビルドするところまでしかできず。いろいろハマって大変だった...
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/04/12 - 2021/04/17
+        - 2021/04/12 - 2021/04/18
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2021/04/12 - 2021/04/17
+        - 2021/04/12 - 2021/04/18
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
