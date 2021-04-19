@@ -8,6 +8,7 @@
     - 実装
         - [ ] 移動時のアニメーション
             - [ ] iteration毎に移動
+                - 2021/04/19: ノード全体を動かすことでなんとか出来たっぽい。おもしろい！
         - [ ] 生成するノードの数の設定（やっぱり欲しくなるね）
     - [ ] 提出に向けた調整
 - Haskell入門コンテンツ:
@@ -17,7 +18,9 @@
 - その他:
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
+        - 2021/04/19
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
+        - 2021/04/19
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
