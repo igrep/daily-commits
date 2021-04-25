@@ -26,12 +26,13 @@
 - [ ] ブログとQiitaに同時投稿するのをサポートするツール
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - その他:
-    - <https://github.com/igrep/my-session-loader.vim> を久々に更新。最後に読んだN個のファイルだけを読み込むよう修正
+    - 2021/04/23: <https://github.com/igrep/my-session-loader.vim> を久々に更新。最後に読んだN個のファイルだけを読み込むよう修正
+    - 2021/04/25: 以前からちょっと欲しかった、ピンインの入力を支援するアプリを作った <https://github.com/igrep/get-pinyin>
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/04/19 - 2021/04/24
+        - 2021/04/19 - 2021/04/25
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2021/04/19 - 2021/04/24
+        - 2021/04/19 - 2021/04/25
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
