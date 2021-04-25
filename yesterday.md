@@ -1,39 +1,30 @@
-# 2021/04/19 - 2021/04/25
+# 2021/04/26 - 2021/05/02
+
+- [ ] Google翻訳からピンインの取得
+    - [ ] 簡単なVimプラグイン
+    - [ ] 簡単なNeovimプラグイン
+- [ ] Neovimプラグイン再整備
+    - [ ] 本体更新
+    - [ ] Clojure用プラグイン（vim-iced？）と、関連する諸々への移行
+    - [ ] ターミナルでの操作に。Vimの利用廃止？
+- Haskell入門コンテンツ:
+    - [ ] 課題11の不足箇所を埋める
+- [ ] sum-moneyをClojureで
+- [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
+- 読書など:
+    - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
+    - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
+    - The Implementation of Functional Programming Languages
+        - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
 - wasm2arm32 compiler:
     - [ ] i32.wastにおけるすべての`assert_trap`のテストケースを解決
     - [ ] i32.wastにおけるすべての`assert_invalid`のテストケースを解決
-- [ ] Google翻訳からピンインの取得
 - 週刊アスキーへの道
-    - 実装
-        - [x] 移動時のアニメーション
-            - [x] iteration毎に移動
-                - 2021/04/19: ノード全体を動かすことでなんとか出来たっぽい。おもしろい！
-        - [x] 生成するノードの数の設定（やっぱり欲しくなるね）
-            - 2021/04/20: あっさりできた。
     - [ ] 提出に向けた調整
-        - 改めて提出用のフォームを見たら、いろいろ厳しい条件が書かれていた。
-            - 200行以内に納めよ、とな。
-                - 今のままではきついし、ノードの数を調整する機能は消そうか。
-                - あと、エッジが重なるのを防ぐ機能は消そう。重なる順番をとかを調整すれば出来る
-                - ノードのIDを表示する機能も消そう
-            - 面白くするにはどうするか
-                - ただシミュレーションして終わりではなく、ずっとアニメーションし続けて面白い動きに出来ないかな。それならボタンやフォームの類いも要らなくなる
-            - いろいろ解説を自分で書かねば。ちゃんとやる気を見せねば
-- Haskell入門コンテンツ:
-    - [ ] 課題11の不足箇所を埋める
-        - 30分だけ頑張った: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/28baab92de3c7a796fb6dd48796493ee1eb454ee>
+        - [ ] 200行以内に収める
+        - [ ] ちょっと面白くする
+        - [ ] アピール文を書く
 - [ ] ブログとQiitaに同時投稿するのをサポートするツール
-- [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
-- その他:
-    - 2021/04/23: <https://github.com/igrep/my-session-loader.vim> を久々に更新。最後に読んだN個のファイルだけを読み込むよう修正
-    - 2021/04/25: 以前からちょっと欲しかった、ピンインの入力を支援するアプリを作った <https://github.com/igrep/get-pinyin>
-- 読書など:
-    - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/04/19 - 2021/04/25
-    - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2021/04/19 - 2021/04/25
-    - The Implementation of Functional Programming Languages
-        - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/223ec0bcd716bbfe84c0453fb4245e5ced6e100d/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/bf27be08319cf314d69640f9796331be32e3f478/yesterday.md)
