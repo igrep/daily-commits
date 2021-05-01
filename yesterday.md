@@ -17,16 +17,23 @@
             - compe-tabnineのWindowsサポート or vim-iced-deoplete
         - [ ] vim-sexpの勉強
     - [ ] ターミナルでの操作に。Vimの利用廃止？
+        - 2021/05/01: Windows Terminal起動時に直接Neovimを開く方法を調べてWindows Terminal上のNeovimでmmlhの執筆をしたりした。いい感じ。
     - [ ] nvim-lspconfig の見直し
 - Haskell入門コンテンツ:
     - [ ] 課題11の不足箇所を埋める
+        - 2021/05/01: 悩む時間やWindows Terminalで脱線する時間が長く、時間かかった割にこれだけ: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/bc3dd5795636639f82ec16b8afc06b0c8da14699>
 - [ ] sum-moneyをClojureで
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
+    - 2021/05/01:
+        - とりあえずstack -v replの出力を書き出したり、stackが生成したghci scriptを保存。
+        - やることの確認: cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
+            - テストをターゲットにしている時、実装も`:r`でリロードできるようにする
+            - makeMistakesToLearnHaskellは構成がいろいろ特殊なのでやりづらそう。まずbuild-tools-dependsが使えるようcabalファイルを最新にした方がよさそう
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/04/26 - 2021/04/30
+        - 2021/04/26 - 2021/05/01
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2021/04/26 - 2021/04/30
+        - 2021/04/26 - 2021/05/01
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
