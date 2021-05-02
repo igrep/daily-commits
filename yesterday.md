@@ -9,7 +9,16 @@
 - [ ] Neovimプラグイン再整備
     - [x] 本体更新
     - [ ] Clojure用プラグイン（vim-iced？）と、関連する諸々への移行
+        - [ ] `:IcedCycleSrcAndTest`コマンドが、ルートディレクトリーの戦闘に余分な`/`を付けてしまう問題
+            - 例えば`/C:/project/src/foo/core-test.clj`などのように
+            - Vim scriptを直せばいいのかと思いきや、どうやら中で読んでいるiced-nreplというnREPLのミドルウェアの問題らしい。
+                - [この関数](https://github.com/liquidz/iced-nrepl/blob/f400800e9350a3110586cab01a53c90dad7bd24b/src/iced/nrepl/namespace.clj#L80-L90)が間違った値を返していることが分かったので直そうと試みてる
+                    - Leiningenのcheckoutsという機能を使えば、こちらで修正したバージョンを適用できそうだ
+                    - で、iced-nreplをcloneして`iced repl`を試みたところ、エラーに。`lein with-profile 1.10 repl`で実行する必要があるらしい。これをicedでやるにはどうすれば、というところ。
+                        - エラー: <https://ask.clojure.org/index.php/9599/lein-repl-error-incompatible-with-clojure-versions-older-than>
+                        - `g:iced#nrepl#connect#jack_in_command`を書き換える？
         - [ ] なぜかClojureのプロジェクトでM-w, M-eが使えない
+            - 恐らくvim-icedが潰していると思われる
         - [x] vim-clap
             - [ ] gitを使うsourceがWindowsで動いていない？
         - [ ] fern.vim?
@@ -31,9 +40,10 @@
             - makeMistakesToLearnHaskellは構成がいろいろ特殊なのでやりづらそう。まずbuild-tools-dependsが使えるようcabalファイルを最新にした方がよさそう
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/04/26 - 2021/05/01
+        - 2021/04/26 - 2021/05/02
     - 中国語（ルール: プログラミングと関係がないので、これだけをやった日は更新しない）
-        - 2021/04/26 - 2021/05/01
+        - 2021/04/26 - 2021/05/02
+        - すでに毎日行う習慣は付いているので、今後ここには記録しない
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
