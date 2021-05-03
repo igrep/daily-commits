@@ -2,7 +2,7 @@
 
 - [ ] Neovimプラグイン再整備
     - [ ] Clojure用プラグイン（vim-iced？）と、関連する諸々への移行
-        - [ ] `:IcedCycleSrcAndTest`コマンドが、ルートディレクトリーの戦闘に余分な`/`を付けてしまう問題
+        - [x] `:IcedCycleSrcAndTest`コマンドが、ルートディレクトリーの戦闘に余分な`/`を付けてしまう問題
             - 例えば`/C:/project/src/foo/core-test.clj`などのように
             - Vim scriptを直せばいいのかと思いきや、どうやら中で読んでいるiced-nreplというnREPLのミドルウェアの問題らしい。
                 - [この関数](https://github.com/liquidz/iced-nrepl/blob/f400800e9350a3110586cab01a53c90dad7bd24b/src/iced/nrepl/namespace.clj#L80-L90)が間違った値を返していることが分かったので直そうと試みてる
@@ -10,13 +10,17 @@
                     - で、iced-nreplをcloneして`iced repl`を試みたところ、エラーに。`lein with-profile 1.10 repl`で実行する必要があるらしい。これをicedでやるにはどうすれば、というところ。
                         - エラー: <https://ask.clojure.org/index.php/9599/lein-repl-error-incompatible-with-clojure-versions-older-than>
                         - `g:iced#nrepl#connect#jack_in_command`を書き換える？
-        - [ ] なぜかClojureのプロジェクトでM-w, M-eが使えない
+            - 2021/05/03: 結局諦めてLinuxでやることにした。ちょっとデバッグも難しそうな問題に出遭ってしまったので...
+                - で、いろいろ試して、自動で`iced_require_all`する設定を加えたりした。明日からようやくClojureScriptに取り組めそうだ
+        - [x] なぜかClojureのプロジェクトでM-w, M-eが使えない
             - 恐らくvim-icedが潰していると思われる
+                - 2021/05/03: vim-icedじゃなくてvim-sexpだったか... 使うかどうか分からなかったのでM-w, M-eを別のキーにした
         - [ ] fern.vim?
         - [ ] nvim-compe?
             - compe-tabnineのWindowsサポート or vim-iced-deoplete
         - [ ] vim-sexp、vim-icedの勉強
     - [ ] nvim-lspconfig の見直し
+- [ ] sum-moneyをClojureで
 - 週刊アスキーへの道
     - [ ] 提出に向けた調整
         - [ ] 200行以内に収める
@@ -24,12 +28,11 @@
         - [ ] アピール文を書く
 - Haskell入門コンテンツ:
     - [ ] 課題11の不足箇所を埋める
-- [ ] sum-moneyをClojureで
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/04/26 - 2021/05/02
+        - 2021/04/26 - 2021/05/03
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
