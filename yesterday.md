@@ -15,6 +15,7 @@
         - [x] なぜかClojureのプロジェクトでM-w, M-eが使えない
             - 恐らくvim-icedが潰していると思われる
                 - 2021/05/03: vim-icedじゃなくてvim-sexpだったか... 使うかどうか分からなかったのでM-w, M-eを別のキーにした
+        - 2021/05/04: ClojureScriptをやろうとicedでshadow-cljsを試したところ、No JS runtimeというエラーで詰まってしまった。ドキュメントに問題の解説があるものの、イマイチ読めておらず。具体的な解決方法は書いてないっぽいし...
         - [ ] fern.vim?
         - [ ] nvim-compe?
             - compe-tabnineのWindowsサポート or vim-iced-deoplete
@@ -32,7 +33,7 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/04/26 - 2021/05/03
+        - 2021/04/26 - 2021/05/04
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
