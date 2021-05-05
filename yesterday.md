@@ -16,12 +16,12 @@
             - 恐らくvim-icedが潰していると思われる
                 - 2021/05/03: vim-icedじゃなくてvim-sexpだったか... 使うかどうか分からなかったのでM-w, M-eを別のキーにした
         - 2021/05/04: ClojureScriptをやろうとicedでshadow-cljsを試したところ、No JS runtimeというエラーで詰まってしまった。ドキュメントに問題の解説があるものの、イマイチ読めておらず。具体的な解決方法は書いてないっぽいし...
+        - 2021/05/05: 昨日のエラーがついぞ分からず、バグレポしてみたら私のミスだった...
+            - <https://github.com/liquidz/vim-iced/issues/338>
+            - しかしここまで書いてて思ったけど、やっぱClojureは重いな...。恐らく現状ではicedはNode.js向けのREPLをサポートしてないっぽいし
+                - <https://github.com/kanaka/mal> 当たりを参考に、別の言語で自分Lispを作った方が、単にREPL駆動開発と構造化編集を経験したい、とかの目的には早いのかも知れないね...
         - [ ] fern.vim?
-        - [ ] nvim-compe?
-            - compe-tabnineのWindowsサポート or vim-iced-deoplete
-        - [ ] vim-sexp、vim-icedの勉強
     - [ ] nvim-lspconfig の見直し
-- [ ] sum-moneyをClojureで
 - 週刊アスキーへの道
     - [ ] 提出に向けた調整
         - [ ] 200行以内に収める
@@ -33,7 +33,7 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/04/26 - 2021/05/04
+        - 2021/04/26 - 2021/05/05
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
