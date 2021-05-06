@@ -25,6 +25,7 @@
 - 週刊アスキーへの道
     - [ ] 提出に向けた調整
         - [ ] 200行以内に収める
+            - 修正箇所を確認してコメント。しかしこの題材はやっぱりきついかな...
         - [ ] ちょっと面白くする
         - [ ] アピール文を書く
 - Haskell入門コンテンツ:
@@ -33,7 +34,7 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/04/26 - 2021/05/05
+        - 2021/04/26 - 2021/05/06
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
