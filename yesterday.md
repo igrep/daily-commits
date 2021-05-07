@@ -22,19 +22,15 @@
                 - <https://github.com/kanaka/mal> 当たりを参考に、別の言語で自分Lispを作った方が、単にREPL駆動開発と構造化編集を経験したい、とかの目的には早いのかも知れないね...
         - [ ] fern.vim?
     - [ ] nvim-lspconfig の見直し
-- 週刊アスキーへの道
-    - [ ] 提出に向けた調整
-        - [ ] 200行以内に収める
-            - 修正箇所を確認してコメント。しかしこの題材はやっぱりきついかな...
-        - [ ] ちょっと面白くする
-        - [ ] アピール文を書く
+- [ ] 週刊アスキーへの道
+    - 2021/05/07: 結局、これ以上良くする方法も思いつかないので一旦諦めて別のものを作り直すことにした
 - Haskell入門コンテンツ:
     - [ ] 課題11の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/04/26 - 2021/05/06
+        - 2021/04/26 - 2021/05/07
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
