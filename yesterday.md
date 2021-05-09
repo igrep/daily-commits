@@ -25,13 +25,16 @@
 - [ ] 週刊アスキーへの道
     - 2021/05/07: 結局、これ以上良くする方法も思いつかないので一旦諦めて別のものを作り直すことにした
     - 2021/05/08: メニューができた
+    - 2021/05/09: 再生ボタンやイベントハンドラーを追加
 - Haskell入門コンテンツ:
     - [ ] 課題11の不足箇所を埋める
+        - 2021/05/09: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/59e759abbdd6f5c6de5dce75056b0fd0a529f37b>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
+    - 2021/05/09: makeMistakesToLearnHaskellはややこしそうなので、実験対象のプロジェクトをtypesafe-precureに切り替えて再度stack replなどの出力を採取
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/04/26 - 2021/05/08
+        - 2021/04/26 - 2021/05/09
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
