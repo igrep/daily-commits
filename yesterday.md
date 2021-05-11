@@ -1,7 +1,7 @@
 # 2021/05/10 - 2021/05/16
 
 - [ ] 週刊アスキーへの道
-    - 2021/05/10: イベントハンドラー作り始め
+    - 2021/05/10 - 2021/05/11: イベントハンドラー作り
 - Haskell入門コンテンツ:
     - [ ] 課題11の不足箇所を埋める
 - [ ] タイプセーフプリキュア:
@@ -17,15 +17,17 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/05/10
+        - 2021/05/11
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
 ------
 
 - Neovimプラグイン再整備
-    - [ ] fern.vim?
-    - [ ] nvim-lspconfig の見直し
+    - [x] fern.vim?
+        - 2021/05/11: 仕事中におおよそ設定できた
+    - [x] nvim-lspconfig の見直し
+        - 2021/05/11: 仕事中におおよそ設定できた
 - wasm2arm32 compiler:
     - [ ] i32.wastにおけるすべての`assert_trap`のテストケースを解決
     - [ ] i32.wastにおけるすべての`assert_invalid`のテストケースを解決
