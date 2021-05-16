@@ -8,8 +8,11 @@
 - [ ] タイプセーフプリキュア:
     - [ ] トロピカル～ジュ！プリキュアのサポート
         - 2021/05/15: 着手。残りは実際の変身シーンや浄化技のシーンを見ながら考えましょう。ハートクルリングをどこまで細かく分類して名付けるか、今回は微妙なところね。どうも商品としての仕様と実際のプリキュアでの設定が微妙に食い違ってるみたいだし...
+        - 2021/05/16: 4人変身時の名乗りなど、回によって台詞が変わる箇所の対応を除けば一通りできたはず。
+            - <https://github.com/igrep/typesafe-precure/pull/47> でattachmentを付けない場合と付ける場合両方があるアイテムに対応しておいたのがここでも活きた。
     - [ ] 一部の台詞が変わる変身への対応
         - [ ] トロピカル～ジュ！プリキュア
+        - [ ] ローラ
         - [ ] ドキドキ！プリキュア
         - [ ] ドキュメントの修正
     - attachmentを付ける場合と付けない場合があるspecial itemを適切に処理する <https://github.com/igrep/typesafe-precure/issues/44>
@@ -19,7 +22,7 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/05/10 - 2021/05/14
+        - 2021/05/10 - 2021/05/16
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
