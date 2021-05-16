@@ -1,15 +1,10 @@
-# 2021/05/10 - 2021/05/16
+# 2021/05/17 - 2021/05/23
 
 - [ ] 週刊アスキーへの道
-    - 2021/05/10 - 2021/05/14: イベントハンドラー作り
 - Haskell入門コンテンツ:
     - [ ] 課題11の不足箇所を埋める
-        - 2021/05/15: 課題11、意外と時間がかかる <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/2fd3b13bd00bcde827653da5390a1c338a08b354>
 - [ ] タイプセーフプリキュア:
     - [ ] トロピカル～ジュ！プリキュアのサポート
-        - 2021/05/15: 着手。残りは実際の変身シーンや浄化技のシーンを見ながら考えましょう。ハートクルリングをどこまで細かく分類して名付けるか、今回は微妙なところね。どうも商品としての仕様と実際のプリキュアでの設定が微妙に食い違ってるみたいだし...
-        - 2021/05/16: 4人変身時の名乗りなど、回によって台詞が変わる箇所の対応を除けば一通りできたはず。
-            - <https://github.com/igrep/typesafe-precure/pull/47> でattachmentを付けない場合と付ける場合両方があるアイテムに対応しておいたのがここでも活きた。
     - [ ] 一部の台詞が変わる変身への対応
         - [ ] トロピカル～ジュ！プリキュア
         - [ ] ローラ
@@ -22,20 +17,14 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/05/10 - 2021/05/16
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
 ------
 
-- Neovimプラグイン再整備
-    - [x] fern.vim?
-        - 2021/05/11: 仕事中におおよそ設定できた
-    - [x] nvim-lspconfig の見直し
-        - 2021/05/11: 仕事中におおよそ設定できた
 - wasm2arm32 compiler:
     - [ ] i32.wastにおけるすべての`assert_trap`のテストケースを解決
     - [ ] i32.wastにおけるすべての`assert_invalid`のテストケースを解決
 - [ ] ブログとQiitaに同時投稿するのをサポートするツール
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/c563457b205aee91dff075f9d2d911aed50cecaf/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/549f814f173267ff0576d3baa00038bc0c72c441/yesterday.md)
