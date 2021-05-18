@@ -2,6 +2,7 @@
 
 - [ ] 週刊アスキーへの道
     - 2021/05/17: 引き続き実装。動かしてみたけど動かぬ
+    - 2021/05/18: と思ったら動いてた。明日は画像を用意したりCSSを調整したりしよう
 - Haskell入門コンテンツ:
     - [ ] 課題11の不足箇所を埋める
 - [ ] タイプセーフプリキュア:
@@ -18,7 +19,7 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/05/17
+        - 2021/05/17 - 2021/05/18
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
