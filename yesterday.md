@@ -7,10 +7,14 @@
     - 2021/05/20: さらに見た目の調整。新しいイベントハンドラー追加し始め
 - Haskell入門コンテンツ:
     - [ ] 課題11の不足箇所を埋める
+        - 2021/05/22: 課題11はまだまだ続く... <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/0846eebcb1b185c040406b2e3fce5a5b63d15e72>
 - [ ] タイプセーフプリキュア:
-    - [ ] トロピカル～ジュ！プリキュアのサポート
+    - [x] トロピカル～ジュ！プリキュアのサポート
+        - 2021/05/22: 先週修正しきれなかった箇所の対応ができた
     - [ ] 一部の台詞が変わる変身への対応
-        - [ ] トロピカル～ジュ！プリキュア
+        - [x] トロピカル～ジュ！プリキュア
+            - 2021/05/22: ようやくかねてより考えていたアイディアを実現し、トロプリの変身で確認できた
+                - <https://twitter.com/igrep/status/1396115001551720452>
         - [ ] ローラ
         - [ ] ドキドキ！プリキュア
         - [ ] ドキュメントの修正
@@ -21,7 +25,7 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/05/17 - 2021/05/21
+        - 2021/05/17 - 2021/05/22
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
