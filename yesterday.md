@@ -5,6 +5,7 @@
     - 2021/05/25: 保存機能に向けて設計の変更を検討
         - してるうちに、これ、Web Componentにしてどこかにライブラリーとして公開すれば行数の問題もクリアできるんじゃないかという気がしてきた
     - 2021/05/26: 引き続き設計の変更。とっかかりがわからなくて始めるのに時間がかかり、あまり進まず。
+    - 2021/05/27: 設計の変更だいぶできてきた。後は実行する箇所の移植だけかな？
 - Haskell入門コンテンツ:
     - [ ] 課題11の不足箇所を埋める
 - [ ] タイプセーフプリキュア:
@@ -26,7 +27,7 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/05/24 - 2021/05/26
+        - 2021/05/24 - 2021/05/27
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
