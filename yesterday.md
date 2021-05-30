@@ -13,6 +13,7 @@
             - GitHubのCatalystを使ってみようとしてみたけど、これunpkgで使えなさそう...
 - Haskell入門コンテンツ:
     - [ ] 課題11の不足箇所を埋める
+        - 2021/05/30: 今週はこれだけ！ <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/04e7c15e5323aeaab1321fb57e04a37d2bde00fc>
 - [ ] タイプセーフプリキュア:
     - [ ] レビュー
         - [ ] トロピカル～ジュ！プリキュアのサポート
@@ -32,7 +33,7 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/05/24 - 2021/05/29
+        - 2021/05/24 - 2021/05/30
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
