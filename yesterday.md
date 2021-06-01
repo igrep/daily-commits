@@ -2,6 +2,7 @@
 
 - [ ] 週刊アスキーへの道
     - 2021/05/31: 必要なクラスを列挙
+    - 2021/06/01: 利用例から逆算して仕様を検討。規定された行数でどこまで任天堂のゲームを再現できるか悩みそうね。もちろんライブラリー側で多くをやってしまえば収まるだろうけど、あまりに特化したライブラリーを作ってしまうとずるい気もするし。
 - Haskell入門コンテンツ:
     - [ ] 課題11の不足箇所を埋める
 - [ ] タイプセーフプリキュア:
@@ -23,7 +24,7 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/05/31
+        - 2021/05/31 - 2021/06/01
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
