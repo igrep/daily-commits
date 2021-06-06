@@ -1,24 +1,19 @@
-# 2021/05/31 - 2021/06/06
+# 2021/06/07 - 2021/06/13
 
 - [ ] 週刊アスキーへの道
-    - 2021/05/31: 必要なクラスを列挙
-    - 2021/06/01: 利用例から逆算して仕様を検討。規定された行数でどこまで任天堂のゲームを再現できるか悩みそうね。もちろんライブラリー側で多くをやってしまえば収まるだろうけど、あまりに特化したライブラリーを作ってしまうとずるい気もするし。
-    - 2021/06/02: Custom Elementsうまく動かん。
-    - 2021/06/03: 昨日うまく行かなかったのは、親要素にshadow rootを加えていたからだった。shadow rootを作っているときにshadow rootじゃない箇所に子要素を置いたら表示されないってことか。多分仕様どおりなんだろうけど、なんか警告出してよ！
-    - 2021/06/05: ようやくplug・jackの箇所の実装に取り組むぞ、というところまできた。一番難しそうなので頭が働かなくなる
+    - [ ] ライブラリーの実装
+        - [ ] plug/jackの見た目
+        - [ ] plug/jackを繋げる処理
+        - [ ] serialize/deserialize
+        - [ ] layout
+        - [ ] document
 - Haskell入門コンテンツ:
     - [ ] 課題11の不足箇所を埋める
-        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/59681355b5d03cf8121a5efdd05e880220578f5e>
 - [ ] タイプセーフプリキュア:
     - [ ] レビュー
-        - [x] トロピカル～ジュ！プリキュアのサポート
-        - [x] 一部の台詞が変わる変身への対応
-            - [x] トロピカル～ジュ！プリキュア
-        - [x] ローラ
         - [ ] ドキドキ！プリキュア
         - [ ] ドキュメントの修正
     - [ ] 一部の台詞が変わる変身への対応
-        - [x] ローラ
         - [ ] ドキドキ！プリキュア
         - [ ] ドキュメントの修正
     - attachmentを付ける場合と付けない場合があるspecial itemを適切に処理する <https://github.com/igrep/typesafe-precure/issues/44>
@@ -28,7 +23,6 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/05/31 - 2021/06/06
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
@@ -39,4 +33,4 @@
     - [ ] i32.wastにおけるすべての`assert_invalid`のテストケースを解決
 - [ ] ブログとQiitaに同時投稿するのをサポートするツール
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/f028896268621e5c8ad47cb86e5b43a0689da17b/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/9cb957d26f4859c6478fcf8c8d2609a476c2ee20/yesterday.md)
