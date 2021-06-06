@@ -8,16 +8,17 @@
     - 2021/06/05: ようやくplug・jackの箇所の実装に取り組むぞ、というところまできた。一番難しそうなので頭が働かなくなる
 - Haskell入門コンテンツ:
     - [ ] 課題11の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/59681355b5d03cf8121a5efdd05e880220578f5e>
 - [ ] タイプセーフプリキュア:
     - [ ] レビュー
-        - [ ] トロピカル～ジュ！プリキュアのサポート
-        - [ ] 一部の台詞が変わる変身への対応
-            - [ ] トロピカル～ジュ！プリキュア
-        - [ ] ローラ
+        - [x] トロピカル～ジュ！プリキュアのサポート
+        - [x] 一部の台詞が変わる変身への対応
+            - [x] トロピカル～ジュ！プリキュア
+        - [x] ローラ
         - [ ] ドキドキ！プリキュア
         - [ ] ドキュメントの修正
     - [ ] 一部の台詞が変わる変身への対応
-        - [ ] ローラ
+        - [x] ローラ
         - [ ] ドキドキ！プリキュア
         - [ ] ドキュメントの修正
     - attachmentを付ける場合と付けない場合があるspecial itemを適切に処理する <https://github.com/igrep/typesafe-precure/issues/44>
@@ -27,7 +28,7 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/05/31 - 2021/06/05
+        - 2021/05/31 - 2021/06/06
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
