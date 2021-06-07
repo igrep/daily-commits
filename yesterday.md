@@ -3,6 +3,7 @@
 - [ ] 週刊アスキーへの道
     - [ ] ライブラリーの実装
         - [ ] plug/jackの見た目
+            - 2021/06/07
         - [ ] plug/jackを繋げる処理
         - [ ] serialize/deserialize
         - [ ] layout
@@ -23,6 +24,7 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
+        - 2021/06/07
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
