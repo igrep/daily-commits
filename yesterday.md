@@ -7,6 +7,7 @@
             - 2021/06/08: やっぱ飛び出たりへこんだりするところが難しいね。Grid Layoutのほうが簡単だったりする？
             - 2021/06/09: と、思ったけどflexでなんとかなりそう。
             - 2021/06/10: 少しずつ見た目がそれっぽくなってきた！
+            - 2021/06/11: やはりこれまで検討した方法ではできなさそうだ。すごく頑張って位置を調整したらできるかもだけど、難しそう。ちらちらと考えていた、背景色で上書きする方法の方が確実だ。背景色をユーザーで指定しないといけなくなるけど...
         - [ ] plug/jackを繋げる処理
         - [ ] serialize/deserialize
         - [ ] layout
@@ -27,7 +28,7 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/06/07 - 2021/06/10
+        - 2021/06/07 - 2021/06/11
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
