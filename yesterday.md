@@ -14,21 +14,22 @@
         - [ ] document
 - Haskell入門コンテンツ:
     - [ ] 課題11の不足箇所を埋める
-- [ ] タイプセーフプリキュア:
-    - [ ] レビュー
-        - [ ] ドキドキ！プリキュア
-        - [ ] ドキュメントの修正
-    - [ ] 一部の台詞が変わる変身への対応
-        - [ ] ドキドキ！プリキュア
-        - [ ] ドキュメントの修正
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/eaa072095ed694db838250b6112fad80b1a106bd>
+- [x] タイプセーフプリキュア:
+    - [x] レビュー
+        - [x] ドキドキ！プリキュア
+        - [x] ドキュメントの修正
+    - [x] 一部の台詞が変わる変身への対応
+        - [x] ドキドキ！プリキュア
+        - [x] ドキュメントの修正
     - attachmentを付ける場合と付けない場合があるspecial itemを適切に処理する <https://github.com/igrep/typesafe-precure/issues/44>
-        - [ ] Qiitaの記事の修正
-    - [ ] リリース
+        - [x] Qiitaの記事の修正
+    - [x] リリース
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/06/07 - 2021/06/11
+        - 2021/06/07 - 2021/06/12
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
