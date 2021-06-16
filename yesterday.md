@@ -5,6 +5,9 @@
         - 2021/06/14: 昨日の時点で、Edgeの場合や、位置を調整したとき表示が少し崩れるのを調整
         - [ ] plug/jackを動かす処理
             - 2021/06/14: どうしよう。初期位置のレイアウトをflexで簡単にするためにtranslateでやるのがいいかな、という気もしたけど却ってややこしいかな？
+            - 2021/06/15:
+                - 位置は一旦`position: absolute`にしておき、レイアウトは後で考えよう
+                - とりあえず`draggable="true"`にしてみた。今どきは便利なAPIがあるんだなぁ
         - [ ] plug/jackを繋げる処理
             - [ ] 繋げたエッジも動かす処理
         - [ ] serialize/deserialize
@@ -17,7 +20,7 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/06/14
+        - 2021/06/14 - 2021/06/15
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
