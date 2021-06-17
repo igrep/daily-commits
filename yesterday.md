@@ -8,8 +8,10 @@
             - 2021/06/15:
                 - 位置は一旦`position: absolute`にしておき、レイアウトは後で考えよう
                 - とりあえず`draggable="true"`にしてみた。今どきは便利なAPIがあるんだなぁ
+            - 2021/06/16: まだまだDraggable APIの勉強
         - [ ] plug/jackを繋げる処理
             - [ ] 繋げたエッジも動かす処理
+        - [ ] 初期位置のレイアウト
         - [ ] serialize/deserialize
         - [ ] document
     - [ ] 企画の実装
@@ -20,7 +22,7 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/06/14 - 2021/06/15
+        - 2021/06/14 - 2021/06/16
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
