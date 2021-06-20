@@ -18,6 +18,7 @@
             - 2021/06/19:
                 - エッジの状態はgarageで管理した方がよさそう。そしてそれと同時にそろそろDAGも設計しないとね
                 - `type`という概念はノードンにはないし、なくすべきかも
+            - 2021/06/20: ちゃんと動くか分からんけど、結構進んだぞ。もう少しでとりあえず動かせそう
             - [ ] 繋げたエッジも動かす処理
         - [ ] ノードを動かしたz-indexの制御
         - [ ] ノードの削除
@@ -27,12 +28,13 @@
     - [ ] 企画の実装
 - Haskell入門コンテンツ:
     - [ ] 課題11の不足箇所を埋める
-        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/eaa072095ed694db838250b6112fad80b1a106bd>
+        - 2021/06/20: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/099ba30799a11584c0dea50800ab7d89cb47a09b>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
+        - 2021/06/20: stack replとcabal replそれぞれが生成しているghcに渡している引数を見やすくした
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/06/14 - 2021/06/19
+        - 2021/06/14 - 2021/06/20
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
