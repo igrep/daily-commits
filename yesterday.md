@@ -15,6 +15,9 @@
             - 2021/06/22:
                 - インタープリター作り始め。やっぱりJavaScriptのイベントドリブンなモデルとの兼ね合いがちょっと難しい
                 - トポロジカルソートが必要になったらどうしようかなぁ、それで行数がかさまないかなぁ
+            - 2021/06/23:
+                - 有休を取ったが思ったように進まず
+                - よく考えたらトポロジカルソートはライブラリーの側でしれっとやっちゃえばいいか
         - [ ] document
     - [ ] 企画の実装
 - Haskell入門コンテンツ:
@@ -23,7 +26,7 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/06/21 - 2021/06/22
+        - 2021/06/21 - 2021/06/23
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
