@@ -19,6 +19,9 @@
                 - 有休を取ったが思ったように進まず
                 - よく考えたらトポロジカルソートはライブラリーの側でしれっとやっちゃえばいいか
             - 2021/06/24: データ構造をあーでもないこーでもないと悩んだ結果、やっとclick vertonの処理がそれらしく書けた
+            - 2021/06/25: と、思いきや、今日までの設計に色々問題が見つかったので作り直そう。今度こそ。
+                - 当初はtupのようにplugが生成したsignalをjackの値として設定する、という方式（push型と言うべきか）にしてたけど、click vertonなどフレーム毎にsignalを削除する必要があるvertonや、counter vertonなど最後に生成したsignalに依存して次のsignalを決めるvertonだと都合が悪いので、Makefileのようにplugが発しているsingalをjackが取りに行く、という方式に変えよう
+                - あと、ついでに状態はやっぱりVerton自体に持たせよう。オブジェクト指向よろしくVertonの種類毎にメソッドや固有の状態を持たせる方が見やすそうなので
         - [ ] document
     - [ ] 企画の実装
 - Haskell入門コンテンツ:
@@ -27,7 +30,7 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [Reeact and React Native - Third Edition](https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140)
-        - 2021/06/21 - 2021/06/24
+        - 2021/06/21 - 2021/06/25
     - The Implementation of Functional Programming Languages
         - ※Reactの方に夢中になっちゃってあまり頭に入っていないので後回し
 
