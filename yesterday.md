@@ -10,6 +10,10 @@
         - [ ] ノードのパラメーター: 定数ノードの設定方法など
         - [ ] 初期位置のレイアウト
         - [ ] serialize/deserialize
+            - 2021/06/28:
+                - 昨日、objectの移動は絶対位置指定でいいことに気づいた。counter vertonはそう言うためじゃないのか。
+                    - ついでによく考えたら、どうせ絶対位置指定なんだからobjectがsignalを出す必要もない
+                - テスト用のプログラムを書いてみてる。やっぱりちょっとバグってる
         - [ ] document
     - [ ] 企画の実装
 - Haskell入門コンテンツ:
@@ -21,6 +25,7 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
+        - 2021/06/28
     - The Implementation of Functional Programming Languages
         - 後回し
 
