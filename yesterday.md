@@ -14,6 +14,17 @@
                 - 昨日、objectの移動は絶対位置指定でいいことに気づいた。counter vertonはそう言うためじゃないのか。
                     - ついでによく考えたら、どうせ絶対位置指定なんだからobjectがsignalを出す必要もない
                 - テスト用のプログラムを書いてみてる。やっぱりちょっとバグってる
+            - 2021/06/29:
+                - ようやく直せた。
+                - イベントハンドラーを適切に取り除くの難しいわね。いっそ要素を作り直した方がいいのかも。
+                - 二つ目のテスト用プログラムを書いてみたが、またバグってる。二つ以上のvertonを組み合わせないといけないから原因の特定が難しいなぁ。
+                    - あっさり直せた。
+                - さらに複雑なテストケースを付くって、and verton以外のすべてのvertonをとりあえず試せた
+                    - 演算子のvertonを一部しか試せてないけど
+                - あとはどうやって行数を減らすか、ね... ともあれ必要なものは分かったし、一旦ライブラリー本体の実装に戻ろうかな
+                    - arithmetic vertonとconditon vertonの演算子は減らそう同様に、counter vertonのjackは増やすだけでよさそう
+                    - 複数のwireが同じjackに刺さっているとき`||`で巻き取るか上書きするか。なるべく`||`に寄せていい気がする。そしたら抽象化できるし
+                    - まぁ、実はand vertonもarithmetic vertonで代わりが利くはずだけど...
         - [ ] document
     - [ ] 企画の実装
 - Haskell入門コンテンツ:
@@ -25,7 +36,7 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/06/28
+        - 2021/06/28 - 2021/06/29
     - The Implementation of Functional Programming Languages
         - 後回し
 
