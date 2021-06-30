@@ -25,6 +25,11 @@
                     - arithmetic vertonとconditon vertonの演算子は減らそう同様に、counter vertonのjackは増やすだけでよさそう
                     - 複数のwireが同じjackに刺さっているとき`||`で巻き取るか上書きするか。なるべく`||`に寄せていい気がする。そしたら抽象化できるし
                     - まぁ、実はand vertonもarithmetic vertonで代わりが利くはずだけど...
+            - 2021/06/30:
+                - 利用頻度が低そうな `/` と、`-1`で代用できる`-`をoperator vertonから削除
+                - 向きを逆にすればいいので`>=`などをcondition vertonから削除
+                    - 代わりに`not` vertonを作った。「0を出力する」と「何も出力しない」は等価なのか分かってないのでちょっとこれでいいのか不明
+                - 要らないと思っていたとdxとdyをobject vertonから削除してやっとJSのコードが200行くらいに。まだまだね...
         - [ ] document
     - [ ] 企画の実装
 - Haskell入門コンテンツ:
@@ -36,7 +41,7 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/06/28 - 2021/06/29
+        - 2021/06/28 - 2021/06/30
     - The Implementation of Functional Programming Languages
         - 後回し
 
