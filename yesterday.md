@@ -30,6 +30,10 @@
                 - 向きを逆にすればいいので`>=`などをcondition vertonから削除
                     - 代わりに`not` vertonを作った。「0を出力する」と「何も出力しない」は等価なのか分かってないのでちょっとこれでいいのか不明
                 - 要らないと思っていたとdxとdyをobject vertonから削除してやっとJSのコードが200行くらいに。まだまだね...
+            - 2021/07/01:
+                - Not vertonのテストケースを書いてみたがうまく動かない。0とundefinedの扱いが一貫的にできているか怪しいので、ちょっと検討しないと。恐らくノードンにあわせて「0を出力 == 何も出力しない」にすべきなんだろうな
+                    - 調査して分かった: <https://twitter.com/igrep/status/1410565043838615555>
+                    - タッチ位置ノードンにならってclick vertonを作り直そう。そうしないと、クリックしてないときに0を出力することになり、「クリックした位置に飛ばす」みたいなことができなくなる
         - [ ] document
     - [ ] 企画の実装
 - Haskell入門コンテンツ:
@@ -41,7 +45,7 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/06/28 - 2021/06/30
+        - 2021/06/28 - 2021/07/01
     - The Implementation of Functional Programming Languages
         - 後回し
 
