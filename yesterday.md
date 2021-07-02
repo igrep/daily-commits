@@ -34,6 +34,10 @@
                 - Not vertonのテストケースを書いてみたがうまく動かない。0とundefinedの扱いが一貫的にできているか怪しいので、ちょっと検討しないと。恐らくノードンにあわせて「0を出力 == 何も出力しない」にすべきなんだろうな
                     - 調査して分かった: <https://twitter.com/igrep/status/1410565043838615555>
                     - タッチ位置ノードンにならってclick vertonを作り直そう。そうしないと、クリックしてないときに0を出力することになり、「クリックした位置に飛ばす」みたいなことができなくなる
+            - 2021/07/02:
+                - 調査したことを頼りに、すべてのvertonが何も出力しないときは0を出力するよう修正。そしたらNot vertonのテストケースがよくわからんが動いた
+                - click vertonも作り替えた。それに合わせてclickしてるときだけ1を出すvertonも作った。結局行数増えるんだよなぁ
+                    - 明日はこの新しくできたvertonのテストを
         - [ ] document
     - [ ] 企画の実装
 - Haskell入門コンテンツ:
@@ -45,7 +49,7 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/06/28 - 2021/07/01
+        - 2021/06/28 - 2021/07/02
     - The Implementation of Functional Programming Languages
         - 後回し
 
