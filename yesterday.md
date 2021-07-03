@@ -49,7 +49,7 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/06/28 - 2021/07/02
+        - 2021/06/28 - 2021/07/03
     - The Implementation of Functional Programming Languages
         - 後回し
 
