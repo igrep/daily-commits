@@ -1,4 +1,4 @@
-# 2021/06/28 - 2021/07/04
+# 2021/07/05 - 2021/07/12
 
 - [ ] 週刊アスキーへの道
     - [ ] ライブラリーの実装
@@ -10,53 +10,23 @@
         - [ ] ノードのパラメーター: 定数ノードの設定方法など
         - [ ] 初期位置のレイアウト
         - [ ] serialize/deserialize
-            - 2021/06/28:
-                - 昨日、objectの移動は絶対位置指定でいいことに気づいた。counter vertonはそう言うためじゃないのか。
-                    - ついでによく考えたら、どうせ絶対位置指定なんだからobjectがsignalを出す必要もない
-                - テスト用のプログラムを書いてみてる。やっぱりちょっとバグってる
-            - 2021/06/29:
-                - ようやく直せた。
-                - イベントハンドラーを適切に取り除くの難しいわね。いっそ要素を作り直した方がいいのかも。
-                - 二つ目のテスト用プログラムを書いてみたが、またバグってる。二つ以上のvertonを組み合わせないといけないから原因の特定が難しいなぁ。
-                    - あっさり直せた。
-                - さらに複雑なテストケースを付くって、and verton以外のすべてのvertonをとりあえず試せた
-                    - 演算子のvertonを一部しか試せてないけど
-                - あとはどうやって行数を減らすか、ね... ともあれ必要なものは分かったし、一旦ライブラリー本体の実装に戻ろうかな
-                    - arithmetic vertonとconditon vertonの演算子は減らそう同様に、counter vertonのjackは増やすだけでよさそう
-                    - 複数のwireが同じjackに刺さっているとき`||`で巻き取るか上書きするか。なるべく`||`に寄せていい気がする。そしたら抽象化できるし
-                    - まぁ、実はand vertonもarithmetic vertonで代わりが利くはずだけど...
-            - 2021/06/30:
-                - 利用頻度が低そうな `/` と、`-1`で代用できる`-`をoperator vertonから削除
-                - 向きを逆にすればいいので`>=`などをcondition vertonから削除
-                    - 代わりに`not` vertonを作った。「0を出力する」と「何も出力しない」は等価なのか分かってないのでちょっとこれでいいのか不明
-                - 要らないと思っていたとdxとdyをobject vertonから削除してやっとJSのコードが200行くらいに。まだまだね...
-            - 2021/07/01:
-                - Not vertonのテストケースを書いてみたがうまく動かない。0とundefinedの扱いが一貫的にできているか怪しいので、ちょっと検討しないと。恐らくノードンにあわせて「0を出力 == 何も出力しない」にすべきなんだろうな
-                    - 調査して分かった: <https://twitter.com/igrep/status/1410565043838615555>
-                    - タッチ位置ノードンにならってclick vertonを作り直そう。そうしないと、クリックしてないときに0を出力することになり、「クリックした位置に飛ばす」みたいなことができなくなる
-            - 2021/07/02:
-                - 調査したことを頼りに、すべてのvertonが何も出力しないときは0を出力するよう修正。そしたらNot vertonのテストケースがよくわからんが動いた
-                - click vertonも作り替えた。それに合わせてclickしてるときだけ1を出すvertonも作った。結局行数増えるんだよなぁ
-                    - 明日はこの新しくできたvertonのテストを
         - [ ] document
     - [ ] 企画の実装
-- Haskell入門コンテンツ:
-    - [ ] 課題11の不足箇所を埋める
 - [ ] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/20>
-    - 2021/07/04: なんとかややこしい既存の実装をひもといて、Mustacheに渡すデータ構造に変換する作業が半分以上できた。#hasmokuの時間だけで今月中には終われる... かな...？
-- [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
-    - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/06/28 - 2021/07/04
     - The Implementation of Functional Programming Languages
         - 後回し
 
 ------
 
+- Haskell入門コンテンツ:
+    - [ ] 課題11の不足箇所を埋める
+- [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
+    - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - wasm2arm32 compiler:
     - [ ] i32.wastにおけるすべての`assert_trap`のテストケースを解決
     - [ ] i32.wastにおけるすべての`assert_invalid`のテストケースを解決
 - [ ] ブログとQiitaに同時投稿するのをサポートするツール
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/740504cfa4ea38c65f0189b50be312b80c88a858/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/b9375f9d862d26782768c94834bc2545af5607ae/yesterday.md)
