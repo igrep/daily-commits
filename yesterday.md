@@ -42,14 +42,13 @@
     - [ ] 企画の実装
 - Haskell入門コンテンツ:
     - [ ] 課題11の不足箇所を埋める
-        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/03e6462ef008b67003067ef4e52c9fa14b6d455d>
 - [ ] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/20>
-    - GHCとStackageのLTSを更新した結果、type-of-htmlの新しいバージョンに追従しないといけなくなったので、どうせtype-of-htmlは乗り換えるつもりだったから急遽取り組むことに。その間更新を止めないといけないのが心配。何週間かかるかな...
+    - 2021/07/04: なんとかややこしい既存の実装をひもといて、Mustacheに渡すデータ構造に変換する作業が半分以上できた。#hasmokuの時間だけで今月中には終われる... かな...？
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/06/28 - 2021/07/03
+        - 2021/06/28 - 2021/07/04
     - The Implementation of Functional Programming Languages
         - 後回し
 
