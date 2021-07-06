@@ -15,6 +15,7 @@
 - [ ] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/20>
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
+        - 2021/07/05
     - The Implementation of Functional Programming Languages
         - 後回し
 
