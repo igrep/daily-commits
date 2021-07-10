@@ -1,4 +1,4 @@
-# 2021/07/05 - 2021/07/12
+# 2021/07/05 - 2021/07/11
 
 - [ ] 週刊アスキーへの道
     - [ ] ライブラリーの実装
@@ -15,7 +15,7 @@
 - [ ] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/20>
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/07/05 - 2021/07/09
+        - 2021/07/05 - 2021/07/10
     - The Implementation of Functional Programming Languages
         - 後回し
 
