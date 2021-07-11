@@ -13,9 +13,10 @@
         - [ ] document
     - [ ] 企画の実装
 - [ ] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/20>
+    - 2021/07/11: Haskell-jp Adminsのお仕事やらお腹が痛いやらであまり進まず。先週割と次のアクションが分かりやすいところで終えていたのが不幸中の幸いだった
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/07/05 - 2021/07/10
+        - 2021/07/05 - 2021/07/11
     - The Implementation of Functional Programming Languages
         - 後回し
 
