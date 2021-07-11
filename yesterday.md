@@ -1,4 +1,4 @@
-# 2021/07/05 - 2021/07/11
+# 2021/07/12 - 2021/07/18
 
 - [ ] 週刊アスキーへの道
     - [ ] ライブラリーの実装
@@ -13,10 +13,8 @@
         - [ ] document
     - [ ] 企画の実装
 - [ ] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/20>
-    - 2021/07/11: Haskell-jp Adminsのお仕事やらお腹が痛いやらであまり進まず。先週割と次のアクションが分かりやすいところで終えていたのが不幸中の幸いだった
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/07/05 - 2021/07/11
     - The Implementation of Functional Programming Languages
         - 後回し
 
@@ -31,4 +29,4 @@
     - [ ] i32.wastにおけるすべての`assert_invalid`のテストケースを解決
 - [ ] ブログとQiitaに同時投稿するのをサポートするツール
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/b9375f9d862d26782768c94834bc2545af5607ae/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/0e655e86b336fa8107b61a984e32e4ec91f890ea/yesterday.md)
