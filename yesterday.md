@@ -5,6 +5,7 @@
         - [ ] plug/jackを繋げる処理
             - [ ] 繋げたエッジも動かす処理
                 - 2021/07/12: ようやく再開。1週間も空けると忘れてるねぇ
+                - 2021/07/13: とりあえず、アプリケーション側で考えた型の修正をライブラリーにも加えて、型チェックを通せた
             - [ ] ループの禁止
         - [ ] ノードを動かしたz-indexの制御
         - [ ] ノードの削除
@@ -16,7 +17,7 @@
 - [ ] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/20>
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/07/12
+        - 2021/07/12 - 2021/07/13
     - The Implementation of Functional Programming Languages
         - 後回し
 
