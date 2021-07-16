@@ -10,7 +10,8 @@
                 - 2021/07/15: デバッグコードを仕込んだり。あまり進まず。
             - [ ] ループの禁止
         - [ ] ノードを動かした時のz-indexの制御
-        - [ ] エッジが邪魔してクリックできない
+        - [x] エッジが邪魔してクリックできない
+            - 2021/07/16: `pointer-events: none`でサクッと解決
         - [ ] エッジの削除
         - [ ] ノードの削除
         - [ ] ノードのパラメーター: 定数ノードの設定方法など
@@ -21,7 +22,7 @@
 - [ ] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/20>
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/07/12 - 2021/07/15
+        - 2021/07/12 - 2021/07/16
     - The Implementation of Functional Programming Languages
         - 後回し
 
