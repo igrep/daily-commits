@@ -7,6 +7,7 @@
                 - 2021/07/12: ようやく再開。1週間も空けると忘れてるねぇ
                 - 2021/07/13: とりあえず、アプリケーション側で考えた型の修正をライブラリーにも加えて、型チェックを通せた
                 - 2021/07/14: edgeが作られてはいるが、やはりとんちんかんな位置に作られているようだ
+                - 2021/07/15: デバッグコードを仕込んだり。あまり進まず。
             - [ ] ループの禁止
         - [ ] ノードを動かした時のz-indexの制御
         - [ ] エッジが邪魔してクリックできない
@@ -20,7 +21,7 @@
 - [ ] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/20>
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/07/12 - 2021/07/14
+        - 2021/07/12 - 2021/07/15
     - The Implementation of Functional Programming Languages
         - 後回し
 
