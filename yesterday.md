@@ -23,7 +23,7 @@
     - 2021/07/17: ようやく実装側で、type-of-htmlからmustacheへの移植ができた
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/07/12 - 2021/07/17
+        - 2021/07/12 - 2021/07/18
     - The Implementation of Functional Programming Languages
         - 後回し
 
