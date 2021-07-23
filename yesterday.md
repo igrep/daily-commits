@@ -18,9 +18,10 @@
     - [ ] 企画の実装
 - [ ] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/20>
     - 2021/07/22: テンプレート本体をmustacheで記述する、前に設定ファイルの記述と配置
+    - 2021/07/23: テンプレート本体の記述開始... のところで、テンプレートに渡す変数が不足していたので修正。それからちょっとずつ書き始めた
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/07/19 - 2021/07/22
+        - 2021/07/19 - 2021/07/23
     - The Implementation of Functional Programming Languages
         - 後回し
 
