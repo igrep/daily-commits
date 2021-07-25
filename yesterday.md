@@ -20,9 +20,11 @@
     - 2021/07/22: テンプレート本体をmustacheで記述する、前に設定ファイルの記述と配置
     - 2021/07/23: テンプレート本体の記述開始... のところで、テンプレートに渡す変数が不足していたので修正。それからちょっとずつ書き始めた
     - 2021/07/24: メッセージ一覧ページのテンプレートが移植できた。
+    - 2021/07/25: indexページのテンプレートも移植したりもう一つのバグを直したり再生成したりでようやくPRを送れた
+        - <https://github.com/haskell-jp/slack-log/pull/55>
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/07/19 - 2021/07/24
+        - 2021/07/19 - 2021/07/25
     - The Implementation of Functional Programming Languages
         - 後回し
 
