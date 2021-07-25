@@ -1,13 +1,9 @@
-# 2021/07/19 - 2021/07/25
+# 2021/07/26 - 2021/08/01
 
 - [ ] 週刊アスキーへの道
     - [ ] ライブラリーの実装
         - [ ] plug/jackを繋げる処理
             - [ ] 繋げたエッジも動かす処理
-                - 2021/07/19: エッジの初期位置を修正。plugの中心からクリックした位置へ線を表示することに。このほうが多分線ができたことが分かりやすい
-                - 2021/07/20: エッジの初期位置の修正引き続き。
-                - 2021/07/21: エッジの初期位置の修正終わったけどうまく動かず。まぁ依然として線を動かすアルゴリズムがおかしいでしょうしね
-            - [ ] ループの禁止
         - [ ] ノードを動かした時のz-indexの制御
         - [ ] エッジの削除
         - [ ] ノードの削除
@@ -17,14 +13,9 @@
         - [ ] document
     - [ ] 企画の実装
 - [ ] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/20>
-    - 2021/07/22: テンプレート本体をmustacheで記述する、前に設定ファイルの記述と配置
-    - 2021/07/23: テンプレート本体の記述開始... のところで、テンプレートに渡す変数が不足していたので修正。それからちょっとずつ書き始めた
-    - 2021/07/24: メッセージ一覧ページのテンプレートが移植できた。
-    - 2021/07/25: indexページのテンプレートも移植したりもう一つのバグを直したり再生成したりでようやくPRを送れた
-        - <https://github.com/haskell-jp/slack-log/pull/55>
+    - <https://github.com/haskell-jp/slack-log/pull/55> の修正・マージ
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/07/19 - 2021/07/25
     - The Implementation of Functional Programming Languages
         - 後回し
 
@@ -39,4 +30,4 @@
     - [ ] i32.wastにおけるすべての`assert_invalid`のテストケースを解決
 - [ ] ブログとQiitaに同時投稿するのをサポートするツール
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/4c8f11fc98ddb3abdb6448c78b06aed1875224bf/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/ec1b7d8559f0a688282c6d3670dd6793ee3b38f8/yesterday.md)
