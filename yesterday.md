@@ -14,8 +14,10 @@
     - [ ] 企画の実装
 - [ ] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/20>
     - <https://github.com/haskell-jp/slack-log/pull/55> の修正・マージ
+        - Windowsでビルドがこける問題を修正 <https://github.com/haskell-jp/slack-log/pull/55/commits/95c7c4c3ff3604e7eae836f1b16c1eda19540b25>
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
+        - 2021/07/26
     - The Implementation of Functional Programming Languages
         - 後回し
 
