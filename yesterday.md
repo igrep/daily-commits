@@ -4,6 +4,13 @@
     - [ ] ライブラリーの実装
         - [ ] plug/jackを繋げる処理
             - [ ] 繋げたエッジも動かす処理
+                - 2021/07/27: 線を動かすアルゴリズムについて、従来のアルゴリズムの問題を修正すべく型修正
+                - 2021/07/28:
+                    - さらに ~~二つ~~ 一つ問題に気づいた:
+                        - edgeのtop/leftは`PointerOnGarageSvg`、つまり親SVGのboundingClientRectの値を引かずに計算しないといけない
+                        - `calcEdgeDef`関数に渡す、`PointerOnGarageSvg`の初期位置（x0, y0）が、最後にマウスがあった位置になってないか？
+                            - 気のせいだった
+                    - 分かりづらいので、最初から全部viewportからの絶対位置になるように作り直そう
         - [ ] ノードを動かした時のz-indexの制御
         - [ ] エッジの削除
         - [ ] ノードの削除
@@ -18,7 +25,7 @@
         - 2021/07/27: matsubaraくんの指摘を受けて修正 <https://github.com/haskell-jp/slack-log/pull/55/commits/1faf7e10277ea785a41a30ee8456cca8e137c9e2>
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/07/26 - 2021/07/27
+        - 2021/07/26 - 2021/07/28
     - The Implementation of Functional Programming Languages
         - 後回し
 
