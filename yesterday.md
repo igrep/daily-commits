@@ -14,6 +14,7 @@
                 - 2021/07/29:
                     - 試行錯誤してようやく適切な設計が見つかった。こういう時型に守られてて変更が楽に感じるよな。
                     - 残りは一番難しい、lineの座標や位置を計算する箇所だ
+                - 2021/07/30: lineの座標や位置を計算する箇所少し実装。合っているかは分からん
         - [ ] ノードを動かした時のz-indexの制御
         - [ ] エッジの削除
         - [ ] ノードの削除
@@ -28,7 +29,7 @@
         - 2021/07/27: matsubaraくんの指摘を受けて修正 <https://github.com/haskell-jp/slack-log/pull/55/commits/1faf7e10277ea785a41a30ee8456cca8e137c9e2>
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/07/26 - 2021/07/29
+        - 2021/07/26 - 2021/07/30
     - The Implementation of Functional Programming Languages
         - 後回し
 
