@@ -23,20 +23,21 @@
         - [ ] serialize/deserialize
         - [ ] document
     - [ ] 企画の実装
-- [ ] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/20>
+- [x] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/20>
     - <https://github.com/haskell-jp/slack-log/pull/55> の修正・マージ
         - 2021/07/26: Windowsでビルドがこける問題を修正 <https://github.com/haskell-jp/slack-log/pull/55/commits/95c7c4c3ff3604e7eae836f1b16c1eda19540b25>
         - 2021/07/27: matsubaraくんの指摘を受けて修正 <https://github.com/haskell-jp/slack-log/pull/55/commits/1faf7e10277ea785a41a30ee8456cca8e137c9e2>
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/07/26 - 2021/07/30
+        - 2021/07/26 - 2021/07/31
     - The Implementation of Functional Programming Languages
         - 後回し
 
 ------
 
 - Haskell入門コンテンツ:
-    - [ ] 課題11の不足箇所を埋める
+    - [x] 課題11の不足箇所を埋める
+        - やっとできたぜ <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/f8cbc29efc4aa65c1c66f555b3bdf8046d536db4>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - wasm2arm32 compiler:
