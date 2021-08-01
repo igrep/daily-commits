@@ -40,6 +40,8 @@
 - Haskell入門コンテンツ:
     - [x] 課題11の不足箇所を埋める
         - やっとできたぜ <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/f8cbc29efc4aa65c1c66f555b3bdf8046d536db4>
+    - [ ] 課題12の不足箇所を埋める
+        - 2021/08/01: 埋める必要がある箇所の確認・メモ
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - wasm2arm32 compiler:
