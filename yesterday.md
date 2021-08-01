@@ -27,9 +27,11 @@
     - <https://github.com/haskell-jp/slack-log/pull/55> の修正・マージ
         - 2021/07/26: Windowsでビルドがこける問題を修正 <https://github.com/haskell-jp/slack-log/pull/55/commits/95c7c4c3ff3604e7eae836f1b16c1eda19540b25>
         - 2021/07/27: matsubaraくんの指摘を受けて修正 <https://github.com/haskell-jp/slack-log/pull/55/commits/1faf7e10277ea785a41a30ee8456cca8e137c9e2>
+- [ ] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/50>
+    - 2021/08/01: 着手。テンプレートに渡す型をある程度修正
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/07/26 - 2021/07/31
+        - 2021/07/26 - 2021/08/01
     - The Implementation of Functional Programming Languages
         - 後回し
 
