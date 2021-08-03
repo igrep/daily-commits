@@ -3,6 +3,7 @@
 - [ ] 週刊アスキーへの道
     - [ ] ライブラリーの実装
         - [ ] plug/jackを繋げる処理
+            - 2021/08/02: エッジの位置を計算する関数がすべて実装できたつもり。しかし動かぬ。
             - [ ] 繋げたエッジも動かす処理
         - [ ] ノードを動かした時のz-indexの制御
         - [ ] エッジの削除
@@ -17,6 +18,7 @@
 - [ ] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/50>
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
+        - 2021/08/02
     - The Implementation of Functional Programming Languages
         - 後回し
 
