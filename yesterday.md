@@ -7,6 +7,8 @@
             - 2021/08/03: 動かない原因はエッジの`line`要素の位置がおかしいからだった。半分修正。
             - 2021/08/04: 修正できたはず、と思いきや、まだうまく行かず。なぜかエッジが動かなくなる瞬間がある
                 - どうやら、マウスポインターがvertexの上を通っているときでないとエッジが動かないらしい
+            - 2021/08/05: 何の仕様か、どうも`verton-garage`要素を直接`mouseover`しているときには`pointermove`イベントが発生していないらしい。そしてなぜか`verton-vertex`ではちゃんと発生する。`.edge`に`pointer-events: none`を適用しているせいかと思いきやそれも関係ない
+                - <https://pm.dartus.fr/blog/a-complete-guide-on-shadow-dom-and-event-propagation/> が関係している？
             - [ ] 繋げたエッジも動かす処理
         - [ ] ノードを動かした時のz-indexの制御
         - [ ] エッジの削除
