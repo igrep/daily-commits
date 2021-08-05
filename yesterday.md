@@ -5,6 +5,8 @@
         - [ ] plug/jackを繋げる処理
             - 2021/08/02: エッジの位置を計算する関数がすべて実装できたつもり。しかし動かぬ。
             - 2021/08/03: 動かない原因はエッジの`line`要素の位置がおかしいからだった。半分修正。
+            - 2021/08/04: 修正できたはず、と思いきや、まだうまく行かず。なぜかエッジが動かなくなる瞬間がある
+                - どうやら、マウスポインターがvertexの上を通っているときでないとエッジが動かないらしい
             - [ ] 繋げたエッジも動かす処理
         - [ ] ノードを動かした時のz-indexの制御
         - [ ] エッジの削除
@@ -19,7 +21,7 @@
 - [ ] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/50>
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/08/02 - 2021/08/03
+        - 2021/08/02 - 2021/08/04
     - The Implementation of Functional Programming Languages
         - 後回し
 
