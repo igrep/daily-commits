@@ -9,6 +9,7 @@
                 - どうやら、マウスポインターがvertexの上を通っているときでないとエッジが動かないらしい
             - 2021/08/05: 何の仕様か、どうも`verton-garage`要素を直接`mouseover`しているときには`pointermove`イベントが発生していないらしい。そしてなぜか`verton-vertex`ではちゃんと発生する。`.edge`に`pointer-events: none`を適用しているせいかと思いきやそれも関係ない
                 - <https://pm.dartus.fr/blog/a-complete-guide-on-shadow-dom-and-event-propagation/> が関係している？
+            - 2021/08/06: 昨日見つけた記事を読んだ。ちょっと関係しているっぽい。
             - [ ] 繋げたエッジも動かす処理
         - [ ] ノードを動かした時のz-indexの制御
         - [ ] エッジの削除
@@ -23,7 +24,7 @@
 - [ ] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/50>
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/08/02 - 2021/08/04
+        - 2021/08/02 - 2021/08/05
     - The Implementation of Functional Programming Languages
         - 後回し
 
