@@ -23,9 +23,10 @@
     - [ ] 課題12の不足箇所を埋める
         - 2021/08/07: 少し進めた
 - [ ] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/50>
+    - 2021/08/09: テンプレート以外の修正はできたかな？あとテストケースもか。
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/08/02 - 2021/08/06
+        - 2021/08/02 - 2021/08/07
     - The Implementation of Functional Programming Languages
         - 後回し
 
