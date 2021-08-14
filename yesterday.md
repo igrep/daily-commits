@@ -22,13 +22,15 @@
     - [ ] 企画の実装
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
-        - 2021/08/09: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/cbca33b36b871b6421b549d6eb1732fc84b6e675>
-            - 一昨日の更新も含まれてるけど。
+        - 2021/08/14: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/de0631dfac1160cec1ee9e182c46a2c6d8089c53>
 - [ ] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/50>
     - 2021/08/09: テストケースの修正
+    - 2021/08/14:
+        - 修正したテストケースを通した。ちょっとバグもあった
+        - replyのHTMLを生成する処理も書き始めた。あとは生成が必要なスレッドファイルの一覧と、個々のスレッドに対してHTMLを吐く関数を書くだけ。
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/08/09 - 2021/08/13
+        - 2021/08/09 - 2021/08/14
     - The Implementation of Functional Programming Languages
         - 後回し
 
