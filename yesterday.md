@@ -28,9 +28,10 @@
     - 2021/08/14:
         - 修正したテストケースを通した。ちょっとバグもあった
         - replyのHTMLを生成する処理も書き始めた。あとは生成が必要なスレッドファイルの一覧と、個々のスレッドに対してHTMLを吐く関数を書くだけ。
+    - 2021/08/15: スレッドファイルの一覧を取得する処理の実装。HTMLファイルを吐くためにテストケース書き始め
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/08/09 - 2021/08/14
+        - 2021/08/09 - 2021/08/15
     - The Implementation of Functional Programming Languages
         - 後回し
 
