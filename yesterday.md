@@ -3,6 +3,7 @@
 - [ ] 週刊アスキーへの道
     - [ ] ライブラリーの実装
         - [ ] plug/jackを繋げる処理
+            - 2021/08/16: テストケース1つ追加。まだ失敗させてない
             - [ ] 繋げたエッジも動かす処理
         - [ ] ノードを動かした時のz-indexの制御
         - [ ] エッジの削除
@@ -14,10 +15,10 @@
     - [ ] 企画の実装
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
-        - 2021/08/14: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/de0631dfac1160cec1ee9e182c46a2c6d8089c53>
 - [ ] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/50>
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
+        - 2021/08/16
     - The Implementation of Functional Programming Languages
         - 後回し
 
