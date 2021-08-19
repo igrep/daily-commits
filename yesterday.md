@@ -5,6 +5,7 @@
         - [ ] plug/jackを繋げる処理
             - 2021/08/16: テストケース1つ追加。まだ失敗させてない
             - 2021/08/17: 昨日書いたテストケースの修正。
+            - 2021/08/18: テストさらに追加
             - [ ] 繋げたエッジも動かす処理
         - [ ] ノードを動かした時のz-indexの制御
         - [ ] エッジの削除
@@ -19,7 +20,7 @@
 - [ ] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/50>
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/08/16 - 2021/08/17
+        - 2021/08/16 - 2021/08/18
     - The Implementation of Functional Programming Languages
         - 後回し
 
