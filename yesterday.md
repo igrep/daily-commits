@@ -7,7 +7,10 @@
             - 2021/08/17: 昨日書いたテストケースの修正。
             - 2021/08/18: テストさらに追加
             - 2021/08/19: リファクタリング、してみたけどやっぱイマイチね...
+            - 2021/08/20: やっぱり元に戻した！
             - [ ] 繋げたエッジも動かす処理
+            - [ ] 無関係な箇所をクリック（pointerup）したときにキャンセル
+            - [ ] garageをはみ出たときのハンドリング
         - [ ] ノードを動かした時のz-indexの制御
         - [ ] エッジの削除
         - [ ] ノードの削除
@@ -21,7 +24,7 @@
 - [ ] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/50>
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/08/16 - 2021/08/19
+        - 2021/08/16 - 2021/08/20
     - The Implementation of Functional Programming Languages
         - 後回し
 
