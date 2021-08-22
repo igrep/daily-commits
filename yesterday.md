@@ -21,9 +21,10 @@
     - [ ] 企画の実装
 - [ ] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/50>
     - 2021/08/21: スレッドを書き出すときのテンプレートや、処理のテストを作成などなど。もう少しでできそう
+    - 2021/08/22: めっちゃゲームやりたくなったので今日はちょっとだけ。
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/08/16 - 2021/08/21
+        - 2021/08/16 - 2021/08/22
     - The Implementation of Functional Programming Languages
         - 後回し
 
