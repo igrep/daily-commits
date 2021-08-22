@@ -19,17 +19,18 @@
         - [ ] serialize/deserialize
         - [ ] document
     - [ ] 企画の実装
-- Haskell入門コンテンツ:
-    - [ ] 課題12の不足箇所を埋める
 - [ ] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/50>
+    - 2021/08/21: スレッドを書き出すときのテンプレートや、処理のテストを作成などなど。もう少しでできそう
 - 読書など:
     - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/08/16 - 2021/08/20
+        - 2021/08/16 - 2021/08/21
     - The Implementation of Functional Programming Languages
         - 後回し
 
 ------
 
+- Haskell入門コンテンツ:
+    - [ ] 課題12の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - [ ] ブログとQiitaに同時投稿するのをサポートするツール
