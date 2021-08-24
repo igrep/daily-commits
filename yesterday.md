@@ -1,11 +1,11 @@
 # 2021/08/23 - 2021/08/29
 
 - [ ] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/50>
+    - 2021/08/23: 後はテストを通して手でも確認するだけ、ってところまできた
 - [ ] Haskell Day 2021の動画作り
     - [ ] スライド作り
 - 読書など:
-    - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
-        - 2021/08/16 - 2021/08/22
+    - [WEB+DB PRESS Vol.122](https://gihyo.jp/magazine/wdpress/archive/2021/vol122)
     - The Implementation of Functional Programming Languages
         - 後回し
 
