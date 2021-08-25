@@ -2,10 +2,12 @@
 
 - [ ] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/50>
     - 2021/08/23: 後はテストを通して手でも確認するだけ、ってところまできた
+    - 2021/08/24: 昨日のバグを直した。自動テスト通せた！
 - [ ] Haskell Day 2021の動画作り
     - [ ] スライド作り
 - 読書など:
     - [WEB+DB PRESS Vol.122](https://gihyo.jp/magazine/wdpress/archive/2021/vol122)
+        - 2021/08/23 - 2021/08/24
     - The Implementation of Functional Programming Languages
         - 後回し
 
