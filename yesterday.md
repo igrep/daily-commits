@@ -9,11 +9,12 @@
     - 2021/08/26:
         - CSS修正（実際にはtemplateの要素に着けたclassの修正）
         - ついでに <https://github.com/haskell-jp/slack-log/issues/56> にも挑んでる
+    - 2021/08/27: <https://github.com/haskell-jp/slack-log/issues/56> の修正ができたので再生成して確認OK。あとはリリースか。
 - [ ] Haskell Day 2021の動画作り
     - [ ] スライド作り
 - 読書など:
     - [WEB+DB PRESS Vol.122](https://gihyo.jp/magazine/wdpress/archive/2021/vol122)
-        - 2021/08/23 - 2021/08/26
+        - 2021/08/23 - 2021/08/27
     - The Implementation of Functional Programming Languages
         - 後回し
 
