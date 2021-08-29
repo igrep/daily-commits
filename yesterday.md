@@ -17,7 +17,7 @@
         - 2021/08/29: ようやく着手
 - 読書など:
     - [WEB+DB PRESS Vol.122](https://gihyo.jp/magazine/wdpress/archive/2021/vol122)
-        - 2021/08/23 - 2021/08/28
+        - 2021/08/23 - 2021/08/29
     - The Implementation of Functional Programming Languages
         - 後回し
 
