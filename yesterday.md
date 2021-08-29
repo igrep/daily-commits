@@ -1,23 +1,10 @@
-# 2021/08/23 - 2021/08/29
+# 2021/08/30 - 2021/09/05
 
-- [x] Slack-logの更新 <https://github.com/haskell-jp/slack-log/issues/50>
-    - 2021/08/23: 後はテストを通して手でも確認するだけ、ってところまできた
-    - 2021/08/24: 昨日のバグを直した。自動テスト通せた！
-    - 2021/08/25:
-        - 実際に`slack-log generate-html`を実行するとやっぱりエラーになったので修正
-        - 無事生成できたが、ちょっとCSSがおかしい
-    - 2021/08/26:
-        - CSS修正（実際にはtemplateの要素に着けたclassの修正）
-        - ついでに <https://github.com/haskell-jp/slack-log/issues/56> にも挑んでる
-    - 2021/08/27: <https://github.com/haskell-jp/slack-log/issues/56> の修正ができたので再生成して確認OK。あとはリリースか。
-    - 2021/08/28: できた。確認もOK
-        - <https://github.com/haskell-jp/slack-log/pull/58>
 - [ ] Haskell Day 2021の動画作り
     - [ ] スライド作り
-        - 2021/08/29: ようやく着手
+    - [ ] 録音
 - 読書など:
     - [WEB+DB PRESS Vol.122](https://gihyo.jp/magazine/wdpress/archive/2021/vol122)
-        - 2021/08/23 - 2021/08/29
     - The Implementation of Functional Programming Languages
         - 後回し
 
