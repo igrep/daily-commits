@@ -5,11 +5,12 @@
         - 2021/08/30: ちょっとだけ
         - 2021/08/31: 実装の解説開始
         - 2021/09/01: cabalファイル貼り付け
+        - 2021/09/02: cabalファイルの中身解説
     - [ ] スライドの英訳
     - [ ] 録音
 - 読書など:
     - [WEB+DB PRESS Vol.122](https://gihyo.jp/magazine/wdpress/archive/2021/vol122)
-        - 2021/08/30 - 2021/09/01
+        - 2021/08/30 - 2021/09/02
     - The Implementation of Functional Programming Languages
         - 後回し
 
