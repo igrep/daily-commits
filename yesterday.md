@@ -11,7 +11,7 @@
     - [ ] 録音
 - 読書など:
     - [WEB+DB PRESS Vol.122](https://gihyo.jp/magazine/wdpress/archive/2021/vol122)
-        - 2021/08/30 - 2021/09/04
+        - 2021/08/30 - 2021/09/05: 読了
     - The Implementation of Functional Programming Languages
         - 後回し
 
