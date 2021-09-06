@@ -6,6 +6,7 @@
     - [ ] スライドの英訳
 - 読書など:
     - [Software Design 2021年5月号](https://gihyo.jp/magazine/SD/archive/2021/202105)
+        - 2021/09/06
     - The Implementation of Functional Programming Languages
         - 後回し
 
