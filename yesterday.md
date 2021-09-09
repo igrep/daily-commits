@@ -4,11 +4,12 @@
     - [ ] スライド作り
         - 2021/09/07: 使い方のところをサクッと書いた
         - 2021/09/08: 残りをどこまで説明しようかなぁ
+        - 2021/09/09: 実装解説
     - [ ] 録音
     - [ ] スライドの英訳
 - 読書など:
     - [Software Design 2021年5月号](https://gihyo.jp/magazine/SD/archive/2021/202105)
-        - 2021/09/06 - 2021/09/08
+        - 2021/09/06 - 2021/09/09
     - The Implementation of Functional Programming Languages
         - 後回し
 
