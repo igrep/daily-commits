@@ -7,11 +7,12 @@
         - 2021/09/09: 実装解説
         - 2021/09/10: どこに力点を置くか悩むねぇ。
         - 2021/09/11: とりあえず`ReaderT`とSlack APIをどのように利用しているか説明するところで概ね埋まりそう
+        - 2021/09/12: `ReaderT`の説明だいたいできたかな？
     - [ ] 録音
     - [ ] スライドの英訳
 - 読書など:
     - [Software Design 2021年5月号](https://gihyo.jp/magazine/SD/archive/2021/202105)
-        - 2021/09/06 - 2021/09/11
+        - 2021/09/06 - 2021/09/12
     - The Implementation of Functional Programming Languages
         - 後回し
 
