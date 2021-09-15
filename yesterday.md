@@ -4,11 +4,13 @@
     - [ ] スライド作り
         - 2021/09/13: 終わりが見えてきたかな？
         - 2021/09/14: スライド一通りできた
+        - 2021/09/15: 3枚目のスライドまで収録
     - [ ] 録音
+    - [ ] 字幕作り
     - [ ] スライドの英訳
 - 読書など:
     - [Software Design 2021年5月号](https://gihyo.jp/magazine/SD/archive/2021/202105)
-        - 2021/09/13 - 2021/09/14
+        - 2021/09/13 - 2021/09/15
     - The Implementation of Functional Programming Languages
         - 後回し
 
