@@ -8,12 +8,13 @@
         - 2021/09/16: watermarkを削除するためにScreencast-O-Maticを買ってやり直し。やっぱりよどみなくやりたいのでなるべく1枚ずつ収録しよう
             - しかしScreencast-O-Matic, 余計な機能が多くて思ったよりイマイチね
         - 2021/09/17: 改めて小分けにして3枚目のスライドまで収録。後で編集でどこまでごまかせるか...
+        - 2021/09/19: 19枚目まで収録したけど、やっぱり`ReaderT`の説明がめんどくて足踏み。
     - [ ] 録音
     - [ ] 字幕作り
     - [ ] スライドの英訳
 - 読書など:
     - [Software Design 2021年5月号](https://gihyo.jp/magazine/SD/archive/2021/202105)
-        - 2021/09/13 - 2021/09/18
+        - 2021/09/13 - 2021/09/19
     - The Implementation of Functional Programming Languages
         - 後回し
 
