@@ -1,12 +1,13 @@
 # 2021/09/20 - 2021/09/26
 
 - [ ] Haskell Day 2021の動画作り
-    - [ ] スライド作り
-    - [ ] 録音
-    - [ ] 字幕作り
+    - [x] 録音
+        - 2021/09/20: とりあえずできた
+    - [ ] 編集
     - [ ] スライドの英訳
 - 読書など:
     - [Software Design 2021年5月号](https://gihyo.jp/magazine/SD/archive/2021/202105)
+        - 2021/09/20
     - The Implementation of Functional Programming Languages
         - 後回し
 
