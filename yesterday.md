@@ -7,10 +7,11 @@
         - 2021/09/21: とりあえず全部の録画を結合しようとしたらScreencast-O-Maticのバグと格闘する羽目に。もう使わん！Adobe Premiereの無償期間で作りきる！
             - <https://twitter.com/igrep/status/1440112693923307521>
         - 2021/09/22: Adobe Premiereに読ませるためにScreencast-O-Maticで全部エクスポート
+        - 2021/09/23: 全部がっちゃんこしたら合計時間17:59あったのを17:00まで削れた。この調子ならスライドをなくすほどの修正は要らないだろう。
     - [ ] スライドの英訳
 - 読書など:
     - [Software Design 2021年5月号](https://gihyo.jp/magazine/SD/archive/2021/202105)
-        - 2021/09/20 - 2021/09/22
+        - 2021/09/20 - 2021/09/23
     - The Implementation of Functional Programming Languages
         - 後回し
 
