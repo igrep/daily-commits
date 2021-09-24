@@ -8,10 +8,11 @@
             - <https://twitter.com/igrep/status/1440112693923307521>
         - 2021/09/22: Adobe Premiereに読ませるためにScreencast-O-Maticで全部エクスポート
         - 2021/09/23: 全部がっちゃんこしたら合計時間17:59あったのを17:00まで削れた。この調子ならスライドをなくすほどの修正は要らないだろう。
+        - 2021/09/24: 7秒だけ削った
     - [ ] スライドの英訳
 - 読書など:
     - [Software Design 2021年5月号](https://gihyo.jp/magazine/SD/archive/2021/202105)
-        - 2021/09/20 - 2021/09/23
+        - 2021/09/20 - 2021/09/24
     - The Implementation of Functional Programming Languages
         - 後回し
 
