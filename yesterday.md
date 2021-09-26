@@ -1,26 +1,7 @@
-# 2021/09/20 - 2021/09/26
+# 2021/09/27 - 2021/10/03
 
 - [ ] Haskell Day 2021の動画作り
-    - [x] 録音
-        - 2021/09/20: とりあえずできた
-    - [x] 編集
-        - 2021/09/21: とりあえず全部の録画を結合しようとしたらScreencast-O-Maticのバグと格闘する羽目に。もう使わん！Adobe Premiereの無償期間で作りきる！
-            - <https://twitter.com/igrep/status/1440112693923307521>
-        - 2021/09/22: Adobe Premiereに読ませるためにScreencast-O-Maticで全部エクスポート
-        - 2021/09/23: 全部がっちゃんこしたら合計時間17:59あったのを17:00まで削れた。この調子ならスライドをなくすほどの修正は要らないだろう。
-        - 2021/09/24: 7秒だけ削った
-        - 2021/09/25: 15:49 / 15:00。途中スライドのリストアイテムの一部にマーカーを着ける必要があって戸惑ったけど結構進んだ
-        - 2021/09/26: 15:02 / 15:00。できた。
     - [ ] スライドの英訳
-        - 2021/09/26: 10/35。
-- 読書など:
-    - [Software Design 2021年5月号](https://gihyo.jp/magazine/SD/archive/2021/202105)
-        - 2021/09/20 - 2021/09/26
-    - The Implementation of Functional Programming Languages
-        - 後回し
-
-------
-
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
 - [ ] 週刊アスキーへの道
@@ -37,8 +18,18 @@
         - [ ] serialize/deserialize
         - [ ] document
     - [ ] 企画の実装
-- [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
-    - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - [ ] ブログとQiitaに同時投稿するのをサポートするツール
+- [ ] Yokohama.rbの問題 [103mask](http://nabetani.sakura.ne.jp/yokohamarb/103mask/)
+- [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
+    - [ ] 現在のcabal・stackの仕様を調査
+    - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
+- 読書など:
+    - [Software Design 2021年5月号](https://gihyo.jp/magazine/SD/archive/2021/202105)
+    - The Implementation of Functional Programming Languages
+        - 後回し
+
+------
+
+- [ ] タイプセーフプリキュア
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/f15af937745d23962728283cc3a35cf6e2c36def/yesterday.md)
