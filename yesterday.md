@@ -27,6 +27,7 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [Software Design 2021年5月号](https://gihyo.jp/magazine/SD/archive/2021/202105)
+        - 2021/09/27
     - The Implementation of Functional Programming Languages
         - 後回し
 
@@ -34,4 +35,4 @@
 
 - [ ] タイプセーフプリキュア
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/f15af937745d23962728283cc3a35cf6e2c36def/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/commit/ca3f5b56d18839154d406256fca33300c52fdade)
