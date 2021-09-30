@@ -5,6 +5,7 @@
         - 2021/09/27: 14/35
         - 2021/09/28: 21/35
         - 2021/09/29: 25/35
+        - 2021/09/30: 30/35
     - [ ] slack-webに提案
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
@@ -29,7 +30,7 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [Software Design 2021年5月号](https://gihyo.jp/magazine/SD/archive/2021/202105)
-        - 2021/09/27 - 2021/09/29
+        - 2021/09/27 - 2021/09/30
     - The Implementation of Functional Programming Languages
         - 後回し
 
