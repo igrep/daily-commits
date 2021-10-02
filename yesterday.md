@@ -8,6 +8,9 @@
         - 2021/09/30: 30/35
         - 2021/10/01: 35/35。あとは見直ししよう
     - [ ] slack-webに提案
+- [ ] Haskell Day 2021
+    - [ ] 投稿動画とHaskell-jpの活動を見て内容の検討
+    - [ ] 動画作成
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
 - [ ] 週刊アスキーへの道
@@ -29,9 +32,11 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
     - [ ] 現在のcabal・stackの仕様を調査
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
+- [ ] その他: WebAssembly Reference Typeの記事:
+    - 2021/10/02: ちょっと[このtweet](https://twitter.com/igrep/status/1443396752841666564)を訂正すべく優先順位を上げてWebAssembly Reference Typeの記事を書き始めた
 - 読書など:
     - [Software Design 2021年5月号](https://gihyo.jp/magazine/SD/archive/2021/202105)
-        - 2021/09/27 - 2021/10/01
+        - 2021/09/27 - 2021/10/02
     - The Implementation of Functional Programming Languages
         - 後回し
 
