@@ -1,12 +1,13 @@
 # 2021/09/27 - 2021/10/03
 
 - [ ] Haskell Day 2021の動画作り
-    - [ ] スライドの英訳
+    - [x] スライドの英訳
         - 2021/09/27: 14/35
         - 2021/09/28: 21/35
         - 2021/09/29: 25/35
         - 2021/09/30: 30/35
         - 2021/10/01: 35/35。あとは見直ししよう
+        - 2021/10/03: 見直しできた
     - [ ] slack-webに提案
 - [ ] Haskell Day 2021
     - [ ] 投稿動画とHaskell-jpの活動を見て内容の検討
@@ -34,9 +35,10 @@
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - [ ] その他: WebAssembly Reference Typeの記事:
     - 2021/10/02: ちょっと[このtweet](https://twitter.com/igrep/status/1443396752841666564)を訂正すべく優先順位を上げてWebAssembly Reference Typeの記事を書き始めた
+    - 2021/10/03: ちょっと進めた
 - 読書など:
     - [Software Design 2021年5月号](https://gihyo.jp/magazine/SD/archive/2021/202105)
-        - 2021/09/27 - 2021/10/02
+        - 2021/09/27 - 2021/10/03
     - The Implementation of Functional Programming Languages
         - 後回し
 
