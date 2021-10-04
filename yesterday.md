@@ -1,19 +1,22 @@
-# 2021/09/27 - 2021/10/03
+# 2021/10/04 - 2021/10/10
 
-- [ ] Haskell Day 2021の動画作り
-    - [x] スライドの英訳
-        - 2021/09/27: 14/35
-        - 2021/09/28: 21/35
-        - 2021/09/29: 25/35
-        - 2021/09/30: 30/35
-        - 2021/10/01: 35/35。あとは見直ししよう
-        - 2021/10/03: 見直しできた
-    - [ ] slack-webに提案
+- [x] Haskell Day 2021の動画作り
+    - [x] slack-webに提案
+        - 2021/10/04: <https://github.com/jpvillaisaza/slack-web/issues/90>
+- [ ] その他: WebAssembly Reference Typeの記事:
 - [ ] Haskell Day 2021
     - [ ] 投稿動画とHaskell-jpの活動を見て内容の検討
     - [ ] 動画作成
+- [ ] タイプセーフプリキュア
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
+- 読書など:
+    - [Software Design 2021年5月号](https://gihyo.jp/magazine/SD/archive/2021/202105)
+    - The Implementation of Functional Programming Languages
+        - 後回し
+
+------
+
 - [ ] 週刊アスキーへの道
     - [ ] ライブラリーの実装
         - [ ] plug/jackを繋げる処理
@@ -33,17 +36,5 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
     - [ ] 現在のcabal・stackの仕様を調査
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
-- [ ] その他: WebAssembly Reference Typeの記事:
-    - 2021/10/02: ちょっと[このtweet](https://twitter.com/igrep/status/1443396752841666564)を訂正すべく優先順位を上げてWebAssembly Reference Typeの記事を書き始めた
-    - 2021/10/03: ちょっと進めた
-- 読書など:
-    - [Software Design 2021年5月号](https://gihyo.jp/magazine/SD/archive/2021/202105)
-        - 2021/09/27 - 2021/10/03
-    - The Implementation of Functional Programming Languages
-        - 後回し
 
-------
-
-- [ ] タイプセーフプリキュア
-
-[先週の記録はこちら](https://github.com/igrep/daily-commits/commit/ca3f5b56d18839154d406256fca33300c52fdade)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/a75f585c5fcf4c184f49264cda2636edbe015531/yesterday.md)
