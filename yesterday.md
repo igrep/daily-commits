@@ -4,7 +4,7 @@
     - [x] slack-webに提案
         - 2021/10/04: <https://github.com/jpvillaisaza/slack-web/issues/90>
 - [ ] その他: WebAssembly Reference Typeの記事:
-    - 2021/10/06: サンプル作り
+    - 2021/10/05: サンプル作り
 - [ ] Haskell Day 2021
     - [ ] 投稿動画とHaskell-jpの活動を見て内容の検討
     - [ ] 動画作成
