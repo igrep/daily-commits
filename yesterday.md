@@ -4,7 +4,7 @@
     - [x] slack-webに提案
         - 2021/10/04: <https://github.com/jpvillaisaza/slack-web/issues/90>
 - [ ] その他: WebAssembly Reference Typeの記事:
-    - 2021/10/05 - 2021/10/08: サンプル作り・解説
+    - 2021/10/05 - 2021/10/09: サンプル作り・解説
 - [ ] Haskell Day 2021
     - [ ] 投稿動画とHaskell-jpの活動を見て内容の検討
     - [ ] 動画作成
@@ -13,7 +13,7 @@
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [Software Design 2021年5月号](https://gihyo.jp/magazine/SD/archive/2021/202105)
-        - 2021/10/04 - 2021/10/08
+        - 2021/10/04 - 2021/10/09
     - The Implementation of Functional Programming Languages
         - 後回し
 
