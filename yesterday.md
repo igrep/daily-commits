@@ -1,19 +1,17 @@
-# 2021/10/04 - 2021/10/10
+# 2021/10/11 - 2021/10/17
 
-- [x] Haskell Day 2021の動画作り
-    - [x] slack-webに提案
-        - 2021/10/04: <https://github.com/jpvillaisaza/slack-web/issues/90>
 - [ ] その他: WebAssembly Reference Typeの記事:
-    - 2021/10/05 - 2021/10/09: サンプル作り・解説
 - [ ] Haskell Day 2021
     - [ ] 投稿動画とHaskell-jpの活動を見て内容の検討
     - [ ] 動画作成
 - [ ] タイプセーフプリキュア
+- [ ] sydtestへIssue・PR
+    - [ ] Windowsでも動くようにした
+    - [ ] `--system-ghc`
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [Software Design 2021年5月号](https://gihyo.jp/magazine/SD/archive/2021/202105)
-        - 2021/10/04 - 2021/10/10
     - The Implementation of Functional Programming Languages
         - 後回し
 
@@ -39,4 +37,4 @@
     - [ ] 現在のcabal・stackの仕様を調査
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/a75f585c5fcf4c184f49264cda2636edbe015531/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/6c6ac627ab4d37db3bd08b7b8599098eb8022a96/yesterday.md)
