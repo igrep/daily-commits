@@ -13,7 +13,7 @@
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [Software Design 2021年5月号](https://gihyo.jp/magazine/SD/archive/2021/202105)
-        - 2021/10/04 - 2021/10/09
+        - 2021/10/04 - 2021/10/10
     - The Implementation of Functional Programming Languages
         - 後回し
 
