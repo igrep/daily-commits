@@ -1,6 +1,7 @@
 # 2021/10/11 - 2021/10/17
 
 - [ ] その他: WebAssembly Reference Typeの記事:
+    - 2021/10/11: Reference Typesの例の解説は終わり
 - [ ] Haskell Day 2021
     - [ ] 投稿動画とHaskell-jpの活動を見て内容の検討
     - [ ] 動画作成
@@ -12,6 +13,7 @@
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [Software Design 2021年5月号](https://gihyo.jp/magazine/SD/archive/2021/202105)
+        - 2021/10/11
     - The Implementation of Functional Programming Languages
         - 後回し
 
