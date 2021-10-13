@@ -7,6 +7,7 @@
     - [ ] 投稿動画とHaskell-jpの活動を見て内容の検討
         - 2021/10/12: ふりかえり以外の内容ができた。ふりかえり作るの面倒だしどうしようかなあ
     - [ ] 動画作成
+        - 2021/10/13: 今できている部分を読み上げて録音。1分ちょうどくらいだし、振り返り作るのはいいかもなぁ
 - [ ] タイプセーフプリキュア
 - [ ] sydtestへIssue・PR
     - [ ] Windowsでも動くようにした
@@ -17,7 +18,7 @@
     - [Software Design 2021年5月号](https://gihyo.jp/magazine/SD/archive/2021/202105)
         - 2021/10/11
     - [n月刊ラムダノート Vo1, No.1(2019)](https://www.lambdanote.com/products/nmonthly-vol-1-no-1-2019-ebook?variant=21993199730772)
-        - 2021/10/12: もう読んだ内容だった...
+        - 2021/10/12 - 2021/10/13: もう読んだ内容だった... また読むけど...
     - The Implementation of Functional Programming Languages
         - 後回し
 
