@@ -3,6 +3,7 @@
 - [ ] その他: WebAssembly Reference Typeの記事:
     - 2021/10/11: Reference Typesの例の解説は終わり
     - 2021/10/12: Rustのwasm-bindgenを使った例を作成開始
+    - 2021/10/14: Rustのwasm-bindgenを使った例を作成
 - [ ] Haskell Day 2021
     - [ ] 投稿動画とHaskell-jpの活動を見て内容の検討
         - 2021/10/12: ふりかえり以外の内容ができた。ふりかえり作るの面倒だしどうしようかなあ
@@ -10,7 +11,8 @@
         - 2021/10/13: 今できている部分を読み上げて録音。1分ちょうどくらいだし、振り返り作るのはいいかもなぁ
 - [ ] タイプセーフプリキュア
 - [ ] sydtestへIssue・PR
-    - [ ] Windowsでも動くようにした
+    - [x] Windowsでも動くようにした
+        - 2021/10/13: 送った: <https://github.com/NorfairKing/sydtest/pull/18>
     - [ ] `--system-ghc`
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
@@ -18,7 +20,9 @@
     - [Software Design 2021年5月号](https://gihyo.jp/magazine/SD/archive/2021/202105)
         - 2021/10/11
     - [n月刊ラムダノート Vo1, No.1(2019)](https://www.lambdanote.com/products/nmonthly-vol-1-no-1-2019-ebook?variant=21993199730772)
-        - 2021/10/12 - 2021/10/13: もう読んだ内容だった... また読むけど...
+        - 2021/10/12 - 2021/10/14: もう読んだ内容だった... また読むけど...
+    - [n月刊ラムダノート Vol.2, No.1(2020)](https://www.lambdanote.com/products/nmonthly-vol-2-no-1-2020-ebook?variant=31876236214356)
+        - 2021/10/14
     - The Implementation of Functional Programming Languages
         - 後回し
 
