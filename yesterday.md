@@ -11,14 +11,17 @@
             - 比較のためのベンチマークはどうしよう
                 - console.time() を使うらしい <https://developer.mozilla.org/ja/docs/Web/API/Console/time>
 - [ ] Haskell Day 2021
-    - [ ] 投稿動画とHaskell-jpの活動を見て内容の検討
+    - [x] 投稿動画とHaskell-jpの活動を見て内容の検討
         - 2021/10/12: ふりかえり以外の内容ができた。ふりかえり作るの面倒だしどうしようかなあ
+        - 2021/10/17: 頑張って一通りやった
     - [ ] 動画作成
         - 2021/10/13: 今できている部分を読み上げて録音。1分ちょうどくらいだし、振り返り作るのはいいかもなぁ
+        - 2021/10/17: 音声の収録と、スライドをスクショで録るのをやった
 - [ ] タイプセーフプリキュア
 - [ ] sydtestへIssue・PR
     - [x] Windowsでも動くようにした
         - 2021/10/13: 送った: <https://github.com/NorfairKing/sydtest/pull/18>
+        - 2021/10/17: CONTRIBUTORSの一覧に名前を書け、とのことなのでCONTRIBUTORSなるファイルを探したが、ない...
     - [ ] `--system-ghc`
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
