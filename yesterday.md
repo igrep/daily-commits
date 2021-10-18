@@ -3,14 +3,17 @@
 - [ ] その他: WebAssembly Reference Typeの記事:
 - [ ] Haskell Day 2021
     - [ ] 動画作成
+        - 2021/10/18: Windows 10のフォトの使い勝手を確認・編集開始。カット編集しにくそうだけど、まぁなんとかできるかな？
 - [ ] タイプセーフプリキュア
 - [ ] sydtestへIssue・PR
     - [ ] Windowsでも動くようにした（必要があれば対応）
+        - 2021/10/18: `CONTRIBUTORS`ファイルに言われたとおり追記。GitHubのアカウント名だけで本当に大丈夫？
     - [ ] `--system-ghc`
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [n月刊ラムダノート Vol.2, No.1(2020)](https://www.lambdanote.com/products/nmonthly-vol-2-no-1-2020-ebook?variant=31876236214356)
+        - 2021/10/18
     - The Implementation of Functional Programming Languages
         - 後回し
 
