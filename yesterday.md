@@ -1,6 +1,7 @@
 # 2021/10/18 - 2021/10/24
 
 - [ ] その他: WebAssembly Reference Typeの記事:
+    - 2021/10/20: wasm-bindgenの使い方を調べただけ
 - [ ] Haskell Day 2021
     - [x] 動画作成
         - 2021/10/18: Windows 10のフォトの使い勝手を確認・編集開始。カット編集しにくそうだけど、まぁなんとかできるかな？
@@ -14,7 +15,7 @@
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [n月刊ラムダノート Vol.2, No.1(2020)](https://www.lambdanote.com/products/nmonthly-vol-2-no-1-2020-ebook?variant=31876236214356)
-        - 2021/10/18 - 2021/10/19
+        - 2021/10/18 - 2021/10/20
     - The Implementation of Functional Programming Languages
         - 後回し
 
