@@ -18,7 +18,7 @@
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [n月刊ラムダノート Vol.2, No.1(2020)](https://www.lambdanote.com/products/nmonthly-vol-2-no-1-2020-ebook?variant=31876236214356)
-        - 2021/10/18 - 2021/10/21
+        - 2021/10/18 - 2021/10/22
     - The Implementation of Functional Programming Languages
         - 後回し
 
