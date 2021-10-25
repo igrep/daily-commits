@@ -17,9 +17,12 @@
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
         - 2021/10/23: 電車の中でちょっとだけ
+        - 2021/10/24: 「強引に型チェックを通す」の節が大部分書けたはず。なんか冗長な説明になってしまったかな...
 - 読書など:
     - [n月刊ラムダノート Vol.2, No.1(2020)](https://www.lambdanote.com/products/nmonthly-vol-2-no-1-2020-ebook?variant=31876236214356)
-        - 2021/10/18 - 2021/10/23
+        - 2021/10/18 - 2021/10/24: 読了
+    - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2021/10/24
     - The Implementation of Functional Programming Languages
         - 後回し
 
