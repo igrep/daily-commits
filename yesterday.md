@@ -1,28 +1,14 @@
-# 2021/10/18 - 2021/10/24
+# 2021/10/25 - 2021/10/31
 
 - [ ] その他: WebAssembly Reference Typeの記事:
-    - 2021/10/20: wasm-bindgenの使い方を調べただけ
-    - 2021/10/21: wasm-bindgenでReference Typesを使ったコードを吐いてみた
-        - `wasm-bindgen --target web --reference-types .\target\wasm32-unknown-unknown\release\reference_types_examples.wasm --out-dir .\pkg-with-reference-types\`
-        - やはりStringはJSのStringを渡していても`getStringFromWasm0`等を使ってやりとりしないといけないらしい。これはこれで速度の比較をしたいけど、完全にreference typesを使ったバージョンも作りたいなぁ。
 - [ ] Haskell Day 2021
-    - [x] 動画作成
-        - 2021/10/18: Windows 10のフォトの使い勝手を確認・編集開始。カット編集しにくそうだけど、まぁなんとかできるかな？
-        - 2021/10/19: 編集完了
 - [ ] タイプセーフプリキュア
 - [ ] sydtestへIssue・PR
-    - [x] Windowsでも動くようにした（必要があれば対応）
-        - 2021/10/18: `CONTRIBUTORS`ファイルに言われたとおり追記。GitHubのアカウント名だけで本当に大丈夫？その後マージしてもらえた
     - [ ] `--system-ghc`
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
-        - 2021/10/23: 電車の中でちょっとだけ
-        - 2021/10/24: 「強引に型チェックを通す」の節が大部分書けたはず。なんか冗長な説明になってしまったかな...
 - 読書など:
-    - [n月刊ラムダノート Vol.2, No.1(2020)](https://www.lambdanote.com/products/nmonthly-vol-2-no-1-2020-ebook?variant=31876236214356)
-        - 2021/10/18 - 2021/10/24: 読了
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/10/24
     - The Implementation of Functional Programming Languages
         - 後回し
 
