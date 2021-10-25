@@ -34,4 +34,4 @@
     - [ ] 現在のcabal・stackの仕様を調査
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/35f6c9252924b6a4f586e4b262eab6bdd4fc86da/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/6f5a5808fe9059ecb9680cba265ff96b494aefb1/yesterday.md)
