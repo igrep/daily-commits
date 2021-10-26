@@ -7,8 +7,10 @@
     - [ ] `--system-ghc`
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
+        - 2021/10/25: ちょっとだけ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2021/10/25
     - The Implementation of Functional Programming Languages
         - 後回し
 
