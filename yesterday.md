@@ -10,7 +10,7 @@
         - 2021/10/25: ちょっとだけ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/10/25
+        - 2021/10/25 - 2021/10/26
     - The Implementation of Functional Programming Languages
         - 後回し
 
