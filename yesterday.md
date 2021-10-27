@@ -1,6 +1,11 @@
 # 2021/10/25 - 2021/10/31
 
-- [ ] その他: WebAssembly Reference Typeの記事:
+- [ ] その他: WebAssembly Reference Typeの記事
+    - [ ] ごく簡単な例
+        - 2021/10/27: Rustによるサンプルのビルドの設定
+    - [ ] ベンチマーク in Rust
+    - [ ] ベンチマーク in WAT
+    - [ ] 本文
 - [ ] Haskell Day 2021
 - [ ] タイプセーフプリキュア
 - [ ] sydtestへIssue・PR
@@ -10,7 +15,7 @@
         - 2021/10/25: ちょっとだけ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/10/25 - 2021/10/26
+        - 2021/10/25 - 2021/10/27
     - The Implementation of Functional Programming Languages
         - 後回し
 
