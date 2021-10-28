@@ -3,6 +3,7 @@
 - [ ] その他: WebAssembly Reference Typeの記事
     - [ ] ごく簡単な例
         - 2021/10/27: Rustによるサンプルのビルドの設定
+        - 2021/10/28: ベンチマークでも同じサンプルにしたくなったのでサンプルを修正
     - [ ] ベンチマーク in Rust
     - [ ] ベンチマーク in WAT
     - [ ] 本文
@@ -15,7 +16,7 @@
         - 2021/10/25: ちょっとだけ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/10/25 - 2021/10/27
+        - 2021/10/25 - 2021/10/28
     - The Implementation of Functional Programming Languages
         - 後回し
 
