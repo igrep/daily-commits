@@ -1,29 +1,15 @@
-# 2021/10/25 - 2021/10/31
+# 2021/11/01 - 2021/11/07
 
 - [ ] その他: WebAssembly Reference Typeの記事
-    - [x] ごく簡単な例
-        - 2021/10/27: Rustによるサンプルのビルドの設定
-        - 2021/10/28: ベンチマークでも同じサンプルにしたくなったのでサンプルを修正
-    - [x] ベンチマーク in Rust
-        - 2021/10/29: 軽く録ってみたところ、Reference Typesを使った方がちょっと遅い。なんでか分からないが、とりあえずまぁそういう結果として公開するか...
-    - ベンチマーク in WAT
-        - 2021/10/30: どうせこのままだとWATでやっても遅いだろうし、止めておこう
-    - [x] ベンチマーク in JS
-        - 2021/10/30: サクッと書いた。あとはディレクトリー構成を見直してpush、かなー
     - [ ] 本文
-        - 2021/10/30: これもまぁまぁ前進
 - [ ] Haskell Day 2021
 - [ ] タイプセーフプリキュア
 - [ ] sydtestへIssue・PR
     - [ ] `--system-ghc`
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
-        - 2021/10/25: ちょっとだけ
-        - 2021/10/31: わずかに進めてここまでの修正をpush
-            - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/6d24b6fc54c3536047a0fec98f8a7121c05cf9b6>
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/10/25 - 2021/10/31
     - The Implementation of Functional Programming Languages
         - 後回し
 
@@ -49,4 +35,4 @@
     - [ ] 現在のcabal・stackの仕様を調査
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/6f5a5808fe9059ecb9680cba265ff96b494aefb1/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/d29bc7b87b874dc243c100d6d24cf29aaaa54f8b/yesterday.md)
