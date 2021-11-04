@@ -3,6 +3,7 @@
 - [ ] その他: WebAssembly Reference Typeの記事
     - [ ] 本文
         - 2021/11/01 - 2021/11/03: 少しずつ執筆
+        - 2021/11/04: ベンチマークの章にようやくたどり着いたのでサンプルプロジェクトを整理
 - [ ] Haskell Day 2021
 - [ ] タイプセーフプリキュア
 - [ ] sydtestへIssue・PR
@@ -11,7 +12,7 @@
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/11/01 - 2021/11/03
+        - 2021/11/01 - 2021/11/04
     - The Implementation of Functional Programming Languages
         - 後回し
 
