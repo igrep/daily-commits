@@ -4,6 +4,7 @@
     - [ ] 本文
         - 2021/11/01 - 2021/11/03: 少しずつ執筆
         - 2021/11/04 - 2021/11/05: ベンチマークの章にようやくたどり着いたのでサンプルプロジェクトを整理
+        - 2021/11/07: ちょっとだけ
 - [ ] Haskell Day 2021
 - [x] タイプセーフプリキュア
     - 2021/11/06: やっとキュアラメールをサポートできた: <https://github.com/igrep/typesafe-precure/pull/51>
@@ -13,7 +14,7 @@
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/11/01 - 2021/11/06
+        - 2021/11/01 - 2021/11/07
     - The Implementation of Functional Programming Languages
         - 後回し
 
