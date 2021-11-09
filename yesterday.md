@@ -2,7 +2,7 @@
 
 - [ ] その他: WebAssembly Reference Typeの記事
     - [ ] 本文
-        - 2021/11/08: ベンチマークの結果を記述
+        - 2021/11/08 - 2021/11/09: ベンチマークの結果を記述
 - [ ] [slack-webのAPI関数の型](https://github.com/jpvillaisaza/slack-web/issues/90)
 - [ ] sydtestへIssue・PR
     - [ ] `--system-ghc`
@@ -10,7 +10,7 @@
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/11/08
+        - 2021/11/08 - 2021/11/09
     - The Implementation of Functional Programming Languages
         - 後回し
 
