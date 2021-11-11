@@ -4,14 +4,16 @@
     - [ ] 本文
         - 2021/11/08 - 2021/11/09: ベンチマークの結果を記述
         - 2021/11/10: まだベンチマークをとれてなかったEdgeでとって、よく考えたらFolding@homeがつけっぱなしと条件がよろしくなかったので他のブラウザーも取り直した。
-- [ ] [slack-webのAPI関数の型](https://github.com/jpvillaisaza/slack-web/issues/90)
+        - 2021/11/11: 結論を書いてる途中で、やっぱりなぜReference Typesを使ったバージョンが遅いのか、Stack Overflowで質問にすることにした。聞くところが合っているか心配だけど...
+- [ ] slack-webのAPI関数の型
+    - <https://github.com/jpvillaisaza/slack-web/issues/90>
 - [ ] sydtestへIssue・PR
     - [ ] `--system-ghc`
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/11/08 - 2021/11/10
+        - 2021/11/08 - 2021/11/11
     - The Implementation of Functional Programming Languages
         - 後回し
 
