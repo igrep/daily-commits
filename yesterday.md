@@ -5,6 +5,9 @@
         - 2021/11/08 - 2021/11/09: ベンチマークの結果を記述
         - 2021/11/10: まだベンチマークをとれてなかったEdgeでとって、よく考えたらFolding@homeがつけっぱなしと条件がよろしくなかったので他のブラウザーも取り直した。
         - 2021/11/11: 結論を書いてる途中で、やっぱりなぜReference Typesを使ったバージョンが遅いのか、Stack Overflowで質問にすることにした。聞くところが合っているか心配だけど...
+        - 2021/11/12:
+            - 質問書いた: <https://stackoverflow.com/questions/69943544/why-is-passing-dom-objects-as-exnternrefs-slower-than-passing-through-the-js>
+            - 後は結論書くだけ
 - [ ] slack-webのAPI関数の型
     - <https://github.com/jpvillaisaza/slack-web/issues/90>
 - [ ] sydtestへIssue・PR
@@ -13,7 +16,7 @@
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/11/08 - 2021/11/11
+        - 2021/11/08 - 2021/11/12
     - The Implementation of Functional Programming Languages
         - 後回し
 
