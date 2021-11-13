@@ -1,4 +1,4 @@
-# 2021/11/08 - 2021/11/15
+# 2021/11/08 - 2021/11/14
 
 - [ ] その他: WebAssembly Reference Typeの記事
     - [ ] 本文
@@ -8,6 +8,7 @@
         - 2021/11/12:
             - 質問書いた: <https://stackoverflow.com/questions/69943544/why-is-passing-dom-objects-as-exnternrefs-slower-than-passing-through-the-js>
             - 後は結論書くだけ
+        - 2021/11/13: 結論も書いた。明日か明後日読み返してから公開しよう
 - [ ] slack-webのAPI関数の型
     - <https://github.com/jpvillaisaza/slack-web/issues/90>
 - [ ] sydtestへIssue・PR
@@ -16,7 +17,7 @@
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/11/08 - 2021/11/12
+        - 2021/11/08 - 2021/11/13
     - The Implementation of Functional Programming Languages
         - 後回し
 
