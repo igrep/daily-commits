@@ -1,7 +1,7 @@
 # 2021/11/08 - 2021/11/14
 
-- [ ] その他: WebAssembly Reference Typeの記事
-    - [ ] 本文
+- [x] その他: WebAssembly Reference Typeの記事
+    - [x] 本文
         - 2021/11/08 - 2021/11/09: ベンチマークの結果を記述
         - 2021/11/10: まだベンチマークをとれてなかったEdgeでとって、よく考えたらFolding@homeがつけっぱなしと条件がよろしくなかったので他のブラウザーも取り直した。
         - 2021/11/11: 結論を書いてる途中で、やっぱりなぜReference Typesを使ったバージョンが遅いのか、Stack Overflowで質問にすることにした。聞くところが合っているか心配だけど...
@@ -15,9 +15,10 @@
     - [ ] `--system-ghc`
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
+        - ちょっとでも進めた: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/53a6c84fc3da34b2515a0879cd9e710ed7b2aec2>
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/11/08 - 2021/11/13
+        - 2021/11/08 - 2021/11/14
     - The Implementation of Functional Programming Languages
         - 後回し
 
