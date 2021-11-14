@@ -1,24 +1,12 @@
-# 2021/11/08 - 2021/11/14
+# 2021/11/15 - 2021/11/21
 
-- [x] その他: WebAssembly Reference Typeの記事
-    - [x] 本文
-        - 2021/11/08 - 2021/11/09: ベンチマークの結果を記述
-        - 2021/11/10: まだベンチマークをとれてなかったEdgeでとって、よく考えたらFolding@homeがつけっぱなしと条件がよろしくなかったので他のブラウザーも取り直した。
-        - 2021/11/11: 結論を書いてる途中で、やっぱりなぜReference Typesを使ったバージョンが遅いのか、Stack Overflowで質問にすることにした。聞くところが合っているか心配だけど...
-        - 2021/11/12:
-            - 質問書いた: <https://stackoverflow.com/questions/69943544/why-is-passing-dom-objects-as-exnternrefs-slower-than-passing-through-the-js>
-            - 後は結論書くだけ
-        - 2021/11/13: 結論も書いた。明日か明後日読み返してから公開しよう
+- [ ] ブログとQiitaに同時投稿するのをサポートするツール
 - [ ] slack-webのAPI関数の型
     - <https://github.com/jpvillaisaza/slack-web/issues/90>
-- [ ] sydtestへIssue・PR
-    - [ ] `--system-ghc`
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
-        - ちょっとでも進めた: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/53a6c84fc3da34b2515a0879cd9e710ed7b2aec2>
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/11/08 - 2021/11/14
     - The Implementation of Functional Programming Languages
         - 後回し
 
@@ -38,10 +26,9 @@
         - [ ] serialize/deserialize
         - [ ] document
     - [ ] 企画の実装
-- [ ] ブログとQiitaに同時投稿するのをサポートするツール
 - [ ] Yokohama.rbの問題 [103mask](http://nabetani.sakura.ne.jp/yokohamarb/103mask/)
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
     - [ ] 現在のcabal・stackの仕様を調査
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/f77951ed872179b31d7e9921029b0ff7fc6125b4/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/4d49ecae81a61dc64dedc28772c4343e71484c9a/yesterday.md)
