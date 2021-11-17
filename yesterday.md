@@ -3,13 +3,14 @@
 - [ ] ブログとQiitaに同時投稿するのをサポートするツール
     - 2021/11/15: 最後に放置された状態がとても半端なので、何をやりたかったのか思い出すところから
     - 2021/11/16: Preprocessor型の`Show`と`FromJSON`のインスタンス定義を概ね終えた。ちょっとオーバーエンジニアリング感が強いけど...
+    - 2021/11/17: 昨日最後に出遭った型エラーを修正
 - [ ] slack-webのAPI関数の型
     - <https://github.com/jpvillaisaza/slack-web/issues/90>
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/11/15 - 2021/11/16
+        - 2021/11/15 - 2021/11/17
     - The Implementation of Functional Programming Languages
         - 後回し
 
