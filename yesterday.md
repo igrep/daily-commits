@@ -10,6 +10,8 @@
     - <https://github.com/jpvillaisaza/slack-web/issues/90>
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
+        - 2021/11/20:
+            - `read`関数の話といくつか先の課題で紹介する`Maybe`や`Either`について触れておくところ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
         - 2021/11/15 - 2021/11/19
