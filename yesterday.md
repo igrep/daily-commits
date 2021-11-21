@@ -6,6 +6,7 @@
     - 2021/11/17: 昨日最後に出遭った型エラーを修正
     - 2021/11/18: 今日も少しだけ
     - 2021/11/19: `main`の修正
+    - 2021/11/20: `urlPlaceholder`周りの処理を再検討。Re型が`Show`や`FromJSON`じゃない問題をどうにかするためになんでもかんでも型に含めるの止めたいなぁ
 - [ ] slack-webのAPI関数の型
     - <https://github.com/jpvillaisaza/slack-web/issues/90>
 - Haskell入門コンテンツ:
