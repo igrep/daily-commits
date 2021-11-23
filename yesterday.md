@@ -4,12 +4,17 @@
     - 2021/11/22:
         - 思いのほか捗ってメタデータをYAMLとして読むバージョンが大体できた気がする（テスト全然書いてないけど）
         - ただ、YAMLとしてのパースをyamlパッケージに任せることにした結果、新規投稿したページのURLを置き換えるのがちょっと婉曲になってしまった。まぁ、今まで正規表現でやってたことを少しひねれば実用上は十分だろう
+    - 2021/11/23:
+        - 昨日気づいた不足分の修正
+        - preprocessor 機能のオプションを作ったけど実装ができてなかったので実装。
+        - 一通りできたはずだけどテストが落ちる
 - [ ] slack-webのAPI関数の型
     - <https://github.com/jpvillaisaza/slack-web/issues/90>
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2021/11/23
     - The Implementation of Functional Programming Languages
         - 後回し
 
