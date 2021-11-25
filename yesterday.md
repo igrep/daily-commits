@@ -9,13 +9,16 @@
         - preprocessor 機能のオプションを作ったけど実装ができてなかったので実装。
         - 一通りできたはずだけどテストが落ちる
     - 2021/11/24: テスト結果が見づらいのでHspecからSydTestに乗り換えている
+    - 2021/11/25:
+        - SydTestに乗り換えたけどあんまり結果見やすくない...
+        - パーサーのバグらしいので直した。またいくつかバグが見つかった
 - [ ] slack-webのAPI関数の型
     - <https://github.com/jpvillaisaza/slack-web/issues/90>
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/11/23 - 2021/11/24
+        - 2021/11/23 - 2021/11/25
     - The Implementation of Functional Programming Languages
         - 後回し
 
