@@ -15,13 +15,18 @@
     - 2021/11/26:
         - まだテスト直し。sydtestが失敗したexpectationの場所を教えてくれないのが不便ね。一つのテストに複数expectationを書くことを想定していないっぽい
     - 2021/11/27: ちょっとだけ。まだ残ったテスト失敗の原因は分からない
+    - 2021/11/28:
+        - テストケースの問題が一つ分かった。YAMLの仕様によって、キーがあっても中身が空の場合は空の文字列になるから、`Nothing`になってしまうのか。今後Zennなど複数のサービスをサポートすることを考えると、そもそも`canonical-url`の欄が空っぽの場合は想定しなくていいと思うしテストケース毎消そう
+        - 記事本文の先頭末尾の空白についての問題も修正。あとは昨日であったdiffが全く出ない謎のバグだけ...
+        - 全部直せた。スペース1個あるかないかの違いは辛い...
+        - 明日軽く見直してgit commit && git push
 - [ ] slack-webのAPI関数の型
     - <https://github.com/jpvillaisaza/slack-web/issues/90>
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/11/23 - 2021/11/27
+        - 2021/11/23 - 2021/11/28
     - The Implementation of Functional Programming Languages
         - 後回し
 
