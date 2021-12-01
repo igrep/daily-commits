@@ -8,6 +8,8 @@
             - 個人的には全部コマンドライン引数にしてしまいたいけど、設定ファイルに書いた方が使いやすそうだなぁ
                 - TOMLかYAMLにしようかなぁ
         - 2021/11/30: tomlandの採用に向けて型の修正。あとbarbiesも必要そうだ
+        - 2021/12/01: Qiitaのアクセストークンだけは環境変数から取得する必要がありそう。というわけでenvyも採用か
+            - というか他の項目も環境変数から使えた方がいいのか...
     - [ ] リリース
     - [ ] Advent Calendarの記事
     - [ ] Qrunchに書いていた記事をZennに
@@ -17,7 +19,7 @@
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/11/29 - 2021/11/30
+        - 2021/11/29 - 2021/12/01
     - The Implementation of Functional Programming Languages
         - 後回し
 
