@@ -1,8 +1,9 @@
-# 2021/12/06 - 2021/12/12
+# 2021/12/07 - 2021/12/12
 
 - [ ] ブログとQiitaに同時投稿するのをサポートするツール
     - [ ] Zennのサポート
-        - [ ] autodocodecの環境変数インタープリター作り開始
+        - [ ] autodocodecの環境変数インタープリター作り
+            - 2021/12/06: ちょっとだけ。直接環境変数に変換できない型が多いの悩ましいね
     - [ ] リリース
     - [ ] Advent Calendarの記事
     - [ ] Qrunchに書いていた記事をZennに
@@ -12,7 +13,7 @@
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/11/29 - 2021/12/06
+        - 2021/12/07
     - The Implementation of Functional Programming Languages
         - 後回し
 
