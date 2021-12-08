@@ -5,6 +5,7 @@
         - [ ] autodocodecの環境変数インタープリター作り
             - 2021/12/06: ちょっとだけ。直接環境変数に変換できない型が多いの悩ましいね
             - 2021/12/07: ちょっとだけ。対応する値コンストラクターが多い... 実装見ても分からないものは飛ばすのが吉か...
+            - 2021/12/08: やっぱちょっとautodocodeの設計的に難しい気がしてきたので別パッケージとして作るか...
     - [ ] リリース
     - [ ] Advent Calendarの記事
     - [ ] Qrunchに書いていた記事をZennに
@@ -14,7 +15,7 @@
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/12/06 - 2021/12/07
+        - 2021/12/06 - 2021/12/08
     - The Implementation of Functional Programming Languages
         - 後回し
 
