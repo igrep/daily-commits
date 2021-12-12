@@ -1,14 +1,8 @@
-# 2021/12/07 - 2021/12/12
+# 2021/12/13 - 2021/12/19
 
 - [ ] ブログとQiitaに同時投稿するのをサポートするツール
     - [ ] Zennのサポート
-        - [ ] autodocodecの環境変数インタープリター作り
-            - 2021/12/06: ちょっとだけ。直接環境変数に変換できない型が多いの悩ましいね
-            - 2021/12/07: ちょっとだけ。対応する値コンストラクターが多い... 実装見ても分からないものは飛ばすのが吉か...
-            - 2021/12/08: やっぱちょっとautodocodeの設計的に難しい気がしてきたので別パッケージとして作るか...
-            - 2021/12/09 - 2021/12/10: 別パッケージをちょっとだけ
-            - 2021/12/11: 別パッケージだいぶできた。いいものになりそう。
-            - 2021/12/12: テスト書けた。実装もまぁまぁ進んだ。全部は終わらなかったけど
+        - [ ] envparse-applicative
     - [ ] リリース
     - [ ] Advent Calendarの記事
     - [ ] Qrunchに書いていた記事をZennに
@@ -18,7 +12,6 @@
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/12/06 - 2021/12/12
     - The Implementation of Functional Programming Languages
         - 後回し
 
@@ -43,4 +36,4 @@
     - [ ] 現在のcabal・stackの仕様を調査
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/74d0c87dda68faed85ed6752a54ee11c3e2e8255/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/0288f7db2845f42eeb31a926c374965dd8f8b2c8/yesterday.md)
