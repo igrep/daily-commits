@@ -3,7 +3,7 @@
 - [ ] ブログとQiitaに同時投稿するのをサポートするツール
     - [ ] Zennのサポート
         - [ ] envparse-applicative
-            - 2021/12/13: デフォルトの.envを出力する処理の実装中
+            - 2021/12/13 - 2021/12/14: デフォルトの.envを出力する処理の実装中。ちょっと設計ミスに気づいたけど、もう直すのも面倒ね...
     - [ ] リリース
     - [ ] Advent Calendarの記事
     - [ ] Qrunchに書いていた記事をZennに
@@ -13,7 +13,7 @@
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/12/13
+        - 2021/12/13 - 2021/12/14
     - The Implementation of Functional Programming Languages
         - 後回し
 
