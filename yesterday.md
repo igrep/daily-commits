@@ -4,6 +4,7 @@
     - [ ] Zennのサポート
         - [ ] envparse-applicative
             - 2021/12/13 - 2021/12/14: デフォルトの.envを出力する処理の実装中。ちょっと設計ミスに気づいたけど、もう直すのも面倒ね...。case insensitiveか否かを格納する型を間違えたと思う。まぁ今のところ使わない機能だろうしなぁ
+            - 2021/12/15: テストが全部通った！昨日発覚した問題はとりあえず後回しで！
     - [ ] リリース
     - [ ] Advent Calendarの記事
     - [ ] Qrunchに書いていた記事をZennに
@@ -13,7 +14,7 @@
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/12/13 - 2021/12/14
+        - 2021/12/13 - 2021/12/15
     - The Implementation of Functional Programming Languages
         - 後回し
 
