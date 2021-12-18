@@ -7,6 +7,10 @@
             - 2021/12/15: テストが全部通った！昨日発覚した問題はとりあえず後回しで！
         - 2021/12/16: option parserが書けた。次は昨日作ったライブラリーで環境変数の処理とdotenvパッケージの導入かな
         - 2021/12/17: dotenvパッケージはなんか思ってたのと違う仕様っぽいので、代わりに以前使ってたload-envパッケージの使用を見越しつつ、`Env`型を修正したり
+        - 2021/12/18:
+            - `mainWith`関数の修正をしていたところ、`exitSuccess`を`MonadThrow`で使いたくなったのでパッケージを作った
+                - <https://hackage.haskell.org/package/monad-throw-exit>
+            - `mainWith`関数の修正があらかた終わったっぽい（まだ肝心のZennのサポートができてない
     - [ ] リリース
     - [ ] Advent Calendarの記事
     - [ ] Qrunchに書いていた記事をZennに
@@ -16,7 +20,7 @@
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/12/13 - 2021/12/17
+        - 2021/12/13 - 2021/12/18
     - The Implementation of Functional Programming Languages
         - 後回し
 
