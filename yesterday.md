@@ -1,22 +1,8 @@
-# 2021/12/13 - 2021/12/19
+# 2021/12/20 - 2021/12/27
 
-- [ ] ブログとQiitaに同時投稿するのをサポートするツール
-    - [ ] Zennのサポート
-        - [x] envparse-applicative
-            - 2021/12/13 - 2021/12/14: デフォルトの.envを出力する処理の実装中。ちょっと設計ミスに気づいたけど、もう直すのも面倒ね...。case insensitiveか否かを格納する型を間違えたと思う。まぁ今のところ使わない機能だろうしなぁ
-            - 2021/12/15: テストが全部通った！昨日発覚した問題はとりあえず後回しで！
-        - 2021/12/16: option parserが書けた。次は昨日作ったライブラリーで環境変数の処理とdotenvパッケージの導入かな
-        - 2021/12/17: dotenvパッケージはなんか思ってたのと違う仕様っぽいので、代わりに以前使ってたload-envパッケージの使用を見越しつつ、`Env`型を修正したり
-        - 2021/12/18:
-            - `mainWith`関数の修正をしていたところ、`exitSuccess`を`MonadThrow`で使いたくなったのでパッケージを作った
-                - <https://hackage.haskell.org/package/monad-throw-exit>
-            - `mainWith`関数の修正があらかた終わったっぽい（まだ肝心のZennのサポートができてない
-        - 2021/12/19: 設定周りを環境変数に切り替える部分ができた。肝心のZennへのアップロード機能はちょっと間に合わなさそうね...。優先順位を間違えた。まぁ、リリースするつもりで作ってたから設定はコマンドライン引数より環境変数のほうがいいと思ったんだけどさ。一旦諦めてAdvent Calendarの記事に集中しましょう
-    - [ ] リリース
-    - [ ] Advent Calendarの記事
-        - [ ] Haskell (GHC)の構文における記号の調べ方
-        - [ ] 文字列型を抽象化する型クラスはmono-traversableがいいかも
-    - [ ] Qrunchに書いていた記事をZennに
+- [ ] Advent Calendarの記事
+    - [ ] Haskell (GHC)のおける記号の調べ方
+    - [ ] 文字列型を抽象化する型クラスはmono-traversableがいいかも
 - [ ] slack-webのAPI関数の型
     - <https://github.com/jpvillaisaza/slack-web/issues/90>
 - Haskell入門コンテンツ:
@@ -43,9 +29,13 @@
         - [ ] serialize/deserialize
         - [ ] document
     - [ ] 企画の実装
+- [ ] ブログとQiitaに同時投稿するのをサポートするツール
+    - [ ] Zennのサポート
+    - [ ] リリース
+    - [ ] Qrunchに書いていた記事をZennに
 - [ ] Yokohama.rbの問題 [103mask](http://nabetani.sakura.ne.jp/yokohamarb/103mask/)
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
     - [ ] 現在のcabal・stackの仕様を調査
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/0288f7db2845f42eeb31a926c374965dd8f8b2c8/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/243f15788a99a8e00efeba8f2c0eb496cca502c6/yesterday.md)
