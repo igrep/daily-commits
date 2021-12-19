@@ -11,8 +11,11 @@
             - `mainWith`関数の修正をしていたところ、`exitSuccess`を`MonadThrow`で使いたくなったのでパッケージを作った
                 - <https://hackage.haskell.org/package/monad-throw-exit>
             - `mainWith`関数の修正があらかた終わったっぽい（まだ肝心のZennのサポートができてない
+        - 2021/12/19: 設定周りを環境変数に切り替える部分ができた。肝心のZennへのアップロード機能はちょっと間に合わなさそうね...。優先順位を間違えた。まぁ、リリースするつもりで作ってたから設定はコマンドライン引数より環境変数のほうがいいと思ったんだけどさ。一旦諦めてAdvent Calendarの記事に集中しましょう
     - [ ] リリース
     - [ ] Advent Calendarの記事
+        - [ ] Haskell (GHC)の構文における記号の調べ方
+        - [ ] 文字列型を抽象化する型クラスはmono-traversableがいいかも
     - [ ] Qrunchに書いていた記事をZennに
 - [ ] slack-webのAPI関数の型
     - <https://github.com/jpvillaisaza/slack-web/issues/90>
@@ -20,7 +23,7 @@
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/12/13 - 2021/12/18
+        - 2021/12/13 - 2021/12/19
     - The Implementation of Functional Programming Languages
         - 後回し
 
