@@ -2,6 +2,7 @@
 
 - [ ] Advent Calendarの記事
     - [ ] Haskell (GHC)のおける記号の調べ方
+        - 2021/12/20: 一部書いた
     - [ ] 文字列型を抽象化する型クラスはmono-traversableがいいかも
 - [ ] slack-webのAPI関数の型
     - <https://github.com/jpvillaisaza/slack-web/issues/90>
