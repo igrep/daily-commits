@@ -3,6 +3,7 @@
 - [ ] Advent Calendarの記事
     - [ ] Haskell (GHC)のおける記号の調べ方
         - 2021/12/20: 一部書いた
+        - 2021/12/21: とりあえず書けた: <https://github.com/haskell-jp/blog/pull/212>
     - [ ] 文字列型を抽象化する型クラスはmono-traversableがいいかも
 - [ ] slack-webのAPI関数の型
     - <https://github.com/jpvillaisaza/slack-web/issues/90>
@@ -10,7 +11,7 @@
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/12/13 - 2021/12/19
+        - 2021/12/13 - 2021/12/20
     - The Implementation of Functional Programming Languages
         - 後回し
 
