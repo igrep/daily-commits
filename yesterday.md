@@ -8,13 +8,14 @@
     - [ ] 文字列型を抽象化する型クラスはmono-traversableがいいかも
         - 2021/12/22: 着手。どれだけ有効かを知るためにやっぱりでかい対応表を作ることにした。めんどい。事例紹介の前に力尽きそう
         - 2021/12/23: でかい対応表ができた
+        - 2021/12/24: できた。軽い誤字などの修正
 - [ ] slack-webのAPI関数の型
     - <https://github.com/jpvillaisaza/slack-web/issues/90>
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/12/13 - 2021/12/23
+        - 2021/12/20 - 2021/12/24
     - The Implementation of Functional Programming Languages
         - 後回し
 
