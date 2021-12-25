@@ -1,11 +1,12 @@
 # 2021/12/20 - 2021/12/27
 
-- [ ] Advent Calendarの記事
-    - [ ] Haskell (GHC)のおける記号の調べ方
+- [x] Advent Calendarの記事
+    - 2021/12/25: 共に公開
+    - [x] Haskell (GHC)のおける記号の調べ方
         - 2021/12/20: 一部書いた
         - 2021/12/21: とりあえず書けた: <https://github.com/haskell-jp/blog/pull/212>
         - 2021/12/22: matsubaraくんの助けもありtypoなど修正
-    - [ ] 文字列型を抽象化する型クラスはmono-traversableがいいかも
+    - [x] 文字列型を抽象化する型クラスはmono-traversableがいいかも
         - 2021/12/22: 着手。どれだけ有効かを知るためにやっぱりでかい対応表を作ることにした。めんどい。事例紹介の前に力尽きそう
         - 2021/12/23: でかい対応表ができた
         - 2021/12/24: できた。軽い誤字などの修正
@@ -15,7 +16,7 @@
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/12/20 - 2021/12/24
+        - 2021/12/20 - 2021/12/25
     - The Implementation of Functional Programming Languages
         - 後回し
 
