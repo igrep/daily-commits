@@ -1,4 +1,4 @@
-# 2021/12/20 - 2021/12/27
+# 2021/12/20 - 2021/12/26
 
 - [x] Advent Calendarの記事
     - 2021/12/25: 共に公開
@@ -16,7 +16,7 @@
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/12/20 - 2021/12/25
+        - 2021/12/20 - 2021/12/26
     - The Implementation of Functional Programming Languages
         - 後回し
 
