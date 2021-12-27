@@ -1,8 +1,10 @@
 # 2021/12/27 - 2022/01/02
 
 - [ ] Qwik試す。気が向いたら記事を書く
+    - 2021/12/27: ちょっと試すも早くも改善した方が良さそうな箇所が。一つは<https://github.com/BuilderIO/qwik/pull/120>で直りそうだけど
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2021/12/27
     - The Implementation of Functional Programming Languages
         - 後回し
 
