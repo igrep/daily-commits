@@ -4,9 +4,10 @@
     - 2021/12/27: ちょっと試すも早くも改善した方が良さそうな箇所が。一つは<https://github.com/BuilderIO/qwik/pull/120>で直りそうだけど
     - 2021/12/28: 手元で<https://github.com/BuilderIO/qwik/pull/120>を直して実行するも、今度は<https://github.com/BuilderIO/qwik/issues/108>にぶち当たる。根が深そう。`qHook`の引数を変換するべきところでできてない感じかなぁ。でもPlaygroundの結果を見た感じ、やっぱり`qHook`の引数は関数のままだ。もしかしたら、SSR用サーバー向けに変換する処理が足りてないのだろうか。rollupプラグインの設定がおかしい？
     - 2021/12/29: Pull request送った <https://github.com/BuilderIO/qwik/pull/124>。あっさりマージしてもらえた
+    - 2021/12/30: 大分コードを掘ってみたけど原因不明。`qwik.exe`から実行したときは問題ないっぽいけどrollupプラグインで実行したときは再現する。Rustの部分にコードを入れて手元のプロジェクトで動かす方法が分かったのでもうちょっと地道にやるかなぁ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/12/27 - 2021/12/29
+        - 2021/12/27 - 2021/12/30
     - The Implementation of Functional Programming Languages
         - 後回し
 
