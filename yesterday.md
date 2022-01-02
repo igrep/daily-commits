@@ -7,9 +7,10 @@
     - 2021/12/30: 大分コードを掘ってみたけど原因不明。`qwik.exe`から実行したときは問題ないっぽいけどrollupプラグインで実行したときは再現する。Rustの部分にコードを入れて手元のプロジェクトで動かす方法が分かったのでもうちょっと地道にやるかなぁ
     - 2021/12/31: 多分直せたはずなのでPull request送った <https://github.com/BuilderIO/qwik/pull/128>
     - 2021/01/01: <https://github.com/BuilderIO/qwik/issues/116>の直し方を検討しつつコードを読んでる
+    - 2022/01/02: 原因は分かった。直し方は色々ありそう <https://github.com/BuilderIO/qwik/issues/116#issuecomment-1003655493>
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2021/12/27 - 2021/01/01
+        - 2021/12/27 - 2021/01/02
     - The Implementation of Functional Programming Languages
         - 後回し
 
