@@ -18,8 +18,10 @@
     - <https://github.com/jpvillaisaza/slack-web/issues/90>
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
+        - 2022/01/03: ちょっとだけ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2022/01/03
 
 ------
 
