@@ -25,12 +25,16 @@
     - [ ] 企画の実装
 - [ ] slack-webのAPI関数の型
     - <https://github.com/jpvillaisaza/slack-web/issues/90>
+    - [x] Pull request送る
+        - 2022/01/09: Pull request送れた <https://github.com/jpvillaisaza/slack-web/pull/91>
+    - [ ] slack-logにも適用
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
         - 2022/01/03: ちょっとだけ
+        - 2022/01/09: `concatLines`関数の解説の大半が書けた。課題12もこれで9割くらい終わったかな。<https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/0b8ca66b79570e57692ffa9d65b60d7e055b554f>
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/01/03 - 2022/01/08
+        - 2022/01/03 - 2022/01/09
 
 ------
 
