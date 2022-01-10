@@ -21,6 +21,7 @@
     - [ ] 課題12の不足箇所を埋める
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2022/01/10
 
 ------
 
@@ -29,6 +30,10 @@
     - [ ] リリース
     - [ ] Qrunchに書いていた記事をZennに
 - [ ] Yokohama.rbの問題 [103mask](http://nabetani.sakura.ne.jp/yokohamarb/103mask/)
+    - 2022/01/10:
+        - traverseする処理が書けたものの、そこからpower setを組み立てる処理が思いのほかうまく行かず。やっぱりparent nodeを紐付けてちゃんと木を作るしかないのでは
+        - Nodeオブジェクト自身に辿ってきたノードにおける番号のリストを持たせて、一番深いノードに来たらyieldする、という実装にシャワー浴びてたら気づいた。うまくいくかな？
+    - [ ] Haskellでも書く
     - [ ] 記事も書く？
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
     - [ ] 現在のcabal・stackの仕様を調査
