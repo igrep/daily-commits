@@ -22,14 +22,15 @@
         - [ ] 初期位置のレイアウト
         - [ ] serialize/deserialize
     - [ ] 企画の実装
-- [ ] slack-webのAPI関数の型
+- [x] slack-webのAPI関数の型
     - <https://github.com/jpvillaisaza/slack-web/pull/91>
-    - [ ] slack-logにも適用
+        - 2022/01/16: CIのエラーを直してリリースした。ブログ書いたり、slack-logに適用したりとかしようと思ったけどやっぱめんどいしやめとく！
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
+        - 2022/01/16: 課題12の完成には至らず: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/1e414128dd905d40b5201154f45ac4d50219a3cd>
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/01/10 - 2022/01/15
+        - 2022/01/10 - 2022/01/16
 
 ------
 
