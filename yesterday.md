@@ -31,6 +31,7 @@
     - [ ] ブログ記事
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
+        - 2022/01/22: とりあえず書けた。来週見直してから完了としたい: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/45b209006c390d80c3b2f87eea5a30828ebad248>
 - [ ] Yokohama.rbの問題 [103mask](http://nabetani.sakura.ne.jp/yokohamarb/103mask/)
     - 欲が出るもので、もっと元の再帰を使ったpowersetを直接スタックを使った方法に翻訳することでシンプルにできないだろうか... という気がしてきた。
 - [ ] ブログとQiitaに同時投稿するのをサポートするツール
@@ -39,12 +40,13 @@
     - [ ] Qrunchに書いていた記事をZennに
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/01/17 - 2022/01/21
+        - 2022/01/17 - 2022/01/22
 
 ------
 
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
     - [ ] 現在のcabal・stackの仕様を調査
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
+- [ ] unicode-showのリファクタリング: <https://github.com/hspec/hspec/pull/588>
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/fd8cd5e4d60e09447cfcd76de34493d1f293abc6/yesterday.md)
