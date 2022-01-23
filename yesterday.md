@@ -28,4 +28,4 @@
     - [ ] リリース
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/943a0c42fd3be01abdf2ced7d210e65fcbc38da2/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/f52d29551e213d9aa401454addbecaed1bb2d0e4/yesterday.md)
