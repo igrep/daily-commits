@@ -12,11 +12,12 @@
     - [ ] ブログ記事
 - Haskell入門コンテンツ:
     - [ ] 課題12の不足箇所を埋める
-        - 2022/01/22: とりあえず書けた。来週見直してから完了としたい: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/45b209006c390d80c3b2f87eea5a30828ebad248>
 - [ ] べき集合を再帰なしで
+    - 2022/01/24: 昨日思いついたアルゴリズムがちゃんとうまく行ってるっぽい。面白かったので他の実装と組み合わせてテストしつつ、記事にしよう
 - [ ] unicode-showのリファクタリング: <https://github.com/hspec/hspec/pull/588>
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2022/01/24
 
 ------
 
