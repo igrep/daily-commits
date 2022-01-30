@@ -25,7 +25,7 @@
 - [ ] unicode-showのリファクタリング: <https://github.com/hspec/hspec/pull/588>
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/01/24 - 2022/01/29
+        - 2022/01/24 - 2022/01/30
 
 ------
 
