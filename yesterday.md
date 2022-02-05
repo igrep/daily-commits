@@ -18,11 +18,13 @@
     - [ ] ブログ記事
 - Haskell入門コンテンツ:
     - [ ] 課題13の不足箇所を埋める
+        - 2022/02/05: 今日はここまで。大分課題13も手直しが必要そうね
+            - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/32de875b0b9ccadc35d6c80ff56db0645ab03f4b>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/01/31 - 2022/02/04
+        - 2022/01/31 - 2022/02/05
 
 ------
 
