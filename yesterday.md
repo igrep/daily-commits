@@ -6,6 +6,7 @@
     - 2022/02/02: よーく考えたら`foldr`なども根本では再帰呼び出しを使っているんだから、やっぱりこの記事はRubyで書いた方がいろいろやりやすいな
     - 2022/02/03: Rubyで書き直し。今書けているところまでは問題なく書き換えられたはず
     - 2022/02/04: 引き続きRubyで書き直し。今度こそ今書けているところまでは問題なく書き換えられたはず
+    - 2022/02/06: 全部書き切れたはず。明日見直して公開かな？
 - [ ] 週刊アスキーへの道
     - [ ] ライブラリーの実装
         - [ ] エッジの色・太さ
@@ -22,9 +23,10 @@
             - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/32de875b0b9ccadc35d6c80ff56db0645ab03f4b>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
     - cabalファイル内の（other-modulesも含む）すべてのモジュールを`:r`でリロードできる状態にする
+        - ひたすらcabalやstackの、主にcabalのソースを読んでよさげな方法を調べていた。大分分かったのでtypesafe-precureのディレクトリーにメモを書いた
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/01/31 - 2022/02/05
+        - 2022/01/31 - 2022/02/06
 
 ------
 
