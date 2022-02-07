@@ -1,6 +1,7 @@
 # 2022/02/07 - 2022/02/13
 
-- [ ] べき集合を再帰なしで
+- [x] べき集合を再帰なしで
+    - 2022/02/07: 軽く手直しして公開: <https://zenn.dev/igrep/articles/2022-02-powersets>
 - [ ] 週刊アスキーへの道
     - [ ] ライブラリーの実装
         - [ ] エッジの色・太さ
@@ -16,6 +17,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2022/02/07
 
 ------
 
