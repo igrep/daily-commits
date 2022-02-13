@@ -23,10 +23,12 @@
     - [ ] ブログ記事
 - Haskell入門コンテンツ:
     - [ ] 課題13の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/2e61e4372dd43ab76bb347121c72c047cdde37bc>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
+    - cabal repl上でテストを実行しつつ実装を編集したら:reloadで再読み込みできるようなghci scriptを書けた。エッジケースを考えたらまだ考慮するべきことはあるかも知れないけど、これ参考に組んでみるか。
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/02/07 - 2022/02/12
+        - 2022/02/07 - 2022/02/13
 
 ------
 
