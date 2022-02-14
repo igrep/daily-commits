@@ -3,6 +3,7 @@
 - [ ] 週刊アスキーへの道
     - [ ] ライブラリーの実装
         - [ ] ノードのパラメーター: 定数ノードの設定方法など
+            - 2022/02/14: 当初の設計から微修正、サンプルに定数vertonを追加
         - [ ] 初期位置のレイアウト
         - [ ] serialize/deserialize
     - [ ] 企画の実装
@@ -12,6 +13,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2022/02/14
 
 ------
 
