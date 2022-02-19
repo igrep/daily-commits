@@ -11,6 +11,10 @@
             - 2022/02/18: できた
         - [ ] serialize/deserialize
             - 2022/02/18: 必要そうな関数を列挙
+            - 2022/02/19: 進んではいるが、いくつか問題が:
+                - vertexIdの割り当てロジックを見直さないといけないね...
+                - plugとjackは、要素の状態から直接復元できない。もう面倒くさいしconfigとposition以外の値を全部JSONにしてdata attributeに突っ込んじゃおうかなぁ
+                - ともあれ、vertexのシリアライズができた
     - [ ] 企画の実装
     - [ ] ブログ記事
 - Haskell入門コンテンツ:
@@ -18,7 +22,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/02/14 - 2022/02/18
+        - 2022/02/14 - 2022/02/19
 
 ------
 
