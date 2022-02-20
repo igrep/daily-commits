@@ -19,10 +19,13 @@
     - [ ] ブログ記事
 - Haskell入門コンテンツ:
     - [ ] 課題13の不足箇所を埋める
+        - 2022/02/20:
+            - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/8119a934f3b1875da89b031c730867d5c5186e01>
+            - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/0a2e83b2109663d274439eba01b178e087483282>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/02/14 - 2022/02/19
+        - 2022/02/14 - 2022/02/20
 
 ------
 
