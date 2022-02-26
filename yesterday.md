@@ -13,10 +13,16 @@
     - [ ] ブログ記事
 - Haskell入門コンテンツ:
     - [ ] 課題13の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/30421cba6f4e87dad102cae12d441b825eb67406>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
+    - 2022/02/26: summonerでプロジェクトを作るところと少しやった。
+        - summonerはどうやら開発止まってて、新しいGHCのことを考慮してないっぽいのがつらい
+        - cabal-installのライブラリーはなんと公開されてないらしい... <https://github.com/haskell/cabal/blob/master/cabal-install/cabal-install.cabal> だけ読んでたらそうでもなさそうなのに
+            - なるほど。次期バージョンでは公開予定、と。 <https://twitter.com/viercc/status/1497546578605019147>
+        - 用途を考えたらなるべく古いバージョンのGHCをサポートした方が良さそうなので、とりあえず開発はGHC 8.6.5で行うことに。ghcup list曰く、hls-poweredな最も古いバージョンなので
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/02/21 - 2022/02/25
+        - 2022/02/21 - 2022/02/26
 
 ------
 
