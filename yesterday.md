@@ -1,10 +1,12 @@
 # 2022/02/28 - 2022/03/06
 
 - [ ] 週刊アスキーへの道
-    - [ ] ライブラリーの実装
-        - [ ] serialize/deserialize
+    - [x] ライブラリーの実装
+        - [x] serialize/deserialize
             - 2022/02/28: テストの問題は`customElements.define`が抜けている以外にもあったが、とりあえず通せた。後は実装をいじってわざと落としてみるのをいくつか試そうか
-        - [ ] jackId/plugId/config keyのvalidation
+        - [x] jackId/plugId/config keyのvalidation
+            - 2022/03/01: 実装できた。厳密にやるならquerySelectorする直前が好ましいけど、まぁvertexを作るときだけでいいや。最悪破られても大きな問題ではないし
+    - [ ] repositoryのrename
     - [ ] 企画の実装
     - [ ] ブログ記事
 - Haskell入門コンテンツ:
@@ -13,7 +15,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/02/28
+        - 2022/02/28 - 2022/03/01
 
 ------
 
