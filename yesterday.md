@@ -9,6 +9,8 @@
     - [ ] 企画の実装
         - 2022/03/02: 投稿を諦めるまでに実装した分をコピーしたり読み返したりしたところ、思った以上に進んでなかった。まぁとりあえず必要なvertonを考えてメニューの各種ボタンのハンドラーを実装かなぁ
             - もっと作り直したコードがあった気がするんだけど、どこにやってしまったんだろう。気のせいか。
+        - [ ] メニューのデザイン
+            - 2022/03/03: submenu作りがめんどい。<https://codepen.io/antoniputra/pen/BzyWmb?editors=1100>を参考にするべくDevToolsでいじってた
     - [ ] umdからES Moduleへ
     - [ ] repositoryのrename
     - [ ] ブログ記事
@@ -18,7 +20,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/02/28 - 2022/03/02
+        - 2022/02/28 - 2022/03/03
 
 ------
 
