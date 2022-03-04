@@ -11,6 +11,7 @@
             - もっと作り直したコードがあった気がするんだけど、どこにやってしまったんだろう。気のせいか。
         - [ ] メニューのデザイン
             - 2022/03/03: submenu作りがめんどい。<https://codepen.io/antoniputra/pen/BzyWmb?editors=1100>を参考にするべくDevToolsでいじってた
+            - 2022/03/04: submenuの表示ができた。細かい色づけは明日！
     - [ ] umdからES Moduleへ
     - [ ] repositoryのrename
     - [ ] ブログ記事
@@ -20,7 +21,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/02/28 - 2022/03/03
+        - 2022/02/28 - 2022/03/04
 
 ------
 
