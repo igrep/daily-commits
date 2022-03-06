@@ -13,16 +13,27 @@
             - 2022/03/03: submenu作りがめんどい。<https://codepen.io/antoniputra/pen/BzyWmb?editors=1100>を参考にするべくDevToolsでいじってた
             - 2022/03/04: submenuの表示ができた。細かい色づけは明日！
             - 2022/03/05: CSSと格闘してたら遅くなっちゃった。でも満足のいくできになった
+            - 2022/03/06: メニュー、まだおかしな箇所があったので修正
+        - 2022/03/06: メニューのボタンをクリックしたときのハンドラーを実装開始。作ったvertexをどこに置くか迷う
+            - 簡単なものとして、こんなアルゴリズムでどうだろうか:
+                1. 初期値は(0, 0)
+                2. 現在配置されているvertexの中で、重ならない位置を見つける
+                    1. p <- 最も離れたノード(X, Y)間の中点
+                    2. p +- N に他のノードがいれば、そのノードとXかYとの中点を求める
+                    3. 以下繰り返し
+            - 今書き始めてみた感じ、ぴったりそういうアルゴリズムにはならなさそうだけどとにかく被りにくいものにはなりそう
+                - すごく真面目にやるなら区間木みたいなデータ構造がいるんでしょうけど、データ数も大したことないだろうし気にしない方向で！
     - [ ] umdからES Moduleへ
     - [ ] repositoryのrename
     - [ ] ブログ記事
 - Haskell入門コンテンツ:
-    - [ ] 課題13の不足箇所を埋める
-        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/30421cba6f4e87dad102cae12d441b825eb67406>
+    - [x] 課題13の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/4cb747fce654cf19fc19d424814a5fcebf589364>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
+    - 2022/03/06: cabal.projectの書き方に思いのほか苦戦して、やっと依存関係のビルドができたところ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/02/28 - 2022/03/05
+        - 2022/02/28 - 2022/03/06
 
 ------
 
