@@ -1,6 +1,7 @@
 # 2022/03/07 - 2022/03/13
 
 - [ ] 週刊アスキーへの道
+    - 2022/03/07: 新しいノードの追加位置を決めるアルゴリズムの実装を少し進めた。そんなに速度が重要でもないし複雑にしたくもないので早く仕上げよ！
     - [ ] umdからES Moduleへ
     - [ ] repositoryのrename
     - [ ] ブログ記事
@@ -9,6 +10,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2022/03/07
 
 ------
 
