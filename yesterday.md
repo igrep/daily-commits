@@ -11,14 +11,17 @@
     - [ ] ブログ記事
 - Haskell入門コンテンツ:
     - [ ] 課題14の不足箇所を埋める
+        - [ ] Dockerで動作確認できる環境を組み立てる
+        - 2022/03/13: ちょっとだけ <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/05149eae4736c6cbbf9cd9b23bcc590b17b48808>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/03/07 - 2022/03/12
+        - 2022/03/07 - 2022/03/13
 
 ------
 
 - [ ] unicode-showのリファクタリング: <https://github.com/hspec/hspec/pull/588>
+    - 2022/03/13: 概ねできたが、最後のケースで組み合わせ爆発が起きてしまうのか、テストが終わらない。ReadPを使わず他のパーサーコンビネーターを使うしかないんじゃなかろうか...
 - [ ] ブログとQiitaに同時投稿するのをサポートするツール
     - [ ] Zennのサポート
     - [ ] リリース
