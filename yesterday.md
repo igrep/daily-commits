@@ -1,6 +1,7 @@
 # 2022/03/14 - 2022/03/20
 
 - [ ] 週刊アスキーへの道
+    - 2022/03/14: 先週の、座標系が変わったことに伴う問題に対応
     - [ ] umdからES Moduleへ
     - [ ] repositoryのrename
     - [ ] ブログ記事
@@ -11,6 +12,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2022/03/14
 
 ------
 
