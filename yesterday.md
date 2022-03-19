@@ -19,7 +19,9 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/03/14 - 2022/03/18
+        - 2022/03/14 - 2022/03/19
+- その他:
+    - [x] [【LT残1枠！】ラクスR&D Meetup - CSSフレームワーク](https://rakus.connpass.com/event/238388/)での資料作成
 
 ------
 
