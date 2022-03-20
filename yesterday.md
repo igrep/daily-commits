@@ -9,17 +9,23 @@
         - 2022/03/16: 修正
     - 2022/03/17: 必要そうなvertexを追加するボタンを一通り作った
     - 2022/03/18: 保存と再開に使うボタンを作っていなかったので作った。ハンドラーはまだ。
+    - 2022/03/20:
+        - 保存と再開処理の実装
+        - いよいよ実行ボタンの実装にあたって、とりあえずstageを表示させてみたが、どう表示させるのが良いものか
+            - やはり原典のUIを参考に考え直そうか。メニューの一覧を全部切り替えるのがいいと思う
     - [ ] umdからES Moduleへ
     - [ ] repositoryのrename
     - [ ] ブログ記事
 - Haskell入門コンテンツ:
-    - [ ] 課題14の不足箇所を埋める
+    - [x] 課題14の不足箇所を埋める
+        - 2022/03/20: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/de901b300ac3f2244c8373fd73f79af7a7013d58>
         - [ ] Dockerで動作確認できる環境を組み立てる
 - [ ] unicode-showのリファクタリング: <https://github.com/hspec/hspec/pull/588>
+    - 2022/03/20: <https://github.com/haskell-jp/unicode-show/pull/9>までできたが、古いGHCでバグる。もうサポートしたくない！
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/03/14 - 2022/03/19
+        - 2022/03/14 - 2022/03/20
 - その他:
     - [x] [【LT残1枠！】ラクスR&D Meetup - CSSフレームワーク](https://rakus.connpass.com/event/238388/)での資料作成
 
