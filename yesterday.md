@@ -1,33 +1,16 @@
-# 2022/03/14 - 2022/03/20
+# 2022/03/21 - 2022/03/27
 
 - [ ] 週刊アスキーへの道
-    - 2022/03/14: 先週の、座標系が変わったことに伴う問題に対応
-    - 2022/03/15: menuのハンドリングを少し最適化し、`addEventListener`の回数を減らした
-    - [x] Bug: vertex追加時の自動位置調整がうまく行ってない模様
-        - 2022/03/16: 修正。思ったよりかっこいい位置に配置されないけどまぁいいか
-    - [x] Bug: そういえば削除ボタンが表示されなくなってしまった
-        - 2022/03/16: 修正
-    - 2022/03/17: 必要そうなvertexを追加するボタンを一通り作った
-    - 2022/03/18: 保存と再開に使うボタンを作っていなかったので作った。ハンドラーはまだ。
-    - 2022/03/20:
-        - 保存と再開処理の実装
-        - いよいよ実行ボタンの実装にあたって、とりあえずstageを表示させてみたが、どう表示させるのが良いものか
-            - やはり原典のUIを参考に考え直そうか。メニューの一覧を全部切り替えるのがいいと思う
     - [ ] umdからES Moduleへ
     - [ ] repositoryのrename
     - [ ] ブログ記事
 - Haskell入門コンテンツ:
-    - [x] 課題14の不足箇所を埋める
-        - 2022/03/20: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/de901b300ac3f2244c8373fd73f79af7a7013d58>
+    - [ ] 課題14の不足箇所を埋める
         - [ ] Dockerで動作確認できる環境を組み立てる
 - [ ] unicode-showのリファクタリング: <https://github.com/hspec/hspec/pull/588>
-    - 2022/03/20: <https://github.com/haskell-jp/unicode-show/pull/9>までできたが、古いGHCでバグる。もうサポートしたくない！
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/03/14 - 2022/03/20
-- その他:
-    - [x] [【LT残1枠！】ラクスR&D Meetup - CSSフレームワーク](https://rakus.connpass.com/event/238388/)での資料作成
 
 ------
 
@@ -36,4 +19,4 @@
     - [ ] リリース
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/7b3d47e5be1b68610e07b362782b008990c28da0/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/f146f17a3801163b6ee6d707b87c7658df897a9b/yesterday.md)
