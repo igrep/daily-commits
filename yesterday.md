@@ -2,6 +2,7 @@
 
 - [ ] 週刊アスキーへの道
     - 2022/03/21: UIの参考にするためにスクショ撮っただけ。元ネタと現状を比較するに、プレイするボタンは一番左側にして、stageを出しているときはreplayとstopを左側に出す、というのが一貫してていいかも
+    - 2022/03/22: stageを出しているときのmenu作り
     - [ ] umdからES Moduleへ
     - [ ] repositoryのrename
     - [ ] ブログ記事
@@ -12,7 +13,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/03/21
+        - 2022/03/21 - 2022/03/22
 
 ------
 
