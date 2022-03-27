@@ -17,7 +17,8 @@
         - 2022/03/27: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/67102bebfec2805d51ef60064535c5f661f890d9>
         - [x] Dockerで動作確認できる環境を組み立てる
             - 2022/03/27: できた。また月曜日に買ったSSDがうまく動かなかったりして苦戦した
-- [ ] unicode-showのリファクタリング: <https://github.com/hspec/hspec/pull/588>
+- [x] unicode-showのリファクタリング: <https://github.com/hspec/hspec/pull/588>
+    - 2022/03/27: 完了。新しいバージョンのリリースができた
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
