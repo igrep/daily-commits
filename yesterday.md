@@ -2,8 +2,9 @@
 
 - [ ] 週刊アスキーへの道
     - 2022/03/28: vertexを評価するにあたっての前処理ができた
-    - 2022/03/29 - 2022/03/30: vertexの評価処理の実装
+    - 2022/03/29 - 2022/03/31: vertexの評価処理の実装
         - [ ] 複数のplugが刺さっているjackの値はどうなるか実機で確認
+        - [ ] reeditとreplayボタンの素材を探す、あるいは自前でトレース
     - [ ] umdからES Moduleへ
     - [ ] repositoryのrename
     - [ ] ブログ記事
@@ -12,7 +13,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/03/28 - 2022/03/30
+        - 2022/03/28 - 2022/03/31
 
 ------
 
