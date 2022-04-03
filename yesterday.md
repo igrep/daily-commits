@@ -11,11 +11,15 @@
     - [ ] repositoryのrename
     - [ ] ブログ記事
 - Haskell入門コンテンツ:
-    - [ ] 課題14の不足箇所を埋める
+    - [x] 課題14の不足箇所を埋める
+        - 2022/04/03:
+            - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/7c3fdcf5efad786a626ca748661667f43fc1917b>
+            - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/43c9e98e6e0880ccd57aa4c37eb46e6425dcf909>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
+    - 2022/04/03: 必要なディレクトリーの情報を取得する方法を調べてる
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/03/28 - 2022/04/02
+        - 2022/03/28 - 2022/04/03
 
 ------
 
