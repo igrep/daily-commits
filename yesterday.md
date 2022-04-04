@@ -12,6 +12,7 @@
     - 2022/04/03: 必要なディレクトリーの情報を取得する方法を調べてる
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2022/04/04
 
 ------
 
