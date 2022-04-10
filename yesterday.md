@@ -39,11 +39,12 @@
     - [ ] ブログ記事
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
+        - [ ] 今日はこれだけ: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/29cfc7d4c5344cd3b2b9840fe60e6c35c07d56cf>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
-    - 2022/04/03: 必要なディレクトリーの情報を取得する方法を調べてる
+    - 2022/04/10: 必要なディレクトリーの情報を取得する方法をまだ調べてる。やっぱ人に聞いた方が早くないかこれ。自分で調べるのも楽しいからやるけどさ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/04/04 - 2022/04/08
+        - 2022/04/04 - 2022/04/10
 
 
 ------
