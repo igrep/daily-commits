@@ -50,12 +50,15 @@
     - [ ] umdからES Moduleへ
     - [ ] repositoryのrename
     - [ ] ブログ記事
+- custard:
+    - [ ] とりあえず <https://github.com/kanaka/mal> をTypeScriptでやる
+        - 2022/04/16: 今日は開発環境のセットアップまで。malはあくまで参考にする程度ね！
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/04/11 - 2022/04/15
+        - 2022/04/11 - 2022/04/16
 
 
 ------
