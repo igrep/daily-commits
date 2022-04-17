@@ -55,10 +55,12 @@
         - 2022/04/16: 今日は開発環境のセットアップまで。malはあくまで参考にする程度ね！
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
+        - 短いが今回はここまで <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/e96817750322a99f0a040f76f46a3417ec5334cf>
+        - [ ] 課題13の`getArgs`に例を追加
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/04/11 - 2022/04/16
+        - 2022/04/11 - 2022/04/17
 
 
 ------
