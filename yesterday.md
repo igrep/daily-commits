@@ -46,13 +46,16 @@
     - [ ] ブログ記事
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> をTypeScriptでやる
+        - 2022/04/23: step0を簡単に終えた。readline/promisesが現状の@types/nodeで利用できなくて手こずった
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
-        - [ ] 課題13の`getArgs`に例を追加
+        - [x] 課題13の`getArgs`に例を追加
+            - 2022/04/23: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/08f2e4bb4909b1a800f79464ebad9dfff550a1ed>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
+    - 2022/04/23: `replAction`関数がどうやって`ghc --interactive`を呼んでいるのか調査
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/04/18 - 2022/04/22
+        - 2022/04/18 - 2022/04/23
 
 ------
 
