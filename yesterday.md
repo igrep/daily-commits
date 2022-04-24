@@ -1,24 +1,6 @@
-# 2022/04/18 - 2022/04/24
+# 2022/04/25 - 2022/05/01
 
 - [ ] 週刊アスキーへの道
-    - 仕様変更
-        - [x] クリック: clickイベントで1を伝播
-            - 2022/04/19: できたはず
-            - 2022/04/21: 他のplugも含め動かない。plugとjackが入れ替わってしまっている箇所があったので直したが、まだ動かない
-            - 2022/04/22: Graphが適切に初期化されていない箇所があったので直した。が、今度はNaNになってしまう
-            - 2022/04/24: plugの名前が修正し切れてなかった。
-        - [x] マウスカーソル: mousemoveの移動量。マウスのボタンを押している間だけか否かのオプションも
-            - スマホで動かすことも思うとpointermoveの方がよさそう
-                - 2022/04/19: あとは前回の位置と今回の位置を比較して差分を伝えるところだけのはず
-                - 2022/04/20: 修正できた。しかしやはり動くが余計に大きくなっているように見える
-                - 2022/04/22: どうやらx軸の移動がy軸にも（その逆も）伝わってしまっているらしい。だから想定より大きく動いているように見えるのだ。ざっと位置を設定している箇所を読んだ限り、特に問題はなさそうだけど...
-                - 2022/04/24:
-                    - 一昨日の推測は外れた模様。やはり単純に加速がかかっているように見える
-                    - よく見たらクリックvertexで繋いだ場合もワンクリックにつき2ピクセル動いている。jackValが2になっている！
-                    - 直せた。`getJackValue`関数での広い意味の型エラー（`newtype`で分けていれば気づけるやつ）だった
-            - [x] タイマー: 変化した量を伝えるのがよい
-                - 「時間の経過」にリネーム
-                    - 2022/04/24: できたっぽい。動きが速すぎて使いにくそうだけど...。
     - [ ] テスト用プログラムを書いてテスト
         - [ ] クリック
         - マウスの移動
@@ -53,24 +35,17 @@
     - [ ] ブログ記事
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> をTypeScriptでやる
-        - 2022/04/23: step0を簡単に終えた。readline/promisesが現状の@types/nodeで利用できなくて手こずった
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
-        - [x] 課題13の`getArgs`に例を追加
-            - 2022/04/23: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/08f2e4bb4909b1a800f79464ebad9dfff550a1ed>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
-    - 2022/04/23: `replAction`関数がどうやって`ghc --interactive`を呼んでいるのか調査
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/04/18 - 2022/04/24
 
 ------
 
-- [x] slack-log: <https://github.com/haskell-jp/slack-log/issues/60>
-    - 2022/04/20: 完成
 - [ ] ブログとQiitaに同時投稿するのをサポートするツール
     - [ ] Zennのサポート
     - [ ] リリース
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/1ac7edadb641fe841c020eff62f16d91f6e3de65/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/f7885b4326617cfb155ca6c749cc178f1e0eb00e/yesterday.md)
