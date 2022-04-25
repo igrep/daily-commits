@@ -29,6 +29,7 @@
         - [ ] 🖊
         - [ ] 🔁
     - [ ] すでにvertexを置いた状態で「再開」を押すとエラーが起こる。既存のvertexが消えない。親切なのはちゃんと削除するかどうか尋ねることだろうなぁ
+        - 2022/04/25: できたはず
     - [ ] reeditとreplayボタンの素材を探す、あるいは自前でトレース
     - [ ] umdからES Moduleへ
     - [ ] repositoryのrename
@@ -40,6 +41,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2022/04/25
 
 ------
 
