@@ -42,6 +42,8 @@
     - [ ] repositoryのrename
     - [ ] ブログ記事
         - [ ] 直さないバグ: garageがドキュメントのスクロール領域から外れると、エッジの描画される位置がおかしい
+- [ ] 記事
+    - 2022/04/29: 執筆開始
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> をTypeScriptでやる
 - Haskell入門コンテンツ:
@@ -49,7 +51,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/04/25 - 2022/04/27
+        - 2022/04/25 - 2022/04/28
 
 ------
 
