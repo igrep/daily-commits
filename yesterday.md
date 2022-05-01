@@ -49,10 +49,13 @@
         - step1 の構文定義をtsPEGでやってみた。テストはまだ。テストは何を使おうかね。Vitestがフロントエンドアプリ以外でも使えるなら試そう
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
+        - ちょっとだけ。こりゃ課題15は長くかかりそうね...
+            - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/4a51152ac6b623eb42420d33ff4d4e32750a1c88>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
+    - hie.yamlを設定したらcabalのソースコードでも定義ジャンプが使えるようになって捗るようになった。例のごとく昼寝が長くて探索自体はあまり進まなかったけど...
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/04/25 - 2022/04/30
+        - 2022/04/25 - 2022/05/01
 
 ------
 
