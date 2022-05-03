@@ -38,6 +38,7 @@
         - [ ] 直さないバグ: garageがドキュメントのスクロール領域から外れると、エッジの描画される位置がおかしい
 - [ ] 記事
     - 2022/05/02: 歴史の節を少し進めた
+    - 2022/05/03: 歴史と概要の節を埋めた。続きの節も割と
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> をTypeScriptでやる
 - Haskell入門コンテンツ:
@@ -45,7 +46,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/05/02
+        - 2022/05/02 - 2022/05/03
 
 ------
 
