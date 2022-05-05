@@ -39,6 +39,7 @@
 - [ ] 記事
     - 2022/05/02: 歴史の節を少し進めた
     - 2022/05/03: 歴史と概要の節を埋めた。続きの節も割と
+    - 2022/05/04: 「期待と現実」の節を3分の2くらい埋めたかな？
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> をTypeScriptでやる
 - Haskell入門コンテンツ:
@@ -46,7 +47,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/05/02 - 2022/05/03
+        - 2022/05/02 - 2022/05/04
 
 ------
 
