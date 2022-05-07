@@ -44,12 +44,17 @@
     - 2022/05/06: 使用例の節が埋まった。文字数がめっちゃ膨らんでしまった。
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> をTypeScriptでやる
+        - 2022/05/07: vitestとNodeのREPLで軽くparserを試してみたが、全然動かねぇ...。イマイチどういう規則なのかもわからないし、malのやり方を参考に作り直そうかな。別にtsPEG使うのは今回の目的じゃないし...
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
+        - 2022/05/07:
+            - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/5576a67ebc9df5263dd55308f34b6eca0855b6cc>
+            - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/8d68530dbdc2915631f98cc2742265a655fc1cc6>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
+    - 2022/05/07: やっと`cabal repl`が`ghc --interactive`を呼ぶまでの流れがわかった...
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/05/02 - 2022/05/06
+        - 2022/05/02 - 2022/05/07
 
 ------
 
