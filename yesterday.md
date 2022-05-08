@@ -1,5 +1,6 @@
-# 2022/05/02 - 2022/05/08
+# 2022/05/09 - 2022/05/15
 
+- [ ] 記事
 - [ ] 週刊アスキーへの道
     - [ ] テスト用プログラムを書いてテスト
         - [x] クリック
@@ -36,26 +37,13 @@
     - [ ] repositoryのrename
     - [ ] ブログ記事
         - [ ] 直さないバグ: garageがドキュメントのスクロール領域から外れると、エッジの描画される位置がおかしい
-- [ ] 記事
-    - 2022/05/02: 歴史の節を少し進めた
-    - 2022/05/03: 歴史と概要の節を埋めた。続きの節も割と
-    - 2022/05/04: 「期待と現実」の節を3分の2くらい埋めたかな？
-    - 2022/05/05: 「期待と現実」全部埋めた。使用例もボチボチ
-    - 2022/05/06: 使用例の節が埋まった。文字数がめっちゃ膨らんでしまった。
-    - 2022/05/08: wat2wasmの節が半分過ぎたくらいかな？
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> をTypeScriptでやる
-        - 2022/05/07: vitestとNodeのREPLで軽くparserを試してみたが、全然動かねぇ...。イマイチどういう規則なのかもわからないし、malのやり方を参考に作り直そうかな。別にtsPEG使うのは今回の目的じゃないし...
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
-        - 2022/05/07:
-            - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/5576a67ebc9df5263dd55308f34b6eca0855b6cc>
-            - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/8d68530dbdc2915631f98cc2742265a655fc1cc6>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
-    - 2022/05/07: やっと`cabal repl`が`ghc --interactive`を呼ぶまでの流れがわかった...
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/05/02 - 2022/05/08
 
 ------
 
@@ -64,4 +52,4 @@
     - [ ] リリース
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/f2934f06e64dbbd747b34a7a21368c222fc0317d/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/a6678e25983aec8752bc610f102804b50c5acf39/yesterday.md)
