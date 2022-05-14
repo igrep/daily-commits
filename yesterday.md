@@ -6,6 +6,10 @@
     - 2022/05/11: WATの節の書き直し完了
     - 2022/05/12: PyScript, Pyodideのビルドについて調査。やっぱりPyodideの方がドキュメントが豊富
     - 2022/05/13: Pyodideは独自のemsdkを使うからちょっと汎用性低いね。
+    - 2022/05/14:
+        - <https://jeromewu.github.io/build-ffmpeg-webassembly-version-part-1-preparation/> は思ってたより長いな。ffmpeg.wasmの開発者による記録らしい
+        - 悩んだけど、意外とフロントエンドの人たちは`make`コマンドとか使ったことないかも、ってことでPyodideのビルドは意外と新鮮かも知れない。
+            - というわけで、Pyodideを自前でビルドするところまでやった。手順的にはDockerのおかげもあって単純で、あっさりできた。まぁ全体的に長くなったしこれくらいでよしとするか...
 - [ ] 週刊アスキーへの道
     - [ ] テスト用プログラムを書いてテスト
         - [x] クリック
@@ -44,12 +48,14 @@
         - [ ] 直さないバグ: garageがドキュメントのスクロール領域から外れると、エッジの描画される位置がおかしい
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> をTypeScriptでやる
+        - 2022/05/14: パーサーを書き直し。挙動がイマイチわからなかったtsPEGより確実ではあるが案外面倒ね
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
+        - 2022/05/14: 今週はこれだけ <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/bfb32a3563a3bcbcfcc9f5a8be43bdea07c69769>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/05/09 - 2022/05/13
+        - 2022/05/09 - 2022/05/14
 
 ------
 
