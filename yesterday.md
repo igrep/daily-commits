@@ -10,6 +10,7 @@
         - <https://jeromewu.github.io/build-ffmpeg-webassembly-version-part-1-preparation/> は思ってたより長いな。ffmpeg.wasmの開発者による記録らしい
         - 悩んだけど、意外とフロントエンドの人たちは`make`コマンドとか使ったことないかも、ってことでPyodideのビルドは意外と新鮮かも知れない。
             - というわけで、Pyodideを自前でビルドするところまでやった。手順的にはDockerのおかげもあって単純で、あっさりできた。まぁ全体的に長くなったしこれくらいでよしとするか...
+    - 2022/05/15: Pyodideのビルド手順の解説
 - [ ] 週刊アスキーへの道
     - [ ] テスト用プログラムを書いてテスト
         - [x] クリック
@@ -55,7 +56,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/05/09 - 2022/05/14
+        - 2022/05/09 - 2022/05/15
 
 ------
 
