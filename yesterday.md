@@ -1,6 +1,7 @@
 # 2022/05/16 - 2022/05/22
 
 - [ ] 記事
+    - 2022/05/16: Pyodideの節を少しだけ
 - [ ] 週刊アスキーへの道
     - [ ] テスト用プログラムを書いてテスト
         - [x] クリック
@@ -44,6 +45,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2022/05/16
 
 ------
 
