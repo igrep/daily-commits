@@ -43,12 +43,15 @@
         - [ ] 直さないバグ: garageがドキュメントのスクロール領域から外れると、エッジの描画される位置がおかしい
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> をTypeScriptでやる
+        - 2022/05/21: パーサーの書き直しができた。もうちょっとテストを足した方がいいよね？
+            - <https://github.com/igrep/custard/commit/3cc3d6d17704de1f9494bd46247fe76f6085e539>
+            - <https://github.com/igrep/custard/commit/ddcd23976f7ee5ea73fce46a7a9bd509d0fb2a8b>
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/05/16 - 2022/05/20
+        - 2022/05/16 - 2022/05/21
 
 ------
 
