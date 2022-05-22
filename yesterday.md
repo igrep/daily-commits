@@ -1,11 +1,6 @@
-# 2022/05/16 - 2022/05/22
+# 2022/05/23 - 2022/05/29
 
 - [ ] 記事
-    - 2022/05/16: Pyodideの節を少しだけ
-    - 2022/05/17: Pyodideの節、ビルドのログなど後回しにしていた箇所を埋めた。もうちょっと。
-    - 2022/05/18 - 2022/05/19: 初稿ほぼ完成
-    - 2022/05/20: 初稿がとりあえずできた
-    - 2022/05/21 - 2022/05/22: 初稿の見直し・修正
 - [ ] 週刊アスキーへの道
     - [ ] テスト用プログラムを書いてテスト
         - [x] クリック
@@ -44,18 +39,11 @@
         - [ ] 直さないバグ: garageがドキュメントのスクロール領域から外れると、エッジの描画される位置がおかしい
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> をTypeScriptでやる
-        - 2022/05/21: パーサーの書き直しができた。もうちょっとテストを足した方がいいよね？
-            - <https://github.com/igrep/custard/commit/3cc3d6d17704de1f9494bd46247fe76f6085e539>
-            - <https://github.com/igrep/custard/commit/ddcd23976f7ee5ea73fce46a7a9bd509d0fb2a8b>
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
-        - 2022/05/22: お腹が痛くてあまり進まず
-            - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/7644173d6ae45d64a86541bf5d60df119baa339d>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
-    - 2022/05/22: 実はツールを作らなくても手で`--repl-options`を指定するだけで概ね目的は達成できるんじゃないかって気がしてきた
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/05/16 - 2022/05/22
 
 ------
 
@@ -64,4 +52,4 @@
     - [ ] リリース
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/902616bf940893b41c46265bb0d9b1021e0ccbdb/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/2a8c4902fff1f7bba3938f327e0c9170b55d5404/yesterday.md)
