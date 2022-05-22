@@ -5,6 +5,7 @@
     - 2022/05/17: Pyodideの節、ビルドのログなど後回しにしていた箇所を埋めた。もうちょっと。
     - 2022/05/18 - 2022/05/19: 初稿ほぼ完成
     - 2022/05/20: 初稿がとりあえずできた
+    - 2022/05/21 - 2022/05/22: 初稿の見直し・修正
 - [ ] 週刊アスキーへの道
     - [ ] テスト用プログラムを書いてテスト
         - [x] クリック
@@ -48,10 +49,13 @@
             - <https://github.com/igrep/custard/commit/ddcd23976f7ee5ea73fce46a7a9bd509d0fb2a8b>
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
+        - 2022/05/22: お腹が痛くてあまり進まず
+            - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/7644173d6ae45d64a86541bf5d60df119baa339d>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
+    - 2022/05/22: 実はツールを作らなくても手で`--repl-options`を指定するだけで概ね目的は達成できるんじゃないかって気がしてきた
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/05/16 - 2022/05/21
+        - 2022/05/16 - 2022/05/22
 
 ------
 
