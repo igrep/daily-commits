@@ -51,12 +51,15 @@
         - [ ] 直さない: ループのあるgraph
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> をTypeScriptでやる
+        - 2022/05/28: テストを追加してみたらたくさんエラーが！
+            - 一つは、`RegExp`オブジェクトがステートフルになっているせいで再利用しちゃいけない問題だった
+            - <https://github.com/igrep/custard/commit/4f048cfd0a60b7196e0ea7f3dd4fa6256ee44e72>
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/05/23 - 2022/05/27
+        - 2022/05/23 - 2022/05/28
 
 ------
 
