@@ -57,9 +57,10 @@
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
+    - 2022/05/29: これはYak shavingなんだけど、先週思いついたことをtypesafe-precureのリポジトリーで試そうとしたらth-data-compatが新しいTemplate Haskellで動かなかったので直そうとしてるところ。どう直そう？
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/05/23 - 2022/05/28
+        - 2022/05/23 - 2022/05/29
 
 ------
 
