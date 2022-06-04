@@ -45,12 +45,14 @@
         - [ ] 直さない: ループのあるgraph
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> をTypeScriptでやる
+        - 2022/06/04: やっとパーサーを直せた。結局既存のTypeScript版malの結構なコピペになったね。まぁいいよ
+            - <https://github.com/igrep/custard/commit/f27155f0554d216ade156e953355dfa00e6039cf>
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/05/30 - 2022/06/03
+        - 2022/05/30 - 2022/06/04
 
 ------
 
