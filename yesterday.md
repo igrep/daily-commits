@@ -1,15 +1,8 @@
-# 2022/05/30 - 2022/06/05
+# 2022/06/06 - 2022/06/12
 
 - [ ] 記事
 - [ ] 週刊アスキーへの道
     - [ ] テスト用プログラムを書いてテスト
-        - 2022/05/30: 多分トポロジカルソートができた
-        - 2022/05/31: トポロジカルソートのテストを書き始めたり、vertonのグラフでもそのまま使えるよう工夫したり
-        - 2022/06/01: 入力をシャッフルしたら、順番によって失敗の仕方は違うものの、どちらにしてもテストが失敗する
-            - ちょっと直した。通らないなあ
-                - 多分わかった
-        - 2022/06/02: やっぱりわかってなかった
-        - 2022/06/03: そもそも入力辺を持たないノードのリストが間違っていたので直したらできた。テストの方法が思ったより難しかった
         - [x] クリック
         - マウスの移動
             - [x] ボタンを押している間ずっと
@@ -45,16 +38,11 @@
         - [ ] 直さない: ループのあるgraph
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> をTypeScriptでやる
-        - 2022/06/04: やっとパーサーを直せた。結局既存のTypeScript版malの結構なコピペになったね。まぁいいよ
-            - <https://github.com/igrep/custard/commit/f27155f0554d216ade156e953355dfa00e6039cf>
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
-        - 用語の整理は課題15で行うことにした。その方が必要性が伝えやすいみたいなので <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/7ef46567d8c16d6a8b512f1371953825a9cd5f3b>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
-    - 2022/06/05: タイプセーフプリキュアのビルドを直しつつ実験
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/05/30 - 2022/06/05
 
 ------
 
@@ -63,4 +51,4 @@
     - [ ] リリース
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/59d10cd9461b36b819088c91746694a195eb38bd/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/8caf44494a0e22e83b55a79a07e2f478630eadda/yesterday.md)
