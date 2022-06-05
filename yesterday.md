@@ -49,10 +49,12 @@
             - <https://github.com/igrep/custard/commit/f27155f0554d216ade156e953355dfa00e6039cf>
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
+        - 用語の整理は課題15で行うことにした。その方が必要性が伝えやすいみたいなので <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/7ef46567d8c16d6a8b512f1371953825a9cd5f3b>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
+    - 2022/06/05: タイプセーフプリキュアのビルドを直しつつ実験
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/05/30 - 2022/06/04
+        - 2022/05/30 - 2022/06/05
 
 ------
 
