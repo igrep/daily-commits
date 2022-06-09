@@ -49,7 +49,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/06/06 - 2022/06/08
+        - 2022/06/06 - 2022/06/09
 
 ------
 
