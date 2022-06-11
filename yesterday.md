@@ -49,12 +49,16 @@
         - [ ] 直さない: エッジがクリックしにくい
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> をTypeScriptでやる
+        - 2022/06/11: 簡単な（あまり役に立たない）JS向けprinterを作った。今後malの実装でもっとちゃんとしたのが必要になるならちゃんと作り直そう
+            - <https://github.com/igrep/custard/commit/66cbb472385bd4553d68d1c7c153ffeba1ec2363>
+        - [ ] 次は 「Add support for the other basic data type to your reader and printer functions: string, nil, true, and false」のところね。
+            - とりあえず当面実装したい型を追加してパーサーのテストケースを書いた
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/06/06 - 2022/06/10
+        - 2022/06/06 - 2022/06/11
 
 ------
 
