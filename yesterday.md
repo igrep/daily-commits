@@ -3,6 +3,7 @@
 - [ ] 記事
 - [ ] 週刊アスキーへの道
     - [ ] reeditとreplayボタンの素材を探す、あるいは自前でトレース
+        - 2022/06/13: とりあえずreeditボタンを自前で作ることに
     - [ ] umdからES Moduleへ
     - [ ] repositoryのrename
     - [ ] README・ブログ記事
@@ -21,6 +22,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2022/06/13
 
 ------
 
