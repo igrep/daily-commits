@@ -1,48 +1,11 @@
-# 2022/06/06 - 2022/06/12
+# 2022/06/13 - 2022/06/19
 
 - [ ] 記事
 - [ ] 週刊アスキーへの道
-    - [x] テスト用プログラムを書いてテスト
-        - 2022/06/06: トポロジカルソートの使用する箇所の実装開始
-        - 2022/06/07: できた。しかし、件のプログラムの問題が、一つ残ってしまった。なぜか犬だけ動かない
-            - 単純なことだった。`<=`だけ実装しそびれていた...
-        - 2022/06/08: `>`も`>=`もできたっぽい！
-        - [x] クリック
-        - マウスの移動
-            - [x] ボタンを押している間ずっと
-            - [x] ボタンを放した後もずっと
-        - [x] 経過時間
-        - [x] 定数
-        - けいさん
-            - [x] +
-            - [x] -
-            - [x] \*
-            - [x] /
-        - くらべる
-            - [x] ==
-            - [x] \<
-            - [x] \<=
-            - [x] \>
-            - [x] \>=
-        - カウンター
-            - [x] 増やす
-        - [x] NOT
-        - [x] AND
-        - モノ
-            - [x] 🐶 イヌ
-            - [x] 😺 ネコ
-            - [x] 🙂 ヒト
-        - [x] 🖊
-        - [x] 🔁
-    - [x] 簡単に直せそうなら: jackに繋げる際、赤い点の位置でクリックしてもつながらない
-        - 2022/06/10: いざ再現させようとするとうまくいかない...: 諦めよう
-    - [x] テスト用vertexesのドキュメント
-        - ついでに他のブラウザーでも動作確認
-            - 2022/06/12: EdgeとChromeで確認しつつサンプルプログラムの簡単な紹介を描いた
     - [ ] reeditとreplayボタンの素材を探す、あるいは自前でトレース
     - [ ] umdからES Moduleへ
     - [ ] repositoryのrename
-    - [ ] ブログ記事
+    - [ ] README・ブログ記事
         - [ ] 直さないバグ: garageがドキュメントのスクロール領域から外れると、エッジの描画される位置がおかしい
         - [ ] 直さない: ループのあるgraph
         - [ ] 直さない: Web Componentの使い方が多分おかしい
@@ -52,16 +15,12 @@
         - [ ] 共有先: GUI会
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> をTypeScriptでやる
-        - 2022/06/11: 簡単な（あまり役に立たない）JS向けprinterを作った。今後malの実装でもっとちゃんとしたのが必要になるならちゃんと作り直そう
-            - <https://github.com/igrep/custard/commit/66cbb472385bd4553d68d1c7c153ffeba1ec2363>
         - [ ] 次は 「Add support for the other basic data type to your reader and printer functions: string, nil, true, and false」のところね。
-            - とりあえず当面実装したい型を追加してパーサーのテストケースを書いた
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/06/06 - 2022/06/12
 
 ------
 
@@ -70,4 +29,4 @@
     - [ ] リリース
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/8caf44494a0e22e83b55a79a07e2f478630eadda/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/52383eb13983160cde4e72bd21c3137d2d325d15/yesterday.md)
