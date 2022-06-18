@@ -19,13 +19,14 @@
         - [ ] 共有先: GUI会
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> をTypeScriptでやる
-        - [ ] 次は 「Add support for the other basic data type to your reader and printer functions: string, nil, true, and false」のところね。
+        - [x] 次は 「Add support for the other basic data type to your reader and printer functions: string, nil, true, and false」のところね。
+            - 2022/06/18: 当面欲しい型を一通りサポート: <https://github.com/igrep/custard/commit/1a3aa8532ad80f8e1f890374ef193b6f4b7924f7>
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/06/13 - 2022/06/17
+        - 2022/06/13 - 2022/06/18
 
 ------
 
