@@ -32,16 +32,19 @@
     - [ ] とりあえず <https://github.com/kanaka/mal> をTypeScriptでやる
         - 2022/06/25:
             - テストケースの追加とか、細かい修正
-                - https://github.com/igrep/custard/commit/5ed3882c002f02a2690f48b77d7dd9b5c567d7a3
-                - https://github.com/igrep/custard/commit/54e44c05aaf794824f7dbf139b1c85de8ea21a57
-                - https://github.com/igrep/custard/commit/9fb88267b5689de16b8c78083c721aa0f3923e81
+                - <https://github.com/igrep/custard/commit/5ed3882c002f02a2690f48b77d7dd9b5c567d7a3>
+                - <https://github.com/igrep/custard/commit/54e44c05aaf794824f7dbf139b1c85de8ea21a57>
+                - <https://github.com/igrep/custard/commit/9fb88267b5689de16b8c78083c721aa0f3923e81>
             - 次はコメントの構文と、reader macroかなぁ。あるいはreader macroを飛ばして次のEvalに進むか
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
+        - 二つ以上の引数を受け取る関数についての説明 <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/4b1e1f6d3ae87b4172a63439de07e4f265f597a9>
+- [ ] タイプセーフプリキュア: デリシャスパーティープリキュアのサポートなど
+    - 2022/06/26: 手を着けてみたら思わぬ問題が見つかったり。来週まで続きそう
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/06/20 - 2022/06/25
+        - 2022/06/20 - 2022/06/26
 
 ------
 
