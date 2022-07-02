@@ -13,13 +13,15 @@
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> をTypeScriptでやる
         - 次はコメントの構文と、reader macroかなぁ。あるいはreader macroを飛ばして次のEvalに進むか
+            - 2022/07/02: と、思ったけどコメントは欲しい機能じゃないな。reader macroも後回し！
+                - STEP 2に着手。時間がなくてあんまりできず: <https://github.com/igrep/custard/commit/5af7dd425efdbbb94d7e3bdd1ff4b102ef9b1199>
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
 - [ ] タイプセーフプリキュア: デリシャスパーティープリキュアのサポートなど
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/06/27 - 2022/07/01
+        - 2022/06/27 - 2022/07/02
 
 ------
 
