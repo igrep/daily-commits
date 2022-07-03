@@ -1,7 +1,7 @@
 # 2022/06/27 - 2022/07/03
 
 - [ ] 週刊アスキーへの道
-    - [ ] README
+    - [x] README
         - [x] 「マウスの移動」と犬を繋いでから、再生ボタンを押して犬を動かしているところの動画
             - 2022/06/27: 作成
     - [ ] ブログ記事
@@ -19,7 +19,7 @@
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
         - 2022/07/03: 「命令」のセクションを概ね埋めた <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/6a06999a621ae348c60b985daae6a44f7925bfe0>
-- [ ] タイプセーフプリキュア: デリシャスパーティープリキュアのサポートなど
+- [x] タイプセーフプリキュア: デリシャスパーティープリキュアのサポートなど
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
