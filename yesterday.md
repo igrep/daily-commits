@@ -11,13 +11,15 @@
         - [x] 共有先: GUI会
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> をTypeScriptでやる
-        - STEP 2: <https://github.com/igrep/custard/commit/0af5ef0895f11090f871563b359c4be4b77eb588>
+        - STEP 2:
+            - 2022/07/06: <https://github.com/igrep/custard/commit/0af5ef0895f11090f871563b359c4be4b77eb588>
+            - 2022/07/07: 目的に向けて急ぐため、evalする前にJavaScriptを書き出す処理を実装しようと手を入れ始めた。なので、とりあえずenvは`Map<Id, (...forms: CuArray) => string>`という型に。単純な関数呼び出しのために`Writer`を複数の型で表そうかとも思ったが、とりあえずより単純な方向に
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/07/04 - 2022/07/06
+        - 2022/07/04 - 2022/07/07
 
 ------
 
