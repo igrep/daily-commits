@@ -17,10 +17,12 @@
             - 2022/07/08: 再設計したenvの初期状態を実装など
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/d52b3cc19e76b8459d3ce6a1cb9ed5aa89244bdc>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
+    - 2022/07/09: 以前決めた方針での開発にようやく着手
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/07/04 - 2022/07/08
+        - 2022/07/04 - 2022/07/09
 
 ------
 
