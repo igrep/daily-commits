@@ -10,11 +10,12 @@
             - 2022/07/06: 一番興味を持っていたあの人にメッセージを送る形にとどめておこう
         - [x] 共有先: GUI会
 - custard:
-    - [ ] とりあえず <https://github.com/kanaka/mal> をTypeScriptでやる
+    - [x] とりあえず <https://github.com/kanaka/mal> をTypeScriptでやる
         - STEP 2:
             - 2022/07/06: <https://github.com/igrep/custard/commit/0af5ef0895f11090f871563b359c4be4b77eb588>
             - 2022/07/07: 目的に向けて急ぐため、evalする前にJavaScriptを書き出す処理を実装しようと手を入れ始めた。なので、とりあえずenvは`Map<Id, (...forms: CuArray) => string>`という型に。単純な関数呼び出しのために`Writer`を複数の型で表そうかとも思ったが、とりあえずより単純な方向に
             - 2022/07/08: 再設計したenvの初期状態を実装など
+            - 2022/07/10: `eval`を一部実装: <https://github.com/igrep/custard/commit/3cd2b10eb59b312ddbfedd37f027f23523c642fe>
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
         - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/d52b3cc19e76b8459d3ce6a1cb9ed5aa89244bdc>
