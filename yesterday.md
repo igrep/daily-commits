@@ -1,29 +1,12 @@
-# 2022/07/04 - 2022/07/10
+# 2022/07/11 - 2022/07/17
 
-- [x] 週刊アスキーへの道
-    - [x] ブログ記事
-        - 2022/07/04: 見直して何カ所か修正。今日は例の記事を公開した日だし、公開は明日か明後日にしよう
-        - 2022/07/05: 細かい修正
-        - 2022/07/06: 公開 <https://zenn.dev/igrep/articles/2022-06-ascii>
-        - [x] 執筆後、リポジトリーの公開
-        - [x] 共有先: ハッカー飯もくもく会
-            - 2022/07/06: 一番興味を持っていたあの人にメッセージを送る形にとどめておこう
-        - [x] 共有先: GUI会
 - custard:
-    - [x] とりあえず <https://github.com/kanaka/mal> をTypeScriptでやる
-        - STEP 2:
-            - 2022/07/06: <https://github.com/igrep/custard/commit/0af5ef0895f11090f871563b359c4be4b77eb588>
-            - 2022/07/07: 目的に向けて急ぐため、evalする前にJavaScriptを書き出す処理を実装しようと手を入れ始めた。なので、とりあえずenvは`Map<Id, (...forms: CuArray) => string>`という型に。単純な関数呼び出しのために`Writer`を複数の型で表そうかとも思ったが、とりあえずより単純な方向に
-            - 2022/07/08: 再設計したenvの初期状態を実装など
-            - 2022/07/10: `eval`を一部実装: <https://github.com/igrep/custard/commit/3cd2b10eb59b312ddbfedd37f027f23523c642fe>
+    - [ ] とりあえず <https://github.com/kanaka/mal> をTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
-        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/d52b3cc19e76b8459d3ce6a1cb9ed5aa89244bdc>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
-    - 2022/07/09: 以前決めた方針での開発にようやく着手
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/07/04 - 2022/07/09
 
 ------
 
@@ -32,4 +15,4 @@
     - [ ] リリース
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/03a58d49662c26bf02927e9b07ad0dbbc76838ad/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/e8a883c0852d6fe8b6c50e678ebb4da2ebe8f64d/yesterday.md)
