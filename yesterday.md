@@ -3,12 +3,13 @@
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - 2022/07/11: evalでやっていることの大半は実質transpileなのでモジュールを分けた
+        - 2022/07/12: ちょっとだけ
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/07/11
+        - 2022/07/11 - 2022/07/12
 
 ------
 
