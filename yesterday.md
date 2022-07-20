@@ -4,12 +4,13 @@
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - 2022/07/18: 「Step 3: Environments」を読んでた
         - 2022/07/19: `Env`型の設計検討
+        - 2022/07/20: `Env`に必要そうなAPIを軽く実装
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/07/18 - 2022/07/19
+        - 2022/07/18 - 2022/07/20
 
 ------
 
