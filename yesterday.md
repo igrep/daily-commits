@@ -6,12 +6,14 @@
         - 2022/07/19: `Env`型の設計検討
         - 2022/07/20: `Env`に必要そうなAPIを軽く実装
         - 2022/07/21: ちょっとだけ
+        - 2022/07/22: `Env`型の修正が終了。次は`const`, `let`, `set`, `scope`の実装とテストかなぁ
+            - <https://github.com/igrep/custard/commit/50d420af566faf54d17a0cb104858baaa1b0b9c1>
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/07/18 - 2022/07/21
+        - 2022/07/18 - 2022/07/22
 
 ------
 
