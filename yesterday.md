@@ -11,10 +11,12 @@
         - 2022/07/29: 追加したテストケースを一部解決
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
+        - 今週は軽めに: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/40b5d4306495822306eda86c17c75c520ca36f0f>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
+    - 2022/07/31: 後は計画を実装するだけやろ、と思ってたら思わぬ障壁が。まだまだかかりそう。
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/07/25 - 2022/07/29
+        - 2022/07/25 - 2022/07/30
 
 ------
 
