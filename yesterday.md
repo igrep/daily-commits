@@ -8,12 +8,13 @@
         - 2022/08/05:
             - TODOは残しつつも、ここまでのことを一旦コミット: <https://github.com/igrep/custard/commit/9e9d0e7323a89c43bc8b753e334e196b95d9d161>
             - `scope`のテストケースを書いた
+        - 2022/08/06: ちょっとだけ
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/08/01 - 2022/08/05
+        - 2022/08/01 - 2022/08/06
 
 ------
 
