@@ -5,12 +5,13 @@
         - 2022/08/08:
             - `let`・`const`で現在のスコープのみを探索する処理の実装
             - 最後の文を結果として返せるよう`return`を入れたら出てきたソースがSyntaxErrorに
+        - 2022/08/09: 指定したformがexpressionかどうかを見分ける処理が必要らしい。transpile.tsにも同じような処理があるので共通化したくなってしまうな
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/08/08
+        - 2022/08/08 - 2022/08/09
 
 ------
 
