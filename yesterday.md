@@ -13,12 +13,13 @@
                 - <https://github.com/igrep/custard/commit/02b81a22f01fdaefff6442d0981764635547b237>
             - 次はStep 4かな？
         - 2022/08/11: `if`などの仕様を考えただけ: <https://github.com/igrep/custard/commit/fba6ec31766ad6eb5a97c84cd93549cefe8f2691>
+        - 2022/08/12: `if`... の前に条件演算子を実装: <https://github.com/igrep/custard/commit/e4110b1dd9d1826741c76ee5efe093c03626d080>
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/08/08 - 2022/08/11
+        - 2022/08/08 - 2022/08/12
 
 ------
 
