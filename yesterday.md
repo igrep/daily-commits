@@ -17,10 +17,12 @@
         - 2022/08/13: `if`のテストケースを追加。結局三項演算子にするんだから`else`はなくていいことに気づいた。複数の文を書きたいときは`scope`にすればいいし
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
+        - 2022/08/14: 軽めにここまで <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/af15d4de48c365dd702c24b9b57cd1a5f42c623b>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
+    - 2022/08/14: コピペ元として`cabal repl`がcabalファイルをパースするまでの処理を追った
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/08/08 - 2022/08/13
+        - 2022/08/08 - 2022/08/14
 
 ------
 
