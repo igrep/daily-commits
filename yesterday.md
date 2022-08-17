@@ -5,12 +5,16 @@
         - 2022/08/15: `if`の実装をしゅっと
         - 2022/08/16: `None`と一貫させるために`true`や`false`じゃなくて`True`や`False`にしてたのね...
             - <https://github.com/igrep/custard/commit/b4a76cda5c7d8c37ee961646b41ca62979e5be67>
+        - 2022/08/17: `fn`のテストケースを追加。そろそろテストケースのリファクタリングしたいなぁ
+            - 関数を表す式を直接呼び出すのはちょっと難しいかなぁ。symが関数呼び出しだったらそのままtranspileしちゃう、という方向で！
+    - [ ] テストケースのリファクタリング
+    - [ ] ソースコードをsrcに移動してまとめる
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/08/15 - 2022/08/16
+        - 2022/08/15 - 2022/08/17
 
 ------
 
