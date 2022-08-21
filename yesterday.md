@@ -21,10 +21,12 @@
         - <https://github.com/igrep/custard/commit/6c12b67ed8ada8190bf36fd9d82f7a6f1055e9f1>
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/2a530834621d3c1f5b4ab1af817f9d1515df0aa0>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
+    - `cabal configure`が`finalizePD`するまでの処理をコピペしてコンパイルを通そうとしている
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/08/15 - 2022/08/20
+        - 2022/08/15 - 2022/08/21
 
 ------
 
