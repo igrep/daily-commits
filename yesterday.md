@@ -6,16 +6,22 @@
         - 2022/08/29: できたわ。後エラーメッセージを少し改善したわ
             - <https://github.com/igrep/custard/commit/497dcb1faca66e23349397689b456c2ddeac32cc>
             - <https://github.com/igrep/custard/commit/e188c7302fd1c3de2bfd2c0effca2e2aea89272d>
-    - [ ] 余分な引数を与えた場合のテストケースとその修正
+    - [x] 余分な引数を与えた場合のテストケースとその修正
         - 2022/08/30: テストしたいformを列挙してテストケースを追加
+        - 2022/08/31: 実装: <https://github.com/igrep/custard/commit/475a7bba5cc1a07b97e2c01406a82ee5fb11059e>
+    - [x] 引数が足りなかった場合のテストケースとその修正
+        - 2022/08/31: 見直していたら他にも足りないテストケースがあったので追加
+            - <https://github.com/igrep/custard/commit/f4638385f93bafef390db0fbb90456d839ee0a60>
     - [ ] C0カバレッジをとる。大事そうなところだけ埋める
+        - 2022/08/31: とりあえず有効にした。ここは、ってところもあるけど埋めるのはまた今度でいいかなぁ
+            - <https://github.com/igrep/custard/commit/f319d85da783c8d16a00f65c80101506b1054cc5>
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
     - [ ] cabalファイルのパース
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/08/29 - 2022/08/30
+        - 2022/08/29 - 2022/08/31
 
 ------
 
