@@ -19,11 +19,13 @@
         - 2022/09/02: 両方完了: <https://github.com/igrep/custard/commit/94ef10f579d35b23a4d0d48fe7a05b3e68334943>
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/543129f7e525cf8377a9082cb289a3bcb68dcf16>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
     - [ ] cabalファイルのパース
+        - 先週であったエラーを直すべく、`configure`コマンドがどのようにパラメーターを設定しているか調べてた
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/08/29 - 2022/09/02
+        - 2022/08/29 - 2022/09/03
 
 ------
 
