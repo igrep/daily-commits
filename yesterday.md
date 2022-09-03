@@ -16,13 +16,14 @@
         - 2022/08/31: とりあえず有効にした。ここは、ってところもあるけど埋めるのはまた今度でいいかなぁ
             - <https://github.com/igrep/custard/commit/f319d85da783c8d16a00f65c80101506b1054cc5>
         - 2022/09/01: と、思ったけど`fn`と`if`の一部だけ埋めることにした。`fn`完了。
+        - 2022/09/02: 両方完了: <https://github.com/igrep/custard/commit/94ef10f579d35b23a4d0d48fe7a05b3e68334943>
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
     - [ ] cabalファイルのパース
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/08/29 - 2022/09/01
+        - 2022/08/29 - 2022/09/02
 
 ------
 
