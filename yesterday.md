@@ -2,6 +2,7 @@
 
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
+        - 2022/09/04: `return`のテスト・実装: <https://github.com/igrep/custard/commit/bc26a389870a1887a0f5ef84b997ed19d31572b4>
     - [x] `if`を`if/else`に修正
         - 2022/08/29: できたわ。後エラーメッセージを少し改善したわ
             - <https://github.com/igrep/custard/commit/497dcb1faca66e23349397689b456c2ddeac32cc>
@@ -12,7 +13,7 @@
     - [x] 引数が足りなかった場合のテストケースとその修正
         - 2022/08/31: 見直していたら他にも足りないテストケースがあったので追加
             - <https://github.com/igrep/custard/commit/f4638385f93bafef390db0fbb90456d839ee0a60>
-    - [ ] C0カバレッジをとる。大事そうなところだけ埋める
+    - [x] C0カバレッジをとる。大事そうなところだけ埋める
         - 2022/08/31: とりあえず有効にした。ここは、ってところもあるけど埋めるのはまた今度でいいかなぁ
             - <https://github.com/igrep/custard/commit/f319d85da783c8d16a00f65c80101506b1054cc5>
         - 2022/09/01: と、思ったけど`fn`と`if`の一部だけ埋めることにした。`fn`完了。
@@ -25,7 +26,7 @@
         - 先週であったエラーを直すべく、`configure`コマンドがどのようにパラメーターを設定しているか調べてた
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/08/29 - 2022/09/03
+        - 2022/08/29 - 2022/09/04
 
 ------
 
