@@ -4,6 +4,7 @@
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 4の完了
             - [ ] `when`
+                - 2022/09/05: テストケース2個だけ
             - [ ] `procedure`
             - [ ] `not`
         - [ ] Step 5の実装方法の検討
@@ -15,6 +16,7 @@
         - 先週であったエラーを直すべく、`configure`コマンドがどのようにパラメーターを設定しているか調べてた
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2022/09/05
 
 ------
 
