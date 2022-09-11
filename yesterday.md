@@ -2,7 +2,7 @@
 
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
-        - [ ] Step 4の完了
+        - [x] Step 4の完了
             - [x] `when`
                 - 2022/09/05: テストケース2個だけ
                 - 2022/09/06: テストケースをさらに書いたり関係ないけど思いついたテストを追加したり、実装したり
@@ -18,15 +18,16 @@
                 - 2022/09/07: テストケース書いた。
                 - 2022/09/08: 実装修正
         - [ ] Step 5の実装方法の検討
+            - 2022/09/11: とりあえず必要であろう関数を列挙
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
-        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/543129f7e525cf8377a9082cb289a3bcb68dcf16>
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/fd88e786c66f620707ced3d36168503e7afa7939>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
     - [ ] cabalファイルのパース
         - 先週であったエラーを直すべく、`configure`コマンドがどのようにパラメーターを設定しているか調べてた
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/09/05 - 2022/09/10
+        - 2022/09/05 - 2022/09/11
 
 ------
 
