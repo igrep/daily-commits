@@ -4,8 +4,11 @@
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 5の実装
             - [ ] `while`
+                - 2022/09/13: `while`と`break`を含むテストケース追加
             - [ ] `for`
             - [ ] `redo`
+            - [ ] `break`
+            - [ ] `continue`
             - [ ] 末尾再帰の最適化
                 - よく考えたら今すぐには必要ないよなぁ。ちょっと挑戦してみて難しそうだったら諦めよう
 - Haskell入門コンテンツ:
@@ -15,7 +18,7 @@
         - 先週であったエラーを直すべく、`configure`コマンドがどのようにパラメーターを設定しているか調べてた
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/09/12
+        - 2022/09/12 - 2022/09/13
 
 ------
 
