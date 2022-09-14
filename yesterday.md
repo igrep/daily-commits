@@ -5,7 +5,10 @@
         - [ ] Step 5の実装
             - [ ] `while`
                 - 2022/09/13: `while`と`break`を含むテストケース追加
+                - 2022/09/14: 実装開始。従来の`base`は`safe`にして`safe`と`iteration/unbounded`をまとめたものを`base`と呼ぼう
+                    - 名前空間の整理も含めて実装できた、つもりがなぜか無限ループに
             - [ ] `for`
+            - [ ] `forEach`
             - [ ] `redo`
             - [ ] `break`
             - [ ] `continue`
@@ -18,7 +21,7 @@
         - 先週であったエラーを直すべく、`configure`コマンドがどのようにパラメーターを設定しているか調べてた
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/09/12 - 2022/09/13
+        - 2022/09/12 - 2022/09/14
 
 ------
 
