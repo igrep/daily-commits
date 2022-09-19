@@ -4,6 +4,9 @@
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 5の実装
             - [ ] `for`
+                - 2022/09/19: サクッとテストケースを追加
+                - [ ] `addF`
+                - [ ] `decF`
             - [ ] `forEach`
             - [ ] `redo`
             - [ ] `break`
@@ -12,11 +15,13 @@
                 - よく考えたら今すぐには必要ないよなぁ。ちょっと挑戦してみて難しそうだったら諦めよう
 - Haskell入門コンテンツ:
     - [ ] 課題15の不足箇所を埋める
+        - 2022/09/19: 昨日から引き続き課題15の見直し
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
     - [ ] cabalファイルのパース
         - 先週であったエラーを直すべく、`configure`コマンドがどのようにパラメーターを設定しているか調べてた
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2022/09/19
 
 ------
 
