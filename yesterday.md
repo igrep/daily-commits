@@ -26,6 +26,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
     - [ ] cabalファイルのパース
         - 先週であったエラーを直すべく、`configure`コマンドがどのようにパラメーターを設定しているか調べてた
+            - 2022/09/25: `cabal v1-configure`は手元でもちゃんと`finalizePD`を呼べてなさそうなことに今更気づいたので、`cabal repl`からコードを持ってくるよう方針転換
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
         - 2022/09/19 - 2022/09/25
