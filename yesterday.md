@@ -9,8 +9,8 @@
                 - 2022/09/21: 実装開始、テストケース修正
                 - 2022/09/22 - 2022/09/23: 実装ちょっとだけ
                 - 2022/09/24: `for`本体が完成。`incrementF`, `decrementF`をちょっとだけ
-                - [ ] `incrementF`
-                - [ ] `decrementF`
+                - [ ] `incrementF` / `decrementF`
+                    - 2022/09/25: テストを書いた
             - [ ] `forEach`
             - [ ] `redo`
             - [ ] `break`
@@ -28,7 +28,7 @@
         - 先週であったエラーを直すべく、`configure`コマンドがどのようにパラメーターを設定しているか調べてた
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/09/19 - 2022/09/24
+        - 2022/09/19 - 2022/09/25
 
 ------
 
