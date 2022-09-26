@@ -1,16 +1,11 @@
-# 2022/09/19 - 2022/09/25
+# 2022/09/26 - 2022/10/02
 
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 5の実装
             - [ ] `for`
-                - 2022/09/19: サクッとテストケースを追加
-                - 2022/09/20: テストケースにおけるエラーメッセージを修正
-                - 2022/09/21: 実装開始、テストケース修正
-                - 2022/09/22 - 2022/09/23: 実装ちょっとだけ
-                - 2022/09/24: `for`本体が完成。`incrementF`, `decrementF`をちょっとだけ
                 - [ ] `incrementF` / `decrementF`
-                    - 2022/09/25: テストを書いた
+                    - 2022/09/26: 実装結構進めた
             - [ ] `forEach`
             - [ ] `redo`
             - [ ] `break`
@@ -18,18 +13,13 @@
             - [ ] 末尾再帰の最適化
                 - よく考えたら今すぐには必要ないよなぁ。ちょっと挑戦してみて難しそうだったら諦めよう
 - Haskell入門コンテンツ:
-    - [x] 課題15の不足箇所を埋める
-        - 2022/09/19: 昨日から引き続き課題15の見直し
-        - 2022/09/20: 課題15はここまで！
-            - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/832c4cd369759cdda5b106c0a3fab8d6264b1464>
     - [ ] 課題16の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
     - [ ] cabalファイルのパース
-        - 先週であったエラーを直すべく、`configure`コマンドがどのようにパラメーターを設定しているか調べてた
-            - 2022/09/25: `cabal v1-configure`は手元でもちゃんと`finalizePD`を呼べてなさそうなことに今更気づいたので、`cabal repl`からコードを持ってくるよう方針転換
+        - 2022/09/27: もくもくとreplからのコピペを
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/09/19 - 2022/09/25
+        - 2022/09/26
 
 ------
 
@@ -38,4 +28,4 @@
     - [ ] リリース
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/3013dc62c84bf270d14ac1ec91c9267197639e0c/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/5e02ac88ced6ec47a4771802131f06cd65a4eba8/yesterday.md)
