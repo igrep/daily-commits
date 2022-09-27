@@ -6,6 +6,7 @@
             - [ ] `for`
                 - [ ] `incrementF` / `decrementF`
                     - 2022/09/26: 実装結構進めた
+                    - 2022/09/27: `const`な変数の扱いがあるからちょっと大変
             - [ ] `forEach`
             - [ ] `redo`
             - [ ] `break`
@@ -19,7 +20,7 @@
         - 2022/09/27: もくもくとreplからのコピペを
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/09/26
+        - 2022/09/26 - 2022/09/27
 
 ------
 
