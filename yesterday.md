@@ -3,10 +3,11 @@
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 5の実装
-            - [ ] `for`
-                - [ ] `incrementF` / `decrementF`
+            - [x] `for`
+                - [x] `incrementF` / `decrementF`
                     - 2022/09/26: 実装結構進めた
                     - 2022/09/27: `const`な変数の扱いがあるからちょっと大変
+                    - 2022/09/28: 実装できた。ついでに`assign`のバグも直した
             - [ ] `forEach`
             - [ ] `redo`
             - [ ] `break`
@@ -20,7 +21,7 @@
         - 2022/09/27: もくもくとreplからのコピペを
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/09/26 - 2022/09/27
+        - 2022/09/26 - 2022/09/28
 
 ------
 
