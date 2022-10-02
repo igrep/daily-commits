@@ -19,12 +19,13 @@
                 - よく考えたら今すぐには必要ないよなぁ。ちょっと挑戦してみて難しそうだったら諦めよう
 - Haskell入門コンテンツ:
     - [ ] 課題16の不足箇所を埋める
+        - 2022/10/02: ちょっとだけ: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/3b3ad3f464998e0168a484b83cc6d5891d72ba3b>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
     - [ ] cabalファイルのパース
         - 2022/09/27: もくもくとreplからのコピペを
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/09/26 - 2022/10/01
+        - 2022/09/26 - 2022/10/02
 
 ------
 
