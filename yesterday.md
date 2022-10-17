@@ -4,7 +4,9 @@
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 5の実装
             - [ ] `recursive`
-                - [ ] `transpilingForAssignment`をインライン化して、`let`, `const`では式を`transpile`する前に`EnvF.set(id.v, anUnknown())`しよう。行きすぎた抽象化だった。
+                - 2022/10/17: `EnvF.set`するとき、その関数が当該のscopeより外のスコープで定義済みであれば必ずエラーにするような仕様にしたいけど、現状エラーを無視していることを静的解析で検出できないし、いい加減ルールを作ろうかしら...
+                    - <https://github.com/SonarSource/eslint-plugin-sonarjs/blob/master/docs/rules/no-ignored-return.md> がいいらしい。
+                    - そういえば今までESLintの設定を全然してなかったので慌てて設定中
             - [ ] 末尾再帰の最適化
                 - よく考えたら今すぐには必要ないよなぁ。ちょっと挑戦してみて難しそうだったら諦めよう
 - Haskell入門コンテンツ:
@@ -13,6 +15,7 @@
     - [ ] cabalファイルのパース
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2022/10/17
 
 ------
 
