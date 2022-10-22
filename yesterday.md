@@ -21,7 +21,9 @@
     - [ ] cabalファイルのパース
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/10/17 - 2022/10/21
+        - 2022/10/17 - 2022/10/22
+- その他:
+    - 2022/10/22: 記事書いた <https://zenn.dev/igrep/articles/2022-10-precure>
 
 ------
 
