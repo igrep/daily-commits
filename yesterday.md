@@ -1,21 +1,12 @@
-# 2022/10/17 - 2022/10/23
+# 2022/10/24 - 2022/10/30
 
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 5の実装
             - [ ] `recursive`
-                - 2022/10/17: `EnvF.set`するとき、その関数が当該のscopeより外のスコープで定義済みであれば必ずエラーにするような仕様にしたいけど、現状エラーを無視していることを静的解析で検出できないし、いい加減ルールを作ろうかしら...
-                    - <https://github.com/SonarSource/eslint-plugin-sonarjs/blob/master/docs/rules/no-ignored-return.md> がいいらしい。
-                    - そういえば今までESLintの設定を全然してなかったので慌てて設定中
-                - 2022/10/18: `.eslintrc.cjs`が書けたはず...。が、肝心の`sonarjs/no-ignored-return`が意図したとおりに動いてくれていない...。想定していたのと仕様が違うのだろうか。やっぱり自分でルール書くしかないのかなぁ
-                    - <https://github.com/SonarSource/eslint-plugin-sonarjs/issues/279> の報告とかを聞いているとやっぱり私が望んだものではなさそう...
-                - 2022/10/19: 自前で作ろう、ということで着手
-                - 2022/10/20: 元ネタであるsonarjsのコードをパクりつつ挙動を確かめるためにテストを追加中
-                - 2022/10/21: コピペ元であるsonarjsはLGPLらしい。できればLGPLにはしたくないし、コピーしたのは本質的な部分じゃないから他のライブラリーを参考にし直したいな
-                    - 多分うまくできたと思う...。
-                - 2022/10/23: テストコードから実装を実行できていることを確認できた。しかし`RuleTester`, なぜかfilenameに実在するファイル名を指定しないといけないクセしてファイルの中身はオプションで指定したものを使うらしい。なのでfilenameで指定したファイルは空でいいっぽい。なんでやねん
+                - [ ] eslint-plugin-no-ignore-return
             - [ ] 末尾再帰の最適化
-                 よく考えたら今すぐには必要ないよなぁ。ちょっと挑戦してみて難しそうだったら諦めよう
+                - [ ] よく考えたら今すぐには必要ないよなぁ。ちょっと挑戦してみて難しそうだったら諦めよう
 - Haskell入門コンテンツ:
     - [ ] 課題16の不足箇所を埋める
         - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/0a228eb61dc7e098ad08f4dd2be7a8f70734c56a>
@@ -23,9 +14,6 @@
     - 2022/10/23: cabal replコマンドのオプションを組み立てて、typesfe-precureのディレクトリーで実行してみたが案の定エラーに。理由は想定外だったけど
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/10/17 - 2022/10/23
-- その他:
-    - 2022/10/22: 記事書いた <https://zenn.dev/igrep/articles/2022-10-precure>
 
 ------
 
@@ -34,4 +22,4 @@
     - [ ] リリース
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/923f8b6fba585a2d910d61254248da69d2d29ed0/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/08f8eac2f35ef51a500701b30624fd4dbe234e66/yesterday.md)
