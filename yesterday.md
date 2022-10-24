@@ -5,15 +5,16 @@
         - [ ] Step 5の実装
             - [ ] `recursive`
                 - [ ] eslint-plugin-no-ignore-return
+                    - 2022/10/24: 式の型を取得してみてる
             - [ ] 末尾再帰の最適化
                 - [ ] よく考えたら今すぐには必要ないよなぁ。ちょっと挑戦してみて難しそうだったら諦めよう
 - Haskell入門コンテンツ:
     - [ ] 課題16の不足箇所を埋める
         - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/0a228eb61dc7e098ad08f4dd2be7a8f70734c56a>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
-    - 2022/10/23: cabal replコマンドのオプションを組み立てて、typesfe-precureのディレクトリーで実行してみたが案の定エラーに。理由は想定外だったけど
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2022/10/24
 
 ------
 
