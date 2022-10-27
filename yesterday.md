@@ -10,6 +10,8 @@
                         - そうなると紹介記事を書こうか迷うわね
                     - 2022/10/26: 多分できたのでリポジトリーに公開。明日早速custardで使ってみよう
                         - <https://github.com/igrep/eslint-plugin-no-ignore-returned-union>
+                    - 2022/10/27: ruleのexportの仕方が間違っているらしい
+                        - <https://twitter.com/igrep/status/1585439830166867968>
             - [ ] 末尾再帰の最適化
                 - [ ] よく考えたら今すぐには必要ないよなぁ。ちょっと挑戦してみて難しそうだったら諦めよう
 - Haskell入門コンテンツ:
@@ -18,7 +20,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/10/24 - 2022/10/26
+        - 2022/10/24 - 2022/10/27
 
 ------
 
