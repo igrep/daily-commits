@@ -17,6 +17,7 @@
                         - なんか動かないな、と思ったらESLintの設定が間違ってて型チェックが有効になってなかった
                             - <https://github.com/igrep/custard/commit/7bf9825950265e123e29697129cafd6464b26d5a>
                         - ついでにplugin自体のバグも修正: <https://github.com/igrep/eslint-plugin-no-ignore-returned-union/commit/044c5101cfbdf787bb40fb6278bacac2e5ef40cc>
+                    - 2022/10/30: ようやくcustard本体の開発に戻って、`EnvF.set`がエラーを出すようにしてみたが、まだテスト結果が変わらない
             - [ ] 末尾再帰の最適化
                 - [ ] よく考えたら今すぐには必要ないよなぁ。ちょっと挑戦してみて難しそうだったら諦めよう
 - Haskell入門コンテンツ:
@@ -25,7 +26,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/10/24 - 2022/10/29
+        - 2022/10/24 - 2022/10/30
 
 ------
 
