@@ -4,6 +4,7 @@
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 5の実装
             - [ ] `recursive`
+                - 2022/10/31: デバッグ開始。どうやら`EnvF.set`しているときの`env[0]`でチェックしている時点では、関数の定義が終了してしまっているので、すでに問題のscopeは`EnvF.pop`されてしまっているようだ
             - [ ] 末尾再帰の最適化
                 - [ ] よく考えたら今すぐには必要ないよなぁ。ちょっと挑戦してみて難しそうだったら諦めよう
 - Haskell入門コンテンツ:
@@ -11,6 +12,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2022/10/31
 
 ------
 
