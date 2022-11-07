@@ -17,7 +17,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/10/31 - 2022/11/05
+        - 2022/10/31 - 2022/11/06
 - heroku無料プランの件:
     - 2022/11/01: Scrapbookで保存したページを読んでみてる。スタートHaskell 2のところまで読んで問題なさそう
     - 2022/11/03: 勉強会まとめの「Haskell Day」まで
