@@ -5,6 +5,7 @@
         - [ ] Step 5の実装
             - [ ] `recursive`
                 - 2022/11/14: `Env`のテスト実装開始しつつ、`References`を操作しない`EnvF.find`と操作する`EnvF.find`を分けるよう修正
+                - 2022/11/15: とりあえずテストケース一つ書いた
             - [ ] 末尾再帰の最適化
                 - [ ] よく考えたら今すぐには必要ないよなぁ。ちょっと挑戦してみて難しそうだったら諦めよう
 - Haskell入門コンテンツ:
@@ -12,7 +13,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/11/14
+        - 2022/11/14 - 2022/11/15
 - heroku無料プランの件:
     - [ ] ScrapBookで取得した結果のチェック
         - メモ: 「www.sampou.org/cgi-bin/haskell.cgiから引っ越してきたページ達」からがでかい。深さ優先探索じゃなくて幅優先探索で読んだ方がダブりが少なかったっぽいね...
