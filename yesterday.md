@@ -1,25 +1,16 @@
-# 2022/11/28 - 2022/12/04
+# 2022/12/05 - 2022/12/11
 
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 5の実装
             - [ ] `recursive`
-                - 2022/11/28: やっぱ単体テストはやめ。多分実装できた
-                - 2022/11/29: 実装できた！はずが一つだけテストが落ちる
-                - 2022/11/30: 原因分かった。`ScopePath`を比較するときの順番が逆なのだ。`push`するんじゃなくて`unshift`しているんだった。references.tsにある`ScopePath`を操作する処理はすべてscoe-path.tsに寄せよう
-                - 2022/12/01: 直したはずがまだ失敗する
-                - 2022/12/02: デバッグコードを仕込むも分からず...
-                - 2022/12/03: env.test.tsのテストはすべて通したけど、eval.test.tsはまだ落ちる。当てが外れたかなぁ
-                - 2022/12/04: とりあえず簡単に潰せそうな奴から修正着手
             - [ ] 末尾再帰の最適化
                 - [ ] よく考えたら今すぐには必要ないよなぁ。ちょっと挑戦してみて難しそうだったら諦めよう
 - Haskell入門コンテンツ:
     - [ ] 課題16の不足箇所を埋める
-        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/19de88eeb2ccd11b6a35bb9868d640eb538b563e>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/11/28 - 2022/12/04
 
 ------
 
@@ -28,4 +19,4 @@
     - [ ] リリース
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/572a4716abfc451dda6f1612e499a6f188fa4ac1/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/72f999ce99e03a03d4b6af83cccaafdb84b52a45/yesterday.md)
