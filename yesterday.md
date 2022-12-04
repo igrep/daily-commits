@@ -10,14 +10,16 @@
                 - 2022/12/01: 直したはずがまだ失敗する
                 - 2022/12/02: デバッグコードを仕込むも分からず...
                 - 2022/12/03: env.test.tsのテストはすべて通したけど、eval.test.tsはまだ落ちる。当てが外れたかなぁ
+                - 2022/12/04: とりあえず簡単に潰せそうな奴から修正着手
             - [ ] 末尾再帰の最適化
                 - [ ] よく考えたら今すぐには必要ないよなぁ。ちょっと挑戦してみて難しそうだったら諦めよう
 - Haskell入門コンテンツ:
     - [ ] 課題16の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/19de88eeb2ccd11b6a35bb9868d640eb538b563e>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/11/28 - 2022/12/03
+        - 2022/11/28 - 2022/12/04
 
 ------
 
