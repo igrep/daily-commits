@@ -4,6 +4,8 @@
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 5の実装
             - [ ] `recursive`
+                - 2022/12/05:
+                    - 難しいと思っていた箇所は昨晩ベッドの中で修正方法に気づけて、直せた。残りは無理に直さない方がシンプルでいいかもなぁ
             - [ ] 末尾再帰の最適化
                 - [ ] よく考えたら今すぐには必要ないよなぁ。ちょっと挑戦してみて難しそうだったら諦めよう
 - Haskell入門コンテンツ:
@@ -11,6 +13,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2022/12/05
 
 ------
 
