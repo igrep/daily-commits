@@ -12,7 +12,8 @@
                 - 2022/12/07: Lintのエラーの扱いが悩ましい... と思っていたら、本当に間違っている箇所があった。修正
                     - <https://github.com/igrep/custard/commit/3819c3c32f1523c50e84c31f9538bc3393d18786>
                 - [ ] eslint-plugin-no-ignore-returned-union のリリース
-                - [ ] gitのhookでformat
+                - [x] gitのhookでformat
+                    - 2022/12/08: <https://github.com/igrep/custard/commit/bf6f8e89636ee680511db203a6694a0d6d4bc698>
             - [ ] 末尾再帰の最適化
                 - [ ] よく考えたら今すぐには必要ないよなぁ。ちょっと挑戦してみて難しそうだったら諦めよう
 - Haskell入門コンテンツ:
@@ -20,7 +21,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/12/05 - 2022/12/07
+        - 2022/12/05 - 2022/12/08
 
 ------
 
