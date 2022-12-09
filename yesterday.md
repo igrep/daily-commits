@@ -11,7 +11,8 @@
             - [ ] formatter周りの整備・lintの修正
                 - 2022/12/07: Lintのエラーの扱いが悩ましい... と思っていたら、本当に間違っている箇所があった。修正
                     - <https://github.com/igrep/custard/commit/3819c3c32f1523c50e84c31f9538bc3393d18786>
-                - [ ] eslint-plugin-no-ignore-returned-union のリリース
+                - [x] eslint-plugin-no-ignore-returned-union のリリース
+                    - 2022/12/09: 細かい修正を加えてリリース <https://www.npmjs.com/package/eslint-plugin-no-ignore-returned-union> し、custard本体でも使用 <https://github.com/igrep/custard/commit/f143832450ba128728e56c8ccf3e4211424aa846>
                 - [x] gitのhookでformat
                     - 2022/12/08: <https://github.com/igrep/custard/commit/bf6f8e89636ee680511db203a6694a0d6d4bc698>
             - [ ] 末尾再帰の最適化
@@ -21,7 +22,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/12/05 - 2022/12/08
+        - 2022/12/05 - 2022/12/09
 
 ------
 
