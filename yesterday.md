@@ -8,7 +8,7 @@
                     - 難しいと思っていた箇所は昨晩ベッドの中で修正方法に気づけて、直せた。残りは無理に直さない方がシンプルでいいかもなぁ
                 - 2022/12/06: 分からんので変数が見つからないときのエラーメッセージは全部`NOTE`を加えよう
                     - と言うわけで1ヶ月以上ぶりにコミット: <https://github.com/igrep/custard/commit/7fa5cc8618b7a51b1a5e6d4a51c91c126969c1ac>
-            - [ ] formatter周りの整備・lintの修正
+            - [x] formatter周りの整備・lintの修正
                 - 2022/12/07: Lintのエラーの扱いが悩ましい... と思っていたら、本当に間違っている箇所があった。修正
                     - <https://github.com/igrep/custard/commit/3819c3c32f1523c50e84c31f9538bc3393d18786>
                 - [x] eslint-plugin-no-ignore-returned-union のリリース
@@ -16,13 +16,16 @@
                 - [x] gitのhookでformat
                     - 2022/12/08: <https://github.com/igrep/custard/commit/bf6f8e89636ee680511db203a6694a0d6d4bc698>
             - [ ] 末尾再帰の最適化
+                - 2022/12/10:
+                    - 軽くテスト書いた
+                    - PureScriptの実装や変換例もチェックしてる。引数の数だけ状態変数を作ってそれを操作する関数を呼ぶのね
                 - [ ] よく考えたら今すぐには必要ないよなぁ。ちょっと挑戦してみて難しそうだったら諦めよう
 - Haskell入門コンテンツ:
     - [ ] 課題16の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/12/05 - 2022/12/09
+        - 2022/12/05 - 2022/12/10
 
 ------
 
