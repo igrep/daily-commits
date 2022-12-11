@@ -1,35 +1,16 @@
-# 2022/12/05 - 2022/12/11
+# 2022/12/12 - 2022/12/18
 
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 5の実装
-            - [x] `recursive`
-                - 2022/12/05:
-                    - 難しいと思っていた箇所は昨晩ベッドの中で修正方法に気づけて、直せた。残りは無理に直さない方がシンプルでいいかもなぁ
-                - 2022/12/06: 分からんので変数が見つからないときのエラーメッセージは全部`NOTE`を加えよう
-                    - と言うわけで1ヶ月以上ぶりにコミット: <https://github.com/igrep/custard/commit/7fa5cc8618b7a51b1a5e6d4a51c91c126969c1ac>
-            - [x] formatter周りの整備・lintの修正
-                - 2022/12/07: Lintのエラーの扱いが悩ましい... と思っていたら、本当に間違っている箇所があった。修正
-                    - <https://github.com/igrep/custard/commit/3819c3c32f1523c50e84c31f9538bc3393d18786>
-                - [x] eslint-plugin-no-ignore-returned-union のリリース
-                    - 2022/12/09: 細かい修正を加えてリリース <https://www.npmjs.com/package/eslint-plugin-no-ignore-returned-union> し、custard本体でも使用 <https://github.com/igrep/custard/commit/f143832450ba128728e56c8ccf3e4211424aa846>
-                - [x] gitのhookでformat
-                    - 2022/12/08: <https://github.com/igrep/custard/commit/bf6f8e89636ee680511db203a6694a0d6d4bc698>
-            - [ ] 末尾再帰の最適化
-                - 2022/12/10:
-                    - 軽くテスト書いた
-                    - PureScriptの実装や変換例もチェックしてる。引数の数だけ状態変数を作ってそれを操作する関数を呼ぶのね
-                - [x] よく考えたら今すぐには必要ないよなぁ。ちょっと挑戦してみて難しそうだったら諦めよう
-                    - 2022/12/11: やっぱりマクロ機能を作ってからにする！
+            - [ ] 末尾再帰の最適化（マクロを実装してから）
+        - [ ] Step 6
+            - [ ] Step 6として何を実装するか決める
 - Haskell入門コンテンツ:
     - [ ] 課題16の不足箇所を埋める
-        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/113d585a9614f14157accbe3257e476a14ff5ef2>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
-    - 2022/12/11: cabal-installをmasterから最新安定版に変えたところまたコンパイルエラーが
-        - 直した上で、コマンドラインオプションを加えて使いやすくした
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/12/05 - 2022/12/11
 
 ------
 
@@ -38,4 +19,4 @@
     - [ ] リリース
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/72f999ce99e03a03d4b6af83cccaafdb84b52a45/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/24f10795dfdf36bb8588d83c4e88184653a35303/yesterday.md)
