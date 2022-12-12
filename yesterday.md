@@ -5,12 +5,21 @@
         - [ ] Step 5の実装
             - [ ] 末尾再帰の最適化（マクロを実装してから）
         - [ ] Step 6
-            - [ ] Step 6として何を実装するか決める
+            - [x] Step 6として何を実装するか決める
+                - 2022/12/12: 考えた
+            - [ ] JSの`import`:
+                - [ ] `fs/promises`の関数を呼べるように
+                - [ ] globalの関数を呼べるように
+            - [ ] `await`
+            - [ ] `readString`
+            - [ ] `eval`
+            - [ ] コマンドライン引数の関数を評価できるようにする
 - Haskell入門コンテンツ:
     - [ ] 課題16の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2022/12/12
 
 ------
 
