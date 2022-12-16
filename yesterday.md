@@ -13,16 +13,19 @@
             - [ ] `async`
             - [ ] `await`
             - [ ] `readString`
+            - [ ] `transpile`
+                - 2022/12/15: これも作ろう... と思ったけどglobalの`import`ができてからじゃないとダメだ
             - [ ] `evaluate`
                 - 2022/12/13: 実装開始。`evaluate`と`readString`はbaseとは別の名前空間にしよう
                 - 2022/12/14: テストケース作成
+                - 2022/12/15: もしかしてこれも`import`する仕組みが先にいるのでは？`import`を使うか否かにかかわらず`evaluate`などをライブラリーとして提供してライブラリーを参照できる状態にしないと
             - [ ] コマンドライン引数の関数を評価できるようにする
 - Haskell入門コンテンツ:
     - [ ] 課題16の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/12/12 - 2022/12/14
+        - 2022/12/12 - 2022/12/15
 
 ------
 
