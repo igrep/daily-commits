@@ -14,15 +14,14 @@
             - [ ] `transpile`
             - [ ] `evaluate`
             - [ ] `import`
-            - [ ] コマンドライン引数の関数を評価できるようにする
+                - 2022/12/19: 色々考えた結果、想像以上に難しいことが分かった。
+            - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
 - Haskell入門コンテンツ:
     - [ ] 課題16の不足箇所を埋める
-        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/e68feff171966dd2707924c8248cac802a7dfc39>
-        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/d865197dadcf9bc8137cae409a3333856fb256f1>
-        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/b9f137f52bc610e544a665780fab00e491b2bd20>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2022/12/19
 
 ------
 
