@@ -1,4 +1,4 @@
-# 2022/12/19 - 2022/12/25
+# 2022/12/26 - 2023/01/01
 
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
@@ -15,22 +15,12 @@
             - [ ] `transpile`
             - [ ] `evaluate`
             - [ ] `import`
-                - 2022/12/19: 色々考えた結果、想像以上に難しいことが分かった。
-                - 2022/12/20: 先に必要なのは`await`なのだ
-                - 2022/12/21: ようやく実装が進み出したかな？
-                - 2022/12/22: JSの評価をより安全に、そしてasyncにできるよう修正
-                - 2022/12/23: テスト書いた。なんか思わぬ所で落ちる
-                - 2022/12/24: よく見たら別に想定外ではなかった。`eval`などを`Promise`に変えた結果落ちたテストなどを修正
-                    - ドットによるアクセスの扱いをどういう構造で表現しようかしら...。やっぱり構文レベルでサポートした方がサードパーティーが使いやすいだろうなぁ
-                - 2022/12/25: ドットによるアクセスのパースのテスト・実装
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
 - Haskell入門コンテンツ:
     - [ ] 課題16の不足箇所を埋める
-        - 2022/12/25: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/74315370c72f98431613c9eb14ea5d083f8d5031>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/12/19 - 2022/12/25
 
 ------
 
@@ -39,4 +29,4 @@
     - [ ] リリース
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/de8960370c1b8fa2ea898ca229ef07a63a680e2e/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/96264214cabe0c4ec1e9abae1f6f47dd9d89aad3/yesterday.md)
