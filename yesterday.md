@@ -10,17 +10,18 @@
                 - [ ] globalの関数を呼べるように
             - [ ] `async`
             - [ ] `constAwait`
-                - 2022/12/20: 仕様検討
             - [ ] `readString`
             - [ ] `transpile`
             - [ ] `evaluate`
             - [ ] `import`
+                - 2022/12/26: ライブラリーのパス周りの処理がややこしい...
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
 - Haskell入門コンテンツ:
     - [ ] 課題16の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2022/12/26
 
 ------
 
