@@ -17,13 +17,15 @@
                 - 2022/12/26 - 2022/12/28: ライブラリーのパス周りの処理がややこしい...
                 - 2022/12/29: ようやくパスの解決ができた
                 - 2022/12/30: 次から次へと芋づる式に変更箇所が出るなぁ
+                - 2022/12/31: ようやく核心に近づいてきたかな？
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
 - Haskell入門コンテンツ:
     - [ ] 課題16の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/01fb1649a7da1bdae3deef7fb03d80ba91a2c4d4>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/12/26 - 2022/12/30
+        - 2022/12/26 - 2022/12/31
 
 ------
 
