@@ -14,6 +14,9 @@
             - [ ] `transpile`
             - [ ] `evaluate`
             - [ ] `import`
+                - 2023/01/02: `async/await`修正祭が終わった。REPLで`awwait`が必要な場合に次の式を`then`でラップする処理を加えたが、テストが少ないヒントで落ちる
+                    - workerが転送したオブジェクトが`Promise`だからだった。デバッグしづれぇ
+                    - これで多分できたかな？
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
 - Haskell入門コンテンツ:
     - [ ] 課題16の不足箇所を埋める
@@ -21,6 +24,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2023/01/02
 
 ------
 
