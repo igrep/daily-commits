@@ -1,4 +1,4 @@
-# 2022/12/26 - 2023/01/01
+# 2023/01/02 - 2023/01/08
 
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
@@ -14,11 +14,6 @@
             - [ ] `transpile`
             - [ ] `evaluate`
             - [ ] `import`
-                - 2022/12/26 - 2022/12/28: ライブラリーのパス周りの処理がややこしい...
-                - 2022/12/29: ようやくパスの解決ができた
-                - 2022/12/30: 次から次へと芋づる式に変更箇所が出るなぁ
-                - 2022/12/31: ようやく核心に近づいてきたかな？
-                - 2023/01/01: あちこちをasync/awaitに切り替えるのがめんどい...
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
 - Haskell入門コンテンツ:
     - [ ] 課題16の不足箇所を埋める
@@ -26,7 +21,6 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2022/12/26 - 2022/01/01
 
 ------
 
@@ -35,4 +29,4 @@
     - [ ] リリース
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/96264214cabe0c4ec1e9abae1f6f47dd9d89aad3/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/8d5867054b999d4dbaeba8f090e665da2834acd1/yesterday.md)
