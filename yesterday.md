@@ -16,6 +16,9 @@
                 - 2023/01/05:
                     - `__cu$Context.set`メソッドを`eval`で読んだ結果、結果が`Promise`を含む`Map`になったのが原因らしい
                     - 直したら、今度は`CuSymbol`の他に`PropertyAccess`を追加したことによる修正があちこちに必要なことが分かった
+                - 2023/01/06:
+                    - 引き続き`PropertyAccess`についての対応
+                    - まだ`import`関連のバグがあるらしい
             - [x] `import`
                 - 2023/01/02: `async/await`修正祭が終わった。REPLで`awwait`が必要な場合に次の式を`then`でラップする処理を加えたが、テストが少ないヒントで落ちる
                     - workerが転送したオブジェクトが`Promise`だからだった。デバッグしづれぇ
@@ -29,7 +32,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2023/01/02 - 2023/01/05
+        - 2023/01/02 - 2023/01/06
 
 ------
 
