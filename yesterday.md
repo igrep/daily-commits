@@ -19,6 +19,7 @@
                 - 2023/01/06:
                     - 引き続き`PropertyAccess`についての対応
                     - まだ`import`関連のバグがあるらしい
+                - 2023/01/07: `import`やら`Env`のmutationの管理やらでバグがたくさん見つかった。残る問題は`evaluate`にどう`env`を渡すか、ですね...
             - [x] `import`
                 - 2023/01/02: `async/await`修正祭が終わった。REPLで`awwait`が必要な場合に次の式を`then`でラップする処理を加えたが、テストが少ないヒントで落ちる
                     - workerが転送したオブジェクトが`Promise`だからだった。デバッグしづれぇ
@@ -32,7 +33,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2023/01/02 - 2023/01/06
+        - 2023/01/02 - 2023/01/07
 
 ------
 
