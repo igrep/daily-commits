@@ -20,6 +20,10 @@
                     - 引き続き`PropertyAccess`についての対応
                     - まだ`import`関連のバグがあるらしい
                 - 2023/01/07: `import`やら`Env`のmutationの管理やらでバグがたくさん見つかった。残る問題は`evaluate`にどう`env`を渡すか、ですね...
+                - 2023/01/08:
+                    - 昨日までの修正でできていた別のバグを直した
+                    - `Env`の件は、単純にスレッドをやめた方がいい気がするな。
+                        - 修正してみたところ、`ERR_VM_DYNAMIC_IMPORT_CALLBACK_MISSING`なるエラーが。多分適当に`then`を挟めば解決できるんでしょうけど...
             - [x] `import`
                 - 2023/01/02: `async/await`修正祭が終わった。REPLで`awwait`が必要な場合に次の式を`then`でラップする処理を加えたが、テストが少ないヒントで落ちる
                     - workerが転送したオブジェクトが`Promise`だからだった。デバッグしづれぇ
@@ -29,11 +33,12 @@
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
 - Haskell入門コンテンツ:
     - [ ] 課題16の不足箇所を埋める
-        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/01fb1649a7da1bdae3deef7fb03d80ba91a2c4d4>
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/ad194d12e078a47fe859c21b5a2704403a3ebb3c>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
+    - cabal --versionの出力をパースする関数のテストを書いた。cabalが内部で使っているパース機構をそのまま使うのはやっぱり不向きっぽいので直接parsecを使って書き直すことに
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2023/01/02 - 2023/01/07
+        - 2023/01/02 - 2023/01/08
 
 ------
 
