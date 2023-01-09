@@ -12,6 +12,11 @@
             - [ ] `asyncScope`
             - [ ] `constAwait`
             - [ ] `readString`, `evaluate`
+                - 2023/01/09: vitestで`eval`してdynamic importするのがダメらしい。偶然にもスレッドを分けていたからこれまで問題に出遭わなかったと言うことか...
+                    - <https://github.com/vitest-dev/vitest/issues/960>
+                        - vitestの人にworkaroundのヒントになりそうなことを教えてもらった。そして、今まで知りたくても上手く調べられていなかったVMモジュールの存在を今知った...
+                            - <https://nodejs.org/api/vm.html>
+                            - `vm.runInContext`を使った実装に書き換え中
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
 - Haskell入門コンテンツ:
     - [ ] 課題16の不足箇所を埋める
@@ -19,6 +24,7 @@
     - cabal --versionの出力をパースする関数のテストを書いた。cabalが内部で使っているパース機構をそのまま使うのはやっぱり不向きっぽいので直接parsecを使って書き直すことに
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2023/01/09
 
 ------
 
