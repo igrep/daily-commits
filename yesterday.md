@@ -20,6 +20,7 @@
                 - 2023/01/10: うーん、引数の型によって結果の型が変わるのをやりたいけどむずかしいな
                 - 2023/01/11: やっとfunction overloadの扱い方が分かった気がする
                 - 2023/01/12: `vm.runInContext`を使った実装に書き換え再開
+                - 2023/01/13: `vm.runInContext`の`importModuleDynamically`関数以外のオプションを設定。`importModuleDynamically`はまだ.d.tsになかった！experimentalなんだねぇ
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
 - Haskell入門コンテンツ:
     - [ ] 課題16の不足箇所を埋める
@@ -27,7 +28,7 @@
     - cabal --versionの出力をパースする関数のテストを書いた。cabalが内部で使っているパース機構をそのまま使うのはやっぱり不向きっぽいので直接parsecを使って書き直すことに
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2023/01/09 - 2023/01/12
+        - 2023/01/09 - 2023/01/13
 
 ------
 
