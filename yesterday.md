@@ -22,14 +22,19 @@
                 - 2023/01/12: `vm.runInContext`を使った実装に書き換え再開
                 - 2023/01/13: `vm.runInContext`の`importModuleDynamically`関数以外のオプションを設定。`importModuleDynamically`はまだ.d.tsになかった！experimentalなんだねぇ
                 - 2023/01/14: Node.jsのバグっぽい挙動に出遭ったような...一方では動くのにもう一方では動かない...
+                - 2023/01/15:
+                    - vitestを介さずに`vm.runInContext`の中で`import`したら普通に動く。となると原因はvitestの方なんだろうか
+                    - とりあえず`import()`を直接呼び出してもうまく行かない場合に備えて、自前でmoduleを作って返す処理を実装してみている。概ねいい感じ
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
 - Haskell入門コンテンツ:
     - [ ] 課題16の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/b6072ac950db64ba407796a017eddbb66e9ec009>
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/1d55f91fa4c24aeca838958c3bdef771f76d33e0>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
-    - cabal --versionの出力をパースする関数のテストを書いた。cabalが内部で使っているパース機構をそのまま使うのはやっぱり不向きっぽいので直接parsecを使って書き直すことに
+    - 2023/01/15: ようやく`cabal --version`の結果をパースする処理のテストを通せた。結局Cabal-syntaxにあった仕組みは全く使わず自分で書いた。まぁ明らかに要件が異なるし...
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2023/01/09 - 2023/01/14
+        - 2023/01/09 - 2023/01/15
 
 ------
 
