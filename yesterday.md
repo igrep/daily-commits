@@ -13,13 +13,16 @@
             - [ ] `constAwait`
             - [ ] `readString`, `evaluate`
                 - 2023/01/16 - 2023/01/17: `import`で指定した文字列の処理がややこしいのう...
+                - 2023/01/18:
+                    - `node:fs`のようなライブラリーを自力で解決するのは難しいので、fallback linkerと普通の`import`を呼び出すことによるlinkerは、都度試すようにした方がよさそう。問題は、普通の`import`が失敗するときのエラーは`link`時なのか`evaluate`時なのか、と思ったけど別にどっちでもいいな...
+                    - うーん、できた、と思ったらなぜかまた`Error: Provided module is not an instance of Module`が起きてしまう。所々動いているように見えたのは一体何だったの...。どうも`SourceTextModule`を使ったアプローチも失敗っぽいね...
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
 - Haskell入門コンテンツ:
     - [ ] 課題16の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2023/01/16 - 2023/01/17
+        - 2023/01/16 - 2023/01/18
 
 ------
 
