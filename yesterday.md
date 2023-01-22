@@ -1,4 +1,4 @@
-# 2023/01/16 - 2023/01/22
+# 2023/01/16 - 2023/01/29
 
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
@@ -12,26 +12,12 @@
             - [ ] `asyncScope`
             - [ ] `constAwait`
             - [ ] `readString`, `evaluate`
-                - 2023/01/16 - 2023/01/17: `import`で指定した文字列の処理がややこしいのう...
-                - 2023/01/18:
-                    - `node:fs`のようなライブラリーを自力で解決するのは難しいので、fallback linkerと普通の`import`を呼び出すことによるlinkerは、都度試すようにした方がよさそう。問題は、普通の`import`が失敗するときのエラーは`link`時なのか`evaluate`時なのか、と思ったけど別にどっちでもいいな...
-                    - うーん、できた、と思ったらなぜかまた`Error: Provided module is not an instance of Module`が起きてしまう。所々動いているように見えたのは一体何だったの...。どうも`SourceTextModule`を使ったアプローチも失敗っぽいね...
-                - 2023/01/19: 元のworkerを使った実装に舵を切った。
-                    - とりあえずまたworkerにevalさせる実装に戻せた。次は`transpile`も含めてworkerで行うことで、`Env`をやりとりできない問題を解決しよう
-                - 2023/01/20: `Env`をどういう構造にしてどう初期化させるとか、迷うなぁ
-                    - 現在transpileしているファイルごとにスコープの情報などを切り分ける、とかも考えたけど、現状はJSファイルしか直接`import`できないわけだからとりあえず後回しかなー。なのでファイル切り替えのことは当面考えないで作ろう
-                - 2023/01/21: `Repl`をクラスにすることで`Worker`が増えても対応できそうにした。まだまだ大手術が続くぞ
-                - 2023/01/22: 大手術引き続き。使う側は`Env`を直接触るんじゃなくて`Repl`オブジェクトを渡すことになるのだから、使う側に向けた入り口に相当するものが`transpile`, `evaluate`それぞれに必要なんだろう。どういう名前にするかな
-                    - 従来のものに`internal`ってプレフィックスをつけるか
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
 - Haskell入門コンテンツ:
     - [ ] 課題16の不足箇所を埋める
-        - 2023/01/22: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/200674bbaf2098e45eeac66904e1fedf79da3e77>。ようやく次回には課題16が終われそうだ。
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
-    - 2023/01/22: `cabal --version`による切り分けもできた。後は動作確認だけど、もう疲れたし来週でいいかなぁ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2023/01/16 - 2023/01/22
 
 ------
 
@@ -40,4 +26,4 @@
     - [ ] リリース
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/e04771dd1826c3cd1bf5674bb397f0ecd7359cf3/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/5f974508722fa2a24ce80db2e1449b5904c5ef28/yesterday.md)
