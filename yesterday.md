@@ -12,12 +12,14 @@
             - [ ] `asyncScope`
             - [ ] `constAwait`
             - [ ] `readString`, `evaluate`
+                - 2023/01/23: 新しい「入り口」のAPIができた
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
 - Haskell入門コンテンツ:
     - [ ] 課題16の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2023/01/23
 
 ------
 
