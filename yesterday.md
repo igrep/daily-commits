@@ -16,15 +16,17 @@
                 - 2023/01/24: 引き続き大手術
                 - 2023/01/25: `transpileModule`ができたっぽい。でもテストは後回しかな～。REPL向けにtranspileした結果とModule向けにtranspileした結果の差が大きくなってしまったので、どこかでやらないと
                 - 2023/01/26: ようやく新しい`eval`の実装に着手
+                - 2023/01/27: 新しい`eval`が概ねできたはず
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
 - Haskell入門コンテンツ:
     - [ ] 課題16の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2023/01/23 - 2023/01/26
+        - 2023/01/23 - 2023/01/27
 - その他:
     - 2023/01/25: 個人用URL修正bookmarkletのプロジェクトを作った <https://github.com/igrep/clean-up-url-bookmarklet>。初期設定諸々やっただけ
+    - 2023/01/27: ビルドスクリプト設定
 
 ------
 
