@@ -1,4 +1,4 @@
-# 2023/01/30 - 2023/02/05
+# 2023/02/06 - 2023/02/12
 
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
@@ -10,30 +10,13 @@
             - [ ] `asyncScope`
             - [ ] `constAwait`
             - [ ] `readString`, `evaluate`
-                - 2023/01/30: とりあえずbase.test.tsを一部修正したけど、Replオブジェクトをテスト間で共有するような工夫をしたいねぇ。都度スレッド作成は重いと思うし...
-                    - と、思ったけど実際にどれくらい重いか分からないし、結構重たい修正になりそうだし、ひとまずテスト終了後にスレッドが残っちゃうのを防ぐような実装に変えた
-                - 2023/01/31:
-                    - internal/env.test.ts についてまだテストが落ちていたので修正
-                    - 新しい仕様に移行できたはずの eval/base.test.ts の調査中。もしかしてログファイルはスレッドごとに書き出さないとダメかー
-                        - ううー、スレッドごとに分けたはずがログファイルに何も書き込まれていないように見えるんだけどなんで...
-                - 2023/02/01: なぜか何をしても出力が一切出ない。多分。`test`関数を実行しようとした時点でなぜかエラーになっているっぽい
-                    - 多分、`test`を実行しようとした時点でvitestが`postMessage`していて、その`postMessage`するオブジェクトになぜか関数が混ざってしまっている模様
-                - 2023/02/02: とりあえずvitestを更新したり再現ケースの最小化にチャレンジしたり
-                    - と思ったらvitest更新できてない！npmの使い方間違ってる！
-                - 2023/02/03: npm-check-update でvitestなどを更新。件のエラーは相変わらず発生するものの、より詳細になった
-                - 2023/02/04: 改めて新しくなったエラーを読んでみたら原因すぐ分かった。どうやらvitestのデバッグログが出ない問題は解消されたようだ。ありがたや。
-                    - と、いうわけで新たに発覚した問題を直すべく、次は標準モジュールの形式を、普通のESMになるよう書き換えなくては
-                - 2023/02/05: 大半の関数をESMにできた。今度は`meta.import`のように、Custardから`import`したい識別子が予約語である場合の扱いがちょっと面倒ね
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
 - Haskell入門コンテンツ:
-    - [x] 課題16の不足箇所を埋める
-        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/9ca96b088bef93d0d50f54d21afd8083be0b9f42>
+    - [ ] 課題17の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
-    - 2023/02/05: ビルドしたのを再インストールしただけ
 - [ ] 個人用URL修正bookmarkletのプロジェクト
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2023/01/30 - 2023/02/05
 
 ------
 
@@ -42,4 +25,4 @@
     - [ ] リリース
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/e998db763b6afb7ad3a92b7e90b181989cdb5ad8/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/e8ebbd76d5b913939b3db290984ac944dea9a313/yesterday.md)
