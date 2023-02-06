@@ -10,13 +10,16 @@
             - [ ] `asyncScope`
             - [ ] `constAwait`
             - [ ] `readString`, `evaluate`
+                - 2023/02/06: ESMへの移植が終わったはず
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
-- [ ] 個人用URL修正bookmarkletのプロジェクト
+- [x] 個人用URL修正bookmarkletのプロジェクト
+    - 2023/02/06: だいたいできたと見て良さそうね。
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2023/02/06
 
 ------
 
