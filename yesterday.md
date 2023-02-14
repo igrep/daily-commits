@@ -13,6 +13,9 @@
                 - 2023/02/13:
                     - `fillNamespace`の実装終わり
                     - `referTo`の仕様変更に着手。従来の単純な`Id`型による`referTo`と、`Namespace`の中にマクロや関数が入っている場合などを考慮した`referTo`は別の実装にした方がよさそう
+                - 2023/02/14:
+                    - やっぱり`referTo`の実装を分けるのはよそう。一貫しない挙動になってしまう
+                    - というわけで`Namespace`を考慮した`referTo`の実装虫。`Namespace`における最初の`Id`だけ従来の`referTo`と同じことをしてそれ以外は段階的に中の`scope`を掘っていけばいいんだけど、めんどいね
             - [ ] viteの設定: <https://twitter.com/igrep/status/1623300862419546113>
             - [ ] テスト実行の高速化
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
@@ -21,7 +24,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2023/02/13
+        - 2023/02/13 - 2023/02/14
 
 ------
 
