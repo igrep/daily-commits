@@ -9,7 +9,7 @@
             - [ ] `asyncFn`
             - [ ] `asyncScope`
             - [ ] `constAwait`
-            - [ ] `readString`, `evaluate`
+            - [x] `readString`, `evaluate`
                 - 2023/02/13:
                     - `fillNamespace`の実装終わり
                     - `referTo`の仕様変更に着手。従来の単純な`Id`型による`referTo`と、`Namespace`の中にマクロや関数が入っている場合などを考慮した`referTo`は別の実装にした方がよさそう
@@ -22,15 +22,17 @@
                     - 後テスト一つだけ...！
                 - 2023/02/17: Linuxでテストが全部通った！
                 - 2023/02/18: linterのエラーを修正
+                - 2023/02/19: git commitしたけど、replの挙動がおかしかったり、二つ以上の変数が`await`すべきなケースを考慮できてなかったり、色々バグってるっぽいなぁ。マクロを作るついでに、マクロベースのMonadっぽい機能を提供するか！
             - [ ] viteの設定: <https://twitter.com/igrep/status/1623300862419546113>
             - [ ] テスト実行の高速化
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
+        -  2023/02/19: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/56a6683d376b822d9accbdc79c40f14b0e0080be>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2023/02/13 - 2023/02/18
+        - 2023/02/13 - 2023/02/19
 
 ------
 
