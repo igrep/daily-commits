@@ -4,6 +4,7 @@
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 6
             - [ ] globalのJSの関数を呼べるように
+                - 2023/02/21: API検討
             - [ ] `asyncFn`, `asyncScope`, `asyncProcedure`, `constAwait`
                 - 2023/02/20: 着手。でもちゃんとテストを書くにはJSのglobalが必要ね
             - [ ] viteの設定: <https://twitter.com/igrep/status/1623300862419546113>
@@ -15,7 +16,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2023/02/20
+        - 2023/02/20 - 2023/02/21
 
 ------
 
