@@ -7,6 +7,7 @@
                 - 2023/02/21: API検討
                 - 2023/02/22: 冷静に考えたら機能考えたAPIはいろいろ問題あるので書き直し
                 - 2023/02/23 - 2023/02/24: テスト記述中。せっかくだしテストで欲しくなってきたのでオブジェクトリテラルを作るというのも手かな
+                - 2023/02/25: Objectの構文をどうしようか悩ましいね。Clojureのmapからそのままとってくるとシンプルだけどdesctrcturingの構文がJSより冗長になる <https://clojure.org/guides/destructuring>。若干紛らわしい構文になるけど`:`で区切るってことにするか...
             - [ ] `asyncFn`, `asyncScope`, `asyncProcedure`, `constAwait`
                 - 2023/02/20: 着手。でもちゃんとテストを書くにはJSのglobalが必要ね
             - [ ] refactor: `Writer`をinternalに移す
@@ -19,7 +20,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2023/02/20 - 2023/02/24
+        - 2023/02/20 - 2023/02/25
 
 ------
 
