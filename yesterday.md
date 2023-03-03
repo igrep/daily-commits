@@ -7,6 +7,7 @@
                 - 2023/02/27: Objectの構文定義。やっぱ今の段階ではやり過ぎだったんじゃないか、って気がしてくるねぇ
                 - 2023/02/28: Objectのパーサーまだバグってる
                 - 2023/03/01: エラーハンドリングに問題があったせいでエラーメッセージが分かりづらくなっていたのを修正
+                - 2023/03/02: パーサーの問題を修正
             - [ ] `asyncFn`, `asyncScope`, `asyncProcedure`, `constAwait`
             - [ ] refactor: `Writer`をinternalに移す
             - [ ] viteの設定: <https://twitter.com/igrep/status/1623300862419546113>
@@ -16,7 +17,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2023/02/27 - 2023/03/01
+        - 2023/02/27 - 2023/03/02
 
 ------
 
