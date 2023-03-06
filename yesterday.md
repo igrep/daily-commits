@@ -4,6 +4,10 @@
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 6
             - [ ] globalのJSの関数を呼べるように
+                - 2023/03/06: 残っている型エラーを成敗。いよいよ後は`jsTopLevels`を初期の`Scope`に入れ込む処理だけど、どこで実装するのが適切だろうか
+                    - `loadAsScope`が返す`Scope`と合成する関数を作ってそれと`Scope`を初期化する処理と混ぜれば...
+                        - その辺を一手に引き受けるモジュールが必要そうね。internal/scope.tsでいいかな
+                            - となるとenv.ts辺りにある他のscope関連の処理も...と思ったけど意外とないね
             - [ ] `asyncFn`, `asyncScope`, `asyncProcedure`, `constAwait`
             - [ ] refactor: `Writer`をinternalに移す
             - [ ] viteの設定: <https://twitter.com/igrep/status/1623300862419546113>
@@ -13,6 +17,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2023/03/06
 
 ------
 
