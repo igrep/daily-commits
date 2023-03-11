@@ -12,6 +12,7 @@
                 - 2023/03/08: 問題はエラーハンドリングだった。そして、直したらその根本原因である問題が分かった
                 - 2023/03/09: できたはず。明日コミットしよう
                 - 2023/03/10: できた。意外とlinterのエラーがほとんどなかった <https://github.com/igrep/custard/commit/30939100d12d19a46ceed0c12cb97977091a546e>
+                - 2023/03/11: テストを少し追加
             - [ ] `asyncFn`, `asyncScope`, `asyncProcedure`, `constAwait`
             - [ ] refactor: `Writer`をinternalに移す
             - [ ] viteの設定: <https://twitter.com/igrep/status/1623300862419546113>
@@ -21,7 +22,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2023/03/06 - 2023/03/10
+        - 2023/03/06 - 2023/03/11
 
 ------
 
