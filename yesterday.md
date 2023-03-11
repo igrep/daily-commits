@@ -3,7 +3,7 @@
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 6
-            - [ ] globalのJSの関数を呼べるように
+            - [x] globalのJSの関数を呼べるように
                 - 2023/03/06: 残っている型エラーを成敗。いよいよ後は`jsTopLevels`を初期の`Scope`に入れ込む処理だけど、どこで実装するのが適切だろうか
                     - `loadAsScope`が返す`Scope`と合成する関数を作ってそれと`Scope`を初期化する処理と混ぜれば...
                         - その辺を一手に引き受けるモジュールが必要そうね。internal/scope.tsでいいかな
@@ -11,6 +11,7 @@
                 - 2023/03/07: これでできたか、と思いきやエラーに。なんかオブジェクト型の値を`transpile`した結果がおかしいらしい
                 - 2023/03/08: 問題はエラーハンドリングだった。そして、直したらその根本原因である問題が分かった
                 - 2023/03/09: できたはず。明日コミットしよう
+                - 2023/03/10: できた。意外とlinterのエラーがほとんどなかった <https://github.com/igrep/custard/commit/30939100d12d19a46ceed0c12cb97977091a546e>
             - [ ] `asyncFn`, `asyncScope`, `asyncProcedure`, `constAwait`
             - [ ] refactor: `Writer`をinternalに移す
             - [ ] viteの設定: <https://twitter.com/igrep/status/1623300862419546113>
@@ -20,7 +21,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2023/03/06 - 2023/03/09
+        - 2023/03/06 - 2023/03/10
 
 ------
 
