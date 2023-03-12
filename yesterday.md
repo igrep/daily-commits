@@ -13,16 +13,18 @@
                 - 2023/03/09: できたはず。明日コミットしよう
                 - 2023/03/10: できた。意外とlinterのエラーがほとんどなかった <https://github.com/igrep/custard/commit/30939100d12d19a46ceed0c12cb97977091a546e>
                 - 2023/03/11: テストを少し追加
-            - [ ] `asyncFn`, `asyncScope`, `asyncProcedure`, `constAwait`
+            - [ ] `async.fn`, `async.scope`, `async.procedure`, `await`
+                - 2023/03/12: `await`と`async.scope`の実装に向けて中を整理。Monadっぽい構造によるtop level awaitのサポートはまた今度！
             - [ ] refactor: `Writer`をinternalに移す
             - [ ] viteの設定: <https://twitter.com/igrep/status/1623300862419546113>
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/d0ff35847dc4c037a2a3eb2313d7ad4224cdd03b>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2023/03/06 - 2023/03/11
+        - 2023/03/06 - 2023/03/12
 
 ------
 
