@@ -11,6 +11,7 @@
                     - テスト用の関数を共通化したことによるエラーをすべて修正
                 - 2023/03/23: `await`の定義修正着手
                 - 2023/03/24: `await`の実装ができたはず。後は`async.fn`などで適切にcontextを設定すればOKなはず
+                - 2023/03/25: あとは`forEach`での取り扱いだけ
             - [ ] refactor: `Writer`をinternalに移す
             - [ ] viteの設定: <https://twitter.com/igrep/status/1623300862419546113>
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
@@ -19,7 +20,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2023/03/20 - 2023/03/24
+        - 2023/03/20 - 2023/03/25
 
 ------
 
