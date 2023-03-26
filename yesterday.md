@@ -12,15 +12,17 @@
                 - 2023/03/23: `await`の定義修正着手
                 - 2023/03/24: `await`の実装ができたはず。後は`async.fn`などで適切にcontextを設定すればOKなはず
                 - 2023/03/25: あとは`forEach`での取り扱いだけ
+                - 2023/03/26: 直したつもりがまだエラーに！
             - [ ] refactor: `Writer`をinternalに移す
             - [ ] viteの設定: <https://twitter.com/igrep/status/1623300862419546113>
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/810e2aca3212d2e21dd66f1f3b1f4506a8f69a74>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
-        - 2023/03/20 - 2023/03/25
+        - 2023/03/20 - 2023/03/26
 
 ------
 
