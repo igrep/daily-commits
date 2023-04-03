@@ -4,6 +4,7 @@
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 6
             - [ ] refactor: `Writer`をinternalに移す
+                - 2023/04/03: 昨日までのコードをコミットしてなかったのでlintのエラーを直しつつlinterの警告を直す
             - [ ] viteの設定: <https://twitter.com/igrep/status/1623300862419546113>
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
                 - [ ] `meta.transpileModule`
@@ -13,6 +14,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
+        - 2023/04/03
 
 ------
 
