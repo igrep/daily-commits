@@ -14,6 +14,7 @@
                 - [ ] `meta.transpileModule`（指定したプログラムをtranspileして評価するプログラムをtranspileModuleで作るため）
                     - 2023/04/06: とりあえずテストケースだけ
                     - 2023/04/07: 実装はただre-exportするだけじゃん。後はテストケースの不完全なところを直すだけ
+                    - 2023/04/08: テストケースで`providedSymbols`を作るところでハマる
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
         - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/51d4a1649164afe6897a9aa225de68aea1a001b7>
@@ -21,6 +22,8 @@
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
         - 2023/04/03 - 2023/04/07
+    - [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
+        - 2023/04/08
 
 ------
 
