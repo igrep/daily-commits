@@ -15,15 +15,19 @@
                     - 2023/04/06: とりあえずテストケースだけ
                     - 2023/04/07: 実装はただre-exportするだけじゃん。後はテストケースの不完全なところを直すだけ
                     - 2023/04/08: テストケースで`providedSymbols`を作るところでハマる
+                    - 2023/04/09: パーサーのバグっぽいな、と思ったけどそんなことなかった...。まだテストは通らない
+                        - まずい`switch`文（`case`節を意図せずまたいでしまっている）のが見つかったので直したけど、特に実行結果は変わらないので直らない
+                        - 一つ問題をクリアしたが、最後に`jsTopLevels`で`import`した`eval`が`eval`しないでそのまま文字列を返しているっぽく見える謎が残った
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
-        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/51d4a1649164afe6897a9aa225de68aea1a001b7>
+        - 2023/04/09: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/d118eaddc3886faa841ac5f10ceece5e46f7fd24>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
+    - 2023/04/09: パーサー**以外の**cabal部分を編集する部分ができた模様
 - 読書など:
     - [Modern Compiler Design](https://www.springer.com/jp/book/9781461446989)
         - 2023/04/03 - 2023/04/07
     - [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
-        - 2023/04/08
+        - 2023/04/08 - 2023/04/09
 
 ------
 
