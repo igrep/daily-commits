@@ -1,22 +1,12 @@
-# 2023/04/10 - 2023/04/16
+# 2023/04/17 - 2023/04/23
 
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 6
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
                 - [ ] `meta.transpileModule`（指定したプログラムをtranspileして評価するプログラムをtranspileModuleで作るため）
-                    - 2023/04/10: 何度確認しても、`transpileModule`が返した文字列がおかしいのではなく、単にJSの`eval`が呼ばれてない、というのが問題っぽい。なぜ？
-                    - 2023/04/11: 今日は最近いろいろ更新した関係で、Neovim周りでトラブって本体は進まず。`eslint_d`でprettierを使うのはもうやめた方がよさげなことになったのでやめるようにしていた
-                    - 2023/04/12: 原因は、`transpileModule`の結果を`await`してないからだった...
-                        - 参ったなぁ。現状二つ以上のモジュールを`import`するとうまく行かないってバグがあるし...
-                        - 本質的じゃないし、とりあえず`eval`した結果じゃなくて`transpile`した結果そのもので判定することにした
-                    - 2023/04/13: と思ったけど、例の二つ以上のモジュールを`import`出来ない問題をちゃんと解決するこれまでより遥かに簡単な手段が思いついたので、直そう。なんでもっとこれを早く思いつかなかったのか！
-                    - 2023/04/14: 順調。とりあえず例の複数`import`出来ない問題を除くほとんどすべての問題を解決した上で根本解決する準備ができた
-                    - 2023/04/15: 後はreplかつtop levelの場合で代入する処理を修正すればOKなはず
-                    - 2023/04/16: ちょっとだけ
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
-        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/6484ce59b6c66213a539bd488c059cbff2a8c004>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
@@ -29,4 +19,4 @@
     - [ ] リリース
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/a7d7cf43785ae0a0de27b5e8c59aa6de7067a3a1/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/52e24dcf071abb8a14895d958557c0249863fd53/yesterday.md)
