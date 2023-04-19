@@ -6,12 +6,14 @@
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
                 - [ ] `meta.transpileModule`（指定したプログラムをtranspileして評価するプログラムをtranspileModuleで作るため）
                     - 2023/04/17 - 2023/04/18: 引き続き`const`・`let`のトップレベルかつreplでの挙動を変える件
+                    - 2023/04/19: すべて解決したか？と思いきや、まだうまく行かない。もしかして`set`する方の処理しか書けてないからか...
+                        - `transpileExpression`関数を修正する必要があるわけだけど、この関数ちょっとリファクタリングしたいなぁ...
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
-        - 2023/04/08 - 2023/04/18
+        - 2023/04/08 - 2023/04/19
 
 ------
 
