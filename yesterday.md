@@ -10,12 +10,13 @@
                         - `transpileExpression`関数を修正する必要があるわけだけど、この関数ちょっとリファクタリングしたいなぁ...
                     - 2023/04/20: `_cu$env`に格納したtopLevelの変数を参照するよう修正したけど、これじゃダメだ
                         - isolated-evalで例外が起きたときにtestがtimeoutしてしまう。ちゃんと例外処理はしているはずなのになぁ
+                    - 2023/04/21: `EnvF.referTo`で取得した変数がトップレベルで定義した変数かどうかで分岐するようにしたけど、まだ足りない。後はjsTopLevelの扱いととかかねぇ。
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
-        - 2023/04/08 - 2023/04/20
+        - 2023/04/08 - 2023/04/21
 
 ------
 
