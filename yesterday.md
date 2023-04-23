@@ -1,26 +1,13 @@
-# 2023/04/17 - 2023/04/23
+# 2023/04/24 - 2023/04/30
 
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 6
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
                 - [ ] `meta.transpileModule`（指定したプログラムをtranspileして評価するプログラムをtranspileModuleで作るため）
-                    - 2023/04/17 - 2023/04/18: 引き続き`const`・`let`のトップレベルかつreplでの挙動を変える件
-                    - 2023/04/19: すべて解決したか？と思いきや、まだうまく行かない。もしかして`set`する方の処理しか書けてないからか...
-                        - `transpileExpression`関数を修正する必要があるわけだけど、この関数ちょっとリファクタリングしたいなぁ...
-                    - 2023/04/20: `_cu$env`に格納したtopLevelの変数を参照するよう修正したけど、これじゃダメだ
-                        - isolated-evalで例外が起きたときにtestがtimeoutしてしまう。ちゃんと例外処理はしているはずなのになぁ
-                    - 2023/04/21: `EnvF.referTo`で取得した変数がトップレベルで定義した変数かどうかで分岐するようにしたけど、まだ足りない。後はjsTopLevelの扱いととかかねぇ。相変わらずtimeoutのエラーが出るなぁ
-                    - 2023/04/22: `jsTopLevel`の区別について修正してみたものの、それで直るべき問題さえ直らない
-                        - 理由が全く見当つかないけど、`transpileExpression`をいじったあたりから狂ってしまったなぁ。とりあえず`contextId`ごとにログをとるような仕組みにすべきかねぇ？
-                            - いや、とにかく実行するテストを絞ってデバッグしよう。どうせ原因は概ね一つだろうし...
-                    - 2023/04/23: ちょっとずつデバッグして絞れてはいるけど、まだ全然わからん。
-                        - タイムアウトするときはそもそもworkerにevalForm commandが飛ばせていないらしい
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
-        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/9aa8c084455884fe3793fe23b20365b432baef73>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
-    - 2023/04/23: テストケースを一つ作れた。
 - 読書など:
     - [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
         - 2023/04/08 - 2023/04/23
@@ -32,4 +19,4 @@
     - [ ] リリース
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/52e24dcf071abb8a14895d958557c0249863fd53/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/19cfdb11b986b37c28ad3b5e6c2d94b0a2ab8bae/yesterday.md)
