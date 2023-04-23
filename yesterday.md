@@ -14,12 +14,16 @@
                     - 2023/04/22: `jsTopLevel`の区別について修正してみたものの、それで直るべき問題さえ直らない
                         - 理由が全く見当つかないけど、`transpileExpression`をいじったあたりから狂ってしまったなぁ。とりあえず`contextId`ごとにログをとるような仕組みにすべきかねぇ？
                             - いや、とにかく実行するテストを絞ってデバッグしよう。どうせ原因は概ね一つだろうし...
+                    - 2023/04/23: ちょっとずつデバッグして絞れてはいるけど、まだ全然わからん。
+                        - タイムアウトするときはそもそもworkerにevalForm commandが飛ばせていないらしい
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/9aa8c084455884fe3793fe23b20365b432baef73>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
+    - 2023/04/23: テストケースを一つ作れた。
 - 読書など:
     - [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
-        - 2023/04/08 - 2023/04/22
+        - 2023/04/08 - 2023/04/23
 
 ------
 
