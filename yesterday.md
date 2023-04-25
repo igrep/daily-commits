@@ -6,12 +6,13 @@
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
                 - [ ] `meta.transpileModule`（指定したプログラムをtranspileして評価するプログラムをtranspileModuleで作るため）
                     - 2023/04/24: 調べれば調べるほどようわからん。Node.jsのバグなのか？普通にworker threadがreplyを返していないだけのことに見えるぞ...
+                    - 2023/04/25: Node.jsのバージョンを上げて、タイムアウトをデフォルトの5秒にしてみたところ、`meta`のテストでは再現しなくなった。しかし、テスト全体を実行するとやはりタイムアウトするので依然として同様と思しき問題は発生している模様
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
-        - 2023/04/08 - 2023/04/24
+        - 2023/04/08 - 2023/04/25
 
 ------
 
