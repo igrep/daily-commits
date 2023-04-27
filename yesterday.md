@@ -12,12 +12,13 @@
                         - で、次に見つかった問題は、まだ`transPileState.topLevelValues`の扱いがまだおかしいらしい
                             - 一つは`let`で宣言した変数を`assign`する処理を`transPileState.topLevelValues.set`に変えないといけないのを忘れてる、
                             - もう一つはなぜか`transPileState.topLevelValues`を正しく取得できない問題
+                    - 2023/04/27: 単純な`assign`で起こる問題は回避したけど、`++`などのケースがダメらしい。面倒くさい！
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
-        - 2023/04/08 - 2023/04/26
+        - 2023/04/08 - 2023/04/27
 
 ------
 
