@@ -14,12 +14,14 @@
                             - もう一つはなぜか`transPileState.topLevelValues`を正しく取得できない問題
                     - 2023/04/27: 単純な`assign`で起こる問題は回避したけど、`++`などのケースがダメらしい。面倒くさい！
                     - 2023/04/28: `incrementF`・`decrementF`の問題は解消。残りの原因は何だろう
+                    - 2023/04/29: `Promise.resolve`を直したつもりが正しく参照できない問題がまだ解決できず
+                        - できた。`EnvF.init`で`scopes`の初期値として設定する配列の順番が間違っていた
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
-        - 2023/04/08 - 2023/04/28
+        - 2023/04/08 - 2023/04/29
 
 ------
 
