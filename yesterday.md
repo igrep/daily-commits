@@ -16,12 +16,15 @@
                     - 2023/04/28: `incrementF`・`decrementF`の問題は解消。残りの原因は何だろう
                     - 2023/04/29: `Promise.resolve`を直したつもりが正しく参照できない問題がまだ解決できず
                         - できた。`EnvF.init`で`scopes`の初期値として設定する配列の順番が間違っていた
+                    - 2023/04/30: 今日は`meta.evaluate`で`_cu$env`を正しく参照できてない問題を直した。強引に`_cu$env`をscopeに突っ込むのは止めて、参照するJSのコードを直接組み立てることにした
+                        - 残りの問題はよく分からないなぁ。一見うまくできているように見えるけど...
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/a2c5da4ceede41260196874f1cbffbbe9ffc8a87>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
-        - 2023/04/08 - 2023/04/29
+        - 2023/04/08 - 2023/04/30
 
 ------
 
