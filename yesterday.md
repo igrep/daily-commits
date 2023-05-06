@@ -12,12 +12,13 @@
                 - 2023/05/04: 「指定したプログラムをtranspileして評価するプログラムをtranspileModuleで作る」ためには、今のREPL全体をcustardで書き直さないとコマンドが一つにならないし、やっぱ独立して作ってしまうか...。mal.jsを改善しながら思った。mal.jsに適当なコマンドラインパーサーを加えて整えよう。
                     - と、いうわけでコマンドラインパーサーにどのライブラリーを使うか考えていた。やっぱcommanderだなぁ。やっぱJSだとなかなかHaskellのoptparse-applicativeのように綺麗なのはできないね
                 - 2023/05/05: commanderを使ってサブコマンドを分けて作っているところ
+                - 2023/05/06: providedSymbols をcustardで設定することにした
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
-        - 2023/04/08 - 2023/05/05
+        - 2023/04/08 - 2023/05/06
 
 ------
 
