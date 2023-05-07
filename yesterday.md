@@ -1,24 +1,12 @@
-# 2023/05/01 - 2023/05/07
+# 2023/05/08 - 2023/05/14
 
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 6
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
-                - [x] `meta.transpileModule`（指定したプログラムをtranspileして評価するプログラムをtranspileModuleで作るため）
-                    - 2023/05/01: やっとテストを全部パスした...。後はリファクタリングかな
-                    - 2023/05/02: リファクタリングできた、と思いきや、テストがめっちゃ落ちる。多分に評価順が変わったせいだねぇ。案外すぐ直せたけど。
-                        - 欲が出て関係ないところだけど他にもリファクタリングしたくなってきた
-                    - 2023/05/03: 想定通りリファクタリングできた。コードも少しすっきりしたし、パフォーマンス上も多少なりメリットがあるだろう。あと、`AsyncFunction`のconstructorの問題について調べたけど、思った通りに再現しなかった
-                - 2023/05/04: 「指定したプログラムをtranspileして評価するプログラムをtranspileModuleで作る」ためには、今のREPL全体をcustardで書き直さないとコマンドが一つにならないし、やっぱ独立して作ってしまうか...。mal.jsを改善しながら思った。mal.jsに適当なコマンドラインパーサーを加えて整えよう。
-                    - と、いうわけでコマンドラインパーサーにどのライブラリーを使うか考えていた。やっぱcommanderだなぁ。やっぱJSだとなかなかHaskellのoptparse-applicativeのように綺麗なのはできないね
-                - 2023/05/05: commanderを使ってサブコマンドを分けて作っているところ
-                - 2023/05/06: providedSymbols をcustardで設定することにした
-                - 2023/05/07: providedSymbolsを読む処理の実装中
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
-        - 2023/05/07: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/a5dca04e9d834a8b203bdfd00aebb30fa96f53dc>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
-    - 2023/05/07: 簡単にパーサーを書いたが、全くパーサーがマッチしていないらしい。あと、フィールドの終端を検出するためにはcabalファイルのオフサイドルールを考慮しないといけないことに気づいた...
 - 読書など:
     - [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
         - 2023/04/08 - 2023/05/07
@@ -30,4 +18,4 @@
     - [ ] リリース
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/a63e0f9b7ea2b550a887bb6089cd8c62cd3ac9d9/yesterday.md)使って
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/e5abf2ae506be5f1f517d6de30a9e5feef7630ee/yesterday.md)
