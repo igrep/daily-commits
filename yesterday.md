@@ -13,12 +13,15 @@
                     - と、いうわけでコマンドラインパーサーにどのライブラリーを使うか考えていた。やっぱcommanderだなぁ。やっぱJSだとなかなかHaskellのoptparse-applicativeのように綺麗なのはできないね
                 - 2023/05/05: commanderを使ってサブコマンドを分けて作っているところ
                 - 2023/05/06: providedSymbols をcustardで設定することにした
+                - 2023/05/07: providedSymbolsを読む処理の実装中
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
+        - 2023/05/07: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/a5dca04e9d834a8b203bdfd00aebb30fa96f53dc>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
+    - 2023/05/07: 簡単にパーサーを書いたが、全くパーサーがマッチしていないらしい。あと、フィールドの終端を検出するためにはcabalファイルのオフサイドルールを考慮しないといけないことに気づいた...
 - 読書など:
     - [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
-        - 2023/04/08 - 2023/05/06
+        - 2023/04/08 - 2023/05/07
 
 ------
 
