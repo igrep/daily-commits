@@ -10,12 +10,14 @@
                 - 2023/05/18: object、というかkey valuesの構文を、もっとJSのそれに近くなるよう見直している。今の中途半端な状態より、arrayもそうした方がいいだろうな
                     - ってことでテストが概ね書けた。不足がないかな？
                 - 2023/05/19: Arrayのliteralもついでに作った方がいいことに気づいたのでテストケースや型設計を書いた
+                - 2023/05/20: Arrayのliteralやkey valuesのtranspileの修正ができた
+                    - objectの構文の解釈で怪しい（validationが不十分な）部分はあるけど
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
-        - 2023/04/08 - 2023/05/19
+        - 2023/04/08 - 2023/05/20
 
 ------
 
