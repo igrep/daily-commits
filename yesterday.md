@@ -12,12 +12,13 @@
                         - 簡単なことだった。baseモジュールに入っているのは基本`DirectWriter`などだけだったから気づかなかったけど、肝心の`builtinModulePaths`で指定したモジュールを一つも`import`していなかったのだ...
                 - 2023/05/24: 設計に少し自信が持てない。`EnvF.init`で初期化した後で必要な識別子を`import`するようにすればいいんだろうけど、`EnvF.init`の中でそれをやるのは、これまでの`EnvF.init`の挙動と比べて少し重たい処理に思える。でも確実に必要になるのは間違いないし、やっておくかぁ
                     - `TranspileState`が`repl`の場合、見つかったtop levelの変数の初期化を`eval`して、`module`の場合、top levelの変数の初期化をpreambleとして、コードを保持しておくか
+                - 2023/05/25: 実装着手。`const`がobjectのdestructuringをサポートしないと、と思いきや、`import`関数でサポートする必要があるのか
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
-        - 2023/04/08 - 2023/05/24
+        - 2023/04/08 - 2023/05/25
 
 ------
 
