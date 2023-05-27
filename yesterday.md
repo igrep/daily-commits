@@ -14,12 +14,13 @@
                     - `TranspileState`が`repl`の場合、見つかったtop levelの変数の初期化を`eval`して、`module`の場合、top levelの変数の初期化をpreambleとして、コードを保持しておくか
                 - 2023/05/25: 実装着手。`const`がobjectのdestructuringをサポートしないと、と思いきや、`import`関数でサポートする必要があるのか
                 - 2023/05/26: 引き続き実装
+                - 2023/05/27: `import`を`const`と同様に再帰呼び出し関連のあれこれを想定して実装しないといけないと気づき、共通化しているところ。ついでにオブジェクトのdestructuringもサポートだ！
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
-        - 2023/04/08 - 2023/05/26
+        - 2023/04/08 - 2023/05/27
 
 ------
 
