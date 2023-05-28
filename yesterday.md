@@ -15,12 +15,15 @@
                 - 2023/05/25: 実装着手。`const`がobjectのdestructuringをサポートしないと、と思いきや、`import`関数でサポートする必要があるのか
                 - 2023/05/26: 引き続き実装
                 - 2023/05/27: `import`を`const`と同様に再帰呼び出し関連のあれこれを想定して実装しないといけないと気づき、共通化しているところ。ついでにオブジェクトのdestructuringもサポートだ！
+                - 2023/05/28: `const`の新しい仕様のためにテストを追加。コミットを整理しなければテストがまともに実行できない状態になってしまっていたので整理
+                    - ...整理したつもりだけど、まだ新しく追加したテスト以外も大量に落ちる。何を間違えた？
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
+        - 2023/05/28: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/10197f35f9a73aba781934a5c3c8f15a0e87dc08>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
-        - 2023/04/08 - 2023/05/27
+        - 2023/04/08 - 2023/05/28
 
 ------
 
