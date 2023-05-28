@@ -24,6 +24,7 @@
 - 読書など:
     - [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
         - 2023/04/08 - 2023/05/28
+            - 読了。後半全然分からなかったけど、JSCがどう最適化するかの大まかな理解は得られたかな？
 
 ------
 
