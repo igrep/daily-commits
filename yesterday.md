@@ -1,30 +1,14 @@
-# 2023/05/22 - 2023/05/28
+# 2023/05/29 - 2023/06/04
 
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 6
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
-                - 2023/05/22: まだうまく行かない。理由を調べているうちに、eslint-plugin-no-ignore-returned-unionのバグを見つけてしまった。多分このバグのせいでfalse negativeとなってしまったのが根本原因だ...
-                    - サクッと直せるやろ、と思ったら結構大変。もうほぼ直せたも同然だけど...
-                - 2023/05/23:
-                    - 直せた、後はリリースだけ、と思いきや、まさか手元にあったローカルがリモートより古いものを指していたとは...。マージがしんどかった
-                    - で、無事false negativeとなっているせいで起きていた問題を直したけど、相変わらず直面している問題は発生する。まさかこれが原因じゃなかったとは！
-                        - 簡単なことだった。baseモジュールに入っているのは基本`DirectWriter`などだけだったから気づかなかったけど、肝心の`builtinModulePaths`で指定したモジュールを一つも`import`していなかったのだ...
-                - 2023/05/24: 設計に少し自信が持てない。`EnvF.init`で初期化した後で必要な識別子を`import`するようにすればいいんだろうけど、`EnvF.init`の中でそれをやるのは、これまでの`EnvF.init`の挙動と比べて少し重たい処理に思える。でも確実に必要になるのは間違いないし、やっておくかぁ
-                    - `TranspileState`が`repl`の場合、見つかったtop levelの変数の初期化を`eval`して、`module`の場合、top levelの変数の初期化をpreambleとして、コードを保持しておくか
-                - 2023/05/25: 実装着手。`const`がobjectのdestructuringをサポートしないと、と思いきや、`import`関数でサポートする必要があるのか
-                - 2023/05/26: 引き続き実装
-                - 2023/05/27: `import`を`const`と同様に再帰呼び出し関連のあれこれを想定して実装しないといけないと気づき、共通化しているところ。ついでにオブジェクトのdestructuringもサポートだ！
-                - 2023/05/28: `const`の新しい仕様のためにテストを追加。コミットを整理しなければテストがまともに実行できない状態になってしまっていたので整理
-                    - ...整理したつもりだけど、まだ新しく追加したテスト以外も大量に落ちる。何を間違えた？
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
-        - 2023/05/28: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/10197f35f9a73aba781934a5c3c8f15a0e87dc08>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
-    - [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
-        - 2023/04/08 - 2023/05/28
-            - 読了。後半全然分からなかったけど、JSCがどう最適化するかの大まかな理解は得られたかな？
+    - [Software Design 2023年5月号](https://gihyo.jp/magazine/SD/archive/2023/202305)
 
 ------
 
@@ -33,4 +17,4 @@
     - [ ] リリース
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/f4ed1deb1a05c73f1c4a9d530bdeb1eb3a07bd00/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/97220d6da1207f214c3acc3fe90680824d73949b/yesterday.md)
