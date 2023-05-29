@@ -4,11 +4,14 @@
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 6
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
+                - 2023/05/29: どうもworker threadとの同期が上手くとれていないのか、isolated-evalの中にdebug logを仕込むとmetaやasyncモジュールが絡むテストで失敗してしまう。debug logを消すか、実行するテストケースを一つに絞ると再現しない。どうも`env`を`Map`に`set`し損ねている（あるいは不正な`contextId`を作ってしまっている）ように見える。とりあえず無視するか...
+                    - ってことで少し実装を進めた
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Design 2023年5月号](https://gihyo.jp/magazine/SD/archive/2023/202305)
+        - 2023/05/29
 
 ------
 
