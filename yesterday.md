@@ -1,4 +1,4 @@
-# 2023/05/29 - 2023/06/04
+# 2023/06/05 - 2023/06/11
 
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
