@@ -13,12 +13,14 @@
                 - 2023/06/02: REPL top levelかつ`KeyValues`の場合を実装、したつもりだけどこれまだまだ考えることがたくさんあるねぇ
                     - テストも落ちてる。パッと見た感じ、REPL top level向けではなく普通のコードを吐いてしまっているらしい
                 - 2023/06/03: `const`や`let`をtranspileしているは時に実行されるべきデバッグコードがなぜか出力しない
+                - 2023/06/04: 相変わらずちょくちょく謎のタイムアウトが発生するけど、一つバグを直した。簡単なミスだった
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
+        - 2023/06/04: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/494ca173bf9df59e1c95a4d607dd104c7c330d50>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Design 2023年5月号](https://gihyo.jp/magazine/SD/archive/2023/202305)
-        - 2023/05/29 - 2023/06/03
+        - 2023/05/29 - 2023/06/04
 
 ------
 
