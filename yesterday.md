@@ -11,12 +11,16 @@
                 - 2023/06/08: デバッグコード曰く、なぜか`dropContext`がコードを評価するより前で発生してしまっているらしい。
                 - 2023/06/09: デバッグコード追加。やっぱ面倒くさいし、素直に`import`に変えた方がいいんじゃないか？
                 - 2023/06/10: data URIの`import`に切り替えるのに向けて、現状をgit commit
+                - 2023/06/11: data URIへ切り替えてみたけどまだ同じ問題が再現しているような...
+                    - と、思ったけどデバッグログを増やしたらなんか違うっぽいぞ？
+                        - 吐き出したコードのバグだった！`_cu$env.transpileState.topLevelValues.get("f")()._cu$env` なんてやってる！
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/6b3d2d56e22cbdcb252bb7ab04da7254bdddce6b>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Design 2023年5月号](https://gihyo.jp/magazine/SD/archive/2023/202305)
-        - 2023/05/29 - 2023/06/10
+        - 2023/05/29 - 2023/06/11
 
 ------
 
