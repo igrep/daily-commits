@@ -1,21 +1,11 @@
-# 2023/06/12 - 2023/06/18
+# 2023/06/19 - 2023/06/25
 
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 6
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
-                - 2023/06/12: 昨日気づいたバグを一部直した
-                - 2023/06/13: 昨日気づいたバグを引き続き直した。後はその前から分かっていたバグXだけ...と思いきや、二重に間違えている？
-                    - テストのexpectedな結果がバグXによっておかしくなった場合をexpectしている。一方、実装はバグXを抱えているはずなのにバグXの影響を受けていなさそうな結果になっている。なぜ？
-                - 2023/06/14: やはりテストが間違っていたので直した。あと、残っていたバグも直した。次はようやく本題の「肝心の`builtinModulePaths`で指定したモジュールを一つも`import`していなかったのだ...」問題か。この問題に取り組み始めてからもう3週間以上も経っていたとは...。`import`をまるまる実装し直すつもりでやりましょう。トップレベルの`import`は先頭付近にまとめる方向で
-                - 2023/06/15: とりあえず`isolated-eval`の型を変える所から始めた
-                - 2023/06/16: `internal/eval`の修正がだいたいできた
-                - 2023/06/17: `internal/transpile`の修正をちょっとだけ。まだかかりそう
-                - 2023/06/18: `internal/transpile`の修正をまたちょっとだけ。タグ付きテンプレートリテラルを使うのがよさそう、と思ったけどやっぱ違うな
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
-        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/7cd2608eeadcbff495a09f58eb0e17f8e33653b1>
-        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/9ccba916ae8dddd0c18d4662acbed22f56152c55>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Design 2023年5月号](https://gihyo.jp/magazine/SD/archive/2023/202305)
@@ -28,4 +18,4 @@
     - [ ] リリース
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/9f86b6f1d20b08d7d3332a1ad3c9f146c43b471c/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/ffbed04994131d8c9e3682c2df712d7e0b6fb606/yesterday.md)
