@@ -11,12 +11,15 @@
                 - 2023/06/15: とりあえず`isolated-eval`の型を変える所から始めた
                 - 2023/06/16: `internal/eval`の修正がだいたいできた
                 - 2023/06/17: `internal/transpile`の修正をちょっとだけ。まだかかりそう
+                - 2023/06/18: `internal/transpile`の修正をまたちょっとだけ。タグ付きテンプレートリテラルを使うのがよさそう
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/7cd2608eeadcbff495a09f58eb0e17f8e33653b1>
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/9ccba916ae8dddd0c18d4662acbed22f56152c55>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Design 2023年5月号](https://gihyo.jp/magazine/SD/archive/2023/202305)
-        - 2023/05/29 - 2023/06/17
+        - 2023/05/29 - 2023/06/18
 
 ------
 
