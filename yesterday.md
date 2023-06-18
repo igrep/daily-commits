@@ -11,7 +11,7 @@
                 - 2023/06/15: とりあえず`isolated-eval`の型を変える所から始めた
                 - 2023/06/16: `internal/eval`の修正がだいたいできた
                 - 2023/06/17: `internal/transpile`の修正をちょっとだけ。まだかかりそう
-                - 2023/06/18: `internal/transpile`の修正をまたちょっとだけ。タグ付きテンプレートリテラルを使うのがよさそう
+                - 2023/06/18: `internal/transpile`の修正をまたちょっとだけ。タグ付きテンプレートリテラルを使うのがよさそう、と思ったけどやっぱ違うな
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
         - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/7cd2608eeadcbff495a09f58eb0e17f8e33653b1>
