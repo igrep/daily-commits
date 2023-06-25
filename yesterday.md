@@ -7,12 +7,14 @@
                 - 2023/06/19 - 2023/06/20: 引き続き。愚直に修正中
                 - 2023/06/21 - 2023/06/23: どこで`JsModule`として結合してどこで`JsSrc`として結合するべきか迷いながらも修正中
                 - 2023/06/24: ちょっとだけ
+                - 2023/06/25: lib/base/safe.ts と lib/base/common.ts の修正ができた
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/421e5943b00f8ddef28875f9f7807d0e9bd0902f>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Design 2023年5月号](https://gihyo.jp/magazine/SD/archive/2023/202305)
-        - 2023/05/29 - 2023/06/24
+        - 2023/05/29 - 2023/06/25
 
 ------
 
