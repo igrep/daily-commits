@@ -11,12 +11,14 @@
                 - 2023/07/01: ここまでの変更をgit commitし、次の設計を考えた
                     - やっぱり`import`と普通のソースを一緒に`Writer`の戻り値にして組み立てるのは失敗だったかも。単純にオーバーキルではないかって気はする
                     - それはそれとして、`builtinModulePaths`のモジュールはどうやって`import`させたものか
+                - 2023/07/02: そもそも`ProvidedSymbolsConfig`の設計が不適切なことに気づいた。また結構大きな変更だなぁ
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/7510b4c431e21771f4d6ccc12b64a7b1d85e4b97>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Design 2023年6月号](https://gihyo.jp/magazine/SD/archive/2023/202306)
-        - 2023/06/26 - 2023/07/01
+        - 2023/06/26 - 2023/07/02
 
 ------
 
