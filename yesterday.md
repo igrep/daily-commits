@@ -1,17 +1,9 @@
-# 2023/06/26 - 2023/07/02
+# 2023/07/03 - 2023/07/09
 
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 6
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
-                - 2023/06/26: ようやく`module.ts`の箇所以外を直せた
-                - 2023/06/27: 型チェック通せた
-                - 2023/06/28 - 2023/06/29: ちょっとバグ修正
-                - 2023/06/30: ここまでのバグを直してテストを通せた
-                - 2023/07/01: ここまでの変更をgit commitし、次の設計を考えた
-                    - やっぱり`import`と普通のソースを一緒に`Writer`の戻り値にして組み立てるのは失敗だったかも。単純にオーバーキルではないかって気はする
-                    - それはそれとして、`builtinModulePaths`のモジュールはどうやって`import`させたものか
-                - 2023/07/02: そもそも`ProvidedSymbolsConfig`の設計が不適切なことに気づいた。また結構大きな変更だなぁ
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
         - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/7510b4c431e21771f4d6ccc12b64a7b1d85e4b97>
@@ -27,4 +19,4 @@
     - [ ] リリース
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/7a64dc04abf28d5df96f32b07c59b6462e5be299/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/83673cf11d67ffd551d60738755355ef30579f66/yesterday.md)
