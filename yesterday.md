@@ -5,13 +5,13 @@
         - [ ] Step 6
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
                 - 2023/07/03: 新たに必要になった`Or` `Spec`を実装
+                - 2023/07/04: 新たに必要になった `Tuple` `Spec`のAPIを考えただけ
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
-        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/7510b4c431e21771f4d6ccc12b64a7b1d85e4b97>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Design 2023年6月号](https://gihyo.jp/magazine/SD/archive/2023/202306)
-        - 2023/06/26 - 2023/07/03
+        - 2023/06/26 - 2023/07/04
 
 ------
 
