@@ -10,13 +10,14 @@
                 - 2023/07/20: 残りのデグレったテストを修正中。構成を変えると共に要らなくなるかもだけど...
                 - 2023/07/21: 残りのテストを直すためには、いい加減`transpile`したモジュールについてのテストを正しくやる方法を検討しないとダメなのかぁ。出力したJSのコードをパースして最後を`export default`する... のがやっぱ正しい方法か...
                     - いや、テスト用に最後のstatementを`export default`するオプションを加える方が手っ取り早いしいいか...。どうせ`evalBlock`でも同じようなことしてるんだから
-                - 2023/07/22: transpileモジュールの修正中
+                - 2023/07/22 - 2023/07/23: transpileモジュールの修正。後はテスト側で`transpileBlock`の新しいオプションを使えばいいはず
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
+        - 2023/07/23: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/5fcf6730512ecc745144d5b938a70b78eef64b9d>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Design 2023年6月号](https://gihyo.jp/magazine/SD/archive/2023/202306)
-        - 2023/06/26 - 2023/07/22
+        - 2023/06/26 - 2023/07/23
 
 ------
 
