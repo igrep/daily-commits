@@ -1,19 +1,11 @@
-# 2023/07/17 - 2023/07/23
+# 2023/07/24 - 2023/07/30
 
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 6
             - [ ] コマンドライン引数で指定したプログラムを評価できるようにする
-                - 2023/07/17: 識別子の初期化方法を完全に変えたので実装し直しになっている箇所を一部実装
-                - 2023/07/18: 昨日の修正で`Env`の初期化方法が一部バグっていたので修正。
-                - 2023/07/19: テスト結果がまた不安定だと思しき事象に出くわした（デバッグコードを入れただけで`env`が`undefined`になって多くのテストがこける）が、とりあえずバグは直せている模様
-                - 2023/07/20: 残りのデグレったテストを修正中。構成を変えると共に要らなくなるかもだけど...
-                - 2023/07/21: 残りのテストを直すためには、いい加減`transpile`したモジュールについてのテストを正しくやる方法を検討しないとダメなのかぁ。出力したJSのコードをパースして最後を`export default`する... のがやっぱ正しい方法か...
-                    - いや、テスト用に最後のstatementを`export default`するオプションを加える方が手っ取り早いしいいか...。どうせ`evalBlock`でも同じようなことしてるんだから
-                - 2023/07/22 - 2023/07/23: transpileモジュールの修正。後はテスト側で`transpileBlock`の新しいオプションを使えばいいはず
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
-        - 2023/07/23: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/5fcf6730512ecc745144d5b938a70b78eef64b9d>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Design 2023年6月号](https://gihyo.jp/magazine/SD/archive/2023/202306)
@@ -26,4 +18,4 @@
     - [ ] リリース
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/e87a9cdce7df93f89c9ccd5369d940b14b18d385/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/16d89d7b58b32c2ee4ee536d3febe2918502bb2c/yesterday.md)
