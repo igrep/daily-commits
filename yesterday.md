@@ -11,6 +11,7 @@
                 - 2023/07/26: `export default`の問題を直した
                     - 例の問題はビンゴだった: <https://twitter.com/igrep/status/1684107002514116608>
                     - 例の問題回避のためにファイル名を生成するモジュールを作成開始
+                - 2023/07/27: ファイル名を生成するモジュール作り
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
@@ -18,7 +19,7 @@
     - [Software Design 2023年6月号](https://gihyo.jp/magazine/SD/archive/2023/202306)
         - 2023/06/26 - 2023/07/23
     - [Software Design 2023年7月号](https://gihyo.jp/magazine/SD/archive/2023/202307)
-        - 2023/07/24 - 2023/07/26
+        - 2023/07/24 - 2023/07/27
 
 ------
 
