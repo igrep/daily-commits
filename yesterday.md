@@ -7,12 +7,14 @@
                 - 2023/07/31:
                     - コマンドラインで実行してみたら、viteとtranspileしたファイルでの`import.meta.url`の違いでバグっていたので直した。この辺分岐させるのめんどい
                     - `standardModuleRoot`をエクスポートしそびれていたり、モジュール周りのバグを修正
+                - 2023/08/01:
+                    - `implicitStatements`で`import`したものについて、REPLで参照する場合、top levelにするものとtop levelより上にするものを分けなければならないらしい。難しいね
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Design 2023年7月号](https://gihyo.jp/magazine/SD/archive/2023/202307)
-        - 2023/07/24 - 2023/07/31
+        - 2023/07/24 - 2023/08/01
 
 ------
 
