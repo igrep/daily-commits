@@ -9,12 +9,14 @@
                     - `standardModuleRoot`をエクスポートしそびれていたり、モジュール周りのバグを修正
                 - 2023/08/01:
                     - `implicitStatements`で`import`したものについて、REPLで参照する場合、top levelにするものとtop levelより上にするものを分けなければならないらしい。難しいね
+                - 2023/08/02: そもそもtop levelが二つあることがおかしいのではないか。top levelでかつ普通の変数だけ`pseudoToplevel`として扱うべきなのでは
+                    - その場合、`jsTopLevels`から来る`const`を別の種類として扱う必要がある模様
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Design 2023年7月号](https://gihyo.jp/magazine/SD/archive/2023/202307)
-        - 2023/07/24 - 2023/08/01
+        - 2023/07/24 - 2023/08/02
 
 ------
 
