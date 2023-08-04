@@ -14,12 +14,15 @@
                 - 2023/08/03:
                     - 「普通の変数」とは`Var`, `Const`, `RecursiveConst`, `Namespace`が該当するらしい
                     - 新しく`OrdinaryVariable`いう`Writer`の分類と、`ProvidedConst`という`Writer`を追加
+                - 2023/08/04:
+                    - テストのデグレを直して改めてcli-transpileを実行してみたら、まだエラーが
+                    - 一つは単純な問題で、`await`忘れだった。しかし`await`を消してみたら、今度は実行が進まなくなってしまった。特にCPUは使用していないので、Promiseの扱いを間違えたのだろうか
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Design 2023年8月号](https://gihyo.jp/magazine/SD/archive/2023/202308)
-        - 2023/08/03
+        - 2023/08/03 - 2023/08/04
 
 ------
 
