@@ -17,12 +17,18 @@
                 - 2023/08/04:
                     - テストのデグレを直して改めてcli-transpileを実行してみたら、まだエラーが
                     - 一つは単純な問題で、`await`忘れだった。しかし`await`を消してみたら、今度は実行が進まなくなってしまった。特にCPUは使用していないので、Promiseの扱いを間違えたのだろうか
+                - 2023/08/05:
+                    - デバッグコードを置いてみた所、どうやら最後まで動いてはいるけど終了しなくなっているようだ。恐らく、workerを終了させていないからだと思われる
+                        - JSConf.jpのSlackで質問したらすぐ回答頂いて直せた！
+                        - 後は、出力先のパスがおかしい問題を直してstep 6は終わりにしよう
+                    - そして、今更だけど`import`とData URI使えばそもそもworker要らないんじゃないかって気がしてきた...。あと、`import.meta.resolve`ってやつを使えばもっと簡潔に書けそう？
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
+        - 2023/08/05: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/472fd02c90d54f32f6d3ebf39cd51eae3532199e>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Design 2023年8月号](https://gihyo.jp/magazine/SD/archive/2023/202308)
-        - 2023/08/03 - 2023/08/04
+        - 2023/08/03 - 2023/08/05
 
 ------
 
