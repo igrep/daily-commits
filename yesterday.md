@@ -2,7 +2,7 @@
 
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
-    - [ ] リファクタリング: worker.tsとrepl.tsを削除・`JsMod`の削除
+    - [x] リファクタリング: worker.tsとrepl.tsを削除・`JsMod`の削除
         - 2023/08/07: `src/transpile.ts`と`src/eval.ts`、`isolated-eval.ts`の修正ができた
         - 2023/08/08: ちょっとだけ
         - 2023/08/09:
@@ -14,14 +14,16 @@
             - そして相変わらずエラーの出方が安定しない。デバッグコード一つで結果が変わることがある。`await`漏れかな、って気もするんだけど、それらしいエラーもないしねぇ
                 - やっぱり`await`忘れだった。多分`eslint-plugin-promise`を有効にし忘れてるからだなー、と思ったらちゃんと有効にしてる。どうなってるんだ！
         - 2023/08/12: 残りのエラーは`JsMod`を削除する件に関するものだった。WebStormの助けもあってほとんどの`JsMod`から`JsSrc`へ移行できた
+        - 2023/08/13: できた
     - アプリケーション作り:
         - [ ] MisskeyかBlueSkyでの発言を保存
 - Haskell入門コンテンツ:
     - [ ] 課題17の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/5f5d70ecd61b6cfe3d59891eff104b182a2958ef>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Design 2023年8月号](https://gihyo.jp/magazine/SD/archive/2023/202308)
-        - 2023/08/03 - 2023/08/12
+        - 2023/08/03 - 2023/08/13
 
 ------
 
