@@ -4,7 +4,8 @@
     - [ ] Conjure・vim-sexpの設定・習得
         - 2023/08/15: 先にこれをすべきなのを忘れていた...。とりあえず必要なプラグインをインストールしただけ
         - 2023/08/16: ちょっとだけ。
-        - [ ] vim-sexpのチュートリアル <http://micahelliott.com/posts/2015-08-20-vim-sexp-cheat-sheet.html>
+        - [x] vim-sexpのチュートリアル <http://micahelliott.com/posts/2015-08-20-vim-sexp-cheat-sheet.html>
+            - 2023/08/17: 一通りやった
         - [ ] Conjureのチュートリアル
         - [ ] ConjureなどNeovimの設定
     - アプリケーション作り:
@@ -16,8 +17,9 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Design 2023年8月号](https://gihyo.jp/magazine/SD/archive/2023/202308)
-        - 2023/08/03 - 2023/08/16
-    - 何読む？
+        - 2023/08/03 - 2023/08/15
+    - [Regular Expression Puzzles and AI Coding Assistants](https://www.manning.com/books/regular-expression-puzzles-and-ai-coding-assistants)
+        - 2023/08/16
 
 ------
 
