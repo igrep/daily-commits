@@ -6,7 +6,8 @@
         - 2023/08/16: ちょっとだけ。
         - [x] vim-sexpのチュートリアル <http://micahelliott.com/posts/2015-08-20-vim-sexp-cheat-sheet.html>
             - 2023/08/17: 一通りやった
-        - [ ] Conjureのチュートリアル
+        - [x] Conjureのチュートリアル
+            - 2023/08/18: 一通りやった。まぁvim-sexp同様身につけるまではまだかかりそうだけど...
         - [ ] ConjureなどNeovimの設定
     - アプリケーション作り:
         - [ ] MisskeyかBlueSkyでの発言を保存
@@ -19,7 +20,7 @@
     - [Software Design 2023年8月号](https://gihyo.jp/magazine/SD/archive/2023/202308)
         - 2023/08/03 - 2023/08/15
     - [Regular Expression Puzzles and AI Coding Assistants](https://www.manning.com/books/regular-expression-puzzles-and-ai-coding-assistants)
-        - 2023/08/16
+        - 2023/08/16 - 2023/08/18
 
 ------
 
