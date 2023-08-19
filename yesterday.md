@@ -9,6 +9,9 @@
         - [x] Conjureのチュートリアル
             - 2023/08/18: 一通りやった。まぁvim-sexp同様身につけるまではまだかかりそうだけど...
         - [ ] ConjureなどNeovimの設定
+            - 2023/08/19:
+                - racketのpluginを参考にftpluginを作り始めた
+                - Conjureの設定作りのためにAniseedのインストール。結構面倒くさそうだし、今は時間を優先したいし、やっぱsyntaxとかを簡単に作って終わりかなぁ
     - アプリケーション作り:
         - [ ] MisskeyかBlueSkyでの発言を保存
             - 2023/08/14: ディレクトリーを作成。とりあえずMisskeyにするか...、と思ったけど今日1日使ってやっぱ知ったアイコンが多いしBlueSkyにする！
@@ -20,7 +23,7 @@
     - [Software Design 2023年8月号](https://gihyo.jp/magazine/SD/archive/2023/202308)
         - 2023/08/03 - 2023/08/15
     - [Regular Expression Puzzles and AI Coding Assistants](https://www.manning.com/books/regular-expression-puzzles-and-ai-coding-assistants)
-        - 2023/08/16 - 2023/08/18
+        - 2023/08/16 - 2023/08/19
 
 ------
 
