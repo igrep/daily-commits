@@ -4,6 +4,7 @@
     - [ ] Conjure・vim-sexpの設定・習得
         - [ ] ConjureなどNeovimの設定
             - 2023/08/21: syntaxファイルができた
+            - 2023/08/22: indentの設定もできた。どうもNeovimのバグっぽい挙動に気づいてしまったので今度報告かなぁ。そんな致命的ではないのでとりあえず後回しするけど...。どうも`setlocal lispwords=`して空っぽにしようとしてもうまく行かないようだ。普通の`set`ならできるのに
     - アプリケーション作り:
         - [ ] MisskeyかBlueSkyでの発言を保存
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
@@ -12,7 +13,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Regular Expression Puzzles and AI Coding Assistants](https://www.manning.com/books/regular-expression-puzzles-and-ai-coding-assistants)
-        - 2023/08/16 - 2023/08/21
+        - 2023/08/16 - 2023/08/22
 
 ------
 
