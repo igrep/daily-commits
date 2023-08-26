@@ -11,6 +11,9 @@
     - アプリケーション作り:
         - [ ] MisskeyかBlueSkyでの発言を保存
             - 2023/08/25: .provided-symbols.cstd を書いただけ
+            - 2023/08/26:
+                - 実装を始めたら、早速`new`を実装できていないことに気づいたので実装
+                - ログインパスワードの扱いがまた面倒くさそうね
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
@@ -19,7 +22,7 @@
     - [Regular Expression Puzzles and AI Coding Assistants](https://www.manning.com/books/regular-expression-puzzles-and-ai-coding-assistants)
         - 2023/08/16 - 2023/08/23
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/08/25
+        - 2023/08/24 - 2023/08/26
 
 ------
 
