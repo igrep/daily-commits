@@ -14,15 +14,19 @@
             - 2023/08/26:
                 - 実装を始めたら、早速`new`を実装できていないことに気づいたので実装
                 - ログインパスワードの扱いがまた面倒くさそうね
+            - 2023/08/27:
+                - provided-symbols.cstdの書き方でまたちょっと悩んだり。
+                - 多分、feedを取得するコードができた。まだtranspileもしてないので分からんけど
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/0a9bb6d7883cfa1625616ccbb37d8cb493e951f2>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Regular Expression Puzzles and AI Coding Assistants](https://www.manning.com/books/regular-expression-puzzles-and-ai-coding-assistants)
         - 2023/08/16 - 2023/08/23
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/08/26
+        - 2023/08/24 - 2023/08/27
 
 ------
 
