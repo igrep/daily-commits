@@ -11,13 +11,14 @@
                 - いっそもっとシンプルに、.provided-symbols.cstdから`node_modules`への相対パスを指定するようにすればいいのでは。そうすれば絶対パスへの変換も簡単になる。何よりNodeの仕様への依存度が下がる
             - 2023/08/30: 昨日決めた方針に従って修正中。新たに`ProvidedSymbolsConfig`を初期化するとき必要になった`from`、デフォルト値はどうしようか
             - 2023/08/31: 後はテストを直せば問題はクリアできてるはず
+            - 2023/09/01: やっぱり`resolveModulePaths`は`EnvF.init`の中で呼ぶのが正解っぽいねぇ。`EnvF.init`のオプションが入力ファイルの名前を持っているし...。本当は別の型にできればいいんだけどねぇ
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/08/31
+        - 2023/08/24 - 2023/09/01
 
 ------
 
