@@ -13,13 +13,15 @@
             - 2023/08/31: 後はテストを直せば問題はクリアできてるはず
             - 2023/09/01: やっぱり`resolveModulePaths`は`EnvF.init`の中で呼ぶのが正解っぽいねぇ。`EnvF.init`のオプションが入力ファイルの名前を持っているし...。本当は別の型にできればいいんだけどねぇ
             - 2023/09/02: テストの失敗を直した
+            - 2023/09/03: .provided-symbols.cstd のディレクトリーから`import`するつもりが、まだうまく行ってないらしい
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/4766b409414ce29f4bf1a91a3954c58a535507ca>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/09/02
+        - 2023/08/24 - 2023/09/03
 
 ------
 
