@@ -1,19 +1,12 @@
-# 2023/09/04 - 2023/09/10
+# 2023/09/11 - 2023/09/17
 
 - custard:
     - [ ] Conjure・vim-sexpの設定・習得
     - アプリケーション作り:
         - [ ] MisskeyかBlueSkyでの発言を保存
-            - 2023/09/04: `EnvF.init`で`resolveModulePaths`したのは失敗かなぁ。provided-symbols.cstdからの相対パスにならない。`Env`を作るときに`provided-symbols.cstd`のパスも一緒に教えるって作りにするかやっぱり
-            - 2023/09/05 - 2023/09/06: 昨日考えたとおりに修正
-            - 2023/09/07: あとテストだけか
-            - 2023/09/08: 直せた！と思いきや、まだ同じような現象が。おかしいなぁ
-            - 2023/09/09: 昨日発生した問題はcli-transpile側のバグだった。その他いくつかバグを直してやっとBlueskyから発言を取得できた！
-            - 2023/09/10: ちょっとだけ。`node:`の`import`をサポートしてなかった
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
-        - 2023/09/10: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/97596ae7574c381882bd553c4607380dd7f4246a>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
@@ -26,4 +19,4 @@
     - [ ] リリース
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/910e12542d7e3e35fe399dbb62ef423549e1d8be/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/b08fde787480504de18f01bad4b26091f8718a24/yesterday.md)
