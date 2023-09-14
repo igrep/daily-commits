@@ -6,10 +6,10 @@
         - [ ] MisskeyかBlueSkyでの発言を保存
             - 2023/09/11: 昨日気づいた、`node:`のモジュールを`import`できない問題を修正
             - 2023/09/12: 最後に処理した投稿の時刻を取得する処理をほぼ全部書いて、transpilerに必要な機能を列挙した
-            - [ ] try/catch/finally
+            - [ ] try/catch/finally/throw
                 - 2023/09/13: できれば式として使えるようにしたいけど、ちょっとめんどくさいし止めとくか...
                     - `scope`と`fn`の最後を式にするって制限はなくてもいいかも
-            - [ ] throw
+                - 2023/09/14: テストケースを実装
             - [ ] meta.directoryOfThisFile, meta.thisFile
             - [ ] `scope`と`fn`の最後は式でなくても良くする
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
@@ -18,7 +18,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/09/13
+        - 2023/08/24 - 2023/09/14
 
 ------
 
