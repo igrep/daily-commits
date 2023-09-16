@@ -11,6 +11,7 @@
                     - `scope`と`fn`の最後を式にするって制限はなくてもいいかも
                 - 2023/09/14: テストケースを実装
                 - 2023/09/15: 実装着手。ちょっとだけ
+                - 2023/09/16: 引き続き実装。面倒なstate machineの手書きになってきた。まあパーサー書いているような門だから当然よね...
             - [ ] meta.directoryOfThisFile, meta.thisFile
             - [ ] `scope`と`fn`の最後は式でなくても良くする
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
@@ -19,7 +20,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/09/15
+        - 2023/08/24 - 2023/09/16
 
 ------
 
