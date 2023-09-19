@@ -4,7 +4,8 @@
     - [ ] Conjure・vim-sexpの設定・習得
     - アプリケーション作り:
         - [ ] MisskeyかBlueSkyでの発言を保存
-            - [ ] meta.directoryOfThisFile, meta.thisFile
+            - [ ] cu$directoryOfThisFile, cu$thisFile
+                - 2023/09/19: 名前を考え直してた。あと`base/safe`に移そう
             - [x] `scope`と`fn`の最後は式でなくても良くする
                 - 2023/09/18: ついでに諸々の制御構文で、空っぽでもいいことにした
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
@@ -13,7 +14,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/09/18
+        - 2023/08/24 - 2023/09/19
 
 ------
 
