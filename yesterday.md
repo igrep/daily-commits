@@ -10,6 +10,7 @@
                     - 単純に`transpileState.srcPath`は相対パスにも絶対パスにもなり得る模様。呼び出しごとに`path.resolve()`しようね
                 - 2023/09/21: 新しい種類の`Writer`を追加。次はテストね
                 - 2023/09/22: テストを追加する前に、一昨日`TranspileOptions`の件をやり直した。これで多分いい
+                - 2023/09/23: テスト追加、一部実装
             - [x] `scope`と`fn`の最後は式でなくても良くする
                 - 2023/09/18: ついでに諸々の制御構文で、空っぽでもいいことにした
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
@@ -18,7 +19,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/09/22
+        - 2023/08/24 - 2023/09/23
 
 ------
 
