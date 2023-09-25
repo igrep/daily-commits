@@ -4,14 +4,16 @@
     - [ ] Conjure・vim-sexpの設定・習得
     - アプリケーション作り:
         - [ ] MisskeyかBlueSkyでの発言を保存
-            - [ ] cu$directoryOfThisFile, cu$thisFile
+            - [x] cu$directoryOfThisFile, cu$thisFile
+                - 2023/09/25: できた
+            - 2023/09/25: ちょっと実装続き
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/09/24
+        - 2023/08/24 - 2023/09/25
 
 ------
 
