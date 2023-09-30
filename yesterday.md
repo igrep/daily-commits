@@ -8,9 +8,13 @@
                 - 2023/09/25: できた
             - [ ] `comment`
             - [ ] `array`モジュール（`base`からreexport）
-                - [ ] `last`
-                - [ ] `takeWhile`
+                - [ ] `last` / `first`
+                - [x] `takeWhile`: よく考えたら今回は要らないね。使わない方法に書き直そう
+                    - 2023/09/30: やっぱり要らない
                 - [ ] `map`
+            - [ ] `labeled` / label付き `break`, `continue`
+            - [x] 取得したpostはindexedAtの降順で並ぶ、と仮定して良いか確認する
+                - 2023/09/30: ドキュメントには書いてなさそうね...
             - 2023/09/25: ちょっと実装続き
             - 2023/09/26: ちょっとだけ
             - 2023/09/27: とりあえずJSONを出力しつつ、markdownにも変換して、igreque.infoにコピーする、という流れにしよう。設定ファイルで指定したディレクトリーを指定することにした
@@ -21,13 +25,14 @@
                 - `res.data.feed`から取り出した`feedViewPost`のうち、最後の`feedViewPost`が指定した時刻より前かどうかを見るために`last`
                 - ` res.data.feed`からJSONに書き出したもののうち、自分以外の投稿をmaskするために`map`
                     - まぁJS標準にあるものを呼ぶだけだろうから、急いで実装しなくてもいい気はする
+            - 2023/09/30: 取得したpostのうち、最後に保存したものより時刻が後のもののみを集める処理を実装。やってみたら必要なものが随分違うことがわかった
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/09/29
+        - 2023/08/24 - 2023/09/30
 
 ------
 
