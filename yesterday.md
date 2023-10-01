@@ -12,7 +12,6 @@
                 - [x] `takeWhile`: よく考えたら今回は要らないね。使わない方法に書き直そう
                     - 2023/09/30: やっぱり要らない
                 - [ ] `map`
-            - [ ] `labeled` / label付き `break`, `continue`
             - [x] 取得したpostはindexedAtの降順で並ぶ、と仮定して良いか確認する
                 - 2023/09/30: ドキュメントには書いてなさそうね...
             - 2023/09/25: ちょっと実装続き
@@ -26,13 +25,15 @@
                 - ` res.data.feed`からJSONに書き出したもののうち、自分以外の投稿をmaskするために`map`
                     - まぁJS標準にあるものを呼ぶだけだろうから、急いで実装しなくてもいい気はする
             - 2023/09/30: 取得したpostのうち、最後に保存したものより時刻が後のもののみを集める処理を実装。やってみたら必要なものが随分違うことがわかった
+            - 2023/10/01: よーく考えたらlabel付き`break`はなくても`scope`でなんとかなることに気づいたので今回はパス！
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/081bfd30e1d542d983b27d68de1702468a9bb520>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/09/30
+        - 2023/08/24 - 2023/10/01
 
 ------
 
