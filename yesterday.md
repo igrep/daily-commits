@@ -4,10 +4,12 @@
     - [ ] Conjure・vim-sexpの設定・習得
     - アプリケーション作り:
         - [ ] MisskeyかBlueSkyでの発言を保存
-            - [ ] `cu$comment`
+            - [ ] `cu$note`, `cu$annotated`
                 - 2023/10/02: やっぱ思ったより難しいかも。方法を考えるにとどめるかなあ
                     - 考えた。実装しよう
                     - `cu$comment`という名前は予約語として扱いたいので`cu$`をつけよう
+                - 2023/10/03: 単なるコメントだけだと不便っぽいので`cu$annotated`もつけようかな？
+                    - 設計も少し考えた
             - [ ] `array`モジュール（`base`からreexport）
                 - [ ] `last` / `first`
                 - [ ] `map`
@@ -18,7 +20,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/10/02
+        - 2023/08/24 - 2023/10/03
 
 ------
 
