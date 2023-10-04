@@ -10,6 +10,7 @@
                     - `cu$comment`という名前は予約語として扱いたいので`cu$`をつけよう
                 - 2023/10/03: 単なるコメントだけだと不便っぽいので`cu$annotated`もつけようかな？
                     - 設計も少し考えた
+                - 2023/10/04: コメントの型設計。入れ子を認めるか迷うね。パーサーの実装上楽そうだし、とりあえず認めるか
             - [ ] `array`モジュール（`base`からreexport）
                 - [ ] `last` / `first`
                 - [ ] `map`
@@ -20,7 +21,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/10/03
+        - 2023/08/24 - 2023/10/04
 
 ------
 
