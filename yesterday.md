@@ -4,7 +4,7 @@
     - [ ] Conjure・vim-sexpの設定・習得
     - アプリケーション作り:
         - [ ] MisskeyかBlueSkyでの発言を保存
-            - [ ] `cu$note`, `cu$annotated`
+            - [x] `note`, `annotate`
                 - 2023/10/02: やっぱ思ったより難しいかも。方法を考えるにとどめるかなあ
                     - 考えた。実装しよう
                     - `cu$comment`という名前は予約語として扱いたいので`cu$`をつけよう
@@ -12,6 +12,10 @@
                     - 設計も少し考えた
                 - 2023/10/04: コメントの型設計。入れ子を認めるか迷うね。パーサーの実装上楽そうだし、とりあえず認めるか
                 - 2023/10/05: 設計ミスったかなぁ。パーサー側で処理するのはよくなかったかも。でもパーサーでやらないと`Form`型を処理するとき分けづらいと思うんだよね。TypeScriptで考えるからそう感じるだけかな
+                - 2023/10/06:
+                    - やっぱもっと簡単に作ろう。そうだそうだ、特別扱いしなくていい作りにすればいいんだ
+                        - というわけで実装
+                    - vimのsyntax highlightはちょっとうまくいかないなぁ。vimの正規表現が難しい
             - [ ] `array`モジュール（`base`からreexport）
                 - [ ] `last` / `first`
                 - [ ] `map`
@@ -22,7 +26,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/10/05
+        - 2023/08/24 - 2023/10/06
 
 ------
 
