@@ -11,6 +11,7 @@
                 - 2023/10/03: 単なるコメントだけだと不便っぽいので`cu$annotated`もつけようかな？
                     - 設計も少し考えた
                 - 2023/10/04: コメントの型設計。入れ子を認めるか迷うね。パーサーの実装上楽そうだし、とりあえず認めるか
+                - 2023/10/05: 設計ミスったかなぁ。パーサー側で処理するのはよくなかったかも。でもパーサーでやらないと`Form`型を処理するとき分けづらいと思うんだよね。TypeScriptで考えるからそう感じるだけかな
             - [ ] `array`モジュール（`base`からreexport）
                 - [ ] `last` / `first`
                 - [ ] `map`
@@ -21,7 +22,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/10/04
+        - 2023/08/24 - 2023/10/05
 
 ------
 
