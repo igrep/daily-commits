@@ -16,8 +16,11 @@
                     - やっぱもっと簡単に作ろう。そうだそうだ、特別扱いしなくていい作りにすればいいんだ
                         - というわけで実装
                     - vimのsyntax highlightはちょっとうまくいかないなぁ。vimの正規表現が難しい
-            - [ ] `array`モジュール（`base`からreexport）
-                - [ ] `last` / `first`
+            - [x] `array`モジュール（`base`からreexport）
+                - [x] `last` / `first`
+                    - 2023/10/07: 実装。
+                        - ちょっと悩んだが、とりあえず空っぽの場合は`undefined`に。
+                        - `array`モジュールを`base`から名前空間としてreexportする場合、少し工夫が必要だったがさらっと実装できた。我ながらよく考えついたと思う
                 - [ ] `map`
                 - [ ] `push`
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
@@ -26,7 +29,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/10/06
+        - 2023/08/24 - 2023/10/07
 
 ------
 
