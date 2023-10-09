@@ -21,15 +21,16 @@
                     - 2023/10/07: 実装。
                         - ちょっと悩んだが、とりあえず空っぽの場合は`undefined`に。
                         - `array`モジュールを`base`から名前空間としてreexportする場合、少し工夫が必要だったがさらっと実装できた。我ながらよく考えついたと思う
-                - [ ] `map`
-                - [ ] `push`
+                        - 2023/10/08: また設計をちょっと修正しないといけない問題にぶち当たってしまった。`Namespace`が入れ子になっているとアクセスできない、と。
+                            - `Writer`の仕様を変えよう。`_cu$IsWriter`の代わりに`_cu$WriterKind`を作って、それを`import`したオブジェクトに被せる形にしよう。そうすればキーの追加が最小限で済む。
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/931605037a334363b391e8ac42dcaee6ad8fa5b4>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/10/07
+        - 2023/08/24 - 2023/10/08
 
 ------
 
