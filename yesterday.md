@@ -10,13 +10,15 @@
                 - 昨日の問題は、単にBlueSkyが返すレスポンスの構造を勘違いしていたからだった
                 - 直したけど、今度は無限ループに。`cursor`を指定しても同じレスポンスが返ってくるのは仕様なんだろうか...
                     - 詳細調べてもぱっと見報告されてない？後やっぱもうちょっとAPIドキュメント読まないとだなぁ。`createdAt`と`indexedAt`の違いが分からん
+            - 2023/10/20: 昨日のバグはシンプルなミスだった。`cursor`は実際には帰ってきてないから延々`undefined`を渡し続けてしまうんだ
+                - で、`undefined`と`null`はやっぱりなるべく一緒くたにして扱いたいので`None`と呼ぶことに
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/10/19
+        - 2023/08/24 - 2023/10/20
 
 ------
 
