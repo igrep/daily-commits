@@ -13,13 +13,15 @@
             - 2023/10/20: 昨日のバグはシンプルなミスだった。`cursor`は実際には帰ってきてないから延々`undefined`を渡し続けてしまうんだ
                 - で、`undefined`と`null`はやっぱりなるべく一緒くたにして扱いたいので`None`と呼ぶことに
             - 2023/10/21: `isNone`の実装
+            - 2023/10/22: ページネーションして全てのpostを取得する処理までできた。次はいよいよJSONや最新の`indexedAt`を保存するところ
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/ba0977196466f9bc44608110d96e913a9a9903a9>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/10/21
+        - 2023/08/24 - 2023/10/22
 
 ------
 
