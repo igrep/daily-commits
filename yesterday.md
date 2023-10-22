@@ -1,23 +1,12 @@
-# 2023/10/16 - 2023/10/22
+# 2023/10/23 - 2023/10/29
 
 - custard:
     - [ ] Conjure・vim-sexpの設定・習得
     - アプリケーション作り:
         - [ ] MisskeyかBlueSkyでの発言を保存
-            - 2023/10/17: transpile errorの修正一部。
-            - 2023/10/18: すぐ起こるランタイムエラーは直せた。が、特にエラーも出さず、1件も取得できない。
-            - 2023/10/19:
-                - 昨日の問題は、単にBlueSkyが返すレスポンスの構造を勘違いしていたからだった
-                - 直したけど、今度は無限ループに。`cursor`を指定しても同じレスポンスが返ってくるのは仕様なんだろうか...
-                    - 詳細調べてもぱっと見報告されてない？後やっぱもうちょっとAPIドキュメント読まないとだなぁ。`createdAt`と`indexedAt`の違いが分からん
-            - 2023/10/20: 昨日のバグはシンプルなミスだった。`cursor`は実際には帰ってきてないから延々`undefined`を渡し続けてしまうんだ
-                - で、`undefined`と`null`はやっぱりなるべく一緒くたにして扱いたいので`None`と呼ぶことに
-            - 2023/10/21: `isNone`の実装
-            - 2023/10/22: ページネーションして全てのpostを取得する処理までできた。次はいよいよJSONや最新の`indexedAt`を保存するところ
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
-        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/ba0977196466f9bc44608110d96e913a9a9903a9>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
@@ -30,4 +19,4 @@
     - [ ] リリース
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/47266ebc6b629e9a24dfaa6101a21077bc07bb6b/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/2a3786746c45829e4c43a510153413d33bd45979/yesterday.md)
