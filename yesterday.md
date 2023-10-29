@@ -10,15 +10,17 @@
             - 2023/10/26: JSONをMarkdownに変換するアプリに着手。あとこれの他に未変換のJSONをリストアップするプログラムやいくつかに分割するプログラムも欲しいかなぁ
             - 2023/10/27: JSONをMarkdownに変換するアプリで、`array.at`みたいな関数が欲しいところまで書いた
             - 2023/10/28: 今度はdate-fnsが欲しくなってきたね
+            - 2023/10/29: あとはpublicなポストができればとりあえず完成かな
             - [x] `array.at`
                 - 2023/10/28: 実装
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/dbb5b07873ef67c7742f35ebf28048c6edd6da57>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/10/28
+        - 2023/08/24 - 2023/10/29
 
 ------
 
