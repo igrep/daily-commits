@@ -5,13 +5,14 @@
     - アプリケーション作り:
         - [ ] MisskeyかBlueSkyでの発言を保存
             - 2023/10/30: 画像やリンクの取り扱いを理解した。<https://zenn.dev/kawarimidoll/articles/42efe3f1e59c13>などのお陰
+            - 2023/10/31: とりあえず`new RichText`するところだけ書いた
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/10/30
+        - 2023/08/24 - 2023/10/31
 
 ------
 
