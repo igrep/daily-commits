@@ -8,15 +8,16 @@
             - 2023/10/31: とりあえず`new RichText`するところだけ書いた
             - 2023/11/01: `RichText`を実際に動かしてみて動作確認
             - 2023/11/02: そろそろdestructuringも欲しくなってくるねぇ、と思ったら`const`や`let`はもう実装しとるやん
-            - [ ] `forEach`と`fn`の引数でもdestructuringをサポート
+            - [ ] `forEach`と`fn`の引数でもオブジェクトのdestructuringをサポート
                 - 2023/11/02: `forEach`についてテストを追加
+                - 2023/11/03: `fn`についてもテストを書いて、実装着手。
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/11/02
+        - 2023/08/24 - 2023/11/03
 
 ------
 
