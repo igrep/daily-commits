@@ -14,6 +14,7 @@
                 - 2023/11/04: `forEach`の修正ができたつもりが、まだバグる
                 - 2023/11/05: `forEach`のバグ直せた
                 - 2023/11/06: `fn`についてもできたが、ちょっとエラーメッセージが劣化したかなぁ。どうしようかなぁ
+                - 2023/11/07: 結局エラーメッセージはそのままで。どの道エラーメッセージは抜本的に改めないとダメだろうしね
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
@@ -21,7 +22,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/11/06
+        - 2023/08/24 - 2023/11/07
 
 ------
 
