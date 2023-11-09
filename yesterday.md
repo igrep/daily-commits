@@ -9,6 +9,7 @@
             - 2023/11/01: `RichText`を実際に動かしてみて動作確認
             - 2023/11/02: そろそろdestructuringも欲しくなってくるねぇ、と思ったら`const`や`let`はもう実装しとるやん
             - 2023/11/08: `RichText`の処理の実装着手
+            - 2023/11/09: リンクを適用する処理が実装できた
             - [x] `forEach`と`fn`の引数でもオブジェクトのdestructuringをサポート
                 - 2023/11/02: `forEach`についてテストを追加
                 - 2023/11/03: `fn`についてもテストを書いて、実装着手。
@@ -24,7 +25,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/11/07
+        - 2023/08/24 - 2023/11/09
 
 ------
 
