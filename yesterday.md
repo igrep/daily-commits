@@ -1,4 +1,4 @@
-# 2023/10/30 - 2023/11/05
+# 2023/10/30 - 2023/11/12
 
 - custard:
     - [ ] Conjure・vim-sexpの設定・習得
@@ -10,6 +10,8 @@
             - 2023/11/02: そろそろdestructuringも欲しくなってくるねぇ、と思ったら`const`や`let`はもう実装しとるやん
             - 2023/11/08: `RichText`の処理の実装着手
             - 2023/11/09: リンクを適用する処理が実装できた
+            - 2023/11/10: `string.replace`を追加してHTMLをエスケープする処理を実装
+                - よく考えたら別にHTMLだけじゃなくてまとめてescapeしちゃえばいいのでは
             - [x] `forEach`と`fn`の引数でもオブジェクトのdestructuringをサポート
                 - 2023/11/02: `forEach`についてテストを追加
                 - 2023/11/03: `fn`についてもテストを書いて、実装着手。
@@ -25,7 +27,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/11/09
+        - 2023/08/24 - 2023/11/10
 
 ------
 
