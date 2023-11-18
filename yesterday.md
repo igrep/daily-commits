@@ -14,6 +14,8 @@
                 - 後あれだね、やっぱtranspileしてすぐ実行するコマンドがないと
                     - 多分できた
             - 2023/11/17: 画像の表示機能が多分できた。後は引用ポストかな
+            - 2023/11/18: できた、と思って試すも、エスケープがちょっと失敗してる
+                - ある程度直したところで、なぜか`text`マクロのバグっぽいものが見つかってしまった
             - [ ] 未変換のJSONをリストアップするプログラム（.mdファイルのうち日付が最新のものより、新しい .jsonファイルを探す）
             - [ ] JSONを分割するプログラム
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
@@ -23,7 +25,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/11/17
+        - 2023/08/24 - 2023/11/18
 
 ------
 
