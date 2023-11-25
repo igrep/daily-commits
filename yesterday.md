@@ -19,6 +19,8 @@
                 - 2023/11/24: 細かいところ考えるとまた面倒くさいねぇ。まぁとりあえずやっぱ最低限必要な形にしますか。
                     - `DirectWriter`の分類には`exportable`というのだけ追加しておくか
                     - というわけでテストを追加
+                - 2023/11/25: 新しい`DirectWriterKind`を実装
+                    - `export`そのものも概ね実装。Copilotのお陰で結構楽できたね
             - [ ] `generatorFn` / `async.generatorFn`
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
@@ -26,7 +28,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/11/24
+        - 2023/08/24 - 2023/11/25
 
 ------
 
