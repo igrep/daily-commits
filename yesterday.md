@@ -1,4 +1,4 @@
-# 2023/11/20 - 2023/11/26
+# 2023/11/27 - 2023/12/03
 
 - custard:
     - [ ] Conjure・vim-sexpの設定・習得
@@ -10,23 +10,10 @@
             - 2023/11/21: git commit しただけ
             - [ ] 未変換のJSONをリストアップするプログラム（.mdファイルのうち日付が最新のものより、新しい .jsonファイルを探す）
             - [ ] JSONを分割するプログラム
-                - 2023/11/22: 着手。lazyな`Iterator`を作って10個くらいごとに分割したいところだけど、どうしよっかなぁ。ライブラリーを作るかよそから持ってくるか...。やっぱりcustardとして提供したい気持ちはあるね。
-                    - <https://github.com/angus-c/just/blob/master/packages/array-split/index.mjs> を参考にcustardのライブラリーとして作るかなぁ。ただその場合、できれば自己完結していて欲しいので、custardのソースで提供するのが難しそうなのよな。まぁ現状は諦めるか...
-                        - 「JS標準にないCustardの標準ライブラリー候補」としてコメントを残しておこう！
-                - 2023/11/23: split関数相当のものと、ファイルを読むiteratorが実装できたはず
-                    - 本体に追加する機能を除いて実装できたっぽい？
-            - [x] `export`
-                - 2023/11/24: 細かいところ考えるとまた面倒くさいねぇ。まぁとりあえずやっぱ最低限必要な形にしますか。
-                    - `DirectWriter`の分類には`exportable`というのだけ追加しておくか
-                    - というわけでテストを追加
-                - 2023/11/25: 新しい`DirectWriterKind`を実装
-                    - `export`そのものも概ね実装。Copilotのお陰で結構楽できたね
-                - 2023/11/26: 実装完了
-            - [ ] `generatorFn` / `async.generatorFn`
+                - [ ] `generatorFn` / `async.generatorFn` / `generatorProcedure` / `async.generatorProcedure` / `yield`
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
-        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/ea93c015f01967a27330728414868ad0cc381ed8>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
@@ -38,4 +25,4 @@
     - [ ] Zennのサポート
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/00bb1d77b4c1094b1175c5ed7038d92b09d0053d/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/3f61158f73b526856738a4d38bb3ba0b47219d2a/yesterday.md)
