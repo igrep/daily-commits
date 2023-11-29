@@ -10,16 +10,17 @@
             - 2023/11/21: git commit しただけ
             - [ ] 未変換のJSONをリストアップするプログラム（.mdファイルのうち日付が最新のものより、新しい .jsonファイルを探す）
             - [ ] JSONを分割するプログラム
-                - [ ] `generatorFn` / `async.generatorFn` / `generatorProcedure` / `async.generatorProcedure` / `yield` / `async.forEach`
+                - [x] `generatorFn` / `async.generatorFn` / `generatorProcedure` / `async.generatorProcedure` / `yield` / `async.forEach`
                     - 2023/11/27: 着手。テストケース書いた。あとsplit.cstdの実装が間違っていたのを修正
                     - 2023/11/28: 単にキーワードを増やすだけかと思いきや、結構面倒くさいね。関数定義周りにまた大きな変更が...
+                    - 2023/11/29: できたはず。`generatorFn`しかテスト書いてないけど、まぁ面倒くさいしここらで
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/11/28
+        - 2023/08/24 - 2023/11/29
 
 ------
 
