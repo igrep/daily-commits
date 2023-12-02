@@ -19,13 +19,14 @@
                 - 2023/12/01: transpileでバグが発覚
                 - [ ] バグ: `async.generatorFn`の最後に`async.forEach`を使うとSyntaxErrorに
                     - 2023/12/01: 既存のテストケースを見たら`fn`の最後に`forEach`を読んでいるケースがないので、その時点の問題かも
+                    - 2023/12/02: テストケースを書けて原因も分かった。直すのは若干手間で影響範囲がちょっと広いかも。まぁテストでカバーしてくれるでしょう
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/12/01
+        - 2023/08/24 - 2023/12/02
 
 ------
 
