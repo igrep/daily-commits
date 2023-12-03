@@ -20,13 +20,18 @@
                 - [ ] バグ: `async.generatorFn`の最後に`async.forEach`を使うとSyntaxErrorに
                     - 2023/12/01: 既存のテストケースを見たら`fn`の最後に`forEach`を読んでいるケースがないので、その時点の問題かも
                     - 2023/12/02: テストケースを書けて原因も分かった。直すのは若干手間で影響範囲がちょっと広いかも。まぁテストでカバーしてくれるでしょう
+                    - 2023/12/03:
+                        - `find`を`referTo`と同様に`Namespace`を掘る実装に変えることで解決するだろう
+                        - それはそれとして、`export`や`for`などが受け取るFormをチェックするのに`transpile`した結果からとる、という挙動に変えたいなぁ
+                        - ってことでやることを整理して、`find`の実装を変えてみてる
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/f4a5f3b404969fbbe1709a08613fc53c62bc6988>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/12/02
+        - 2023/08/24 - 2023/12/03
 
 ------
 
