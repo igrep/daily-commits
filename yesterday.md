@@ -9,6 +9,7 @@
                 - [ ] バグ: `async.generatorFn`の最後に`async.forEach`を使うとSyntaxErrorに
                     - 2023/12/04: 昨日の続きで、`EnvF.find`の仕様変更に合わせて使用箇所を修正中
                     - 2023/12/05: 修正できたけど、別のバグが見つかった。テストケース作成に着手
+                    - 2023/12/06: 昨日見つけたバグを修正
                     - [ ] それはそれとして、`export`や`for`、`recursive`などが受け取るFormをチェックするのに`transpile`した結果からとる、という挙動に変えたいなぁ
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
@@ -16,7 +17,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/12/05
+        - 2023/08/24 - 2023/12/06
 
 ------
 
