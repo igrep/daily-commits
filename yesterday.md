@@ -11,13 +11,14 @@
                     - 2023/12/05: 修正できたけど、別のバグが見つかった。テストケース作成に着手
                     - 2023/12/06: 昨日見つけたバグを修正
                     - [ ] それはそれとして、`export`や`for`、`recursive`などが受け取るFormをチェックするのに`transpile`した結果からとる、という挙動に変えたいなぁ
+                        - 2023/12/07: とりあえず`export`でやってみてるけど、既存の無関係なテストがこけるね。`transpileExpressionWithNextCall`の複雑さが高まりそうだし、そこまでパフォーマンスで困ってるわけでもないし、やっぱやめた方がよさそう
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/12/06
+        - 2023/08/24 - 2023/12/07
 
 ------
 
