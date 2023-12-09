@@ -13,15 +13,17 @@
                     - [x] それはそれとして、`export`や`for`、`recursive`などが受け取るFormをチェックするのに`transpile`した結果からとる、という挙動に変えたいなぁ
                         - 2023/12/07: とりあえず`export`でやってみてるけど、既存の無関係なテストがこけるね。`transpileExpressionWithNextCall`の複雑さが高まりそうだし、そこまでパフォーマンスで困ってるわけでもないし、やっぱやめた方がよさそう
                         - 2023/12/08: 一昨日までの修正だけをコミットして昨日の修正は削除
-                - [ ] バグ: 同じディレクトリーにあるモジュールを`import`しようとしても相対パスにならない
+                - [x] バグ: 同じディレクトリーにあるモジュールを`import`しようとしても相対パスにならない
                     - 2023/12/08: 改めて`transpile`してみたら発覚したバグ。またテスト追加してから直さないとね
+                    - 2023/12/09: 修正
+                - 2023/12/09: ようやくtranspile errorなしに実行できた。ぱっと見出力先のディレクトリーが入力ファイルのあったところではなくカレントディレクトリーになっているのが一つ問題
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/12/08
+        - 2023/08/24 - 2023/12/09
 
 ------
 
