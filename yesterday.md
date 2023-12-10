@@ -17,13 +17,16 @@
                     - 2023/12/08: 改めて`transpile`してみたら発覚したバグ。またテスト追加してから直さないとね
                     - 2023/12/09: 修正
                 - 2023/12/09: ようやくtranspile errorなしに実行できた。ぱっと見出力先のディレクトリーが入力ファイルのあったところではなくカレントディレクトリーになっているのが一つ問題
+                - 2023/12/10: 昨日の問題は多分修正できた。でも配列のdestructuringを実装したくなるな...
+                - [ ] 配列のdestructuring: `let/const/assign`, `fn`, `forEach`
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/c687498ebed3faebb363831b22b048507b0ea785>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/12/09
+        - 2023/08/24 - 2023/12/10
 
 ------
 
