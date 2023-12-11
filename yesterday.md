@@ -7,13 +7,14 @@
             - [ ] 未変換のJSONをリストアップするプログラム（.mdファイルのうち日付が最新のものより、新しい .jsonファイルを探す）
             - [ ] JSONを分割するプログラム
                 - [ ] 配列のdestructuring: `let/const/assign`, `fn`, `forEach`
+                    - 2023/12/11: テストケース書いた
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/12/10
+        - 2023/08/24 - 2023/12/11
 
 ------
 
