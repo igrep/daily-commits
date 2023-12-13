@@ -9,13 +9,15 @@
                 - [ ] 配列のdestructuring: `let/const/assign`, `fn`, `forEach`
                     - 2023/12/11: テストケース書いた
                     - 2023/12/12: `fn`と`forEach`の修正が一部完了。`let/const/assign`については見るのも嫌になるな...
+                    - 2023/12/13: できたっぽいがテストが通らない。どこでミスった？
+                        - まだ`assign`の修正が終わってなかった
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/12/12
+        - 2023/08/24 - 2023/12/13
 
 ------
 
