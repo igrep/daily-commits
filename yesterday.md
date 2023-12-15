@@ -12,13 +12,15 @@
                     - 2023/12/13: できたっぽいがテストが通らない。どこでミスった？
                         - まだ`assign`の修正が終わってなかった
                     - 2023/12/14: できた
+                - 2023/12/15: 一つランタイムエラーを直して実行できたが、一つ問題が。バックアップの作成に失敗しているっぽいね？
+            - [ ] 全てを結合するプログラム
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/12/14
+        - 2023/08/24 - 2023/12/15
 
 ------
 
