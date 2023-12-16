@@ -13,6 +13,9 @@
                         - まだ`assign`の修正が終わってなかった
                     - 2023/12/14: できた
                 - 2023/12/15: 一つランタイムエラーを直して実行できたが、一つ問題が。バックアップの作成に失敗しているっぽいね？
+                - 2023/12/16: 違うわ。バックアップは取れてた。でも出力が間違ってるので直した。結果の確認がしにくいなぁ
+                    - まだiteratorのバグがあるなぁ。出力が一部落ちている。いい加減テストコード書いた方が良さそうだなぁ
+                        - ってことでテストコードを2/3くらい書いた
             - [ ] 全てを結合するプログラム
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
@@ -20,7 +23,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/12/15
+        - 2023/08/24 - 2023/12/16
 
 ------
 
