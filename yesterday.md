@@ -1,4 +1,4 @@
-# 2023/12/11 - 2023/12/17
+# 2023/12/18 - 2023/12/24
 
 - custard:
     - [ ] Conjure・vim-sexpの設定・習得
@@ -6,24 +6,10 @@
         - [ ] MisskeyかBlueSkyでの発言を保存
             - [ ] 未変換のJSONをリストアップするプログラム（.mdファイルのうち日付が最新のものより、新しい .jsonファイルを探す）
             - [ ] JSONを分割するプログラム
-                - [x] 配列のdestructuring: `let/const/assign`, `fn`, `forEach`
-                    - 2023/12/11: テストケース書いた
-                    - 2023/12/12: `fn`と`forEach`の修正が一部完了。`let/const/assign`については見るのも嫌になるな...
-                    - 2023/12/13: できたっぽいがテストが通らない。どこでミスった？
-                        - まだ`assign`の修正が終わってなかった
-                    - 2023/12/14: できた
-                - 2023/12/15: 一つランタイムエラーを直して実行できたが、一つ問題が。バックアップの作成に失敗しているっぽいね？
-                - 2023/12/16: 違うわ。バックアップは取れてた。でも出力が間違ってるので直した。結果の確認がしにくいなぁ
-                    - まだiteratorのバグがあるなぁ。出力が一部落ちている。いい加減テストコード書いた方が良さそうだなぁ
-                        - ってことでテストコードを2/3くらい書いた
-                - 2023/12/17: テスト書けた... と、思いきや、`process.chdir`はvitestの中で使えないと言われてしまった。がびーん。
-                    - `--prefix`ってオプションがあるのね <https://stackoverflow.com/questions/37078968/how-to-specify-the-path-of-package-json-to-npm>
-                    - まだテストの実行がエラーに。
             - [ ] 全てを結合するプログラム
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
-        - 2023/12/17: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/037c8e075bbfc66709677ea556115ab2d353c1f9>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
@@ -35,4 +21,4 @@
     - [ ] Zennのサポート
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/9ccabc787ee44e57e1eba687558dc3c9c6fbbb64/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/f18fc49dccc543e833957befc72cd122d3ac3328/yesterday.md)
