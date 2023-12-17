@@ -16,14 +16,18 @@
                 - 2023/12/16: 違うわ。バックアップは取れてた。でも出力が間違ってるので直した。結果の確認がしにくいなぁ
                     - まだiteratorのバグがあるなぁ。出力が一部落ちている。いい加減テストコード書いた方が良さそうだなぁ
                         - ってことでテストコードを2/3くらい書いた
+                - 2023/12/17: テスト書けた... と、思いきや、`process.chdir`はvitestの中で使えないと言われてしまった。がびーん。
+                    - `--prefix`ってオプションがあるのね <https://stackoverflow.com/questions/37078968/how-to-specify-the-path-of-package-json-to-npm>
+                    - まだテストの実行がエラーに。
             - [ ] 全てを結合するプログラム
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
+        - 2023/12/17: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/037c8e075bbfc66709677ea556115ab2d353c1f9>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/12/16
+        - 2023/08/24 - 2023/12/17
 
 ------
 
