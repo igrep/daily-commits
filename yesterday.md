@@ -8,6 +8,7 @@
             - [ ] JSONを分割するプログラム
                 - 2023/12/18: テストコード修正。問題のバグが再現できた？いや、それ以前のバグっぽい
                     - 「それ以前のバグ」は直せた。残りのバグも簡単だと思う
+                - 2023/12/19: テスト通せた。次はsave.cstdで改めて全てのJSONを保存した後、再度split.cstdを試してみよう
             - [ ] 全てを結合するプログラム
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
@@ -15,7 +16,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/12/18
+        - 2023/08/24 - 2023/12/19
 
 ------
 
