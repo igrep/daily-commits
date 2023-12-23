@@ -18,7 +18,10 @@
                 - 2023/12/21: 多分できた。明日確認しよう。ちゃんと停止するだろうか？
                 - 2023/12/22: ちゃんと動作した。前より件数がめちゃくちゃ多いから厳密な検証はできないけど...。
                     - 新しい仕様では最初のpostが取得できないというバグに気づいた。面倒なのでコメントで注記しつつ、以前に保存していた最初のpostを追記しておいた
+            - [x] format.cstdの修正: aspectRatioがない場合に対応する
+                - 2023/12/23: 直せた
             - [ ] split.cstdの修正（sliceにおける最新のindexedAtをファイル名にする）
+                - 2023/12/23: こちらも直せたはずだが実行してみるとエラーに。ファイルに出力する際、どこかで`C:`の`:`が`_`に変わってしまったらしい
             - [ ] 全てを結合するプログラム
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
@@ -26,7 +29,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/12/22
+        - 2023/08/24 - 2023/12/23
 
 ------
 
