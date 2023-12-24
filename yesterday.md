@@ -5,7 +5,7 @@
     - アプリケーション作り:
         - [ ] MisskeyかBlueSkyでの発言を保存
             - [ ] 未変換のJSONをリストアップするプログラム（.mdファイルがない.jsonファイルを探す）
-            - [ ] JSONを分割するプログラム
+            - [x] JSONを分割するプログラム
                 - 2023/12/18: テストコード修正。問題のバグが再現できた？いや、それ以前のバグっぽい
                     - 「それ以前のバグ」は直せた。残りのバグも簡単だと思う
                 - 2023/12/19: テスト通せた。次はsave.cstdで改めて全てのJSONを保存した後、再度split.cstdを試してみよう
@@ -20,16 +20,18 @@
                     - 新しい仕様では最初のpostが取得できないというバグに気づいた。面倒なのでコメントで注記しつつ、以前に保存していた最初のpostを追記しておいた
             - [x] format.cstdの修正: aspectRatioがない場合に対応する
                 - 2023/12/23: 直せた
-            - [ ] split.cstdの修正（sliceにおける最新のindexedAtをファイル名にする）
+            - [x] split.cstdの修正（sliceにおける最新のindexedAtをファイル名にする）
                 - 2023/12/23: こちらも直せたはずだが実行してみるとエラーに。ファイルに出力する際、どこかで`C:`の`:`が`_`に変わってしまったらしい
+                - 2023/12/24: 直して実行して動作確認もできた
             - [ ] 全てを結合するプログラム
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/b3fc029825467b86ba3d5e8fc035f20052e98209>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/12/23
+        - 2023/08/24 - 2023/12/24
 
 ------
 
