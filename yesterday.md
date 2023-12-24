@@ -5,29 +5,12 @@
     - アプリケーション作り:
         - [ ] MisskeyかBlueSkyでの発言を保存
             - [ ] 未変換のJSONをリストアップするプログラム（.mdファイルがない.jsonファイルを探す）
-            - [x] JSONを分割するプログラム
-                - 2023/12/18: テストコード修正。問題のバグが再現できた？いや、それ以前のバグっぽい
-                    - 「それ以前のバグ」は直せた。残りのバグも簡単だと思う
-                - 2023/12/19: テスト通せた。次はsave.cstdで改めて全てのJSONを保存した後、再度split.cstdを試してみよう
-                - 2023/12/20: うーん、改めて実行してみたけど、全然うまく行ってない。テストは通るのに。
-                    - ... と、思いきや、WindowsのExplorerがファイルの更新を反映させてなかったので見えてないだけだったっぽい
-                        - しかし、まだバックアップが正しく取れていないように見える: 多分直せた。明日こそちゃんと結果を確認しよう
-                - 2023/12/21: 検証中。まさか`indexedAt`の降順にならないパターンがあるとは...。となると未変換JSONをリストアップするプログラムの仕様は変えるべきね。他にも問題が発生しうるけど、とりあえず見送ろう
-                    - いやー、と思ったけど、save.cstdでも問題になり得るか
-            - [x] save.cstdの修正（最新のindexedAtではなくuriを保存する。出力のファイル名を全post中最新のindexedAtにする）
-                - 2023/12/21: 多分できた。明日確認しよう。ちゃんと停止するだろうか？
-                - 2023/12/22: ちゃんと動作した。前より件数がめちゃくちゃ多いから厳密な検証はできないけど...。
-                    - 新しい仕様では最初のpostが取得できないというバグに気づいた。面倒なのでコメントで注記しつつ、以前に保存していた最初のpostを追記しておいた
-            - [x] format.cstdの修正: aspectRatioがない場合に対応する
-                - 2023/12/23: 直せた
-            - [x] split.cstdの修正（sliceにおける最新のindexedAtをファイル名にする）
-                - 2023/12/23: こちらも直せたはずだが実行してみるとエラーに。ファイルに出力する際、どこかで`C:`の`:`が`_`に変わってしまったらしい
-                - 2023/12/24: 直して実行して動作確認もできた
             - [ ] 全てを結合するプログラム
+            - [ ] pandoc向けにformat.cstdの出力を修正
+            - [ ] igreque.infoのhakyllを修正・リリース
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
-        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/b3fc029825467b86ba3d5e8fc035f20052e98209>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
@@ -39,4 +22,4 @@
     - [ ] Zennのサポート
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/f18fc49dccc543e833957befc72cd122d3ac3328/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/747c520b80695423359227126227374f15faffad/yesterday.md)
