@@ -1,12 +1,16 @@
-# 2023/12/18 - 2023/12/24
+# 2023/12/25 - 2023/12/31
 
 - custard:
     - [ ] Conjure・vim-sexpの設定・習得
     - アプリケーション作り:
         - [ ] MisskeyかBlueSkyでの発言を保存
-            - [ ] 未変換のJSONをリストアップするプログラム（.mdファイルがない.jsonファイルを探す）
+            - [x] 未変換のJSONをリストアップするプログラム（.mdファイルがない.jsonファイルを探す）
+                - 2023/12/25: そろそろ面倒になってきたのでシェルスクリプトでサクッと実装
+            - [ ] state.json の最終更新時刻が19時間を過ぎたかどうかチェックするプログラム
             - [ ] 全てを結合するプログラム
-            - [ ] pandoc向けにformat.cstdの出力を修正
+                - 2023/12/25: 着手。作業するディレクトリーはこのスクリプトで読み出して、他のスクリプトに渡す、という形にしよう
+                    - それも大体できた。後はstate.jsonの最終更新時刻をチェックするプログラムを書くだけ
+            - [ ] pandoc向けにformat.cstdの出力を修正: ファイル名が`latestIndexedAt`なのは保証されているので、ファイル名から見出しを作る
             - [ ] igreque.infoのhakyllを修正・リリース
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
@@ -14,7 +18,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/12/24
+        - 2023/08/24 - 2023/12/25
 
 ------
 
