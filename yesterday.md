@@ -15,6 +15,9 @@
                 - 2023/12/28:
                     - 動かしてみたがエラーに。シェルスクリプトむずい =\> 多分直した
                     - Mac版の.commandも作った。実家なので明日はMacで確認・修正しよう
+                - 2023/12/29:
+                    - Mac版の.commandも動かせたが、出てきたファイルの順番がおかしい。多分直せたけど、postの収集を最初からにしたのでチェックは明日ね
+                    - ついでにsave.cstdにおいて一番最初のpostを保存できない問題も修正した
             - [ ] pandoc向けにformat.cstdの出力を修正: ファイル名が`latestIndexedAt`なのは保証されているので、ファイル名から見出しを作る
             - [ ] igreque.infoのhakyllを修正・リリース
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
@@ -23,7 +26,7 @@
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/12/28
+        - 2023/08/24 - 2023/12/29
 
 ------
 
