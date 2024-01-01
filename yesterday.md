@@ -1,41 +1,14 @@
-# 2023/12/25 - 2023/12/31
+# 2024/01/01 - 2024/01/07
 
 - custard:
     - [ ] Conjure・vim-sexpの設定・習得
     - アプリケーション作り:
         - [ ] MisskeyかBlueSkyでの発言を保存
-            - [x] 未変換のJSONをリストアップするプログラム（.mdファイルがない.jsonファイルを探す）
-                - 2023/12/25: そろそろ面倒になってきたのでシェルスクリプトでサクッと実装
-            - [x] state.json の最終更新時刻が20時間を過ぎたかどうかチェックするプログラム
-                - 2023/12/26: これはcustardで作ろうってことで着手。
-                - 2023/12/27: 多分できた
             - [ ] 全てを結合するプログラム・スタートアップへの登録
-                - 2023/12/25: 着手。作業するディレクトリーはこのスクリプトで読み出して、他のスクリプトに渡す、という形にしよう
-                    - それも大体できた。後はstate.jsonの最終更新時刻をチェックするプログラムを書くだけ
-                - 2023/12/28:
-                    - 動かしてみたがエラーに。シェルスクリプトむずい =\> 多分直した
-                    - Mac版の.commandも作った。実家なので明日はMacで確認・修正しよう
-                - 2023/12/29:
-                    - Mac版の.commandも動かせたが、出てきたファイルの順番がおかしい。多分直せたけど、postの収集を最初からにしたのでチェックは明日ね
-                    - ついでにsave.cstdにおいて一番最初のpostを保存できない問題も修正した
-                - 2023/12/30: 動いた。今後の運用方針だけど、数が少ない時も実行しようか迷うな。
-                    - BlueSky本家が未ログインでも見られるようになったので、敢えてこっちでMarkdownに変換する必要はなくなったんだよね。もうやめとくか。本当にちゃんと動くかも分からんところがあるし。実行間隔ももっと長くしておこう
-            - [ ] pandoc向けにformat.cstdの出力を修正: ファイル名が`latestIndexedAt`なのは保証されているので、ファイル名から見出しを作る
-                - 2023/12/30: 今後の運用方針を変更したので、この修正は止めておこう
-            - [ ] igreque.infoのhakyllを修正・リリース
-                - 2023/12/30: 今後の運用方針を変更したので、この修正も止めておこう
         - [ ] igrep-cashbookのCLI版
-            - 2023/12/30: こっちをやる必要が出てきたので、BlueSkyの方はもうやめ！
-                - 標準ライブラリーの扱いで重大な問題に気づいてしまった。いい機会だしがっつり変えよう
-                    - 次はここまでに作った .provided-symbols.cstd を全部更新する
-            - 2023/12/31: .provided-symbols.cstdの更新は終わった。次はrepositoryの構造を変えて、複数のパッケージのmonorepoにしよう
-                - と、思ったけど頭が回らなかったので、先にigrep-cashbook本体の続きをやってる。`nonNone`が欲しくなってきた（名前どうしよう） -> `any`でいいか。よく使うだろうしよく使う単語がいいだろう。arrayのsomeと被るのも避けられるし
-                    - igrep-cashbookの実装が多分できた。後は足りないマクロを実装していくだけ
-                        - `or`とか二項演算子系、3つ以上の引数もやっぱ認めようかなぁ。当面ないと不便だろうし、特に`or`とか他の式と組み合わせることが多いんだから
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
-        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/07b9a694e86d793bb6123debcf3734a8fd29834b>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
@@ -47,4 +20,4 @@
     - [ ] Zennのサポート
     - [ ] Qrunchに書いていた記事をZennに
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/747c520b80695423359227126227374f15faffad/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/2abf09ab8d8085a14ddf4323b9d4b1523e3794f1/yesterday.md)
