@@ -28,13 +28,18 @@
             - 2023/12/30: こっちをやる必要が出てきたので、BlueSkyの方はもうやめ！
                 - 標準ライブラリーの扱いで重大な問題に気づいてしまった。いい機会だしがっつり変えよう
                     - 次はここまでに作った .provided-symbols.cstd を全部更新する
+            - 2023/12/31: .provided-symbols.cstdの更新は終わった。次はrepositoryの構造を変えて、複数のパッケージのmonorepoにしよう
+                - と、思ったけど頭が回らなかったので、先にigrep-cashbook本体の続きをやってる。`nonNone`が欲しくなってきた（名前どうしよう） -> `any`でいいか。よく使うだろうしよく使う単語がいいだろう。arrayのsomeと被るのも避けられるし
+                    - igrep-cashbookの実装が多分できた。後は足りないマクロを実装していくだけ
+                        - `or`とか二項演算子系、3つ以上の引数もやっぱ認めようかなぁ。当面ないと不便だろうし、特に`or`とか他の式と組み合わせることが多いんだから
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/07b9a694e86d793bb6123debcf3734a8fd29834b>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2023/12/30
+        - 2023/08/24 - 2023/12/31
 
 ------
 
