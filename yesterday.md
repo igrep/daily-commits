@@ -10,13 +10,15 @@
                 - と、思ったけど時間もなくなってきたし、`or`も`any`も一旦2引数のままで
                     - 実装できた
                 - monorepo化（正確にはパッケージの分割と`npm workspace`の使用）に着手
+            - 2024/01/02: monorepo化むずい。processorとlibraryを分離するのは無理にやらなくていいか...。諦めよう
+                - 一通りできたつもりだけど、tscが意図通りに.jsファイルを吐いてくれないな
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2024/01/01
+        - 2023/08/24 - 2024/01/02
 
 ------
 
