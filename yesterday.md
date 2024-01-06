@@ -16,13 +16,14 @@
             - 2024/01/04: typescript-language-serverでも同じ問題に出くわすようになってしまった。exampleを見るに、多分package.jsonのexportsじゃなくてmainを使うしかないんだろうな
                 - mainだけにしてみたが、ちょっと動作が安定しない。rootでtscを実行したとき`processor`パッケージが何も出力されず、一旦`cd`してから`tsc`しないとダメらしい。
             - 2024/01/05: ようやくtscのエラーが直せた。typescript-language-serverだけまだエラーを出すけど...。次はテストの修正かな
+            - 2024/01/06: Windowsでもtscが通った。<https://github.com/npm/cli/issues/4828>にハマったりしてちょい苦戦
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2024/01/05
+        - 2023/08/24 - 2024/01/06
 
 ------
 
