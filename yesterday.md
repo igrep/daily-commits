@@ -17,13 +17,15 @@
                 - mainだけにしてみたが、ちょっと動作が安定しない。rootでtscを実行したとき`processor`パッケージが何も出力されず、一旦`cd`してから`tsc`しないとダメらしい。
             - 2024/01/05: ようやくtscのエラーが直せた。typescript-language-serverだけまだエラーを出すけど...。次はテストの修正かな
             - 2024/01/06: Windowsでもtscが通った。<https://github.com/npm/cli/issues/4828>にハマったりしてちょい苦戦
+            - 2024/01/07: 昨日テストで出遭ったエラーを直すには、testを別パッケージにして`@custard-lang/processor`として、絶対パス（という言い方は適切じゃない気がするけど）で参照するしかなさそうなのでやっぱり分けることにした。最初から分けるのを思いついてたら`standardRoot`みたいなもの作ったりしなくて済んだのにねぇ
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/245e2c5a1ea746d96e25c1766b1e9d7930c7d5b2>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2024/01/06
+        - 2023/08/24 - 2024/01/07
 
 ------
 
