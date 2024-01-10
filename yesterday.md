@@ -11,15 +11,16 @@
                     - 調べてみたところ、nodeの`--experimental-import-meta-resolve`を有効にすれば、`import.meta.resolve`に私のやりたいことを実現する機能がつきそうだ。やっぱbundlerとかでそういう需要があるんだろうね。あんまりnodeに強く依存したくなかったけど、しゃあないな。どうせ`node:fs`とかバリバリ使ってるし...
             - 2024/01/09: というわけで`import.meta.resolve`を試してみたが、`TypeError: __vite_ssr_import_meta__.resolve is not a function`なるエラーが。またvitestに振り回されるのか...
                 - 今度こそvitestを止めるべきなのでは。<https://github.com/vitejs/vite/discussions/14405>見た感じまだサポートするかどうかさえ分からないし
-                    - 設定で止められるかもしれない。<https://vitejs.dev/config/ssr-options.html>を読む限り、<https://vitejs.dev/config/ssr-options.html>にある`ssr.external`で依存ライブラリーってことにしちゃえばいいのだろうか
+                    - 設定で止められるかもしれない。<https://vitest.dev/config/#server-deps>を読む限り、<https://vitejs.dev/config/ssr-options.html>にある`ssr.external`（あるいは`server.deps.external`）で依存ライブラリーってことにしちゃえばいいのだろうか
                         - 関連: <https://github.com/vitejs/vite/blob/v4.5.1/packages/vite/src/node/ssr/ssrTransform.ts#L35>で関係のある処理をしているようだ。
+            - 2024/01/10: `server.deps.external`が効いたようだ。
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2024/01/09
+        - 2023/08/24 - 2024/01/10
 
 ------
 
