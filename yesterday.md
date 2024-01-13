@@ -16,13 +16,14 @@
             - 2024/01/10: `server.deps.external`が効いたようだ。
             - 2024/01/11: 残念ながら、Nodeの`import.meta.resolve`がやっていることは現状普通の`path.resolve`と大差ない、今回は役立たずなものらしい。バグっぽいし直して欲しいし、とりあえずNodeを最新版に上げてまた試してからコミュニティーで聞いてみるか...
             - 2024/01/12: Nodeを最新版に上げてもダメだった。再現ケースを作るために試したところ、普通の依存パッケージについては正しく解決できるっぽい？
+            - 2024/01/13: 再現ケースのためのリポジトリーを作った。普通に動くし、やっぱりこちら側の使い方がミスってる予感
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2024/01/12
+        - 2023/08/24 - 2024/01/13
 
 ------
 
