@@ -10,13 +10,14 @@
             - 2024/01/16: `findModule`の修正ができたはず
             - 2024/01/17: `findModule`の結果を利用する箇所の修正もできたはず
             - 2024/01/18: 昨日出遭った、`import.meta.resolve`の第2引数がURLの形式になってないと行けない問題を直したところ、無事`resolve`できた。ただ、まだエラーが。修正前に立てたプランが間違っていたようだ。data URIで`import`するコードの中で`import`するときは絶対パスじゃないとダメって前から知ってたじゃん！パッケージのパスでも相対パス扱いなの、よく考えたら分かるだろ！
+            - 2024/01/19: 昨日の問題を直せた。でもまだテストは落ちる
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2024/01/18
+        - 2023/08/24 - 2024/01/19
 
 ------
 
