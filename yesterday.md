@@ -7,13 +7,14 @@
             - [ ] 全てを結合するプログラム・スタートアップへの登録
         - [ ] igrep-cashbookのCLI版
             - 2024/01/22: appsのpackage.jsonを修正して依存関係を整理したり、custard transpileを呼びやすくしたり
+            - 2024/01/23: 直したつもりだったけど、save-postsでのvitestが動かんなぁ。transpileし直さないとダメだからか...。そのtranspileし直しのためにpackages.jsonに書いたスクリプトを試すも、うまく行かぬ。面倒くさい...。素直にnode-globに依存するか？それともとりあえずディレクトリーを再帰的に処理する機能だけ設けてしのぐか？前者であれ後者であれ結局依存を増やすことになりそうだし、前者にしようかなぁ。
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2024/01/22
+        - 2023/08/24 - 2024/01/23
 
 ------
 
