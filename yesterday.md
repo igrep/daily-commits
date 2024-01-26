@@ -12,13 +12,16 @@
                 - 依存している`.cstd`なモジュールを先にtranspileするような機能を実装するか？
                     - と思ったけど現状の設計でどう挟むべきか分からないし、最終的にはちゃんとmodule間の依存関係を分析してtopological sortしないといけないし、今はスキップだね...
             - 2024/01/25: とりあえず手で依存関係を並び替えて`custard transpile`した。途中見つかったエラーも直して、全部transpileできた。次はテストコードかね
+            - 2024/01/26:
+                - テストはあっさり通っていた。次は実際に動かしてみるか
+                - igrep-cashbookのpackage.jsonを作っておいた。これで`custard-transpile`も簡単なはず
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 1 Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
-        - 2023/08/24 - 2024/01/25
+        - 2023/08/24 - 2024/01/26
 
 ------
 
