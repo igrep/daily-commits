@@ -11,13 +11,16 @@
             - 2024/02/01: `createMap`と`createRegExp`を実装
             - 2024/02/02: 既存のアプリのtranspileを再度通した。split.cstdのテストが落ちるようになったけど、通した。
                 - 後、save.cstdもバグってた...。欲張って変なリファクタリングするから...。直せたはず
+            - 2024/02/03: 一回だけigrep-cashbookを動かした。早速バグ発覚。
+                - 1個直したけど、まだまだ。
+                - 後処理系自体にもまだ`text`マクロのエスケープ周りにバグがあるっぽいね
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 2 Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html)
-        - 2024/02/02
+        - 2024/02/02 - 2024/02/03
 
 ------
 
