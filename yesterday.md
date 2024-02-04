@@ -1,4 +1,4 @@
-# 2024/01/22 - 2024/01/28
+# 2024/01/29 - 2024/02/04
 
 - custard:
     - [ ] Conjure・vim-sexpの設定・習得
@@ -14,13 +14,18 @@
             - 2024/02/03: 一回だけigrep-cashbookを動かした。早速バグ発覚。
                 - 1個直したけど、まだまだ。
                 - 後処理系自体にもまだ`text`マクロのエスケープ周りにバグがあるっぽいね
+            - 2024/02/04
+                - 全部の行がvalidation errorになってしまうバグを直した
+                - まだおかしい。各カテゴリーの合計を出すとき、なぜか該当カテゴリーの最初の行の金額だけが表示される。合計金額は合ってるのに
+                - 後、`text`マクロのエスケープ周りのバグの再現ケースが作れない...。なぜ...
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
+        - 2024/02/04: <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/3b237a0897b4889b7e3f3073428c1cb845c49d1c>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 2 Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html)
-        - 2024/02/02 - 2024/02/03
+        - 2024/02/02 - 2024/02/04
 
 ------
 
