@@ -5,13 +5,14 @@
     - アプリケーション作り:
         - [ ] igrep-cashbookのCLI版
             - 2024/02/05: `text`マクロのバグは相変わらず分からないが、内訳の計算がおかしい理由は分かって直した。まさか`plusF`とかの結果をカッコで囲ってなかったとは...
+            - 2024/02/06: `text`マクロの問題は`text`ではなくパーサーの問題だった。エスケープシーケンスの処理が間違っていた、と...。面倒なので`JSON.parse`に頼ることで解決。明日はコミット整理して、インストールするスクリプトを書こう
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 2 Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html)
-        - 2024/02/02 - 2024/02/05
+        - 2024/02/02 - 2024/02/06
 
 ------
 
