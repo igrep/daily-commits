@@ -3,18 +3,20 @@
 - custard:
     - [ ] Conjure・vim-sexpの設定・習得
     - アプリケーション作り:
-        - [ ] igrep-cashbookのCLI版
+        - [x] igrep-cashbookのCLI版
             - 2024/02/05: `text`マクロのバグは相変わらず分からないが、内訳の計算がおかしい理由は分かって直した。まさか`plusF`とかの結果をカッコで囲ってなかったとは...
             - 2024/02/06: `text`マクロの問題は`text`ではなくパーサーの問題だった。エスケープシーケンスの処理が間違っていた、と...。面倒なので`JSON.parse`に頼ることで解決。明日はコミット整理して、インストールするスクリプトを書こう
             - 2024/02/07: コミットしてインストールスクリプトを書いた。書いたけど、インストールした先での`node_modules`ディレクトリーに、`@custard-lang/processor`などが正しくインストールできてない。どうやら、package-lock.jsonが悪いらしい。
                 ｰ 後、`@custard-lang/processor`と`@custard-lang/command`の最新版をアップロードしておかねば
+            - 2024/02/08: ってことで諸々修正してやっとできた。package-lock.jsonはコピーした先で`npm i`して作り直さないとやっぱりダメね...
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
+        - [ ] Step 7: Quoting <https://github.com/kanaka/mal/blob/master/process/guide.md#step-7-quoting>
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 2 Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html)
-        - 2024/02/02 - 2024/02/07
+        - 2024/02/02 - 2024/02/08
 
 ------
 
