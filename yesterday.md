@@ -11,12 +11,14 @@
             - 2024/02/08: ってことで諸々修正してやっとできた。package-lock.jsonはコピーした先で`npm i`して作り直さないとやっぱりダメね...
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 7: Quoting <https://github.com/kanaka/mal/blob/master/process/guide.md#step-7-quoting>
+            - 2024/02/09: 今回の修正の前に、今後のメタプログラミング機構の実装に備えて、`Form`に場所の情報などを追加しよう。hyではModel、RacketではSyntax Objectなんて呼ばれているものに相当するものにしよう
+                - ついでにエラーが起きたときに場所も分かるようにしたいね
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 2 Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html)
-        - 2024/02/02 - 2024/02/08
+        - 2024/02/02 - 2024/02/09
 
 ------
 
