@@ -16,12 +16,14 @@
             - 2024/02/10:
                 - 新しい型定義ができた
                 - よーく考えたら、save-postsが開発中の`@custard-lang/processor`を参照しているので、このままではまた動かなくなったり、変な挙動に変わってしまうかもしれない。やっぱigrep-cashbookと同様に独立した場所にインストールするよう修正しよう。できたはず。
+            - 2024/02/11: 型定義の変更に伴う修正を少し。生の`undefined`が`Form`でなくなったことに伴う変更が大きい
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/4620201d27eb5842f8344a91174bb6a37cef193a>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 2 Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html)
-        - 2024/02/02 - 2024/02/10
+        - 2024/02/02 - 2024/02/11
 
 ------
 
