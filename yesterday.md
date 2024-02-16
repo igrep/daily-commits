@@ -8,12 +8,13 @@
             - 2024/02/14: printerモジュールは追々書き直す予定なので、型エラーになった箇所ごと削除
             - 2024/02/15: Scannerの修正方法を検討。行番号を取り出すの難しそう
                 - いっそパーサーごと書き直すか！
+            - 2024/02/16: Scannerの再実装から着手。RubyのStringScannerを参考にする
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 2 Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html)
-        - 2024/02/02 - 2024/02/15
+        - 2024/02/02 - 2024/02/16
 
 ------
 
