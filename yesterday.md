@@ -9,12 +9,13 @@
             - 2024/02/15: Scannerの修正方法を検討。行番号を取り出すの難しそう
                 - いっそパーサーごと書き直すか！
             - 2024/02/16: Scannerの再実装から着手。RubyのStringScannerを参考にする
+            - 2024/02/17: Scannerの再実装ができたはず。昨日頭の中で書いていたアルゴリズムがうまくいくかな？
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 2 Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html)
-        - 2024/02/02 - 2024/02/16
+        - 2024/02/02 - 2024/02/17
 
 ------
 
