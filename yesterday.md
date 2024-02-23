@@ -8,12 +8,13 @@
             - 2024/02/21:
                 - やっぱりtokenの正規表現は一つにまとめた方が使いやすそうだなぁ。エラーメッセージで「Expected foo, but bar」の「bar」を出しやすい。RubyのStringScannerを参考にするより、元の方式に戻しつつ空白をスキップするって仕様の方がよさそうだ
                 - それから、scannerでカラムを取得する処理を実装しておいた。うまくいくかな？
+            - 2024/02/22: scannerの設計修正着手
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 2 Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html)
-        - 2024/02/02 - 2024/02/21
+        - 2024/02/02 - 2024/02/22
 
 ------
 
