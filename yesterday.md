@@ -10,12 +10,13 @@
                 - それから、scannerでカラムを取得する処理を実装しておいた。うまくいくかな？
             - 2024/02/22: scannerの設計修正着手
             - 2024/02/23: scannerの設計修正できたはず
+            - 2024/02/24: ちょっとだけ。今日もscannerの設計修正。少し進める度に問題が見えてきますね
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 2 Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html)
-        - 2024/02/02 - 2024/02/23
+        - 2024/02/02 - 2024/02/24
 
 ------
 
