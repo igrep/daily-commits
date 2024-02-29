@@ -6,7 +6,7 @@
         - [ ] Step 7: Quoting <https://github.com/kanaka/mal/blob/master/process/guide.md#step-7-quoting>
             - 2024/02/26 - 2024/02/27: ちょっとだけ
             - 2024/02/28: grammar.tsができたっぽい
-            - 2024/02/29: ちょっとだけ
+            - 2024/02/29: ちょっとだけ。reader.tsの型エラーを直した
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
