@@ -13,4 +13,4 @@
     - [Software Foundations Volume 2 Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html)
         - 2024/02/02 - 2024/03/10
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/f2005fdd3aba9b178ab0fcfdd5e5c6cdf3912410/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/fdd24e4811df5d00f14211354154fe1f418fabb5/yesterday.md)
