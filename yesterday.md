@@ -1,13 +1,11 @@
-# 2024/03/04 - 2024/03/10
+# 2024/03/11 - 2024/03/17
 
 - custard:
     - [ ] Conjure・vim-sexpの設定・習得
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 7: Quoting <https://github.com/kanaka/mal/blob/master/process/guide.md#step-7-quoting>
-            - 2024/03/04 - 2024/03/10: ちょっとだけ
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
-        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/4dd8179ed96d000bdc8e8baaa152a3d6c80035a8>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 2 Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html)
