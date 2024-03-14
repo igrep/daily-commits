@@ -13,11 +13,12 @@
                 - しかもTypeScriptばかりか、tscでJSのコードを更新してもvitestの実行結果に反映されていないっぽいね...
                 - TypeScriptの件は多分分かった。--build をオンにしているときか、何かしらmonorepo向けの設定をしているとき、依存先のパッケージの型チェックが通らない限り.jsは生成されないようだ。noEmitOnErrorをfalseにしていても関係ないっぽい。vitestも同じ理由なのかな...。直接.jsファイルを参照しているはずなのにね
                     - github.com/Quramy/npm-ts-workspaces-example でもやっぱりx-coreで型チェックを通らない状態にしたらコード生成されなかったので。
+            - 2024/03/14: internal/transpile.tsの一番メインの関数の型エラーを直した
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 2 Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html)
-        - 2024/02/02 - 2024/03/12
+        - 2024/02/02 - 2024/03/14
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/fdd24e4811df5d00f14211354154fe1f418fabb5/yesterday.md)
