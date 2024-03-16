@@ -15,11 +15,12 @@
                     - github.com/Quramy/npm-ts-workspaces-example でもやっぱりx-coreで型チェックを通らない状態にしたらコード生成されなかったので。
             - 2024/03/14: internal/transpile.tsの一番メインの関数の型エラーを直した
             - 2024/03/15: internal/transpile.tsとinternal/transpile/module.tsの型エラーを直した
+            - 2024/03/16: ちょっとだけ。また仕様で悩むところだなぁ
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 2 Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html)
-        - 2024/02/02 - 2024/03/15
+        - 2024/02/02 - 2024/03/16
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/fdd24e4811df5d00f14211354154fe1f418fabb5/yesterday.md)
