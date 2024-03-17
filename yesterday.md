@@ -16,11 +16,14 @@
             - 2024/03/14: internal/transpile.tsの一番メインの関数の型エラーを直した
             - 2024/03/15: internal/transpile.tsとinternal/transpile/module.tsの型エラーを直した
             - 2024/03/16: ちょっとだけ。また仕様で悩むところだなぁ
+            - 2024/03/17: @custard-lang/processorの型エラーを全て直した。
+                - 再度コンパイルされてvitestも意図通り実行されているらしいが、`private`変数に絡む問題がまだ発生する。改めてよーく見たら確かに初期化し漏らしていた...。罠だなぁ
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/0b0f873690461572699068b40d8ba91c27246c62>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 2 Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html)
-        - 2024/02/02 - 2024/03/16
+        - 2024/02/02 - 2024/03/17
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/fdd24e4811df5d00f14211354154fe1f418fabb5/yesterday.md)
