@@ -9,11 +9,12 @@
             - 2024/03/19: `Located`はTrees That Growよろしく型パラメーターにしないと再帰的な型に適用できない！
             - 2024/03/20: `internal/type.ts`を新しい設計に変更
             - 2024/03/21: 新しい設計に変更したらTypeScriptがようわからんcircular referenceエラーを出すようになった。少々面倒でなぜ上手く行くのかよく分からない方法で解決できた
+            - 2024/03/22: `@custard-lang/processor`の型エラーを一通りなくせたので、テストの結果を確認したところ、まだscannerにおいて未初期化のprivate instance変数を使っていた。修正。今度は違うエラー
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 2 Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html)
-        - 2024/02/02 - 2024/03/21
+        - 2024/02/02 - 2024/03/22
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/52f997a5f242a3a0b28f14a9a61f6955c116575a/yesterday.md)
