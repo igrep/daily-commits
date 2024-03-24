@@ -11,11 +11,13 @@
             - 2024/03/21: 新しい設計に変更したらTypeScriptがようわからんcircular referenceエラーを出すようになった。少々面倒でなぜ上手く行くのかよく分からない方法で解決できた
             - 2024/03/22: `@custard-lang/processor`の型エラーを一通りなくせたので、テストの結果を確認したところ、まだscannerにおいて未初期化のprivate instance変数を使っていた。修正。今度は違うエラー
             - 2024/03/23: 昨日のエラー一つ直せたけど、果たしてこれでいいものか。従来のアルゴリズムをそのまま踏襲したからこうなったけど、余分そうな`next()`の呼び出しが多く、なんだか不格好。
+            - 2024/03/24: readStrのテストの失敗を概ね直した。
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/03d55e0984ea23c96e7dc311a95ce86962eaa849>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 2 Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html)
-        - 2024/02/02 - 2024/03/23
+        - 2024/02/02 - 2024/03/24
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/52f997a5f242a3a0b28f14a9a61f6955c116575a/yesterday.md)
