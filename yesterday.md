@@ -1,27 +1,14 @@
-# 2024/03/24 - 2024/03/31
+# 2024/04/01 - 2024/04/07
 
 - custard:
     - [ ] Conjure・vim-sexpの設定・習得
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 7: Quoting <https://github.com/kanaka/mal/blob/master/process/guide.md#step-7-quoting>
-            - 2024/03/25: readerのテストを全て直せた
-            - 2024/03/26: ちょっとだけ。新しいテストの失敗を見るに、まだパーサーのバグがあるらしい。なんでかなぁ
-            - 2024/03/27: パーサーのバグというより、仕様の策定が不十分なせいだった。`LiteralObject`における、カンマの解釈。カンマはなしにしよう。後、その場合のエラーメッセージも適切ではないので、テストケース追加。
-            - 2024/03/28: カンマの問題を直し、それに合わせてパーサーのエラーメッセージを改善。もうちょっとよくしたい気もするが、ちょっと難しいな...
-                - 次は`Form`の型が変わったから`transpile`もそれに合わせて変えないと行けないらしいところがいくつもあるので対応しよう
-            - 2024/03/29: やや過剰な抽象化のせいでデバッグに苦労したが、何とか一つバグの原因が分かった。概ね直せたはず
-            - 2024/03/30: 一昨日見つけた問題は直せたはず。
-                - `meta.readString`と`meta.evaluate`のバグはちょっと仕様をよく考えないと。現状だと評価したJSの値ではなく、パースした`Form`が渡ってしまうのだ
-            - 2024/03/31: まだパーサーのバグがあったか。直した。後、まだカンマの問題が残ってた...
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
-        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/b63fc84aa406ceaf54bd4c09c1970339c7878ed8>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
-    - [Software Foundations Volume 2 Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html)
-        - 2024/02/02 - 2024/03/28
-            - ちょっと分からなくなってきたし、他のことを勉強した方が良さそうなので、ここで一旦終了
     - [Reactのドキュメント](https://ja.react.dev/learn)
         - 2024/03/29 - 2024/03/31
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/11590adf059c97376e5a1f427cbbcaa44d364259/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/ec7a52cd63a1f64034dd43477b80e84b06f07550/yesterday.md)
