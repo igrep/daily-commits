@@ -12,14 +12,16 @@
             - 2024/03/29: やや過剰な抽象化のせいでデバッグに苦労したが、何とか一つバグの原因が分かった。概ね直せたはず
             - 2024/03/30: 一昨日見つけた問題は直せたはず。
                 - `meta.readString`と`meta.evaluate`のバグはちょっと仕様をよく考えないと。現状だと評価したJSの値ではなく、パースした`Form`が渡ってしまうのだ
+            - 2024/03/31: まだパーサーのバグがあったか。直した。後、まだカンマの問題が残ってた...
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/b63fc84aa406ceaf54bd4c09c1970339c7878ed8>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Software Foundations Volume 2 Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html)
         - 2024/02/02 - 2024/03/28
             - ちょっと分からなくなってきたし、他のことを勉強した方が良さそうなので、ここで一旦終了
     - [Reactのドキュメント](https://ja.react.dev/learn)
-        - 2024/03/29 - 2024/03/30
+        - 2024/03/29 - 2024/03/31
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/11590adf059c97376e5a1f427cbbcaa44d364259/yesterday.md)
