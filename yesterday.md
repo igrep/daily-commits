@@ -12,11 +12,13 @@
             - 2024/04/06:
                 - 必要な箇所で`Form`型をフォーマットする関数を使うように変更
                 - meta.test.ts を一部修正
+            - 2024/04/07: `Form`型の仕様変更で落ちていた全てのテストを直せた。次はようやくマクロ機能の実装かな？
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/b132fa1eacde1c97e18aa9577d583fbe4a17a2fd>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Reactのドキュメント](https://ja.react.dev/learn)
-        - 2024/03/29 - 2024/04/06
+        - 2024/03/29 - 2024/04/07
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/ec7a52cd63a1f64034dd43477b80e84b06f07550/yesterday.md)
