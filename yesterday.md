@@ -17,11 +17,14 @@
                         - ってことで`windowsPathsNoEscape`を有効にした上で`transpile`してみたら、早速エラー。どうやら、npmに上がっている古いバージョンと今開発中のバージョンが混ざってしまっているらしい。開発中のバージョンで実行するには切り替えないといけない、と。こうなるのは予想はしてたけど、つらいなぁ
             - 2024/04/13: 昨日発覚した問題は、開発時のために`apps`以下のプロジェクトもworkspaceに含めることにした。インストールするときは`node_modules`を除いてコピーして`npm i`すればいい
                 - で、テストを実行してみたけど一部失敗するな...
+            - 2024/04/14: テストが失敗する問題、調べてみたけどようわからんなぁ。タイミング問題なのか、ランダムに2パターンのエラーが出る。でもざっとソース見ても`await`し忘れは見当たらないし...
+                - 直った。tscが生成した.test.jsファイルをvitestが.test.tsファイルと一緒に実行したせいで競合が起きてたからだった。これは分からん。
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
+        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/7b1b980b12e03fd6d6ee88116c90ab7ec62bf679>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Reactのドキュメント](https://ja.react.dev/learn)
-        - 2024/03/29 - 2024/04/13
+        - 2024/03/29 - 2024/04/14
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/4dc1681f34baea06e76cf580aa9d1ad7b0f5f757/yesterday.md)
