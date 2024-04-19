@@ -4,8 +4,9 @@
     - [ ] Conjure・vim-sexpの設定・習得
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 7: Quoting <https://github.com/kanaka/mal/blob/master/process/guide.md#step-7-quoting>
-            - 2024/04/15 - 2024/04/17: ちょっとずつコミット
+            - 2024/04/15 - 2024/04/17: ちょっとずつコミット。完了。
         - [ ] eslint-plugin-no-ignore-returned-unionの更新: `@typescript-eslint/eslint-plugin`の仕様変更に追従
+            - 2024/04/18: 久々に更新するべく、とりあえず依存パッケージを更新。
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
