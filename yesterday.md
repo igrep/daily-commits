@@ -5,6 +5,7 @@
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 7: Quoting <https://github.com/kanaka/mal/blob/master/process/guide.md#step-7-quoting>
         - [ ] eslint-plugin-no-ignore-returned-unionの更新: `@typescript-eslint/eslint-plugin`の仕様変更に追従
+            - 2024/04/22: どうやら`eslint-plugin-no-ignore-returned-union`にdefault exportを加えた方が良さそうだ。というわけでもうちょっと時間かかる！
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
         - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/3c9d773c08bcee1ad004c7657ce2934ad31495a7>
