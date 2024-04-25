@@ -8,12 +8,13 @@
             - 2024/04/22: どうやら`eslint-plugin-no-ignore-returned-union`にdefault exportを加えた方が良さそうだ。というわけでもうちょっと時間かかる！
             - 2024/04/23: `eslint-plugin-no-ignore-returned-union`の更新完了。まだESLintの設定の移行はかかりそう
             - 2024/04/24: ESLintの設定の移行、移行方法の案内が出る奴はなくなったけど、`Could not find "no-ignore-returned-union" in plugin "eslint-plugin-no-ignore-returned-union".`なるエラーが。まだeslint-plugin-no-ignore-returned-unionのやり方に問題があるのかな
+            - 2024/04/25: 設定フォーマットの移行はできたが、諸々の仕様変更について行けてないようで、7136件もエラーが...
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
         - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/3c9d773c08bcee1ad004c7657ce2934ad31495a7>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Reactのドキュメント](https://ja.react.dev/learn)
-        - 2024/03/29 - 2024/04/24
+        - 2024/03/29 - 2024/04/25
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/db3a5fb1fbcf39cd2d080fecb65869c8622e102c/yesterday.md)
