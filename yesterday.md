@@ -8,11 +8,12 @@
             - 2024/05/01: tokenを追加したが、何故かマッチしないっぽい。ああーそうだ、多分これ型チェック通ってないからtscがJS吐いてくれないからだ...
             - 2024/05/02: パーサーの実装まで。次は`quasiQuote`のテスト・実装
             - 2024/05/03: `quasiQuote`の最初のテストに着手しただけ
+            - 2024/05/04: 引き続きテストデータ
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Reactのドキュメント](https://ja.react.dev/learn)
-        - 2024/03/29 - 2024/05/03
+        - 2024/03/29 - 2024/05/04
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/2e75620cb27f69c35c8dfe1bb80b0de14b2934de/yesterday.md)
