@@ -14,13 +14,13 @@
             - 2024/05/08: `quasiQuote`を少しずつ実装
             - 2024/05/09: `meta.symbol`と`meta.list`の設計の誤りに気づいたので修正
                 - と、思ったけどその必要はなかった
-            - 2024/05/10: 引き続き`quasiQuote`の実装
+            - 2024/05/10 - 2024/05/11: 引き続き`quasiQuote`の実装
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
         - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/661288a9e4d234635a0eb442ba4a8c856c8792ef>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Reactのドキュメント](https://ja.react.dev/learn)
-        - 2024/03/29 - 2024/05/10
+        - 2024/03/29 - 2024/05/11
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/2e75620cb27f69c35c8dfe1bb80b0de14b2934de/yesterday.md)
