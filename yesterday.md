@@ -1,29 +1,14 @@
-# 2024/04/29 - 2024/05/12
+# 2024/05/13 - 2024/05/19
 
 - custard:
     - [ ] Conjure・vim-sexpの設定・習得
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 7: Quoting <https://github.com/kanaka/mal/blob/master/process/guide.md#step-7-quoting>
-            - 2024/04/30: 構文の型定義とテスト。Copilotのお陰でテストは楽できた
-            - 2024/05/01: tokenを追加したが、何故かマッチしないっぽい。ああーそうだ、多分これ型チェック通ってないからtscがJS吐いてくれないからだ...
-            - 2024/05/02: パーサーの実装まで。次は`quasiQuote`のテスト・実装
-            - 2024/05/03: `quasiQuote`の最初のテストに着手しただけ
-            - 2024/05/04 - 2024/05/05: 引き続きテスト
-            - 2024/05/06: 実装に着手したけど、`quote`も`quasiQuote`も、引数の数に応じて配列を返したり単一の値を返したりするよう仕様変更したほうがいいような気がしてきた。他のLispの挙動も見てみよう
-            - 2024/05/07: Clojureを見たら、やはり引数が一つの場合単一の値を返していた。そりゃそうか
-            - 2024/05/08: `quasiQuote`を少しずつ実装
-            - 2024/05/09: `meta.symbol`と`meta.list`の設計の誤りに気づいたので修正
-                - と、思ったけどその必要はなかった
-            - 2024/05/10 - 2024/05/11: 引き続き`quasiQuote`の実装
-            - 2024/05/12: 一つ問題に気づいてしまった。`quosiQuote`の結果を全部`Form<Location>`にしようと思うと、`unquote`の結果をランタイムで`Form`に変換する処理が必要になるし、現状の実装だと`Splice`は正しく動かない
-                - `Unquote`はまぁ結果を`any`で表現する方向に変えるとして、`Splice`はどうしようか
-                    - やっぱ`quote`・`quasiQuote`の結果を`Form`にするのは止めて生の値にしよう。`List`は`List`というクラスにしよう。Racketのsyntax objectみたいなのは後で考えよう
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
-        - <https://github.com/haskell-jp/makeMistakesToLearnHaskell/commit/8a21db70d013a32fb92498cf3eba41c4c1c837da>
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Reactのドキュメント](https://ja.react.dev/learn)
         - 2024/03/29 - 2024/05/12
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/2e75620cb27f69c35c8dfe1bb80b0de14b2934de/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/63a5a635c4ab6fa896eb6c7a714ab499dabee649/yesterday.md)
