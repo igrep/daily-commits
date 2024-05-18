@@ -9,11 +9,12 @@
             - 2024/05/15: テストを新しい仕様に合わせて修正中。`list`, `symbol`だけじゃなくて`keyValues`やpropertyAccess`も要るね
             - 2024/05/16: `keyValues`も作ってテストの移行ができた。次は`propertyAccess`や`quote`含めカバーできていなかったテストを
             - 2024/05/17: ちょっとだけ
+            - 2024/05/18: テストが全部できたはず
 - Haskell入門コンテンツ:
     - [ ] 課題18の不足箇所を埋める
 - [ ] stackからcabal-installに乗り換えて、cabal replで、私がstack replでやっていたことができるか試すチャレンジ
 - 読書など:
     - [Reactのドキュメント](https://ja.react.dev/learn)
-        - 2024/03/29 - 2024/05/17
+        - 2024/03/29 - 2024/05/18
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/63a5a635c4ab6fa896eb6c7a714ab499dabee649/yesterday.md)
