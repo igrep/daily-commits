@@ -3,8 +3,9 @@
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 7: Quoting <https://github.com/kanaka/mal/blob/master/process/guide.md#step-7-quoting>
+            - 2024/05/20: ちょっとだけ
 - 読書など:
     - [Reactのドキュメント](https://ja.react.dev/learn)
-        - 2024/03/29 - 2024/05/19
+        - 2024/03/29 - 2024/05/20
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/a4656832504e576ca40dc9ecb89c2809ad6065c7/yesterday.md)
