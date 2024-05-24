@@ -7,8 +7,9 @@
             - 2024/05/21: 先週考えた設計に従い、`meta`モジュールがどのように`import`されるかチェックする仕組みを実装し始めた
             - 2024/05/22: 先週考えた設計が実装できたっぽい
             - 2024/05/23: SpliceやSymbolなどの扱いが整理できてなかったので整理
+            - 2024/05/24: ようやく`quasiQuote`における`unquote`に着手
 - 読書など:
     - [Reactのドキュメント](https://ja.react.dev/learn)
-        - 2024/03/29 - 2024/05/23
+        - 2024/03/29 - 2024/05/24
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/a4656832504e576ca40dc9ecb89c2809ad6065c7/yesterday.md)
