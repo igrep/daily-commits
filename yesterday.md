@@ -1,17 +1,10 @@
-# 2024/05/20 - 2024/05/26
+# 2024/05/27 - 2024/06/02
 
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にTypeScriptでやる
         - [ ] Step 7: Quoting <https://github.com/kanaka/mal/blob/master/process/guide.md#step-7-quoting>
-            - 2024/05/20: ちょっとだけ
-            - 2024/05/21: 先週考えた設計に従い、`meta`モジュールがどのように`import`されるかチェックする仕組みを実装し始めた
-            - 2024/05/22: 先週考えた設計が実装できたっぽい
-            - 2024/05/23: SpliceやSymbolなどの扱いが整理できてなかったので整理
-            - 2024/05/24: ようやく`quasiQuote`における`unquote`に着手
-            - 2024/05/25: 実装できたっぽいが、なんかテストで妙なエラーに
-            - 2024/05/26: スタックトレースを見てもviteが生成したワケのわからんコードばかりでさっぱり分からず、meta.testに固有の部分だろうとアタリを付けて修正したらあっさり直った。
 - 読書など:
     - [Reactのドキュメント](https://ja.react.dev/learn)
         - 2024/03/29 - 2024/05/26
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/a4656832504e576ca40dc9ecb89c2809ad6065c7/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/77ebd1e60fe361fb4906ab27f15b0beb2cc4ca4c/yesterday.md)
