@@ -10,8 +10,9 @@
             - 2024/06/06: 昨日出くわした型エラーはとりあえず`TranspileError`として返して修正。まあ多分それで正解なんだろう。
             - 2024/06/07: ああー、失敗。`importAnyOf`した場合、`pseudoTopLevelReference`が必要なのは`meta`だけじゃなくて、`meta`の中身もだった。
             - 2024/06/08: 今日はちょっとだけ。`transpileState.mode`と`isAtTopLevel`それぞれの組み合わせで保存するコードを変えなければならず、面倒そうなことが分かった
+            - 2024/06/09: `import`内で`setImportedModulesJsId`を呼ぶよう修正。後は`importAnyOf`。
 - 読書など:
     - [Reactのドキュメント](https://ja.react.dev/learn)
-        - 2024/03/29 - 2024/06/08
+        - 2024/03/29 - 2024/06/09
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/0e3b208202d657ead7995124e393b8036d87b68a/yesterday.md)
