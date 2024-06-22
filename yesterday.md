@@ -8,8 +8,10 @@
             - 2024/06/19: 違うわ。そもそも`traverseLiteralObject`はObject Literalではなく`keyValues`を返すべきなんだ
             - 2024/06/20: ようやく`meta.quasiQuote`のテストを通せた
             - 2024/06/21: `meta.quote`の一部実装
+            - 2024/06/22: `meta.quote`の実装ができた。明日からはESLintのエラーをまとめて直すのやろう
+        - [ ] Step 8: Macros <https://github.com/kanaka/mal/blob/master/process/guide.md#step-8-macros>
 - 読書など:
     - [Reactのドキュメント](https://ja.react.dev/learn)
-        - 2024/03/29 - 2024/06/21
+        - 2024/03/29 - 2024/06/22
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/3b6f7c169c4ba0114e6b842bed5e1337b2455916/yesterday.md)
