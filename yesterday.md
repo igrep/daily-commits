@@ -9,8 +9,10 @@
         - [ ] Step 8: Macros <https://github.com/kanaka/mal/blob/master/process/guide.md#step-8-macros>
             - 2024/06/27: 新しく`Macro` `Writer`を追加しただけ
             - 2024/06/28: `Macro`を評価するところまでできた。次はマクロを定義するコードや
+            - 2024/06/29: `meta.macro`を実装しようとしたところで、参考にした`fn`にバグがあることに気づいた。なんでTypeScriptが型エラーにしてくれないのか！修正。
+                - ところで、`Macro`を評価する方法はアレで合ってるのかな。コードをcustardとして評価できていないような？
 - 読書など:
     - [Reactのドキュメント](https://ja.react.dev/learn)
-        - 2024/03/29 - 2024/06/28
+        - 2024/03/29 - 2024/06/29
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/72f19b4def6a5312789352678d2d4cdf035b4dd4/yesterday.md)
