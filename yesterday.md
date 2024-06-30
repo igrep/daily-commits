@@ -1,19 +1,10 @@
-# 2024/06/24 - 2024/06/30
+# 2024/07/01 - 2024/07/07
 
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にStep 8までTypeScriptでやる
-        - [x] Step 7: Quoting <https://github.com/kanaka/mal/blob/master/process/guide.md#step-7-quoting>
-            - 2024/06/24: ESLintのエラー潰し
-            - 2024/06/25: ESLintのエラー潰しがほぼ終わった
-            - 2024/06/26: ESLintのエラー潰し完了
         - [ ] Step 8: Macros <https://github.com/kanaka/mal/blob/master/process/guide.md#step-8-macros>
-            - 2024/06/27: 新しく`Macro` `Writer`を追加しただけ
-            - 2024/06/28: `Macro`を評価するところまでできた。次はマクロを定義するコードや
-            - 2024/06/29: `meta.macro`を実装しようとしたところで、参考にした`fn`にバグがあることに気づいた。なんでTypeScriptが型エラーにしてくれないのか！修正。
-                - ところで、`Macro`を評価する方法はアレで合ってるのかな。コードをcustardとして評価できていないような？
-            - 2024/06/30: `meta.macro`の実装方針がだいたい固まった。テストに着手
 - 読書など:
     - [Reactのドキュメント](https://ja.react.dev/learn)
         - 2024/03/29 - 2024/06/30
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/72f19b4def6a5312789352678d2d4cdf035b4dd4/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/b0683ad9fd155650ce9256467c673c64adcf9f3e/yesterday.md)
