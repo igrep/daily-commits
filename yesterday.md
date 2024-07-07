@@ -10,9 +10,11 @@
             - 2024/07/05: とりあえず入力のエラーは直したが、テストはまだ通らない。`internal/transpile.ts`のバグっぽい。作成したmacroを呼ぶコードに辿り着かずに普通の関数としてtranspileしているようだ
             - 2024/07/06: 現状の方式だと`meta.macro`を普通の式として`const`でセットしてしまうため、`Macro`としてではなく普通の`Const`として`env`に入れられ、`Macro`の`expand`が呼ばれないようだ。
                 - やっぱり、式ではなく直接`Macro`を`env`に入れる方式に変えよう
+            - 2024/07/07: 実装方法の修正開始
 - 読書など:
     - [Reactのドキュメント](https://ja.react.dev/learn)
         - 2024/03/29 - 2024/07/05
     - [Goのドキュメント](https://go.dev/doc/)
+        - 2024/07/06 - 2024/07/07
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/b0683ad9fd155650ce9256467c673c64adcf9f3e/yesterday.md)
