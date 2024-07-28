@@ -1,19 +1,10 @@
-# 2024/07/21 - 2024/07/28
+# 2024/07/29 - 2024/08/04
 
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にStep 8までTypeScriptでやる
         - [ ] Step 8: Macros <https://github.com/kanaka/mal/blob/master/process/guide.md#step-8-macros>
-            - 2024/07/22: 新しい`fn`の実装で`name`が指定されたとき、`pseudoTopLevel`にsetしないといけないことに気づいた。即時関数を作ってその中で`topLevelValues`にsetするか。めんどいねぇ
-            - 2024/07/23: 多分修正できた
-            - 2024/07/24: 「引数がtop levelの変数ってことになってる」は手つかずだった。
-                - それ以前に、生成されたコードを見るにまだうまく処理できてない。マクロを実行時に展開していない！
-                    - `set`するときに`Macro`として`set`できてないような？
-            - 2024/07/25: 昨日予想したとおりだった。`buildAsyncFn`ではなく`macro`側で代入するコードを組み立てる必要があるので途中まで修正。
-            - 2024/07/26: ようやくここまでうっすら感じていた問題の解決方法が分かった。macroを正しく動かすには、transpile時に作った定数を関数オブジェクトとして`markAsMacro`して`EnvF.set`しないといけないのだ。`EnvF.set`さえできてしまえば関数のソースコードは出力する必要すらない
-            - 2024/07/27: 昨日気づいた点をやる前に`fn`などを構築する関数の仕様変更に伴ってテストが落ちてるのを直さないと
-            - 2024/07/28: `meta.macro`や`scope`は関数名が必ず空っぽになるので、`null`を名前がないものとして渡すことにした。
 - 読書など:
     - [jotaiのドキュメント](https://jotai.org)
         - 2024/07/15 - 2024/07/28
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/263ae04d4a5a5c4018379b4089a10e3a14c72193/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/79fce6eb98849e1c4692ade742cc7583592ad1f0/yesterday.md)
