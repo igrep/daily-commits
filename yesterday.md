@@ -10,10 +10,11 @@
                 - やっぱり`Form`の各型も特殊なclassにしないといけなさそうね。`Number`クラスとか`String`クラスを継承するのは有効な手段らしい
             - 2024/08/02: `List`の従来の`Form`バージョンを削除し、`class`バージョンで`Location`を扱えるようにした
             - 2024/08/03: `LiteralArray`や`LiteralObject`も従来の`Form`バージョンを削除し、`class`バージョンで`Location`を扱えるようにした。ついでに`List`の型変数の与え型も間違っていたので修正
+            - 2024/08/04: `Integer32`や`Float64`も従来の`Form`バージョンを削除し、`class`バージョンを作成。
 - 読書など:
     - [jotaiのドキュメント](https://jotai.org)
         - 2024/07/15 - 2024/07/31
     - [canvasのチュートリアル](https://developer.mozilla.org/ja/docs/Web/API/Canvas_API/Tutorial)
-        - 2024/08/01 - 2024/08/03
+        - 2024/08/01 - 2024/08/04
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/79fce6eb98849e1c4692ade742cc7583592ad1f0/yesterday.md)
