@@ -9,8 +9,9 @@
             - 2024/08/22: `base/iteration/unbounded.ts`の型エラーを（今出ている分は）全て修正。次は`internal/env.ts`。
             - 2024/08/23: `internal/env.ts`の型エラーを（今出ている分は）全て修正。次はまた`base/common.ts`と`internal/transpile/module.ts`。
             - 2024/08/24: `processor`の中では後は`lib/meta.ts`だけらしい
+            - 2024/08/25: `processor`の型エラーを全て修正。次はテストの修正
 - 読書など:
     - [WebAssembly JS String Builtins](https://github.com/WebAssembly/js-string-builtins)
-        - 2024/08/17 - 2024/08/24
+        - 2024/08/17 - 2024/08/25
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/6245fbc6186b5eb4c3adf2981e2bed418ac1ffe9/yesterday.md)
