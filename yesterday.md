@@ -1,17 +1,10 @@
-# 2024/08/19 - 2024/08/25
+# 2024/08/26 - 2024/09/01
 
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にStep 8までTypeScriptでやる
         - [ ] Step 8: Macros <https://github.com/kanaka/mal/blob/master/process/guide.md#step-8-macros>
-            - 2024/08/19: `transpile.ts`の型エラーを全て修正。折角ASTの型毎にクラスを作ったんだし、それに`transpile`メソッドを追加するのも手かも。次は`base/common.ts`。
-            - 2024/08/20: `base/common.ts`の型エラーを全て修正。次は`base/safe.ts`。
-            - 2024/08/21: `base/safe.ts`の型エラーを全て修正。次は`base/iteration/unbounded.ts`。
-            - 2024/08/22: `base/iteration/unbounded.ts`の型エラーを（今出ている分は）全て修正。次は`internal/env.ts`。
-            - 2024/08/23: `internal/env.ts`の型エラーを（今出ている分は）全て修正。次はまた`base/common.ts`と`internal/transpile/module.ts`。
-            - 2024/08/24: `processor`の中では後は`lib/meta.ts`だけらしい
-            - 2024/08/25: `processor`の型エラーを全て修正。次はテストの修正
 - 読書など:
     - [WebAssembly JS String Builtins](https://github.com/WebAssembly/js-string-builtins)
         - 2024/08/17 - 2024/08/25
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/6245fbc6186b5eb4c3adf2981e2bed418ac1ffe9/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/d0ab71c354d8dc8a65f5330cab3d4b6fe16e4a98/yesterday.md)
