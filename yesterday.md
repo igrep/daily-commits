@@ -11,8 +11,10 @@
                 - `locatedUnquote`、`locatedSplice`をそう言えば実装してなかったので実装
                 - `reader.test.ts`を新しい仕様に合わせて修正した
                 - まだテストが落ちるので見たところ、grammar.tsの間違いだった。多分Copilotが生成した部分の検証漏れだなあ。他のテストの失敗もそうかも
+            - 2024/09/08: `KeyValue`のkeyが`CuString`も受け付けるよう修正。ついでに`CuArray`の長さを1に制限したいが...
+                - まあ、本当は専用の非終端記号を設けるべきなんだろうし、やっぱそうするか
 - 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
-        - 2024/08/26 - 2024/09/07
+        - 2024/08/26 - 2024/09/08
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/fc8ce35f0624630acda11095cd8735b4bcbfb446/yesterday.md)
