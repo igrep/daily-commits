@@ -8,8 +8,11 @@
             - 2024/09/11: ここまでの仕様変更で出た型エラーの修正着手。`internal/types.ts`と`lib/base/common.ts`間の循環依存を取り除いた
                 - なぜかTypeScriptが`List`と`CuArray`を同一の型と見なす型エラーが出てしまっているので、やむを得ず`List`を`Array`を継承しないで直接ラップするオブジェクトにした（実用上それで困らないだろうし）。ちゃんとbranded typesにしてるのに。なんなんだろうね。
             - 2024/09/12: 仕様変更による型エラーを、lib/meta.tsを除いて全て直した
+            - 2024/09/13:
+                - lib/meta.tsも直した。が、Chromebook上で依存関係がちゃんとインストールできていないらしく、`tsc`が無関係なところで失敗する
+                - testの仕様変更による型エラーを、meta.test.tsを除いて全て直した
 - 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
-        - 2024/08/26 - 2024/09/12
+        - 2024/08/26 - 2024/09/13
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/f007085b03cb52834f45d038199f5671299e7ce6/yesterday.md)
