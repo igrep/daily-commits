@@ -16,8 +16,10 @@
                 - 型エラーをすべて直した
                 - テストのエラーを一つ一つ潰していると、`Number`オブジェクトや`String`オブジェクトの比較でエラーが出ることに気づいた。vitestの`addEqualityTesters`を使う必要がある、と
                     - [この辺](https://github.com/vitest-dev/vitest/blob/699055eb93909287e1542fdfb99d97f2a38965ba/packages/expect/src/jest-utils.ts#L89)のソースを読んだ感じそのままでも良さそうに見えるけどなあ
+            - 2024/09/15:
+                - `addEqualityTesters`を使ったが、まだ同じテストで同様に落ちる。追加した関数は呼ばれているようなので、どうやら本当に実装がprimitiveな`number`を返しているようだ
 - 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
-        - 2024/08/26 - 2024/09/14
+        - 2024/08/26 - 2024/09/15
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/f007085b03cb52834f45d038199f5671299e7ce6/yesterday.md)
