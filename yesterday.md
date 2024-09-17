@@ -6,8 +6,11 @@
             - 2024/09/16: 昨日気付いたテストの失敗の原因は、primitive系の`Form`の`quote`がちゃんとできてなかったからだった
                 - 直したはいいが、今の実装だと`quote`した`Form`に`Location`がついてこないので、まだテストが落ちるだろう（実際のところ何故か落ちていないけど）
                     - やっぱり本当は、`located***`を`meta`で公開するべきなんだろうな。できれば隠したいけど...
+            - 2024/09/17:
+                - 今日はちょっとだけ。`meta.macro`のテストを一部修正
+                - おかしい。古い実装のテストをしているっぽい。`npm run clean`したら今度は`@vitest/expect`モジュールから`import`してるものについて型エラーになる。vitestのエラー曰く、vitestのpackage.jsonの`main`フィールドを見ろ、とのこと。いや見たけど全然問題なさそうなんだが？
 - 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
-        - 2024/08/26 - 2024/09/16
+        - 2024/08/26 - 2024/09/17
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/487a45041faac76ad8b89234215b20456f7a50ce/yesterday.md)
