@@ -16,8 +16,9 @@
             - 2024/09/19: 昨日気づいた問題を直したが、まだ同じテストが失敗する。「Compared values have no visual difference.」らしい。つらい
                 - `extension`が違う値なのかな？
                     - どうやら、`array`を`quote`するときの間違いらしい。直した。
+            - 2024/09/20: meta.test.tsの失敗するテストはあと一つだけ
 - 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
-        - 2024/08/26 - 2024/09/19
+        - 2024/08/26 - 2024/09/20
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/487a45041faac76ad8b89234215b20456f7a50ce/yesterday.md)
