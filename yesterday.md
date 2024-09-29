@@ -13,8 +13,10 @@
             - 2024/09/28: 想定外だったなあ。`const name = function anotherName() {}`みたいなコードでも`anotherName`という名前の変数は作られない、と
                 - ってことは式として`fn`を使っているか宣言として使っているかで挙動を変えないといけないのか。難しいなあ
                 - `test.fails`を使ってスキップさせることに。これで後はmeta.test.tsの修正だけ
+            - 2024/09/29: `meta.evaluate`と`meta.readString`のテストについてはひとまず`test.fails`でスキップ。とりあえず`TranspileError`を出すことにするのが良さそうだけど
+                - あと、よく見たら`import`のテストも落ちてるのね
 - 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
-        - 2024/08/26 - 2024/09/28
+        - 2024/08/26 - 2024/09/29
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/b5f7c393b5fffdd3992146ad56248e4b61f94c26/yesterday.md)
