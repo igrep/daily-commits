@@ -6,8 +6,9 @@
             - 2024/09/30:
                 - internal/transpile/module.test.tsのエラーは、間違ってテスト中に利用している.jsファイルを消してしまっていたせいだった。修正。
                 - 残りのテストのエラーは`test.fails`でごまかして、次は予定していたtestパッケージの整理をしよう
+            - 2024/10/01: 全てのテストを（`test.fails`で）通して、コミットした
 - 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
-        - 2024/08/26 - 2024/09/30
+        - 2024/08/26 - 2024/10/01
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/5bd5a08d641ab747520302f7836e9de0cbc6197a/yesterday.md)
