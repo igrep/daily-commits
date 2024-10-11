@@ -15,8 +15,9 @@
                     - と、思いきや、TypeScriptがその引数を認識していないらしい？
                         - そして、TypeScriptが認知してないってことは現状だとprocessorパッケージのコード生成がされないってことか...
                             - ES2022かららしい。思いのほか新しい。<https://zenn.dev/pixiv/articles/bb123b2f50cdab>
+            - 2024/10/11: ES2022にすることで概ね想定した設計にできた...が、まだテストは落ちる。まだ不十分らしい。まあまだ`import`を実行してないし、`meta.macro`でマクロを定義するのを`repl`でやってないしね
 - 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
-        - 2024/08/26 - 2024/10/10
+        - 2024/08/26 - 2024/10/11
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/5d95cbe9ab769eb795a51a48a2e9b58b8880f38c/yesterday.md)
