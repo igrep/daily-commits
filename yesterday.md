@@ -16,8 +16,10 @@
                         - そして、TypeScriptが認知してないってことは現状だとprocessorパッケージのコード生成がされないってことか...
                             - ES2022かららしい。思いのほか新しい。<https://zenn.dev/pixiv/articles/bb123b2f50cdab>
             - 2024/10/11: ES2022にすることで概ね想定した設計にできた...が、まだテストは落ちる。まだ不十分らしい。まあまだ`import`を実行してないし、`meta.macro`でマクロを定義するのを`repl`でやってないしね
+            - 2024/10/12: `meta.macro`でmacroを定義するのを`repl`でやることに。その前に、macroをexpandするときと同様に定義する際にもmacroよりも手前の`Form`を`repl`で評価しなければならないことに気づき、途中まで実装。`meta.macro`の中では`currentFormIndex`は現状利用できないし、やっぱ`TranspileModule`に定義するか
+                - いずれの場合でも、macroのために`repl`で評価する際、まだ最初の`Form`が評価できていない場合は`importsSrc`を使ってmoduleを`import`する必要があるだろう
 - 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
-        - 2024/08/26 - 2024/10/11
+        - 2024/08/26 - 2024/10/12
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/5d95cbe9ab769eb795a51a48a2e9b58b8880f38c/yesterday.md)
