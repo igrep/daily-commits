@@ -10,8 +10,10 @@
                 - 要はこれは以前考えていた、`Form`に対する`is***`系の関数が生JSの値をサポートしていない問題なので、`MacroBody`が返すことができる値を`any`、とまでは行かずとも、`Form`に変換できる値として処理する必要がある
                     - JavaScriptの仕様上ここは`any`にしなきゃならなそうだね
                     - 参考: <https://zenn.dev/mshaka/articles/8b9d8fdb7a219e>
+            - 2024/10/17: どうせ`Object`の内部までバリデーションすることになるし、`expand`した結果を都度全部`Form`に変換するか
+                - ってことで変換する関数のテストに着手
 - 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
-        - 2024/08/26 - 2024/10/16
+        - 2024/08/26 - 2024/10/17
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/89b37816de904f28940c78bc86d2f65e20af7a29/yesterday.md)
