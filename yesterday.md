@@ -12,8 +12,9 @@
                     - 参考: <https://zenn.dev/mshaka/articles/8b9d8fdb7a219e>
             - 2024/10/17: どうせ`Object`の内部までバリデーションすることになるし、`expand`した結果を都度全部`Form`に変換するか
                 - ってことで変換する関数のテストに着手
+            - 2024/10/18: 変換する関数のテストを途中まで書いた
 - 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
-        - 2024/08/26 - 2024/10/17
+        - 2024/08/26 - 2024/10/18
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/89b37816de904f28940c78bc86d2f65e20af7a29/yesterday.md)
