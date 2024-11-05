@@ -3,7 +3,9 @@
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にStep 8までTypeScriptでやる
         - [ ] Step 8: Macros <https://github.com/kanaka/mal/blob/master/process/guide.md#step-8-macros>
-            - 2024/11/05: 昨日の時点での問題は、`currentFormIndex`を`repl`の場合に更新してないからだった。直せたかと思いきや、今度は別の理由でテストが落ちる。
+            - 2024/11/04: 昨日の時点での問題は、`currentFormIndex`を`repl`の場合に更新してないからだった。直せたかと思いきや、今度は別の理由でテストが落ちる。
+            - 2024/11/05: 昨日新たに出遭った問題は、`repl`の場合にtranspileを2回行ってしまうところにあるわけだから、`repl`の場合はJSのソースコードのどこからどこまでを評価したか覚えておく設計にすればよさそう
+                - いや、replであろうとなかろうとその設計でいいのか。それならindexをとっておくんじゃなくて、`JsSrc`をマクロのために評価したら捨てる、って作戦でいいのかも？
 - 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
         - 2024/08/26 - 2024/11/05
