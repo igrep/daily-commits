@@ -7,8 +7,10 @@
             - 2024/11/19: 仕様変更に伴う型エラー潰し引き続き。interna/transpile.tsの修正が終わったはず。次はenv.tsあたりか
             - 2024/11/20: 仕様変更に伴う型エラー潰し引き続き
             - 2024/11/21: 仕様変更に伴う型エラー潰し引き続き。いよいよライブラリーの関数の修正まで来たかな
+            - 2024/11/22: internal/transpile/module.ts の仕様変更。もしかしてmoduleをimportしたことを表すKtvalが必要？
+                - トップレベルのimportについては、moduleとして評価するかでreplとして評価するかで違うコードを生成しないといけないわけだし
 - 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
-        - 2024/08/26 - 2024/11/21
+        - 2024/08/26 - 2024/11/22
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/e3ce31c4638b23024118588eb7f0d907c0d91010/yesterday.md)
