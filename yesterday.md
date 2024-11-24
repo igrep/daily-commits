@@ -1,18 +1,10 @@
-# 2024/11/18 - 2024/11/24
+# 2024/11/25 - 2024/12/01
 
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にStep 8までTypeScriptでやる
         - [ ] Step 8: Macros <https://github.com/kanaka/mal/blob/master/process/guide.md#step-8-macros>
-            - 2024/11/18: 仕様変更に伴う型エラー潰し引き続き
-            - 2024/11/19: 仕様変更に伴う型エラー潰し引き続き。interna/transpile.tsの修正が終わったはず。次はenv.tsあたりか
-            - 2024/11/20: 仕様変更に伴う型エラー潰し引き続き
-            - 2024/11/21: 仕様変更に伴う型エラー潰し引き続き。いよいよライブラリーの関数の修正まで来たかな
-            - 2024/11/22: internal/transpile/module.ts の仕様変更。もしかしてmoduleをimportしたことを表すKtvalが必要？
-                - トップレベルのimportについては、moduleとして評価するかでreplとして評価するかで違うコードを生成しないといけないわけだし
-            - 2024/11/23: Ktvalに新しい命令を追加
-            - 2024/11/24: Ktvalの新しい命令からのコード生成を実装
 - 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
         - 2024/08/26 - 2024/11/24
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/e3ce31c4638b23024118588eb7f0d907c0d91010/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/f5b7c31a05fd43230f92cb25541066e6c2a8429f/yesterday.md)
