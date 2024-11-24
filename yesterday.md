@@ -10,8 +10,9 @@
             - 2024/11/22: internal/transpile/module.ts の仕様変更。もしかしてmoduleをimportしたことを表すKtvalが必要？
                 - トップレベルのimportについては、moduleとして評価するかでreplとして評価するかで違うコードを生成しないといけないわけだし
             - 2024/11/23: Ktvalに新しい命令を追加
+            - 2024/11/24: Ktvalの新しい命令からのコード生成を実装
 - 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
-        - 2024/08/26 - 2024/11/23
+        - 2024/08/26 - 2024/11/24
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/e3ce31c4638b23024118588eb7f0d907c0d91010/yesterday.md)
