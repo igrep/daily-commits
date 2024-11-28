@@ -7,8 +7,13 @@
                 - と思ったけど`import * as id`のケースに対応できてないな。`Ktval`にもう1種類追加する必要があるのか。追加した
             - 2024/11/26: transpile/module.ts の `_cu$import` と `importAnyOf` の型エラーを修正
             - 2024/11/27: `export`用の`Ktval`も要るねぇ。ってことで追加して、transpile/module.ts の型エラーを全て修正
+            - 2024/11/28: `lib/meta.ts`などの型エラーを修正
+                - `lib/base/common.ts`を見た感じ、どうやらもう何種類か`Ktval`が必要な気がする。`functionPostlude`の一部だ
+                    - できた
+                - `KtvalAssign`ももうちょっと工夫して、destructuring assignmentに対応させたほうが良さそう
+                    - これもできた
 - 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
-        - 2024/08/26 - 2024/11/27
+        - 2024/08/26 - 2024/11/28
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/f5b7c31a05fd43230f92cb25541066e6c2a8429f/yesterday.md)
