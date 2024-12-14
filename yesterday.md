@@ -7,8 +7,9 @@
             - 2024/12/10 - 2024/12/12: sgと連携するスクリプト一部修正
             - 2024/12/13: sgと連携するスクリプト、やっと動くかと思いきや、なんかよく分からないエラーにハマってしまった
                 - <https://github.com/nushell/nushell/issues/14460>と同じメッセージだけど、同じ原因ではなさそう。
+            - 2024/12/14: JetBrainsのIDEなら標準でStructural Search and Replaceが使えるとのことで、WebStormをインストールして設定してた
 のが痛い。- 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
-        - 2024/08/26 - 2024/12/13
+        - 2024/08/26 - 2024/12/14
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/d56e721e62d899e791e8dd9c30704b97aa12cc92/yesterday.md)
