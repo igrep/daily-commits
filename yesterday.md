@@ -8,8 +8,12 @@
             - 2024/12/13: sgと連携するスクリプト、やっと動くかと思いきや、なんかよく分からないエラーにハマってしまった
                 - <https://github.com/nushell/nushell/issues/14460>と同じメッセージだけど、同じ原因ではなさそう。
             - 2024/12/14: JetBrainsのIDEなら標準でStructural Search and Replaceが使えるとのことで、WebStormをインストールして設定してた
+            - 2024/12/15:
+                - と、思って試してみたが、WebStormのstructural search and replace、もしかしてテンプレート文字列リテラルの中はうまく扱えないらしい。振り出しに戻ったね。
+                    - まあそれはそれとしてWebStormに1箇所問題を見つけてもらえたのでやっぱり使って良かった
+                - 後、sgが起動出来なかった問題はやっぱり<https://github.com/nushell/nushell/issues/14460>と同じ現象らしい。`npm`でインストールしたから`.cmd`を通じて呼び出されるのだ。
 のが痛い。- 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
-        - 2024/08/26 - 2024/12/14
+        - 2024/08/26 - 2024/12/15
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/d56e721e62d899e791e8dd9c30704b97aa12cc92/yesterday.md)
