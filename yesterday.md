@@ -7,4 +7,4 @@
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
         - 2024/08/26 - 2024/12/22
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/877de7e3c1f73e075bbf7721868df48ebabfd8fa/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/8f6a51c04cdc170271e7ae1247113dac886f189e/yesterday.md)
