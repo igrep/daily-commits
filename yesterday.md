@@ -5,7 +5,7 @@
         - [ ] Step 8: Macros <https://github.com/kanaka/mal/blob/master/process/guide.md#step-8-macros>
             - 2024/12/23 - 2024/12/24: ちょっとだけ。lib/base/safe.tsを全て新しい仕様に合わせて修正できた
                 - 明日からはやっぱりast-grepのドキュメントをよく読んで、ast-grepでなるべく一気に修正できるようにしよう
-            - 2024/12/25 - 2024/12/27: ast-grepのドキュメントを読みながらyamlファイルを少し書いていた
+            - 2024/12/25 - 2024/12/27: ast-grepのドキュメントを読みながらyamlファイルをちょっと書いていた
 のが痛い。- 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
         - 2024/08/26 - 2024/12/27
