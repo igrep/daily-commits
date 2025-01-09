@@ -10,6 +10,7 @@
             - 2025/01/09: `evalBlockCore`で最後の結果を保存するようにすればいいらしい
                 - しかしいずれにしても`evalBlockCore`を使う`evalBlock`の側からでは、`nonEvaluatedSrc`と元々の入力と合わせて2回実行してしまう問題は解決できないので、やっぱりもうちょっと変えないと
                     - もう一つの`jsMod`を`transpileBlockCore`で組み立てる、という方式は`repl`では意味がないので、一昨日からうっすら考えていた、`consumer`みたいなオブジェクトが必要なんだろうな
+                        - いや、そこまでしなくても、あるいはそうした上で、`nonEvaluatedSrc`のindexを記録する方式に変えるのがよさそう
 - 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
         - 2024/08/26 - 2025/01/08
