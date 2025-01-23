@@ -8,8 +8,14 @@
         - 2025/01/22: `const`/`let`の出力ができてない問題は解決。今度は何故か同じコードが2回繰り返されて出力されている問題が見つかった。`import`文だけを`transpile`するはずの処理で、全体を`transpile`してしまっているらしい。だいたい原因は分かるけどどう直したものか
             - `import`と本体を別々に出力するよう`Ktval`を`JsSrc`に変換する処理を分けるか？
                 - `import`だけを集める、って処理は`Ktval`以前のレイヤーに残しておきたいなあ
+        - 2025/01/23: ややこしいこと考えなくても、`transpileString`や`transpileBlock`が実行を終えた時に`clearTranspiledSrc`すればいいだけだった。後はテスト結果を直して辻褄を合わせるだけだ
+            - と思いきや、この方法だとmacroを実行するときに`import`を参照できないっぽいな。ダメだ
+                - `initializeForModule`で呼ぶ、`importsSrc`を`transpile`した後に`clearTranspiledSrc`を消せばこの問題は修正できた
+                    - マクロを実行する前の段階で`transpiledSrc`を削除していたのが悪かったらしい
+                    - どちらにしても、Pythonのように`import`を関数定義の先頭で書けるようにする、みたいなプランもあるので、`transpileKtvalsForModuleImports`とかみたいに分ける必要があるんだろうね
+            - いや、`clearTranspiledSrc`を呼ばなくても問題が再現しなかった。直せた要因は、どうやら`transpiledSrc`を`JsSrc`にする順番にあったようだ
 - 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
-        - 2024/08/26 - 2025/01/22
+        - 2024/08/26 - 2025/01/23
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/44f048589aab690f7f0680ee5054ffa2dba8f897/yesterday.md)
