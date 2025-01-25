@@ -15,8 +15,9 @@
                     - どちらにしても、Pythonのように`import`を関数定義の先頭で書けるようにする、みたいなプランもあるので、`transpileKtvalsForModuleImports`とかみたいに分ける必要があるんだろうね
             - いや、`clearTranspiledSrc`を呼ばなくても問題が再現しなかった。直せた要因は、どうやら`transpiledSrc`を`JsSrc`にする順番にあったようだ
         - 2025/01/24: `module`と`repl`の場合とで実行結果が異なる場合について明記。改めて全体を実行してみたところ、意外なことに、テストがフリーズするのは`module`の場合ではなく`repl`の場合だった。ひとまず`module`の場合のテストを直そう。とりあえず簡単そうなmodule.test.tsから
+        - 2025/01/25: テストの問題と実装のバグを二つずつ修正
 - 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
-        - 2024/08/26 - 2025/01/24
+        - 2024/08/26 - 2025/01/25
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/44f048589aab690f7f0680ee5054ffa2dba8f897/yesterday.md)
