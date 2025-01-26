@@ -1,24 +1,10 @@
-# 2025/01/20 - 2025/01/26
+# 2025/01/27 - 2025/02/02
 
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にStep 8までTypeScriptでやる
         - [ ] Step 8: Macros <https://github.com/kanaka/mal/blob/master/process/guide.md#step-8-macros>
-        - 2025/01/20 - 2025/01/21: `import`するときの`Ktval`の仕様変更
-            - 次は`module`で変数宣言の`const`と`let`をちゃんと出力してない問題の解決
-        - 2025/01/22: `const`/`let`の出力ができてない問題は解決。今度は何故か同じコードが2回繰り返されて出力されている問題が見つかった。`import`文だけを`transpile`するはずの処理で、全体を`transpile`してしまっているらしい。だいたい原因は分かるけどどう直したものか
-            - `import`と本体を別々に出力するよう`Ktval`を`JsSrc`に変換する処理を分けるか？
-                - `import`だけを集める、って処理は`Ktval`以前のレイヤーに残しておきたいなあ
-        - 2025/01/23: ややこしいこと考えなくても、`transpileString`や`transpileBlock`が実行を終えた時に`clearTranspiledSrc`すればいいだけだった。後はテスト結果を直して辻褄を合わせるだけだ
-            - と思いきや、この方法だとmacroを実行するときに`import`を参照できないっぽいな。ダメだ
-                - `initializeForModule`で呼ぶ、`importsSrc`を`transpile`した後に`clearTranspiledSrc`を消せばこの問題は修正できた
-                    - マクロを実行する前の段階で`transpiledSrc`を削除していたのが悪かったらしい
-                    - どちらにしても、Pythonのように`import`を関数定義の先頭で書けるようにする、みたいなプランもあるので、`transpileKtvalsForModuleImports`とかみたいに分ける必要があるんだろうね
-            - いや、`clearTranspiledSrc`を呼ばなくても問題が再現しなかった。直せた要因は、どうやら`transpiledSrc`を`JsSrc`にする順番にあったようだ
-        - 2025/01/24: `module`と`repl`の場合とで実行結果が異なる場合について明記。改めて全体を実行してみたところ、意外なことに、テストがフリーズするのは`module`の場合ではなく`repl`の場合だった。ひとまず`module`の場合のテストを直そう。とりあえず簡単そうなmodule.test.tsから
-        - 2025/01/25: テストの問題と実装のバグを二つずつ修正
-        - 2025/01/26: バグ二つ修正
 - 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
         - 2024/08/26 - 2025/01/26
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/44f048589aab690f7f0680ee5054ffa2dba8f897/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/6e2e66bf2efa8a50e75b06d5048360d7b4ff88cd/yesterday.md)
