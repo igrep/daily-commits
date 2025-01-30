@@ -12,8 +12,9 @@
                     - 昨日作った`transpileExpressions`で`;\n`を挟んでいないのが原因だった。普通に直せた。`transpileExpressions`というより`transpileStatements`だね。
                 - 昨日のバグとは関係なしに、二重に`import`を出力してしまう問題がまだあるらしい。なんで`module`のテストで再現しないんだろう
                     - ちょっと対策を考えた。`transpileBlock`した結果から`import`の分を抜き取るのは出来そう。`importsSrc`からoffsetが分かるわけだし
+            - 2025/01/30: 1つバグ修正。後は3つだけ
 - 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
-        - 2024/08/26 - 2025/01/29
+        - 2024/08/26 - 2025/01/30
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/6e2e66bf2efa8a50e75b06d5048360d7b4ff88cd/yesterday.md)
