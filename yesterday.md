@@ -1,27 +1,10 @@
-# 2025/01/27 - 2025/02/02
+# 2025/02/02 - 2025/02/08
 
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にStep 8までTypeScriptでやる
         - [ ] Step 8: Macros <https://github.com/kanaka/mal/blob/master/process/guide.md#step-8-macros>
-            - 2025/01/27: 一つバグ修正。次のやつは、また同じコードを2回出力させてしまっている件だ。先日直したつもりのと同じ原因なんだろうか
-                - `recursive`固有の問題っぽい。`recursive`が中で`transpileBlock`を呼んでいるのだ
-            - 2025/01/28: 一つバグ修正。`recursive`だけでなく、他にも中で`transpileBlock`を呼んでいるところがあったので同時に直した。`module`のテストは残り12件。
-            - 2025/01/29:
-                - 二つバグ修正。`module`のテストは残り1件。`repl`のテストは残り4件まで減ってた。
-                - どこで`;\n`を挟むか迷ったなあ。
-                    - 昨日作った`transpileExpressions`で`;\n`を挟んでいないのが原因だった。普通に直せた。`transpileExpressions`というより`transpileStatements`だね。
-                - 昨日のバグとは関係なしに、二重に`import`を出力してしまう問題がまだあるらしい。なんで`module`のテストで再現しないんだろう
-                    - ちょっと対策を考えた。`transpileBlock`した結果から`import`の分を抜き取るのは出来そう。`importsSrc`からoffsetが分かるわけだし
-            - 2025/01/30: 1つバグ修正。後は3つだけ
-            - 2025/01/31: `meta.evaluate`の問題。出力したコードを見た感じ、やはり一部のコードを二重に出力してしまっているらしい。
-                - テストで発生しているエラーはまた別問題だけど。そこを直したら取りあえず通った。なんとかテストでエラーを出させたい問題だなあ。
-            - 2025/02/01: 最近の変更でできたregressionを残っていたテストの失敗を修正。
-                - 一つ目は大分ad-hoc感あるけど。stringの配列じゃなくなったからjoinが使えないので末尾の取り扱いが難しくなったねぇ。
-                - とにかく、やっと全テストケースを通せた...。とりあえずコミットしようか
-            - 2025/02/02: と思ってたらsave-postsパッケージで書いてたテストが失敗していた。例の二重に`import`を出力してしまう問題だ。自分でテストケースを作らなくて済んで良かった
-                - どうやって直すか。`import`の評価を`repl`だろうと`module`だろうと本体に入る前にやっておいてのがシンプルで確実っぽいな。まあ将来的に1個の`Env`で複数のファイルをtranspileするために`importsSrc`を使ってるんだし、最初にさっさと読み込んでしまえばいいか
 - 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
         - 2024/08/26 - 2025/02/02
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/6e2e66bf2efa8a50e75b06d5048360d7b4ff88cd/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/6a95946d454aa9595d75dcf6f7a5fdf669a4139a/yesterday.md)
