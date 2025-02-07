@@ -1,4 +1,4 @@
-# 2025/02/02 - 2025/02/08
+# 2025/02/03 - 2025/02/09
 
 - custard:
     - [ ] とりあえず <https://github.com/kanaka/mal> を参考にStep 8までTypeScriptでやる
@@ -11,8 +11,9 @@
                 - <https://github.com/custard-lang/custard/commit/accf870b1c9ec6111e945cc29e60687c4f6fb62b>
                 - 明日以降はリファクタリング（残ったTODOの解決）したり`npm update`したりしよう
             - 2025/02/06: リファクタリング少し
+            - 2025/02/07: `_cu$eval`関数などのrename・ファイル移行ができた。次は`describe("evalBlock", () => {})`が冗長だから抜く件やろうか。やらなくてもいいかな？でもast-grepとかのstructural search and replace試すのに丁度よさそう
 - 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
-        - 2024/08/26 - 2025/02/06
+        - 2024/08/26 - 2025/02/07
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/6a95946d454aa9595d75dcf6f7a5fdf669a4139a/yesterday.md)
