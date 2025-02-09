@@ -1,7 +1,7 @@
 # 2025/02/03 - 2025/02/09
 
 - custard:
-    - [ ] とりあえず <https://github.com/kanaka/mal> を参考にStep 8までTypeScriptでやる
+    - [x] とりあえず <https://github.com/kanaka/mal> を参考にStep 8までTypeScriptでやる
         - [x] Step 8: Macros <https://github.com/kanaka/mal/blob/master/process/guide.md#step-8-macros>
             - 2025/02/03: `import`の評価を事前に行う修正ほぼ完了
             - 2025/02/04: 一昨日からの修正ができた。が、まだ問題が直っていないっぽい？
