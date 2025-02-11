@@ -1,10 +1,14 @@
 # 2025/02/10 - 2025/02/16
 
 - custard:
+    - [x] `lib/**/common.ts`は`lib/internal.ts`にrename
+        - 2025/02/10: 完了
     - [ ] npm-check-updates
+        - 2025/02/10: ESLintの更新は乗り切ったが、commanderパッケージの仕様変更でsplit.test.tsのテストが落ちてしまった。テスト対象のコードは全く使ってないのに、なんやかんやsplit.test.tsが役に立っているな...
+            - Ref. <https://github.com/tj/commander.js/blob/master/CHANGELOG.md#1300-2024-12-30>
     - [ ] replで複数行を扱えるように
 - 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
-        - 2024/08/26 - 2025/02/09
+        - 2024/08/26 - 2025/02/10
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/36905fcb338eb78fe5650cb3c5e54ab9484c3da2/yesterday.md)
