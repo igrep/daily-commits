@@ -15,8 +15,9 @@
                 - いや、generatorでやれば簡単にできるっぽいな。`next`メソッドで`yield`が返す値を設定できるらしいし
         - 2025/02/14: generatorでの実装に備えてちょっとだけ進めた
         - 2025/02/15: 最小限のテストケース追加
+        - 2025/02/16: 実装をちょっとだけ
 - 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
-        - 2024/08/26 - 2025/02/15
+        - 2024/08/26 - 2025/02/16
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/36905fcb338eb78fe5650cb3c5e54ab9484c3da2/yesterday.md)
