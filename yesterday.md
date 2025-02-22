@@ -8,8 +8,11 @@
         - 2025/02/20: 今日も少し。ちょっと難しくなってきた
             - ここまでの話を総合するに、`Generator`の`next`の結果を使えば`RecoverableParseError`であるか否かを区別する必要がないような気がしてきた。そもそもrecoverableじゃない場合であっても、そのトークンは無視して続きを受け取る、みたいなことはできるし、用途によっては必要なはず
         - 2025/02/21: 実装方法を確かめるためにプロトタイプを作ることにした。恐らく`yield`する際渡す`ParseError`は、スキップする長さを含めれば、途中のEOF以外のエラーでも応用できて便利だろう（今そこまでやらなくていいけど！）
+        - 2025/02/22: プロトタイプの足回りを整えていた
 - 読書など:
     - [効率的なGo](https://www.oreilly.co.jp//books/9784814400539/)
         - 2024/08/26 - 2025/02/21
+    - [Metaprogramming with Python](https://www.packtpub.com/en-us/product/metaprogramming-with-python-9781838554651)
+        - 2025/02/22
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/2c389b03e8c6ea6d7b492f857a43ca89aa2d34bb/yesterday.md)
