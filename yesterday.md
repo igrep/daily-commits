@@ -8,8 +8,9 @@
         - 2025/02/27: やっぱり継続渡しでやるよう変えた方が良くない？やっとやり方が分かった気がする
             - 継続渡し、っていうか継続を返す方法か。attoparsecも恐らくそうしてるんだろう
         - 2025/02/28: 昨日思いついたとおり継続を返す方向に修正開始
+        - 2025/03/01: 昨日の続き。核心的なところで早くも詰まった。取りあえず今の方針にして、「どこまでをパースしたか」を覚えておく実装にするけど、面倒くさそうだね。やっぱり`Generator`を組み合わせる方がいいのかもね。
 - 読書など:
     - [Metaprogramming with Python](https://www.packtpub.com/en-us/product/metaprogramming-with-python-9781838554651)
-        - 2025/02/22 - 2025/02/28
+        - 2025/02/22 - 2025/03/01
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/10edc8a7acacbea492c70f176496207c547816cf/yesterday.md)
