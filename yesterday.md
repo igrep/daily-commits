@@ -7,8 +7,9 @@
         - 2025/03/05: デバッグコードをたくさん。初期の入力がないことと、`resultP`の中で`scanner`の`next`を呼んでいないことが原因っぽい
         - 2025/03/06: ちょっと直してみるが、あまり変わらず。scannerとparser、入り口が複数あるのがややこしい原因のような気がするな。それで噛み合ってないように見える
         - 2025/03/07: もうなんか面倒くさくなってきたので、繰り返しになるがアプローチを変えよう。attoparsecがやってたみたいに、継続渡しを手で書くのがやっぱ実績あるしいい方法なんじゃない？
+        - 2025/03/08: 継続渡しでの実装引き続き
 - 読書など:
     - [Metaprogramming with Python](https://www.packtpub.com/en-us/product/metaprogramming-with-python-9781838554651)
-        - 2025/02/22 - 2025/03/07
+        - 2025/02/22 - 2025/03/08
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/5c2dc96d7cffac406e138e19ad28f85777cbfea6/yesterday.md)
