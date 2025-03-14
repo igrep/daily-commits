@@ -6,8 +6,9 @@
         - 2025/03/11: 昨日ハマっていた、`ParseErrorSkipping`等に渡した関数の型が合わない問題を修正できた
         - 2025/03/12: 今日はちょっとだけ。やっぱ`arrayP`の実装が難しいなぁ。内部の関数の中で要素を貯めていって最終的に吐き出す、みたいな方法がよさそう？
         - 2025/03/13: とりあえず型チェックは通したけど合ってるか...？
+        - 2025/03/14: 動かしてみたが、結果が表示されない
 - 読書など:
     - [Metaprogramming with Python](https://www.packtpub.com/en-us/product/metaprogramming-with-python-9781838554651)
-        - 2025/02/22 - 2025/03/13
+        - 2025/02/22 - 2025/03/14
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/34ac4245c401a1c859ed8a36436a947f9e6cd75a/yesterday.md)
