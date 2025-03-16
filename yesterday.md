@@ -10,8 +10,11 @@
         - 2025/03/15: Node.jsのtype stripping機能を使っているからなのか、デバッガーが動かないっぽい
             - 調べてみたら、どうもscannerから動いてないっぽいな。scannerに渡しているtokenの定義がいつの間にかおかしくなっていた
             - tokenの定義の問題は直したが、肝心のケース、配列の終端がない場合にまだうまく動いてない。逆にそれ以外のケースはちゃんと動いているのである程度CSPできているようだ
+        - 2025/03/16: まだまともに動いていないが、リファクタリングのつもりでエラーハンドリングを`cli.mts`側でやることで、引数を減らすよう修正。で、動かしてみたら、一旦エラーのケースに進むとそこから抜け出せなくなるようだ
+            - scannerが間違っていたので直したらそれっぽく動き始めた。
+            - 次は取りあえずテストを書くか。後、stackが溢れないよう、トップレベルでは`ParseErrorSkipping`を返さないようにしよう
 - 読書など:
     - [Metaprogramming with Python](https://www.packtpub.com/en-us/product/metaprogramming-with-python-9781838554651)
-        - 2025/02/22 - 2025/03/15
+        - 2025/02/22 - 2025/03/16
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/34ac4245c401a1c859ed8a36436a947f9e6cd75a/yesterday.md)
