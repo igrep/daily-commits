@@ -10,8 +10,9 @@
         - 2025/03/20: 今日はちょっとだけ。新しい設計向けに型注釈を変えただけ
         - 2025/03/21: 今日もちょっとだけ。grammar.tsを新しい設計向けに修正
         - 2025/03/22: 型定義が間違っていたので試行錯誤。後はcli.mtsだけだけど、本当に動くかな
+        - 2025/03/23: cli.mtsの修正ができた。次はテストの修正ね
 - 読書など:
     - [Metaprogramming with Python](https://www.packtpub.com/en-us/product/metaprogramming-with-python-9781838554651)
-        - 2025/02/22 - 2025/03/22
+        - 2025/02/22 - 2025/03/23
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/90f55b4063dbe8054dc10676092134a058d658d0/yesterday.md)
