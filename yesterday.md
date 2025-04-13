@@ -1,13 +1,9 @@
-# 2025/04/07 - 2025/04/13
+# 2025/04/14 - 2025/04/20
 
 - custard:
     - [ ] replで複数行を扱えるように
-        - 2025/04/07: テストケースの修正。どうやら実装でも配列の最後の要素の取り扱いに難があるらしい
-            - 直せた。後はエラーメッセージの件だけ
-        - 2025/04/08: テストを修正して全部通した。次は軽くREADMEを書いておこう
-        - 2025/04/09 - 2025/04/13: README作り
 - 読書など:
     - [実践TLA+](https://www.shoeisha.co.jp/book/detail/9784798169163)
         - 2025/03/25 - 2025/04/13
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/ab5720958e9564b3601f07bb83def705ae1379da/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/263662e9e4a32a814b3b26dd2dec9ff7930b2926/yesterday.md)
