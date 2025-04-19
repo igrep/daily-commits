@@ -8,8 +8,11 @@
         - 2025/04/17: 色々悩んでOpenRouterに登録
         - 2025/04/18: avante.nvimの設定修正。安全な環境変数取得のためにkeepassxc-cliの利用を検討。会社との環境差を埋めるのが面倒になってくるねぇ
             - 安全に取得した上でNeovimを起動するスクリプトが必要そうね。簡単にできるなら、まあまたYak shavingになってしまうけどやりたい
+        - 2025/04/19:自分で作らなくても良いパッケージがあることが分かったのでソースを軽く読んで試してみたら、動かず。
+            - <https://www.npmjs.com/package/keepassxc-browser-cli>
+            - <https://pypi.org/project/keepassxc-proxy-client/> の方がいいかなあ？
 - 読書など:
     - [実践TLA+](https://www.shoeisha.co.jp/book/detail/9784798169163)
-        - 2025/03/25 - 2025/04/18
+        - 2025/03/25 - 2025/04/19
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/263662e9e4a32a814b3b26dd2dec9ff7930b2926/yesterday.md)
