@@ -11,8 +11,9 @@
         - 2025/04/19:自分で作らなくても良いパッケージがあることが分かったのでソースを軽く読んで試してみたら、動かず。
             - <https://www.npmjs.com/package/keepassxc-browser-cli>
             - <https://pypi.org/project/keepassxc-proxy-client/> の方がいいかなあ？
+        - 2025/04/20: Python版、Junieに聞きつつやってたら動いた。もうこれ使ってれば良くない？明日はこれを直すかラップするかして、使いやすくしよう
 - 読書など:
     - [実践TLA+](https://www.shoeisha.co.jp/book/detail/9784798169163)
-        - 2025/03/25 - 2025/04/19
+        - 2025/03/25 - 2025/04/20
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/263662e9e4a32a814b3b26dd2dec9ff7930b2926/yesterday.md)
