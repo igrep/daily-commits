@@ -6,4 +6,4 @@
     - [実践TLA+](https://www.shoeisha.co.jp/book/detail/9784798169163)
         - 2025/03/25 - 2025/05/18
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/4ac9fda4eb2a4eef715cc41e607b629bed85ab26/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/cbe3816aea27e5b6e9e2559823966ad0d874c674/yesterday.md)
