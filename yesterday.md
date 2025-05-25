@@ -9,8 +9,9 @@
             - いや、`ParseError`でマッチしている箇所はそんなに多くないし、複数`expect`を使えばいいだろう
         - 2025/05/24: 会社でもAIをもっとバリバリ使えとのことなので、WSL 2でClaude Codeを使えるようにしよう
             - とりあえずVMの再セットアップしてプロジェクトを開くところまでできた
+        - 2025/05/25: CLaude Code向けのNeovimの設定修正
 - 読書など:
     - [実践TLA+](https://www.shoeisha.co.jp/book/detail/9784798169163)
-        - 2025/03/25 - 2025/05/24
+        - 2025/03/25 - 2025/05/25
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/cbe3816aea27e5b6e9e2559823966ad0d874c674/yesterday.md)
