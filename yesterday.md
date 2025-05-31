@@ -11,8 +11,9 @@
         - 2025/05/29: Anthropicのクレジットを買ったのでいざプロンプトを入力しようと考えたが、早くも設定を改善したくなってきた。terminal-registryじゃちょっと限界なのかも
             - ってことでまたちょっとvimコマンドを書いてた
         - 2025/05/30: 昨日考えた仕様を元に、vimプラグインを作り始めた
+        - 2025/05/31: Claude Codeに概ね作ってもらえた
 - 読書など:
     - [実践TLA+](https://www.shoeisha.co.jp/book/detail/9784798169163)
-        - 2025/03/25 - 2025/05/30
+        - 2025/03/25 - 2025/05/31
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/8fda89788ef93c4fd78879bcdcfd8e2bb945acb5/yesterday.md)
