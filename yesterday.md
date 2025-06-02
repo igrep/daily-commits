@@ -2,8 +2,9 @@
 
 - custard:
     - [ ] replで複数行を扱えるように
+        - 2025/06/02: 引き続きvimプラグイン作ってた。プロンプト間違えたなぁ。重要なこと書き漏らしている
 - 読書など:
     - [実践TLA+](https://www.shoeisha.co.jp/book/detail/9784798169163)
-        - 2025/03/25 - 2025/06/01
+        - 2025/03/25 - 2025/06/02
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/815d2f1fd67e91be30c7a29f5d8328b6090ca766/yesterday.md)
