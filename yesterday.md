@@ -9,8 +9,11 @@
             - Claude Codeに生成してもらった。叩き台として自分で手を加えようかと思ったけど、もうちょっと修正してもらおう。
             - `PromptMdSubmit`（あるいは`PromptMdSubmitSelection`）が、選択したテキストをうまくさばけないらしい
         - 2025/06/27: テストは直してもらえたがまだ落ちる。実装のバグらしい。どのケースで落ちたか分からないし、今度はClaude Codeにparameterized testに変換してもらおう
+        - 2025/06/28:
+            - parameterized testに変換してみたら、なんと全てのケースで落ちていた
+            - また`PromptMdSendSelection`の挙動がおかしい。
 - 読書など:
     - [実践TLA+](https://www.shoeisha.co.jp/book/detail/9784798169163)
-        - 2025/03/25 - 2025/06/27
+        - 2025/03/25 - 2025/06/28
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/1ef53f44b46110e669dd462eda26a62cfff039b6/yesterday.md)
