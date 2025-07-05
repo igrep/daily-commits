@@ -7,8 +7,9 @@
         - 2025/07/02: 分からん。文字列リテラルをパースした後のScannerの位置の問題か？あと、何故同じ`console.log`を同じ引数で2回通っているんだろう
         - 2025/07/03: `string`（文字列リテラル）や`keyValueOrSymbolOrStringOrUnquot`の方はうまく動いているように見える。
         - 2025/07/04: コロン`:`がスキップされているっぽい
+        - 2025/07/05: スキップされてはいなかった。やはり問題は、文字列リテラルを2回とりだしてしまっているところにあるらしい。文字列リテラル全体を返す前に`s.next()`を呼び出したら結構な量のテストケースを`ParseError`なしに実行できた（assertion failureはテスト側の問題）
 - 読書など:
     - [実践TLA+](https://www.shoeisha.co.jp/book/detail/9784798169163)
-        - 2025/03/25 - 2025/07/04
+        - 2025/03/25 - 2025/07/05
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/f297116ba1506a3a7f168a42379d6c9c3e42abab/yesterday.md)
