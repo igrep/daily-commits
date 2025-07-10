@@ -6,10 +6,11 @@
         - 2025/07/08: 一つバグを取り除けた。予期せぬ`ParseError`が出るのはあと一つだけかな？
             - `symbolOrPropertyAccess`でも、`stringP`と似たような配慮が必要らしい。一旦諦めるか。文字列リテラルほど重大な問題ではないし
         - 2025/07/09: テスト結果を適切に比較するために`l`, `c`, `f`を取り除く関数を書き始めてみたが、思ったより面倒くさい。Copilotがうまく補完してくれない
+        - 2025/07/10: `l`, `c`, `f`を取り除く関数を書き終えた
 - 読書など:
     - [実践TLA+](https://www.shoeisha.co.jp/book/detail/9784798169163)
         - 2025/03/25 - 2025/07/05
     - [型システムのしくみ ― TypeScriptで実装しながら学ぶ型とプログラミング言語 – 技術書出版と販売のラムダノート](https://www.lambdanote.com/products/type-systems)
-        - 2025/07/06 - 2025/07/09
+        - 2025/07/06 - 2025/07/10
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/2a8a8ae588fb5795b60a1edebad433c7aaa5d5be/yesterday.md)
