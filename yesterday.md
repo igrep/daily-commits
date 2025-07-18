@@ -12,8 +12,9 @@
             - あと、Ctrl+Dを押したときに出る例外は、バグで手元のバージョンでは処理できない例外らしい
                 <https://github.com/nodejs/node/issues/53497>
         - 2025/07/17: 行番号の問題を途中まで直した
+        - 2025/07/18: 行番号の問題を直したことで発生した型エラーを修正したら、今度はテストが落ちた。
 - 読書など:
-    - [型システムのしくみ ― TypeScriptで実装しながら学ぶ型とプログラミング言語 – 技術書出版と販売のラムダノート](https://www.lambdanote.com/products/type-systems)
-        - 2025/07/06 - 2025/07/10, 2025/07/12 - 2025/07/17
+    - [型システムのしくみ ― TypeScriptで実装しながら学ぶ型とプログラミング言語](https://www.lambdanote.com/products/type-systems)
+        - 2025/07/06 - 2025/07/10, 2025/07/12 - 2025/07/18
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/9fd1c04c7a0c1bb7045543db062957932c8d400e/yesterday.md)
