@@ -10,8 +10,9 @@
         - 2025/07/22:
             - Conjureのドキュメントを読んだ感じ、custom clientの作り方を解説した文書はなさそう
             - Conjureの設定中。なんかWindowsではインストールできてそうなのに、Linuxではできてなさそう？でもjetpackがインストールした跡はあるな
+        - 2025/07/23: 設定記述。自作言語のサポート方法について、昔はもっと詳しいドキュメントがあった気がするんだけど、何故か見当たらない。まあ折角Discord入ってるんだし訊いてみるか
 - 読書など:
     - [型システムのしくみ ― TypeScriptで実装しながら学ぶ型とプログラミング言語](https://www.lambdanote.com/products/type-systems)
-        - 2025/07/06 - 2025/07/10, 2025/07/12 - 2025/07/22
+        - 2025/07/06 - 2025/07/10, 2025/07/12 - 2025/07/23
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/e5bce067dfb6ba52b92bf2d3b3108676938b27dd/yesterday.md)
