@@ -9,8 +9,9 @@
         - 2025/08/07: 今日はちょっとだけ。cli-repl.ts以外の型エラーを直した
         - 2025/08/08: 内部の設計がまだブレて混乱してる...
         - 2025/08/09: 多分`cli-repl.ts`の修正が出来た。明日試す
+        - 2025/08/10: 大事な機能を実装し忘れていた。`cli-repl.ts`にも`ProvidedSymbols`を指定するオプションなどが必要だ
 - 読書など:
     - [型システムのしくみ ― TypeScriptで実装しながら学ぶ型とプログラミング言語](https://www.lambdanote.com/products/type-systems)
-        - 2025/07/06 - 2025/07/10, 2025/07/12 - 2025/08/09
+        - 2025/07/06 - 2025/07/10, 2025/07/12 - 2025/08/10
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/d83d6fbd4506e07bf5473a099d50a8ade3f4a5b1/yesterday.md)
