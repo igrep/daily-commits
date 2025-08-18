@@ -2,8 +2,9 @@
 
 - custard:
     - [ ] Conjureのサポート
+        - 2025/08/18: そもそもREPLで指定したファイルをロードする場合の処理のことを深く考えてなかったな...。二転三転しちゃったけど直ったかな？分かりづらいコードになってしまったようだ。明日試す
 - 読書など:
-    - [型システムのしくみ ― TypeScriptで実装しながら学ぶ型とプログラミング言語](https://www.lambdanote.com/products/type-systems)
-        - 2025/07/06 - 2025/07/10, 2025/07/12 - 2025/08/17
+    - [型システム入門 プログラミング言語と型の理論](https://www.ohmsha.co.jp/book/9784274069116/)
+        - 2025/08/18
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/2146d925db2113d38db36bfda382d937f7021ac7/yesterday.md)
