@@ -11,8 +11,10 @@
         - 2025/09/27: REPLがクラッシュしていたが詳細がわからなかったため、ログ機構に例外を記録するようの機能を追加した。でもこれ、stderrをConjureで取れたら見られそうだけど、取れないのかな？パッと見なさそう
             - でも追加したはずのログが出ないなぁ。1つは`~/prg/prj/custard`にいないときにexit code 254で発生したので多分<https://stackoverflow.com/questions/49656445/npm-i-running-command-failed-exit-code-254>と同じ原因なんだろうけど、`~/prg/prj/custard`に移動してもexit code 1で落ちるし例外が記録されない
                 - ログ機能実装時にバグらせていただけだった
+        - 2025/09/28: ログを見た感じ、Conjureからの入力が一切届いていないようだ。クライアントが正しく送れていないらしい
+            - NOTE: `CUSTARD_LOG_LEVEL`の切り替え忘れに注意
 - 読書など:
     - [型システム入門 プログラミング言語と型の理論](https://www.ohmsha.co.jp/book/9784274069116/)
-        - 2025/08/18 - 2025/09/27
+        - 2025/08/18 - 2025/09/28
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/5a33331e309aab9305a0a55e7130f0998814dd24/yesterday.md)
