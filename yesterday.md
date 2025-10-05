@@ -17,6 +17,6 @@
             - custard/stdio.fnlで`vim.print`しても直らないか...
 - 読書など:
     - [型システム入門 プログラミング言語と型の理論](https://www.ohmsha.co.jp/book/9784274069116/)
-        - 2025/08/18 - 2025/10/04
+        - 2025/08/18 - 2025/10/05
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/c35ef5df873f7387cbbeb10eba7c2261a5d2ad11/yesterday.md)
