@@ -13,8 +13,12 @@
                 - ただ、報告者がやっているように`process.stdin`を参照しただけでは直らず
             - 代わりに<https://nodejs.org/api/repl.html#replstartoptions>`が使えるんだろうか？でもこれも結局`readline`を使ってるっぽい
             - とりあえずNode.jsのバージョンを上げよう... と思いきや、いつも使っていたDebianのリポジトリーはもうないらしい。chnodeとnode-buildで入れた
+        - 2025/10/16: 案の定node 24.10.0でも同じ症状
+            - 昨日見た <https://github.com/nodejs/node/issues/36251> は今は再現しないし、やはり関係ないか
+            - `stdin.resume()`しないと標準入力を取れないのは仕様だろうし、やはり`readline`の問題として報告すべきか
+                - `stdin`単独で使った場合でも問題が再現しないし、やはり`readline`の問題なんだ
 - 読書など:
     - [型システム入門 プログラミング言語と型の理論](https://www.ohmsha.co.jp/book/9784274069116/)
-        - 2025/08/18 - 2025/10/15
+        - 2025/08/18 - 2025/10/16
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/2943439068f5246453724640ccb14b2a46e1dade/yesterday.md)
