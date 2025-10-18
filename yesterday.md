@@ -8,8 +8,19 @@
             - https://deepwiki.com/search/how-is-the-stdin-readstream-im_5925d77e-a2e5-42b0-9f9f-d228afef760a 曰く`The stdin stream starts in a paused state by default in "old" streams mode, requiring process.stdin.resume() to read from it.`らしいし、その[`resume`を呼んでいるのは`readline.createInterface`](https://github.com/nodejs/node/blob/v23.11.1/lib/internal/readline/interface.js#L341)のようなので、`createInterface`を呼ぶタイミングを早めればいけそう？
                 - メモ: <https://deepwiki.com/search/how-is-the-stdin-readstream-im_5925d77e-a2e5-42b0-9f9f-d228afef760a>
         - 2025/10/15: `readline.createInterface`を`custard`コマンドの先頭で呼ぶようにしたり、`stdin.resume()`だけを先頭で呼び出してみたりしたが、却っておかしな挙動になってしまった。
+            - やっぱりクライアント側で待つくらいしかないのかも
+            - 古いバグだが <https://github.com/nodejs/node/issues/36251> が似たような話？
+                - ただ、報告者がやっているように`process.stdin`を参照しただけでは直らず
+            - 代わりに<https://nodejs.org/api/repl.html#replstartoptions>`が使えるんだろうか？でもこれも結局`readline`を使ってるっぽい
+            - とりあえずNode.jsのバージョンを上げよう... と思いきや、いつも使っていたDebianのリポジトリーはもうないらしい。chnodeとnode-buildで入れた
+        - 2025/10/16: 案の定node 24.10.0でも同じ症状
+            - 昨日見た <https://github.com/nodejs/node/issues/36251> は今は再現しないし、やはり関係ないか
+            - `stdin.resume()`しないと標準入力を取れないのは仕様だろうし、やはり`readline`の問題として報告すべきか
+                - `stdin`単独で使った場合でも問題が再現しないし、やはり`readline`の問題なんだ
+        - 2025/10/17: `readline.createInterface`を`custard`コマンドの先頭で呼ぶようにしたり、`stdin.resume()`だけを先頭で呼び出してみたりしたが、却っておかしな挙動になってしまった。
             - commanderのソースを読んだところ、`program.parse()`では子プロセスでサブコマンドを呼び出しているらしいことが分かった（ref. <https://github.com/tj/commander.js/blob/bd4ae263f6966183f3c9e8b105fb5ae3c568c047/lib/command.js#L1287>）
             - それに倣って再現ケースでも子プロセス呼び出しでREPLを起動してみたが、やはり再現しない
+        - 2025/10/18: 再現ケースを作るのも大変そうなので、重い腰を上げてAIエージェントを使おうと試みるも、必須であろうGitHub MCP ServerのHTTP版がJunieで使えないとか、Web Storm上でGitHub CopilotのMCP Severの設定画面がなぜか動かないとか、色々ハマってつらい
 - 読書など:
     - [型システム入門 プログラミング言語と型の理論](https://www.ohmsha.co.jp/book/9784274069116/)
         - 2025/08/18 - 2025/10/17
