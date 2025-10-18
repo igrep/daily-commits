@@ -20,9 +20,9 @@
         - 2025/10/17: `readline.createInterface`を`custard`コマンドの先頭で呼ぶようにしたり、`stdin.resume()`だけを先頭で呼び出してみたりしたが、却っておかしな挙動になってしまった。
             - commanderのソースを読んだところ、`program.parse()`では子プロセスでサブコマンドを呼び出しているらしいことが分かった（ref. <https://github.com/tj/commander.js/blob/bd4ae263f6966183f3c9e8b105fb5ae3c568c047/lib/command.js#L1287>）
             - それに倣って再現ケースでも子プロセス呼び出しでREPLを起動してみたが、やはり再現しない
-        - 2025/10/18: 再現ケースを作るのも大変そうなので、重い腰を上げてAIエージェントを使おうと試みるも、必須であろうGitHub MCP ServerのHTTP版がJunieで使えないとか、Web Storm上でGitHub CopilotのMCP Severの設定画面がなぜか動かないとか、色々ハマってつらい
+        - 2025/10/18: 再現ケースを作るのも大変そうなので、重い腰を上げてAIエージェントを使おうと試みるも、必須であろうGitHub MCP ServerのHTTP版がJunieで使えないとか、Web Storm上でGitHub CopilotのMCP Severの設定画面がなぜか動かないとか、色々ハマってつらい。やっぱVS Codeでやれってことか
 - 読書など:
     - [型システム入門 プログラミング言語と型の理論](https://www.ohmsha.co.jp/book/9784274069116/)
-        - 2025/08/18 - 2025/10/17
+        - 2025/08/18 - 2025/10/18
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/2943439068f5246453724640ccb14b2a46e1dade/yesterday.md)
