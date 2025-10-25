@@ -15,8 +15,11 @@
                 - 現状では、`rl.question`の手前で`async`を呼び出そうと呼び出すまいと、2行目以降の受信に失敗する。そのことをバグレポするかな
         - 2025/10/23: 納得する再現ケースが出来た、と、思ったけど、もっと簡単にできるかも
         - 2025/10/24: もっと簡単に、というより、現象を正確に理解しやすくするためにコメントアウトしたコードを足した。いい加減再度コミュニティーも含めて検索した上でNode.jsのバグトラッカーに報告しよう
+        - 2025/10/25: <https://github.com/nodejs/node/issues/42581>で触れている、
+          > `readline.createInterface()` will start to consume the input stream once invoked. Having asynchronous operations between interface creation and asynchronous iteration may result in missed lines.
+          という記述が該当しているのだろう。しかし実際のところ、連続して`rl.question`を`await`するだけで問題が発生しているし、やはりバグと言いたい
 - 読書など:
     - [型システム入門 プログラミング言語と型の理論](https://www.ohmsha.co.jp/book/9784274069116/)
-        - 2025/08/18 - 2025/10/21, 2025/10/24
+        - 2025/08/18 - 2025/10/21, 2025/10/25
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/1c9e7a9b46a4f1e4463eca5dae82fa04e0fa40d1/yesterday.md)
