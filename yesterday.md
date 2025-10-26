@@ -18,8 +18,10 @@
         - 2025/10/25: <https://github.com/nodejs/node/issues/42581>で触れている、
           > `readline.createInterface()` will start to consume the input stream once invoked. Having asynchronous operations between interface creation and asynchronous iteration may result in missed lines.
           という記述が該当しているのだろう。しかし実際のところ、連続して`rl.question`を`await`するだけで問題が発生しているし、やはりバグと言いたい
+        - 2025/10/26: 送った。<https://github.com/nodejs/node/issues/60415>
+            - 恐らく`readline/promises`を使わないか`ask`の後に`await`しないでできるだけ常時入力を受け取るような作りにするのがワークアラウンドなんだろうな。めんどくさ。`Readable` streamとして扱えば案外簡単なのかな
 - 読書など:
     - [型システム入門 プログラミング言語と型の理論](https://www.ohmsha.co.jp/book/9784274069116/)
-        - 2025/08/18 - 2025/10/21, 2025/10/25
+        - 2025/08/18 - 2025/10/21, 2025/10/26
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/1c9e7a9b46a4f1e4463eca5dae82fa04e0fa40d1/yesterday.md)
