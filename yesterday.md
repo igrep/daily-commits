@@ -1,27 +1,10 @@
-# 2025/10/20 - 2025/10/26
+# 2025/10/27 - 2025/11/02
 
 - custard:
     - [ ] Conjureのサポート
         - NOTE: `CUSTARD_LOG_LEVEL`の切り替え忘れに注意
-        - 2025/10/20:
-            - プロンプトの続きを書きつつ、`custard-repl.js`をcommanderを経由しないで呼び出しても問題が発生することが分かった。少し再現コードを小さく出来た。
-            - GitHub Copilot CLIを使う許可を得たので入れてみたが、トークンの管理にコツがいりそうだ。
-        - 2025/10/21: Copilot CLIにお願いしたら結構簡単に再現ケースを作ってもらえた。検索も頼んでみたところ、既存のIssueにはないらしい。明日検索語をチェックしてから本当にないか検討しよう。<https://github.com/nodejs/help/issues>も調べましょう
-        - 2025/10/22:
-            - Copilot CLIが使った検索語を保存
-            - もっと問題の本質を探るために、`rl.question`の手前で`async`な関数を入れるよう修正したところ、問題が`async`な関数の呼び出しと関係なく発生しているように見える。なんかよう分からなくなってきた。
-                - readlineモジュールをそういう風に使うな、ってことなのかもしれない。
-                    - まあいずれにしてもバグ報告はしてもよさそう
-                - 現状では、`rl.question`の手前で`async`を呼び出そうと呼び出すまいと、2行目以降の受信に失敗する。そのことをバグレポするかな
-        - 2025/10/23: 納得する再現ケースが出来た、と、思ったけど、もっと簡単にできるかも
-        - 2025/10/24: もっと簡単に、というより、現象を正確に理解しやすくするためにコメントアウトしたコードを足した。いい加減再度コミュニティーも含めて検索した上でNode.jsのバグトラッカーに報告しよう
-        - 2025/10/25: <https://github.com/nodejs/node/issues/42581>で触れている、
-          > `readline.createInterface()` will start to consume the input stream once invoked. Having asynchronous operations between interface creation and asynchronous iteration may result in missed lines.
-          という記述が該当しているのだろう。しかし実際のところ、連続して`rl.question`を`await`するだけで問題が発生しているし、やはりバグと言いたい
-        - 2025/10/26: 送った。<https://github.com/nodejs/node/issues/60415>
-            - 恐らく`readline/promises`を使わないか`ask`の後に`await`しないでできるだけ常時入力を受け取るような作りにするのがワークアラウンドなんだろうな。めんどくさ。`Readable` streamとして扱えば案外簡単なのかな
 - 読書など:
     - [型システム入門 プログラミング言語と型の理論](https://www.ohmsha.co.jp/book/9784274069116/)
         - 2025/08/18 - 2025/10/21, 2025/10/26
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/1c9e7a9b46a4f1e4463eca5dae82fa04e0fa40d1/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/e675e790b7eb1b9a07182fcca0dbae61510232ef/yesterday.md)
