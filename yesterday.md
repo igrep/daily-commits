@@ -13,8 +13,9 @@
             - そう言えば昨日気付いた、なぜか`text`が定義されないものとして扱われる問題、今日試した限り再現しない
             - 明日からはTampermonkeyのスクリプトか、立替を少し楽にするアプリケーション作りにチャレンジしよう
                 - その前に、`@custard-lang/processor`とか`@custard-lang/comamnd`をnpmに上げるか。今後アプリを開発しながら処理系に手を入れる運用が難しそう
+        - 2025/11/07: npmに上げた
 - 読書など:
     - [アンダースタンディング コンピュテーション](https://www.oreilly.co.jp/books/9784873116976/)
-        - 2025/11/01 - 2025/11/05
+        - 2025/11/01 - 2025/11/07
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/801563ee8ea0047ee16c416d376ae8c8dfd48e80/yesterday.md)
