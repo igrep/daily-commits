@@ -14,8 +14,10 @@
             - 明日からはTampermonkeyのスクリプトか、立替を少し楽にするアプリケーション作りにチャレンジしよう
                 - その前に、`@custard-lang/processor`とか`@custard-lang/comamnd`をnpmに上げるか。今後アプリを開発しながら処理系に手を入れる運用が難しそう
         - 2025/11/07: npmに上げた
+    - [ ] Tampermonkeyのスクリプト作成1
+        - 2025/11/08: User scriptを作ろうと思ったところで、いくつか不便なところに気付いた。REPLに渡すprovided-symbols.cstdのテンプレートを出せるようにしないと書きづらい
 - 読書など:
     - [アンダースタンディング コンピュテーション](https://www.oreilly.co.jp/books/9784873116976/)
-        - 2025/11/01 - 2025/11/07
+        - 2025/11/01 - 2025/11/08
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/801563ee8ea0047ee16c416d376ae8c8dfd48e80/yesterday.md)
