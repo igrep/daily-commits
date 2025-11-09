@@ -16,8 +16,9 @@
         - 2025/11/07: npmに上げた
     - [ ] Tampermonkeyのスクリプト作成1
         - 2025/11/08: User scriptを作ろうと思ったところで、いくつか不便なところに気付いた。REPLに渡すprovided-symbols.cstdのテンプレートを出せるようにしないと書きづらい
+        - 2025/11/09: `Makefile`を書くなどしてUser scriptの開発環境を整えたところ、余分な`@custard-lang/processor/dist/lib/base.js`への`import`が入ってしまう問題に遭遇。現代のJavaScriptのビルドの慣習に従うなら、Bundlerに読ませてTree Shakingに任せるのが筋だが、ビルドの手順が一つ増えるし、custardにいい感じのオプションを追加しよう
 - 読書など:
     - [アンダースタンディング コンピュテーション](https://www.oreilly.co.jp/books/9784873116976/)
-        - 2025/11/01 - 2025/11/08
+        - 2025/11/01 - 2025/11/09
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/801563ee8ea0047ee16c416d376ae8c8dfd48e80/yesterday.md)
