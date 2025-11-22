@@ -8,8 +8,10 @@
             - `@custard-lang/command`で依存している`@custard-lang/processor`のバージョンが古いのが原因だった。やはり https://pnpm.io/ja/workspaces に移行するべきだね
         - 2025/11/20: 脱線になってしまうが、前からやろうと思っていたClipboardTextListenerを動かしてWSL2の`clip.exe`を使わないでWSL2のNeovimからWindowsのクリップボードにアクセスできるようにする仕組みを作った
         - 2025/11/21: `.cstd`ファイルを保存した時点（やり過ぎか？）でWindowsのクリップボードにビルドした内容をコピーできるようにしてやっと実装を再開
+        - 2025/11/22: 昨日作った仕組みが何故か今日は動かない。<https://stackoverflow.com/questions/48478869/cannot-bind-to-some-ports-due-to-permission-denied>と似たような現象だろうか
+            - <https://qiita.com/Quantum/items/8891fa9c94d03b388555>と同じだった（恐らく同じ現象）。スタートアップに登録したことで発生するようになったと思うので、起動前に`timeout`してWSL2側が起動するまで待つようにした
 - 読書など:
     - [アンダースタンディング コンピュテーション](https://www.oreilly.co.jp/books/9784873116976/)
-        - 2025/11/01 - 2025/11/21
+        - 2025/11/01 - 2025/11/22
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/bfbb324dee6687a8fb726d697713e3d4888178ad/yesterday.md)
