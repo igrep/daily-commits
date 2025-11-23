@@ -1,18 +1,9 @@
-# 2025/11/17 - 2025/11/23
+# 2025/11/24 - 2025/11/30
 
 - custard:
     - [ ] Tampermonkeyのスクリプト作成1
-        - 2025/11/17: 昨日のJSConf JPを受けてpnpmをインストールしようと試みるが、custardに導入するのはちょっと時間かかりそう。個人用User scriptのリポジトリーで移行できたっぽい
-        - 2025/11/18: Gmailの添付ファイルを取得する処理の実装
-        - 2025/11/19: 動かしてみようとしたところで、何故か`make`の時に`RuntimeModuleEmissionValues`が見つからないと言われて`custard`コマンドが実行できない。パッケージの中を見た感じものはあるので、どうも古いバージョンをどこかで参照してしまっているように見える
-            - `@custard-lang/command`で依存している`@custard-lang/processor`のバージョンが古いのが原因だった。やはり https://pnpm.io/ja/workspaces に移行するべきだね
-        - 2025/11/20: 脱線になってしまうが、前からやろうと思っていたClipboardTextListenerを動かしてWSL2の`clip.exe`を使わないでWSL2のNeovimからWindowsのクリップボードにアクセスできるようにする仕組みを作った
-        - 2025/11/21: `.cstd`ファイルを保存した時点（やり過ぎか？）でWindowsのクリップボードにビルドした内容をコピーできるようにしてやっと実装を再開
-        - 2025/11/22: 昨日作った仕組みが何故か今日は動かない。<https://stackoverflow.com/questions/48478869/cannot-bind-to-some-ports-due-to-permission-denied>と似たような現象だろうか
-            - <https://qiita.com/Quantum/items/8891fa9c94d03b388555>と同じだった（恐らく同じ現象）。スタートアップに登録したことで発生するようになったと思うので、起動前に`timeout`してWSL2側が起動するまで待つようにした
-        - 2025/11/23: 引き続き実装
 - 読書など:
     - [アンダースタンディング コンピュテーション](https://www.oreilly.co.jp/books/9784873116976/)
         - 2025/11/01 - 2025/11/23
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/bfbb324dee6687a8fb726d697713e3d4888178ad/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/6b0c66de6b462eeee6c6baf56419dde3ca31cb24/yesterday.md)
