@@ -5,8 +5,9 @@
     - [ ] `if`文の実装・`if`式から`andOr`式への移行
         - 2025/12/15: `andOr`と`expressions`の実装を完了
         - 2025/12/16: `if`式から`andOr`への移行を完了
+        - 2025/12/17: ここまでの変更を整理してコミット・`if`文の実装に着手
 - 読書など:
     - [アンダースタンディング コンピュテーション](https://www.oreilly.co.jp/books/9784873116976/)
-        - 2025/11/01 - 2025/12/16
+        - 2025/11/01 - 2025/12/17
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/22a9ec739af914618baf07b58997cbe817a62e85/yesterday.md)
