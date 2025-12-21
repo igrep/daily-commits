@@ -1,17 +1,9 @@
-# 2025/12/15 - 2025/12/21
+# 2025/12/22 - 2025/12/28
 
 - custard:
     - [ ] Tampermonkeyのスクリプト作成1
-    - [x] `if`文の実装・`if`式から`andOr`式への移行
-        - 2025/12/15: `andOr`と`expressions`の実装を完了
-        - 2025/12/16: `if`式から`andOr`への移行を完了
-        - 2025/12/17: ここまでの変更を整理してコミット・`if`文の実装に着手
-        - 2025/12/18: `if`文のテストケースを整理。ここまで来ると`elseIf`も実装したくなるが、まあ当面止めておこう
-        - 2025/12/19: `if`文を実装できた？
-        - 2025/12/20: バグとテストの修正して実装完了。リリースは明日。
-        - 2025/12/21: リリースした
 - 読書など:
     - [アンダースタンディング コンピュテーション](https://www.oreilly.co.jp/books/9784873116976/)
         - 2025/11/01 - 2025/12/21
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/22a9ec739af914618baf07b58997cbe817a62e85/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/d009beba662eddc9c0a99caa63f38fcd258117bb/yesterday.md)
