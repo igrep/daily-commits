@@ -11,8 +11,11 @@
         - 2026/01/13: テストを通せた！明日は動作確認と出来れば`git commit`しよう
         - 2026/01/14: `apps/igrep-cashbook`が古いバージョンを参照してしまっているせいで、うまく動かない。pnpm-workspaceの設定が悪いっぽい
             - で、pnpm-workspaceを直したら、なぜか`eslint-plugin-no-ignore-returned-union`のインストールが出来ない。あれこれ調べてみたら、package.jsonの`name`の末尾に空白が！
+        - 2026/01/15: `eslint-plugin-no-ignore-returned-union`を直した。無事、`pnpm i`してtranspileもできたので、transpileしたコードを見てみたが、何故かマクロが展開できていないらしい。マクロとして認識されていないようだ
+            - 理由は単純。`(const { continueIfNonItem } lib)`したときに、`lib.continueIfNonItem`がmacroであることが忘れ去られてしまうんだ。関数の引数として渡される場合とか考えると、なかなか難しい問題ね。マクロと普通の関数の呼び出しを区別しない仕様故の問題だなぁ。代入とか関数の引数として渡した時点でエラーにする方が簡単だろうなぁ
+                - 問題がある代入をエラーにしつつ、アプリ側での問題解決のために`import`の構文を一部実装するか
 - 読書など:
     - [アンダースタンディング コンピュテーション](https://www.oreilly.co.jp/books/9784873116976/)
-        - 2025/11/01 - 2026/01/14
+        - 2025/11/01 - 2026/01/15
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/c532e6564aa3b74132a4f93c8b652e7f5170a1d7/yesterday.md)
