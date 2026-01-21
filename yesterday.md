@@ -9,8 +9,12 @@
                     - => 内訳を出す
             - 2026/01/19: `Namespace`や`Macro`を呼び出し以外で使う処理、とりあえずの実装が出来たかな？と思いきやまだバグっているらしい
             - 2026/01/20: まだ落ちるテストがたくさん。デグレもしてる。デグレはともかく、オブジェクトのdestructuringでの取り扱いがまだ間違っている
+            - 2026/01/21: よく見るとテストが欠けていたので追加
+                - `PropertyAccess`の最終的な値が`Namespace`や`Macro`の場合のテストもまだ欠けてるね
+                - オブジェクトのデストラクチャリングについての修正もボチボチ。
+                    - メモ: `PropertyAccess`か`Symbol`を文字列に変換する関数は`showSymbolAccess`
 - 読書など:
     - [アンダースタンディング コンピュテーション](https://www.oreilly.co.jp/books/9784873116976/)
-        - 2025/11/01 - 2026/01/20
+        - 2025/11/01 - 2026/01/21
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/d8bb5d30d9c28cebe45976fae4a754b708c4b639/yesterday.md)
