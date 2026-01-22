@@ -13,8 +13,11 @@
                 - `PropertyAccess`の最終的な値が`Namespace`や`Macro`の場合のテストもまだ欠けてるね
                 - オブジェクトのデストラクチャリングについての修正もボチボチ。
                     - メモ: `PropertyAccess`か`Symbol`を文字列に変換する関数は`showSymbolAccess`
+            - 2026/01/22: 昨日の修正の続きをしたら、一昨日見つけたデグレも含めて全部直っていた
+                - `PropertyAccess`の件もよく見たら既に実装済みだった
+                - って事で明日は動作確認して全部コミットだ
 - 読書など:
     - [アンダースタンディング コンピュテーション](https://www.oreilly.co.jp/books/9784873116976/)
-        - 2025/11/01 - 2026/01/21
+        - 2025/11/01 - 2026/01/22
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/d8bb5d30d9c28cebe45976fae4a754b708c4b639/yesterday.md)
