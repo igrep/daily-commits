@@ -16,8 +16,10 @@
             - 2026/01/29: 実装は概ね出来たが、テストがおかしかったようだ。実装も一部間違っているらしい
                 - 恐らく、`canBePseudoToplevelReferenced`の定義に`Macro`が入っていないせいだろう。定義を改めるか、そもそもの`canBePseudoToplevelReferenced`の動機である`jsTopLevels`の扱いを改めるべきではないか
                     - と、思ったけどやっぱむずいか。`canBePseudoTopLevelReferenced`の利用各所を見てばらすか名前を変えて考え直すかした方が良さそう
+            - 2026/01/30: とりあえずマクロを普通の関数に変換するformの実装は出来た。`canBePseudoTopLevelReferenced`は、やっぱばらそう。後、`import`文で使う場合どの`Writer`をそうと見なすかは再検討が必要
+                - その後、モジュール周りで一部無駄なことをしていそうなことに気付いた
 - 読書など:
     - [アンダースタンディング コンピュテーション](https://www.oreilly.co.jp/books/9784873116976/)
-        - 2025/11/01 - 2026/01/29
+        - 2025/11/01 - 2026/01/30
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/e2d364f348ccbe58f632c215bc3c047f10766e7e/yesterday.md)
