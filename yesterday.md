@@ -1,4 +1,4 @@
-# 2026/02/02 - 2026/02/07
+# 2026/02/02 - 2026/02/08
 
 - custard:
     - [ ] sum-moneyの改善
@@ -12,8 +12,9 @@
         - 2026/02/04: 実装できたつもりだったけど、まだ肝心の部分が抜けているらしい。すっかり忘れてたけど、macroも普通の関数のようにスコープの管理をしなければならないのだ。
         - 2026/02/05: 既存の実装をよく見たらちゃんと`buildAsyncFn`を使って関数を定義していた。`defineMacro`では`buildFn`を、`defineAsyncMacro`では`buildAsyncFn`を使うようにしたので実装できたはず
         - 2026/02/06: 昨日の修正出てきた型エラーを直した。が、まだテストは落ちる。なんならデグレしてるな
+        - 2026/02/07: 昨日のデグレの調査。
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/02/06
+        - 2026/02/01 - 2026/02/07
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/7716254e87ef919133f37fa1cde861047364e9fe/yesterday.md)
