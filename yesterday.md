@@ -15,8 +15,9 @@
             - なんと、オブジェクトリテラルの中でのspliceが構文レベルでサポートされていなかったなんて！Yak shavingが続いてしまうが、まあサポートするか...。
                 - とりあえずパーサーのテストを追加
             - 構文の取り扱いも難しくなるね。引数の数をtranspile時に知りたいけどspliceを評価するまでは分からないケースが出来てしまう、と
+        - 2026/02/13: readResumablyのテストにもオブジェクトリテラルにおけるspliceのサポートを追加。grammar.tsの修正もできたっぽい
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/02/12
+        - 2026/02/01 - 2026/02/13
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/e8b94c0e57c7eeb639ca4095eccebcf83a47f322/yesterday.md)
