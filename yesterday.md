@@ -16,8 +16,11 @@
                 - とりあえずパーサーのテストを追加
             - 構文の取り扱いも難しくなるね。引数の数をtranspile時に知りたいけどspliceを評価するまでは分からないケースが出来てしまう、と
         - 2026/02/13: readResumablyのテストにもオブジェクトリテラルにおけるspliceのサポートを追加。grammar.tsの修正もできたっぽい
+        - 2026/02/14:
+            - どこをどう修正すべきか検討してた。transpileする順番が変わってしまってセマンティクスに影響があるんじゃないか気にしてたら、一つ見落としに気付いた。spliceする式が返すべきは（他の`DirectWriter`などとは違って）、`Form[]`であるべきだから、その分特別な扱いをする必要がある。macroでないといけないことにすればいいか
+            - spliceの処理を各種`transpile*`系の関数の中でやるか呼び出し側でやるかが難しいね。何か見極めるための規約が必要かも。brandedな型にでもする？
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/02/13
+        - 2026/02/01 - 2026/02/14
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/e8b94c0e57c7eeb639ca4095eccebcf83a47f322/yesterday.md)
