@@ -11,8 +11,11 @@
             - ってことで今までサポートしてなかったようなのでテストを追加。
             - 色々考えた感じよさそう。そして、arrayなどの中で`...`を使う場合、マクロ呼び出しだろうと何だろうと、そのままtranspileした式を`...`に入れれば（最適ではないが）とりあえず実装はできそう。
                 - ということは、arrayの中とそれ以外とで実装が異なることになるねぇ
+        - 2026/02/17: 今日はちょっとだけ。難しい局面に来て尻込みしちゃってる。恐らく、transpileの実装をばらして利用できるformの種類を限定しながら実装すると綺麗に出来るのだろう
+            - ってことで、`transpileExpression`はほぼ0からボトムアップで作り直した方が良さそうだ
+            - その前に、オブジェクトリテラルでのdestructuringとか、まだやるべきことがあるみたい
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/02/16
+        - 2026/02/01 - 2026/02/17
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/198a54527f46931a23c5493f2598028519615200/yesterday.md)
