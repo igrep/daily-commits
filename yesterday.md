@@ -15,8 +15,9 @@
             - ってことで、`transpileExpression`はほぼ0からボトムアップで作り直した方が良さそうだ
             - その前に、オブジェクトリテラルでのdestructuringとか、まだやるべきことがあるみたい
         - 2026/02/18: 分割代入についてのテストを追加
+        - 2026/02/19: 今日もちょっとだけ。分割代入について、異常系のテストも少し追加
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/02/18
+        - 2026/02/01 - 2026/02/19
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/198a54527f46931a23c5493f2598028519615200/yesterday.md)
