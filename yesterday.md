@@ -14,8 +14,9 @@
         - 2026/03/07: transpileの再設計にチャレンジしてみてるが、あまり進まず。ボトムアップにやるよりトップダウンに進めた方が良さそう
             - `transpileBlockCore`からか。
             - それ以外だと、新たにリストや配列を評価する箇所以外では`processSplices`する必要はなさそう
+        - 2026/03/08: `transpileStatementsSplicing`から始めた
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/03/07
+        - 2026/02/01 - 2026/03/08
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/d82ae06fc78c4ad36a049141751c0b2c93b5175e/yesterday.md)
