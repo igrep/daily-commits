@@ -1,4 +1,4 @@
-# 2026/03/09 - 2026/03/15
+# 2026/03/16 - 2026/03/22
 
 - custard:
     - [ ] sum-moneyの改善
@@ -7,10 +7,8 @@
                 - => コメントがマッチする行だけを返す（grepでよさそう）
                     - => 合計のみを出す
                     - => 内訳を出す
-        - 2026/03/09 - 2026/03/15: 引き続き、spliceのサポートに向けた`transpile`の再実装
-            - 1個ずつ裁くには、listやarrayに対するiteratorがあるとよさそうだ
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
         - 2026/02/01 - 2026/03/15
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/0af47fd5cb82a9058bab553297b8bd522aaf722f/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/dd91b2e769d7a4c02da93fedda2295c5bb459eb0/yesterday.md)
