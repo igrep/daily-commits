@@ -10,8 +10,9 @@
         - 2026/03/23: 引き続き、spliceのサポートに向けたtranspileの再実装。そろそろ終わりが見えてきたかな
         - 2026/03/24 - 2026/03/25: もう少しか、と思いきや、最後にtranspileしたformが式かどうかをチェックできるようにしないといけないらしい
         - 2026/03/26: できたかな？
+        - 2026/03/27: 利用箇所に合わせた調整
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/03/26
+        - 2026/02/01 - 2026/03/27
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/d0788be77c9e2128fb3cac96c941ef66b8875aa2/yesterday.md)
