@@ -12,8 +12,9 @@
         - 2026/03/26: できたかな？
         - 2026/03/27: 利用箇所に合わせた調整
         - 2026/03/28: 先日やった時点で特定のユースケースに特化しすぎていたかも、と反省
+        - 2026/03/29: ともあれそのままにして型エラーを直した
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/03/28
+        - 2026/02/01 - 2026/03/29
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/d0788be77c9e2128fb3cac96c941ef66b8875aa2/yesterday.md)
