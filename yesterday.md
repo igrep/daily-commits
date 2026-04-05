@@ -13,8 +13,9 @@
         - 2026/04/02: `transpileExpression`を使っていた箇所をひたすら`transpileStatement`に変える修正引き続き。残りエラーは34件。
         - 2026/04/03: エラーメッセージを修正して残りエラーは28件。ただ、未実装の箇所なので難しそう。`annotate`と`annotateArray`はMacroとして実装しないと、transpileした結果がstatementなのかどうか、といった情報を取り出せず、正しく実装できないだろう。Macroが`DirectWriter`より表現力が高い例らしい
         - 2026/04/04: `annotate`と`annotateArray`をmacroとして実装し直して残りエラー26件。まだまだ想定通りに動いてないようだ
+        - 2026/04/05: 残りエラー数変わらず。`Macro`や`DirectWriter`にspliceを渡すときの処理を実装し忘れていたので一部実装
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/04/04
+        - 2026/02/01 - 2026/04/05
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/6d329ea257c74e667f5989c55ddce2932bd7fd98/yesterday.md)
