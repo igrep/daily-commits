@@ -14,8 +14,9 @@
             - macroの仕様を多かれ少なかれ変えないといけなさそうだ。`Form`を受け取るか`Form`をtranspileしたJSの値を受け取るか。
                 - [malのTypeScriptによる実装](https://github.com/kanaka/mal/blob/2bbfaa54cca4908efc90b4173b1406e260788e8a/impls/ts/step8_macros.ts#L194)を読む限り、`Form`を直接受け取っている
         - 2026/04/10: macroの仕様を変えたことでテストの失敗は残り14件。その後4件直して残り10件。残りはテストケース自体の修正でいけそうかな？
+        - 2026/04/11: ようやく全てのテストケースを通した！明日は件のアプリで動作確認だ
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/04/10
+        - 2026/02/01 - 2026/04/11
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/058d8627ca3bd2d36fc3f0d2c21358486e57b334/yesterday.md)
