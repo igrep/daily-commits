@@ -11,8 +11,10 @@
         - 2026/04/14: 思い切って全部`unknown`にしてみてる。結局`Macro`がユーザーコードである以上、その方が実態に合っているだろうし。`DirectWriter`も`unknown`を受け取ることになるが、まあ恐らく問題なく実装できるだろう
             - ってことで`Form`を使っている大半の関数を`unknown`に置き換えてみてる
         - 2026/04/15: 引き続き`Form`から`unknown`への書き換え
+        - 2026/04/16: 残りの型エラーは`ExpectNever`しているところだけになった。これくらいの単純な書き換えはAIにやらせた方が良かったなぁ。
+            - それはそれとして、いい機会なんで`TranspileError`にエラーコードを入れ始めてみようか
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/04/15
+        - 2026/02/01 - 2026/04/16
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/8f2852e799a05ed2991b76f16b65efd6f9652cea/yesterday.md)
