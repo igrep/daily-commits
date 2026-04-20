@@ -7,8 +7,9 @@
                 - => コメントがマッチする行だけを返す（grepでよさそう）
                     - => 合計のみを出す
                     - => 内訳を出す
+        - 2026/04/20: 先週最後に見つけたバグはAIに直してもらうとして、一旦コミットしよう
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/04/19
+        - 2026/02/01 - 2026/04/20
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/6bfeac757284879a784ebee5979b9b084a971145/yesterday.md)
