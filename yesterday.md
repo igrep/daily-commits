@@ -8,8 +8,10 @@
                     - => 合計のみを出す
                     - => 内訳を出す
         - 2026/04/20: 先週最後に見つけたバグはAIに直してもらうとして、一旦コミットしよう
+        - 2026/04/21: 再現ケースを作ろうとして、よくよく考えたらこのバグについてどういう経緯で`undefined`になっているのか分からなくなってきた。でも実態（出てくるJS）をちゃんと見るために分かっているバグを先に直した方が良さそう？
+            - `unquote`と`propertyAccess`を組み合わせた場合のパース結果がどうあるべきか決められてないね
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/04/20
+        - 2026/02/01 - 2026/04/21
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/6bfeac757284879a784ebee5979b9b084a971145/yesterday.md)
