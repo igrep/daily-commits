@@ -13,8 +13,9 @@
         - 2026/04/22: 理想的には`propertyAccess`の左辺に任意の式を入れられるようにすることだけど、それはあまりやりたくないのよね
             - 一旦保留して、アプリ側`unquote`した値に対して`propertyAccess`をする場合は、その前にで一度変数に入れるようにしたら意図通りのコードが生成できた模様
             - でも入れ子の式をあまり書いて欲しくないんならそもそもS式にするなって話だし、この際`.`の左辺にあらゆる`Form`を書けるようにしちゃうか。前から欲しい機能ではあったし
+        - 2026/04/23: というわけで`PropertyAccess`型の定義を変えるところから始めた。
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/04/22
+        - 2026/02/01 - 2026/04/23
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/6bfeac757284879a784ebee5979b9b084a971145/yesterday.md)
