@@ -1,4 +1,4 @@
-# 2026/04/20 - 2026/04/26
+# 2026/04/27 - 2026/05/03
 
 - custard:
     - [ ] sum-moneyの改善
@@ -7,18 +7,8 @@
                 - => コメントがマッチする行だけを返す（grepでよさそう）
                     - => 合計のみを出す
                     - => 内訳を出す
-        - 2026/04/20: 先週最後に見つけたバグはAIに直してもらうとして、一旦コミットしよう
-        - 2026/04/21: 再現ケースを作ろうとして、よくよく考えたらこのバグについてどういう経緯で`undefined`になっているのか分からなくなってきた。でも実態（出てくるJS）をちゃんと見るために分かっているバグを先に直した方が良さそう？
-            - `unquote`と`propertyAccess`を組み合わせた場合のパース結果がどうあるべきか決められてないね
-        - 2026/04/22: 理想的には`propertyAccess`の左辺に任意の式を入れられるようにすることだけど、それはあまりやりたくないのよね
-            - 一旦保留して、アプリ側`unquote`した値に対して`propertyAccess`をする場合は、その前にで一度変数に入れるようにしたら意図通りのコードが生成できた模様
-            - でも入れ子の式をあまり書いて欲しくないんならそもそもS式にするなって話だし、この際`.`の左辺にあらゆる`Form`を書けるようにしちゃうか。前から欲しい機能ではあったし
-        - 2026/04/23: というわけで`PropertyAccess`型の定義を変えるところから始めた。
-        - 2026/04/24: 新しい`PropertyAccess`のテストケースができた
-        - 2026/04/25: 新しい`PropertyAccess`の実装開始。各種パーサーに渡す継続の引数に、処理済みのscannerを渡して、それを使って`.`とその左辺を処理する、みたいな感じがいいかな
-        - 2026/04/26: 新しい`PropertyAccess`の実装少し
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
         - 2026/02/01 - 2026/04/26
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/6bfeac757284879a784ebee5979b9b084a971145/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/0489698ffee28555b684a63dabe8b71ab5e43768/yesterday.md)
