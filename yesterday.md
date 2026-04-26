@@ -16,8 +16,9 @@
         - 2026/04/23: というわけで`PropertyAccess`型の定義を変えるところから始めた。
         - 2026/04/24: 新しい`PropertyAccess`のテストケースができた
         - 2026/04/25: 新しい`PropertyAccess`の実装開始。各種パーサーに渡す継続の引数に、処理済みのscannerを渡して、それを使って`.`とその左辺を処理する、みたいな感じがいいかな
+        - 2026/04/26: 新しい`PropertyAccess`の実装少し
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/04/25
+        - 2026/02/01 - 2026/04/26
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/6bfeac757284879a784ebee5979b9b084a971145/yesterday.md)
