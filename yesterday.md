@@ -7,9 +7,9 @@
                 - => コメントがマッチする行だけを返す（grepでよさそう）
                     - => 合計のみを出す
                     - => 内訳を出す
-        - 2026/05/11 - 2026/05/12: 新しい`PropertyAccess`の実装引き続き
+        - 2026/05/11 - 2026/05/13: 新しい`PropertyAccess`の実装引き続き。内部で使っていた`CallingWriter`を`writer`だけでいいようにしたい。よく見たら`sym`の部分はエラーメッセージの表示にしか使っていないようだし。
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/05/12
+        - 2026/02/01 - 2026/05/13
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/6666fde938841f454a2840ee380ea43639064a84/yesterday.md)
