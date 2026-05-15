@@ -13,6 +13,6 @@
         - 2026/05/15: 別種の`Writer`は、やっぱ面倒なので止めた。代わりに`CuSymbol`と`PropertyAccess`のtranspile周りをリファクタリングした。型エラーの大半を潰せた
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/05/13
+        - 2026/02/01 - 2026/05/15
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/6666fde938841f454a2840ee380ea43639064a84/yesterday.md)
