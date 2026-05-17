@@ -12,8 +12,9 @@
             - `PropertyAccessResolutionResult`の`writer`はない、ってことにしたいけど、やっぱりちょっと不便だしそれ用の`Writer`を作るか？`Writer`として加えるよりかは、`Writer`でも`undefined`でもない固有の値を作るか
         - 2026/05/15: 別種の`Writer`は、やっぱ面倒なので止めた。代わりに`CuSymbol`と`PropertyAccess`のtranspile周りをリファクタリングした。型エラーの大半を潰せた
         - 2026/05/16: 型エラーを全て潰せた。しかし、テスト結果見た感じまだ大本の問題が直せていない？
+        - 2026/05/17: resolve.tsのバグをいくつか修正。残りのテストの失敗は73件。エラーメッセージの修正も多いけど、パーサーのバグとか、いろいろあるねぇ
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/05/16
+        - 2026/02/01 - 2026/05/17
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/6666fde938841f454a2840ee380ea43639064a84/yesterday.md)
