@@ -8,8 +8,9 @@
                     - => 合計のみを出す
                     - => 内訳を出す
         - 2026/05/18: エラーメッセージの修正引き続き。残りテストの失敗は65件。パーサーの問題の他、`context.ts`にエンバグしてしまったらしい
+        - 2026/05/19: テストの間違いとバグを修正。残りテストの失敗は63件。
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/05/18
+        - 2026/02/01 - 2026/05/19
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/4fd1e3ee1077d3dc19b81c6740a4a094a9653cd7/yesterday.md)
