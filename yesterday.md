@@ -14,8 +14,9 @@
         - 2026/05/22: パーサーのテストを一部修正。残りテストの失敗は2件。残りは本当のバグか？
         - 2026/05/23: バグじゃなかった。全てのテストの失敗を修正。で、アプリで使ってみたがまだ同じエラーが起きているらしい
             - ああー、しまった。そもそもテストに書いた仕様の時点で間違った結果を書いていた。実装と共に直した。大本のアプローチ自体は間違っていなかったらしく、直ぐ直せた。
+        - 2026/05/24: 出来上がったアプリのテストをした。大丈夫そう。index.cstdとsum-only-expenditure.cstdが確認できた
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/05/21, 2026/05/23
+        - 2026/02/01 - 2026/05/21, 2026/05/24
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/4fd1e3ee1077d3dc19b81c6740a4a094a9653cd7/yesterday.md)
