@@ -13,8 +13,9 @@
             - その前に依存パッケージのアップデートだね
             - でも、CLIアプリでなければ別に`process.exit`とか使うことはないし、次にCLIアプリを作るときまで後回しでいいかも
         - 2026/05/28: 「内訳を出す」処理を軽く実装。動作確認は明日やる
+        - 2026/05/29: 動作確認できた
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/05/28
+        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/05/29
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/5fddb245263b5a00676444111b0e8a9b96c6b8e7/yesterday.md)
