@@ -12,6 +12,11 @@
         - 2026/06/12: packages/command のテストも packages/test と同じ問題があったので直したが、まだ同じエラーが出る。`import.meta.resolve`の第2引数に渡したパスが存在しないから、とか？
             - とすると、エラーメッセージが紛らわしい。Node.jsのバグといっていいかもしれない
             - 話を戻すと、元々期待していた`.provided-symbols.cstd`はどこにある`.provided-symbols.cstd`のつもりだったんだろう
+        - 2026/06/13: エラーメッセージ云々の問題は多分関係なさそう。というのも、初期化に失敗していたのは、bootstrapに必要な`ProvidedSymbolsConfig`、つまりコマンドライン引数で与えた`.provided-symbols.cstd`を評価するのに使う大本の`ProvidedSymbolsConfig`だったからだ。
+            - それはそれとしてやっぱりエラーメッセージがなんか変な感じ。`import`元を指しているであろう、`import.meta.resolve`の第2引数とは違う、`import.meta.resolve`を呼んだファイルのパスが`imported from ...`の所に出てるし
+            - いずれにしても、`packages/test`でうまく行った時のことを思うと、`ProvidedSymbolsConfig`はCustardで提供するんじゃなくてtranspile済みのJavaScriptとして提供した方が無難そう。まあ、その方が少し実行も速いだろうし
+                - ただ、目の前にある、大本の`ProvidedSymbolsConfig`の問題を解決したとして、本当にその続きもうまく行くんだろうか。根本原因が分からないし自信がない
+                - ああ、あと、あまり関係ないかもだけど、大本の`ProvidedSymbolsConfig`を取りに行くときの`srcFullPath`が実態と異なるのは紛らわしいし直した方が良いかもね。最初からJSに変換すればそれも考えなくて済むし、いずれにしても変えた方がいいのか？
     - [ ] tampermonkeyのスクリプト作成2
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
