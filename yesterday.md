@@ -7,9 +7,10 @@
                 - よくよく読んでみたら、第2引数は`--experimental-import-meta-resolve`フラグが必要らしい。ブラウザーなどにもこの機能はない。で、フラグを有効にしたら動いた。真面目にやるんなら`import.meta.resolve`直接使わずにやるとかしないといけないんだろうね
                 - vitestは自前で`--experimental-import-meta-resolve`を有効にしているらしい
                     - <https://github.com/vitest-dev/vitest/blob/d40fa598817fcf6bc97ce1c35dfa188f04527fb6/packages/vitest/src/node/pool.ts#L253>
+        - 2026/06/16: `process.execArgv`をいじることで解決できた
     - [ ] tampermonkeyのスクリプト作成2
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/06/15
+        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/06/16
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/28a3071ceaaa90cabad61d18021ca21d45ac7d2c/yesterday.md)
