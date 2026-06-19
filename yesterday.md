@@ -12,8 +12,9 @@
     - [x] pkgsにrename
         - 2026/06/18: 完了
     - [ ] tampermonkeyのスクリプト作成2
+        - 2026/06/19: リポジトリーの外で使えるよう、ひとまず新しいバージョンを公開
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/06/18
+        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/06/19
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/28a3071ceaaa90cabad61d18021ca21d45ac7d2c/yesterday.md)
