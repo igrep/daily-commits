@@ -15,8 +15,10 @@
         - 2026/06/19: リポジトリーの外で使えるよう、ひとまず新しいバージョンを公開
         - 2026/06/20: 着手してみたところ、案の定インストールしたコマンドの実行で失敗する。shebangに`/bin/env`を指定していたのがダメだったらしい。更に困ったことに、`--experimental-import-meta-resolve`を有効にしているはずなのに`import.meta.resolve`がうまく動いていない。
             - `NODE_OPTIONS`環境変数を設定してもダメっぽい。なぜ？今日は訳あってMacで作業してるんだけど、Nodeのバージョンがちょっと古いから？
+        - 2026/06/21: Nodeのバージョンを上げてもやっぱりダメだった
+            - と思ったら勘違いじゃないか！`--experimental-import-meta-resolve`はちゃんと効いていて、単に`@custard-lang/processor`に直接依存させてないからだった。これも恐らくpnpmの方が厳密に動いているからこそのエラーなんだろう
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/06/20
+        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/06/21
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/28a3071ceaaa90cabad61d18021ca21d45ac7d2c/yesterday.md)
