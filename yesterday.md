@@ -7,6 +7,7 @@
         - 2026/07/29: 実装着手
         - 2026/07/30: クレジットカードの明細ファイルをパースする処理を実装。アプリケーション共通のライブラリーが欲しくなってきたので明日作ろう
         - 2026/07/31 - 2026/08/01: 共有ライブラリーの切り出し
+        - 2026/08/02: 今回のアプリケーションにおける共通部分が出来た模様
     - [ ] tampermonkeyのスクリプト作成3
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
