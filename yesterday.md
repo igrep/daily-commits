@@ -11,6 +11,6 @@
     - [ ] tampermonkeyのスクリプト作成3
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/08/01
+        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/08/02
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/035dd8e957a3f4e31b5ad412ec2604ce7206e9be/yesterday.md)
