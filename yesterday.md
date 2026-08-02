@@ -1,16 +1,10 @@
-# 2026/07/27 - 2026/08/02
+# 2026/08/03 - 2026/08/09
 
 - custard:
     - [ ] 個人用スクリプト2: クレジットカードの明細突合
-        - 2026/07/27: プロジェクト整備。面倒なんで、`custard/apps`以下に置いて全部公開することにしちゃった方がいっそいいのかも。余計な依存関係をインストールしなくて済むし、そうするか
-        - 2026/07/28: プロジェクトで必要なファイルを列挙
-        - 2026/07/29: 実装着手
-        - 2026/07/30: クレジットカードの明細ファイルをパースする処理を実装。アプリケーション共通のライブラリーが欲しくなってきたので明日作ろう
-        - 2026/07/31 - 2026/08/01: 共有ライブラリーの切り出し
-        - 2026/08/02: 今回のアプリケーションにおける共通部分が出来た模様
     - [ ] tampermonkeyのスクリプト作成3
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
         - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/08/02
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/035dd8e957a3f4e31b5ad412ec2604ce7206e9be/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/30919e43bf3e066bb796fc33cf371a16c82856aa/yesterday.md)
