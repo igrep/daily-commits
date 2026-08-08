@@ -8,9 +8,10 @@
         - 2026/08/06: 中間データのパース・シリアライズを引き続き。よく見たらカードの明細をパースする処理もまだ途中の箇所があった
             - 日付の処理のためにTemporalを導入するのも良さそう
         - 2026/08/07: 中間データのパース・シリアライズを引き続き
+        - 2026/08/08: リストアップする処理の続き。入力ファイルの読み込みが出来たはず
     - [ ] tampermonkeyのスクリプト作成3
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/08/07
+        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/08/08
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/30919e43bf3e066bb796fc33cf371a16c82856aa/yesterday.md)
