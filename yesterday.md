@@ -12,10 +12,13 @@
             - 今度はファイルの末尾の空行だった。
             - その次はcustardで書いたアプリを呼び出すスクリプトのバグ。やっぱシェルスクリプトめんどいね
             - 更にその次はアプリのバグだ
+        - 2026/09/06:
+            - バグっていたのはデータの方ということにした。入力ファイルのテンプレートに書かれている日付がおかしい（26/09/31みたいなの）ことがあるのだ。テンプレート側で28日までにして修正。
+            - 他にもバグを直してようやくエラーなく動いたが、何故かどの行も全くマッチしてない
     - [ ] tampermonkeyのスクリプト作成3
     - [ ] 個人用スクリプト3: daily-commitsの週次の更新の自動化
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/09/05
+        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/09/06
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/5dca989c1106d74b166da71ca2faccf7634b8fa6/yesterday.md)
