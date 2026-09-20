@@ -8,10 +8,12 @@
         - 2026/09/17: 処理系のバグ修正。試しにmatchファイルを編集した感じ、ちょっと使い勝手に難ありか。「No matched」の時の運用が難しいね
         - 2026/09/18: 昨日出遭った問題に対応するため、matchファイルの構造を大幅に変えた方が良さそうな気がしてきた。というわけでテストケースから書き換えた
         - 2026/09/19: 新しいmatchファイルの仕様に対応中
+        - 2026/09/20: 新しいmatchファイルの仕様に対応していたところ、処理系のバグにハマってしまった。これも直すか...
+            - って事で処理系のバグを再現するテストケースを追加
     - [ ] tampermonkeyのスクリプト作成3
     - [ ] 個人用スクリプト3: daily-commitsの週次の更新の自動化
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/09/19
+        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/09/20
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/095110b1ffc22786cee41f584aadec8c51ab7209/yesterday.md)
