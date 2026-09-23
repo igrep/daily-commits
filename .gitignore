@@ -1,0 +1,4 @@
+/node_modules/
+
+# For testing prepare-new-week.cstd
+*example.md
