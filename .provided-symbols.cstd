@@ -1,0 +1,11 @@
+(const modulePaths (createMap))
+(modulePaths.set "base" (text standardModuleRoot "base.js"))
+(modulePaths.set "async" (text standardModuleRoot "async.js"))
+(modulePaths.set "meta" (text standardModuleRoot "meta.js"))
+(modulePaths.set "js" (text standardModuleRoot "js.js"))
+(modulePaths.set "fsC" "node:fs")
+
+{
+  modulePaths
+  implicitStatements: "(importAnyOf base)(import async)(import fsC)(import meta)"
+  jsTopLevels: ["console" "Number" "Promise" "process" "Array" "Object" "JSON" "Math" "Temporal"]}

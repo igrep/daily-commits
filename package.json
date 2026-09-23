@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "license": "Apache-2.0",
+  "private": true,
+  "scripts": {
+    "custard-transpile": "custard transpile -vp .provided-symbols.cstd prepare-new-week.cstd"
+  },
+  "devDependencies": {
+    "@custard-lang/command": "^0.0.15",
+    "@custard-lang/processor": "^0.0.15"
+  }
+}

@@ -1,0 +1,93 @@
+...(annotate
+     "Utilities"
+     (
+       (const
+         dropLastIfEmpty
+         (fn (lines)
+           (andOr (and (isGreaterThan lines.length 0) (equals (last lines) ""))
+             (lines.slice 0 -1)
+             lines)))
+
+       (export
+         (const
+           readUtf8String
+           (async.fn (reader)
+            (reader.setEncoding "utf8")
+            (let data "")
+            (async.forEach chunk reader
+              (assign data (text data chunk)))
+            data)))
+
+       (const
+         readUtf8Lines
+         (async.fn (reader)
+           (const data (async.await (readUtf8String reader)))
+           (dropLastIfEmpty (data.split "\n"))))))
+
+(const inputFile (get process.argv 2))
+(const commit (get process.argv 3))
+
+(const
+  formatDate
+  (fn ({year month day})
+    (text year "/" ((text month).padStart 2 "0") "/" ((text day).padStart 2 "0"))))
+
+(export
+  (const
+    newWeekHeader
+    (fn ()
+      (const today (Temporal.Now.plainDateISO))
+      (if (notEquals today.dayOfWeek 1)
+        (console.warn (text ""))
+        (console.warn (text "*******************************"))
+        (console.warn (text "*WARNING: Today is not Monday.*"))
+        (console.warn (text "*******************************"))
+        (console.warn (text "")))
+      (const nextSunday (today.add { days: 6}))
+      (text "# " (formatDate today) " - " (formatDate nextSunday)))))
+
+...(annotate
+     "TODO: more structured parsing of the body"
+     (
+       (const checkedItemRegExp (createRegExp "^ {4,}- \\[x\\] "))
+       (const datedItemRegExp (createRegExp   "^ {8,}- \\d{4}/\\d\\d/\\d\\d: ?"))
+       (const otherItemRegExp (createRegExp   "^ {12,}- "))
+
+       (export
+         (const
+          editBodyLines
+          (fn (lines)
+            (lines.filter
+              (fn (line)
+               (not
+                 (or
+                   (datedItemRegExp.test line)
+                   (or
+                     (checkedItemRegExp.test line)
+                     (otherItemRegExp.test line)))))))))))
+
+(export
+  (const
+    linkToLastWeekCommit
+    (fn (commit)
+     (text
+       "[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/"
+       commit
+       "/yesterday.md)"))))
+
+(async.await
+  (async.scope
+    (const
+      lines
+      (async.await (readUtf8Lines (fsC.createReadStream inputFile))))
+    (const lastLine (last lines))
+    (const [_headerLine ...restLines] (lines.slice 0 -1))
+     
+    (const
+      newLines
+      [(newWeekHeader)
+       ...(editBodyLines restLines)
+       (linkToLastWeekCommit commit)])
+       
+    (forEach newLine newLines
+      (console.log (newLine.trimEnd)))))
