@@ -12,10 +12,11 @@
                 - 取りあえずテストケースだけ作っておいた
             - 後は`npm install`で最新版の処理系を入れられればテストが出来る
                 - `min-release-age`を止むなく一時的にコメントアウトした。
-            - どうやらできたっぽい
+            - どうやらできたっぽい。後は次の週初めに試すだけ
     - [ ] tampermonkeyのスクリプト作成3
+        - 2026/09/24: 本題に着手する前に、昨日気付いた処理系のバグ修正に着手。何故かtop level assignになるべきでないのにtop level assignになってしまっているらしい
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/09/23
+        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/09/24
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/72ac070d3d5b2675744fb851ba62f0a872a8d2c3/yesterday.md)
