@@ -16,8 +16,10 @@
     - [ ] tampermonkeyのスクリプト作成3
         - 2026/09/24: 本題に着手する前に、昨日気付いた処理系のバグ修正に着手。何故かtop level assignになるべきでないのにtop level assignになってしまっているらしい
         - 2026/09/25: `scope`で包んで宣言した変数が何故かpseudo top levelになってしまうらしい
+        - 2026/09/26: 直した。昨日の推測は外れていて、mutationの時に特殊な実装をしていて、その中でミスがあった
+            - 今日改めて対象のサイトを確認したところ、CSVのエクスポート機能があるではないか。これを利用すればわざわざtampermonkeyのスクリプトにする必要は無いなぁ。ちょっと考え直すか。スクリプト作りとしてはちょっとつまらないけど、運用は絶対その方が楽だろうし...
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/09/25
+        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/09/26
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/72ac070d3d5b2675744fb851ba62f0a872a8d2c3/yesterday.md)
