@@ -6,8 +6,9 @@
     - [ ] ~~tampermonkeyのスクリプト作成3~~ ファンドの取引明細のマージ
         - 2026/09/28: igrep-cashbookのライブラリーを再利用しやすいよう仕様変更してた
         - 2026/09/29: igrep-cashbookのライブラリーの仕様変更引き続き
+        - 2026/09/30: ライブラリーの仕様変更とそれに伴うテストコードの修正が出来たのでアプリの本体を引き続き
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/09/29
+        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/09/30
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/72bb3ba4779479b930b15ee6d5cf6a1d24769bcc/yesterday.md)
