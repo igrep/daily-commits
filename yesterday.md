@@ -11,8 +11,9 @@
         - 2026/10/02: 主要な処理のテスト書き始め
         - 2026/10/03: テストに必要なデータ作り引き続き。既にtransactionがcashbookに入っている場合とか、まだまだ考慮事項が多そう
             - 処理済みのデータにもう一度適用したら何もしないってテストケースを書けばいいのか
+        - 2026/10/04: テストに必要なデータができたはず
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/10/03
+        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/10/04
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/72bb3ba4779479b930b15ee6d5cf6a1d24769bcc/yesterday.md)
