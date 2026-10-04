@@ -1,19 +1,10 @@
-# 2026/09/28 - 2026/10/04
+# 2026/10/05 - 2026/10/11
 
 - custard:
     - [ ] 個人用スクリプト3: daily-commitsの週次の更新の自動化
-        - 2026/09/28: Macのnvimからシェルスクリプトを通じて動かしてみたところ、何故かフリーズ。デバッグコードを入れてもう一度試したら問題再現せず。なんだったんだ。
     - [ ] ~~tampermonkeyのスクリプト作成3~~ ファンドの取引明細のマージ
-        - 2026/09/28: igrep-cashbookのライブラリーを再利用しやすいよう仕様変更してた
-        - 2026/09/29: igrep-cashbookのライブラリーの仕様変更引き続き
-        - 2026/09/30: ライブラリーの仕様変更とそれに伴うテストコードの修正が出来たのでアプリの本体を引き続き
-        - 2026/10/01: 今日はちょっとだけ。後は主要な処理のテストと実装をすれば終わりのはず
-        - 2026/10/02: 主要な処理のテスト書き始め
-        - 2026/10/03: テストに必要なデータ作り引き続き。既にtransactionがcashbookに入っている場合とか、まだまだ考慮事項が多そう
-            - 処理済みのデータにもう一度適用したら何もしないってテストケースを書けばいいのか
-        - 2026/10/04: テストに必要なデータができたはず
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
         - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/10/04
 
-[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/72bb3ba4779479b930b15ee6d5cf6a1d24769bcc/yesterday.md)
+[先週の記録はこちら](https://github.com/igrep/daily-commits/blob/5c28543c08b83417f1bd8dfbdd00eeffbff241a8/yesterday.md)
