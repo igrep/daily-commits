@@ -8,8 +8,9 @@
         - 2026/10/06: 必要な補助関数の一つを実装
         - 2026/10/07: 取引履歴のパースが、クレカの明細からコピペした後ろくに実装できていないことに気付いて直した
         - 2026/10/08 - 2026/10/09: 今日はちょっとだけ
+        - 2026/10/10: 必要な補助関数引き続き。パース処理もよく見たら不十分だね
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/10/09
+        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/10/10
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/5c28543c08b83417f1bd8dfbdd00eeffbff241a8/yesterday.md)
