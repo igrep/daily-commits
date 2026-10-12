@@ -45,7 +45,7 @@ return `${"# "}${formatDate(today)}${" - "}${formatDate(nextSunday)}`;
 ;
 const checkedItemRegExp=new RegExp("^ {4,}- \\[x\\] ");
 ;
-const datedItemRegExp=new RegExp("^ {8,}- \\d{4}/\\d\\d/\\d\\d: ?");
+const datedItemRegExp=new RegExp("^ {8,}- \\d{4}/\\d\\d/\\d\\d\\b");
 ;
 const otherItemRegExp=new RegExp("^ {12,}- ");
 ;

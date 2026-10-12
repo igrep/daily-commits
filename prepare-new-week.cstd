@@ -50,7 +50,7 @@
      "TODO: more structured parsing of the body"
      (
        (const checkedItemRegExp (createRegExp "^ {4,}- \\[x\\] "))
-       (const datedItemRegExp (createRegExp   "^ {8,}- \\d{4}/\\d\\d/\\d\\d: ?"))
+       (const datedItemRegExp (createRegExp   "^ {8,}- \\d{4}/\\d\\d/\\d\\d\\b"))
        (const otherItemRegExp (createRegExp   "^ {12,}- "))
 
        (export
