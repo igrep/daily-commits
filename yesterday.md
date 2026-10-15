@@ -10,8 +10,9 @@
         - 2026/10/14:
             - 昨日判明した問題のデバッグ
             - テストの間違いを修正。`assert`の書き忘れをやらかしてしまった
+        - 2026/10/15: 引き続きデバッグ。`listDatedCashbookLines`を修正できたっぽい？
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/10/14
+        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/10/15
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/1ea99f6edab29df65aa7fb1465385687d1a13759/yesterday.md)
