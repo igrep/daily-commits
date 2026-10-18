@@ -13,8 +13,9 @@
         - 2026/10/15: 引き続きデバッグ。`listDatedCashbookLines`を修正できたっぽい？
         - 2026/10/16: 明細のパース処理の時点で「投資家入金」を弾く処理を入れることにした。汎用性は下がるが、まあこのアプリではこれで十分
         - 2026/10/17: 昨日パース処理の変更に合わせてテストなどを修正。後はマージ結果をシリアライズすれば完成のはず
+        - 2026/10/18: シリアライズが実装できたかと思いきや、AIが生成したコードで`%`を使ってたせいでtranspileできず。お陰でまだ`%`相当を処理系側で実装できていなかったことに気付けた
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/10/17
+        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/10/18
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/1ea99f6edab29df65aa7fb1465385687d1a13759/yesterday.md)
