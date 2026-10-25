@@ -9,8 +9,9 @@
         - 2026/10/22: sort時の問題を修正。残りはコメントと既存の行が消えてしまう問題か
         - 2026/10/23: デバッグコードを入れただけ
         - 2026/10/24: 残りの問題は、コメント行が消えてしまうのとテストコードのミス（？）か
+        - 2026/10/25: コメント行の問題を一部解決。もう少しでできそう
 - 読書など:
     - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/10/24
+        - 2026/02/01 - 2026/05/21, 2026/05/24 - 2026/10/25
 
 [先週の記録はこちら](https://github.com/igrep/daily-commits/blob/0f7e3ffe763a5af26ef0c8c677f96449ab42818b/yesterday.md)
